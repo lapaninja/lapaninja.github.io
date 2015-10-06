@@ -2,24 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>http://new.lapa.ninja/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2015 16:22:46 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2015 22:28:13 +0700</lastBuildDate>
+    <atom:link href="http://new.lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>second post</title>
+      <link>http://new.lapa.ninja/post/second-post/</link>
+      <pubDate>Tue, 06 Oct 2015 22:28:13 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/second-post/</guid>
+      <description>
+
+&lt;h1 id=&#34;second-post:e6529a5c976205dd0722ca9e46f2cd79&#34;&gt;Second Post&lt;/h1&gt;
+
+&lt;p&gt;Content here&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>first post</title>
-      <link>http://localhost:1313/first-post/</link>
+      <link>http://new.lapa.ninja/first-post/</link>
       <pubDate>Tue, 06 Oct 2015 16:22:46 +0700</pubDate>
       
-      <guid>http://localhost:1313/first-post/</guid>
+      <guid>http://new.lapa.ninja/first-post/</guid>
       <description>
 
 &lt;h1 id=&#34;hello-hugo-from-lapa:f3b70d76da56e15d82042b9ef176d71f&#34;&gt;Hello Hugo from LAPA&lt;/h1&gt;
 
-&lt;p&gt;Hello Hugo&lt;/p&gt;
+&lt;p&gt;Hello Hugo. I&amp;rsquo;m learning!&lt;/p&gt;
+
+&lt;h2 id=&#34;second-content:f3b70d76da56e15d82042b9ef176d71f&#34;&gt;Second Content&lt;/h2&gt;
+
+&lt;p&gt;2&lt;/p&gt;
+
+&lt;h2 id=&#34;third-content:f3b70d76da56e15d82042b9ef176d71f&#34;&gt;Third Content&lt;/h2&gt;
+
+&lt;p&gt;34&lt;/p&gt;
 </description>
     </item>
     
