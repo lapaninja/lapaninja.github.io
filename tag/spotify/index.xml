@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spotify on LAPA - Inspiration Landing Pages Gallery</title>
+    <link>http://new.lapa.ninja/tag/spotify/</link>
+    <description>Recent content in Spotify on LAPA - Inspiration Landing Pages Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Oct 2015 17:24:07 +0700</lastBuildDate>
+    <atom:link href="http://new.lapa.ninja/tag/spotify/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spotify | Lapa.Ninja</title>
+      <link>http://new.lapa.ninja/post/spotify/</link>
+      <pubDate>Tue, 13 Oct 2015 17:24:07 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/spotify/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34; title=&#34;Google&#39;s Homepage&#34;&gt;I&amp;rsquo;m an inline-style link with title&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&#34; alt=&#34;hello Me Alt Text&#34; title=&#34;Logo Title Text 1&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

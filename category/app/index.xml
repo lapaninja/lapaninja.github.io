@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App on LAPA - Inspiration Landing Pages Gallery</title>
+    <link>http://new.lapa.ninja/category/app/</link>
+    <description>Recent content in App on LAPA - Inspiration Landing Pages Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Oct 2015 15:57:14 +0700</lastBuildDate>
+    <atom:link href="http://new.lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kredo</title>
+      <link>http://new.lapa.ninja/post/kredo/</link>
+      <pubDate>Wed, 14 Oct 2015 15:57:14 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/kredo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fantastical 2 for Apple Watch</title>
+      <link>http://new.lapa.ninja/post/fantastical-watch/</link>
+      <pubDate>Wed, 14 Oct 2015 15:17:45 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/fantastical-watch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

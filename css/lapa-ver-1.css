@@ -1,0 +1,325 @@
+/*! LAPA Version 1.0 */
+/*
+/*
+ * Go Big or Go Home
+ */
+/* ==========================================================================
+   Susy & Compass
+   ========================================================================== */
+/* ==========================================================================
+   Susy Setting
+   ========================================================================== */
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, ul, ol, dd, p, address, pre, blockquote, table {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+/* ==========================================================================
+   Grid with Susy
+   ========================================================================== */
+/**
+ * Example
+ */
+/* ==========================================================================
+   Header
+   ========================================================================== */
+body {
+  background: #f5f5f5;
+  font-family: 'Open Sans', Helvetica Neue, Helvetica, Arial, sans-serif;
+  color: #444;
+}
+
+/* ==========================================================================
+   Header
+   ========================================================================== */
+#lapa-header {
+  background: #fff;
+  box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.07), 0 1px 0 0 rgba(0, 0, 0, 0.03);
+}
+
+.lapa-container {
+  max-width: 1240px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.lapa-container:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+.lapa-header__content {
+  height: 78px;
+}
+
+.lapa-logo {
+  width: 13.88889%;
+  float: left;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+  height: 78px;
+}
+.lapa-logo img {
+  width: 130px;
+}
+
+.lapa-logo__link {
+  text-decoration: none;
+  display: block;
+  width: 130px;
+  height: 46px;
+  margin-top: 10px;
+}
+
+.lapa-search {
+  width: 22.22222%;
+  float: right;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+}
+@media (max-width: 480px) {
+  .lapa-search {
+    display: none;
+  }
+}
+.lapa-search input {
+  height: 36px;
+  border-radius: 4px;
+  border: 1px solid #f0efef;
+  color: #999;
+  padding: 0 12px;
+  width: 100%;
+  margin-top: 22px;
+  font-size: 14px;
+}
+
+.lapa-nav {
+  width: 55.55556%;
+  float: left;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+  margin-left: -20px;
+  margin-top: 30px;
+}
+@media (max-width: 480px) {
+  .lapa-nav {
+    display: none;
+  }
+}
+.lapa-nav a {
+  padding: 5px 20px;
+  color: #a8a8a8;
+  text-decoration: none;
+}
+
+.lapa-nav__item {
+  list-style: none;
+  display: inline-block;
+  float: left;
+}
+
+/* ==========================================================================
+   Main Content
+   ========================================================================== */
+#lapa-content {
+  max-width: 1240px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#lapa-content:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* ==========================================================================
+   Categories
+   ========================================================================== */
+.lapa-sidebar {
+  width: 13.88889%;
+  float: left;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+}
+
+.lapa-sidebar__list li {
+  line-height: 1.7;
+  padding-bottom: 10px;
+}
+.lapa-sidebar__list a {
+  font-size: 14px;
+  text-decoration: none;
+  color: #666;
+}
+.lapa-sidebar__list a:active {
+  color: #555;
+}
+
+/* ==========================================================================
+   Lapa Post
+   ========================================================================== */
+.lapa-post {
+  max-width: 1240px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.lapa-post:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+.lapa-post__home {
+  overflow: hidden;
+  *zoom: 1;
+  padding-top: 2.77778%;
+}
+.lapa-post__home li {
+  width: 97.22222%;
+  float: left;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+  margin-bottom: 2.77778%;
+}
+@media (min-width: 768px) {
+  .lapa-post__home li {
+    width: 47.22222%;
+    float: left;
+    margin-left: 1.38889%;
+    margin-right: 1.38889%;
+  }
+}
+@media (min-width: 1024px) {
+  .lapa-post__home li {
+    width: 30.55556%;
+    float: left;
+    margin-left: 1.38889%;
+    margin-right: 1.38889%;
+  }
+}
+.lapa-post__home li .lapa-post__item {
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  border-radius: 2px;
+}
+.lapa-post__home li .lapa-post__item:hover {
+  webkit-transform: translateY(-4px);
+  -ms-transform: translateY(-4px);
+  transform: translateY(-4px);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+}
+.lapa-post__home li .lapa-post__link {
+  display: block;
+  height: 500px;
+  background-image: url(http://40.media.tumblr.com/46bdf9632c33ebd8460b4a446f541412/tumblr_nvxz3aCMn51uxxieio1_1280.jpg);
+  background-size: cover;
+  overflow: hidden;
+  text-indent: -99999px;
+  border-radius: 2px 2px 0 0;
+}
+.lapa-post__home .lapa-post__info {
+  background: #fff;
+  padding: 7px 15px 10px 15px;
+  border-radius: 0 0 2px 2px;
+  position: relative;
+  max-height: 65px;
+}
+.lapa-post__home .lapa-post__name {
+  font-size: 1.1em;
+  font-weight: 600;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  max-width: 290px;
+}
+.lapa-post__home .lapa-post__name-link {
+  color: #444;
+  text-decoration: none;
+}
+.lapa-post__home .lapa-post__name-link:hover {
+  color: #666;
+}
+.lapa-post__home .lapa-post__des {
+  font-size: 0.9em;
+  color: #666;
+  font-weight: 300;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  max-width: 290px;
+}
+.lapa-post__home .lapa-post__visit {
+  display: block;
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  right: 0px;
+  top: 0px;
+  border-radius: 0 0 2px 0;
+  overflow: hidden;
+  text-indent: -9999px;
+  background: #fff;
+  border-left: 1px solid #f1f1f1;
+}
+.lapa-post__home .lapa-post__visit:hover {
+  background: #f4f4f4;
+}
+.lapa-post__home .lapa-post__visit:before {
+  display: block;
+  width: 16px;
+  height: 16px;
+  background: url(/img/link.svg) no-repeat;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -8px;
+  margin-left: -8px;
+  content: "";
+}
+
+#lapa-footer {
+  padding: 30px 0;
+  font-size: 0.8em;
+}
+
+.lapa-footer__content {
+  width: 97.22222%;
+  float: left;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+  border-top: 1px solid #ddd;
+  padding-top: 20px;
+}
+
+.lapa-footer__info {
+  width: 47.22222%;
+  float: left;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+  margin-left: 0;
+}
+
+.lapa-footer__other {
+  width: 47.22222%;
+  float: right;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+  margin-right: 0;
+  text-align: right;
+}
