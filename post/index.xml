@@ -6,91 +6,142 @@
     <description>Recent content in Posts on LAPA - Inspiration Landing Pages Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2015 16:58:56 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2015 23:42:34 +0700</lastBuildDate>
     <atom:link href="http://new.lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Sush.io</title>
-      <link>http://new.lapa.ninja/post/sushio/</link>
-      <pubDate>Wed, 14 Oct 2015 16:58:56 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/sushio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perspective Mockups</title>
-      <link>http://new.lapa.ninja/post/perspectivemockups/</link>
-      <pubDate>Wed, 14 Oct 2015 16:53:40 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/perspectivemockups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixpanel</title>
-      <link>http://new.lapa.ninja/post/mixpanel/</link>
-      <pubDate>Wed, 14 Oct 2015 16:47:38 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/mixpanel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Intercom</title>
-      <link>http://new.lapa.ninja/post/intercom/</link>
-      <pubDate>Wed, 14 Oct 2015 16:09:30 +0700</pubDate>
+      <link>http://new.lapa.ninja/post/say-no/</link>
+      <pubDate>Fri, 16 Oct 2015 23:42:34 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/intercom/</guid>
+      <guid>http://new.lapa.ninja/post/say-no/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Karma</title>
-      <link>http://new.lapa.ninja/post/your-karma/</link>
-      <pubDate>Wed, 14 Oct 2015 16:04:39 +0700</pubDate>
+      <title>Semplice</title>
+      <link>http://new.lapa.ninja/post/semplice/</link>
+      <pubDate>Fri, 16 Oct 2015 23:39:18 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/your-karma/</guid>
+      <guid>http://new.lapa.ninja/post/semplice/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kredo</title>
-      <link>http://new.lapa.ninja/post/kredo/</link>
-      <pubDate>Wed, 14 Oct 2015 15:57:14 +0700</pubDate>
+      <title>Skurt</title>
+      <link>http://new.lapa.ninja/post/skurtapp/</link>
+      <pubDate>Fri, 16 Oct 2015 23:36:35 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/kredo/</guid>
+      <guid>http://new.lapa.ninja/post/skurtapp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Creative Tim</title>
-      <link>http://new.lapa.ninja/post/creative-tim/</link>
-      <pubDate>Wed, 14 Oct 2015 15:49:56 +0700</pubDate>
+      <title>Adobe Portfolio</title>
+      <link>http://new.lapa.ninja/post/myportfolio/</link>
+      <pubDate>Fri, 16 Oct 2015 23:34:24 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/creative-tim/</guid>
+      <guid>http://new.lapa.ninja/post/myportfolio/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fantastical 2 for Apple Watch</title>
-      <link>http://new.lapa.ninja/post/fantastical-watch/</link>
-      <pubDate>Wed, 14 Oct 2015 15:17:45 +0700</pubDate>
+      <title>Tapcore</title>
+      <link>http://new.lapa.ninja/post/tapcore/</link>
+      <pubDate>Fri, 16 Oct 2015 23:32:17 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/fantastical-watch/</guid>
+      <guid>http://new.lapa.ninja/post/tapcore/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spotify | Lapa.Ninja</title>
-      <link>http://new.lapa.ninja/post/spotify/</link>
-      <pubDate>Tue, 13 Oct 2015 17:24:07 +0700</pubDate>
+      <title>WonderBox</title>
+      <link>http://new.lapa.ninja/post/wonderbox/</link>
+      <pubDate>Fri, 16 Oct 2015 23:29:49 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/spotify/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34; title=&#34;Google&#39;s Homepage&#34;&gt;I&amp;rsquo;m an inline-style link with title&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&#34; alt=&#34;hello Me Alt Text&#34; title=&#34;Logo Title Text 1&#34; /&gt;&lt;/p&gt;
-</description>
+      <guid>http://new.lapa.ninja/post/wonderbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asana</title>
+      <link>http://new.lapa.ninja/post/asana/</link>
+      <pubDate>Fri, 16 Oct 2015 23:27:47 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/asana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VWO</title>
+      <link>http://new.lapa.ninja/post/vwo/</link>
+      <pubDate>Fri, 16 Oct 2015 23:25:31 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/vwo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gusto</title>
+      <link>http://new.lapa.ninja/post/gusto/</link>
+      <pubDate>Fri, 16 Oct 2015 23:23:16 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/gusto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rizon</title>
+      <link>http://new.lapa.ninja/post/rizonapp/</link>
+      <pubDate>Fri, 16 Oct 2015 23:19:49 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/rizonapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>http://new.lapa.ninja/post/labphoenix/</link>
+      <pubDate>Fri, 16 Oct 2015 23:16:36 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/labphoenix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dropmark</title>
+      <link>http://new.lapa.ninja/post/dropmark/</link>
+      <pubDate>Fri, 16 Oct 2015 23:14:14 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/dropmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desk</title>
+      <link>http://new.lapa.ninja/post/desk-com/</link>
+      <pubDate>Fri, 16 Oct 2015 23:11:55 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/desk-com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Montage</title>
+      <link>http://new.lapa.ninja/post/montagebook/</link>
+      <pubDate>Fri, 16 Oct 2015 23:09:34 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/montagebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charlie App</title>
+      <link>http://new.lapa.ninja/post/charlieapp/</link>
+      <pubDate>Fri, 16 Oct 2015 23:03:22 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/charlieapp/</guid>
+      <description></description>
     </item>
     
   </channel>

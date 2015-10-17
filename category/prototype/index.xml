@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prototype on LAPA - Inspiration Landing Pages Gallery</title>
+    <link>http://new.lapa.ninja/category/prototype/</link>
+    <description>Recent content in Prototype on LAPA - Inspiration Landing Pages Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Oct 2015 21:34:08 +0700</lastBuildDate>
+    <atom:link href="http://new.lapa.ninja/category/prototype/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>prottapp</title>
+      <link>http://new.lapa.ninja/post/prottapp/</link>
+      <pubDate>Thu, 15 Oct 2015 21:34:08 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/prottapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InVision</title>
+      <link>http://new.lapa.ninja/post/invision-app/</link>
+      <pubDate>Thu, 15 Oct 2015 20:42:21 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/invision-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origami</title>
+      <link>http://new.lapa.ninja/post/origami/</link>
+      <pubDate>Thu, 15 Oct 2015 17:19:35 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/origami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixate</title>
+      <link>http://new.lapa.ninja/post/pixate/</link>
+      <pubDate>Thu, 15 Oct 2015 17:10:47 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/pixate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marvel Prototyping</title>
+      <link>http://new.lapa.ninja/post/marvelapp/</link>
+      <pubDate>Thu, 15 Oct 2015 17:06:13 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/marvelapp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

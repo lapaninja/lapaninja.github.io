@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smarticons on LAPA - Inspiration Landing Pages Gallery</title>
+    <link>http://new.lapa.ninja/tag/smarticons/</link>
+    <description>Recent content in Smarticons on LAPA - Inspiration Landing Pages Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Oct 2015 16:22:45 +0700</lastBuildDate>
+    <atom:link href="http://new.lapa.ninja/tag/smarticons/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Smart Icons</title>
+      <link>http://new.lapa.ninja/post/smarticons/</link>
+      <pubDate>Thu, 15 Oct 2015 16:22:45 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/smarticons/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

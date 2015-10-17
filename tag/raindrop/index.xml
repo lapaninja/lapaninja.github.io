@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raindrop on LAPA - Inspiration Landing Pages Gallery</title>
+    <link>http://new.lapa.ninja/tag/raindrop/</link>
+    <description>Recent content in Raindrop on LAPA - Inspiration Landing Pages Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Oct 2015 21:08:40 +0700</lastBuildDate>
+    <atom:link href="http://new.lapa.ninja/tag/raindrop/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raindrop.io</title>
+      <link>http://new.lapa.ninja/post/raindrop/</link>
+      <pubDate>Thu, 15 Oct 2015 21:08:40 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/raindrop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
