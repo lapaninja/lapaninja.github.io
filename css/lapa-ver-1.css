@@ -412,6 +412,7 @@ body {
   margin-left: 1.38889%;
   margin-right: 1.38889%;
   margin-top: 20px;
+  float: none;
 }
 .detail-post .lapa__latest {
   margin-top: 25px;
@@ -424,5 +425,5 @@ body {
   float: none;
 }
 .detail-post .lapa__latest .lapa-post--latest {
-  padding-top: 0.69444%;
+  padding-top: 2.77778%;
 }
