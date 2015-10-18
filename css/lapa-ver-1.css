@@ -293,6 +293,36 @@ body {
   content: "";
 }
 
+/* ==========================================================================
+   Lapa Pagination
+   ========================================================================== */
+.lapa-pagination .lapa-pagination__content {
+  width: 97.22222%;
+  float: left;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+  text-align: center;
+}
+.lapa-pagination li {
+  display: inline;
+}
+.lapa-pagination a {
+  color: #999;
+  text-decoration: none;
+  display: inline-block;
+  padding: 7px 15px;
+  border-radius: 20px;
+  border: 1px solid #ddd;
+  margin: 0 15px;
+}
+.lapa-pagination a:hover {
+  color: #6869D1;
+  border-color: #6869D1;
+}
+
+/* ==========================================================================
+   Lapa Footer
+   ========================================================================== */
 #lapa-footer {
   padding: 30px 0;
   font-size: 0.8em;
@@ -322,4 +352,77 @@ body {
   margin-right: 1.38889%;
   margin-right: 0;
   text-align: right;
+}
+
+/* ==========================================================================
+   Lapa Detail Page
+   ========================================================================== */
+.detail-post .detail-post__content {
+  overflow: hidden;
+  *zoom: 1;
+}
+.detail-post .detail-post__header {
+  padding: 20px 0 25px 0;
+  overflow: hidden;
+  *zoom: 1;
+}
+.detail-post .detail-post__info {
+  width: 72.22222%;
+  float: left;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+}
+.detail-post .detail-post__info h1 {
+  font-size: 1.3em;
+}
+.detail-post .detail-post__info p {
+  color: #666;
+  font-size: 0.9em;
+}
+.detail-post .detail-post__link {
+  width: 13.88889%;
+  float: right;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+}
+.detail-post .detail-post__site {
+  display: inline-block;
+  float: right;
+  padding: 8px 15px;
+  min-width: 200px;
+  text-align: center;
+  border-radius: 4px;
+  background: #6869D1;
+  text-decoration: none;
+  color: #fff;
+  margin-top: 15px;
+}
+.detail-post .detai-post__img {
+  width: 97.22222%;
+  float: right;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+}
+.detail-post .detai-post__img img {
+  max-width: 100%;
+}
+.detail-post .lapa-disqus {
+  width: 97.22222%;
+  float: left;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+  margin-top: 20px;
+}
+.detail-post .lapa__latest {
+  margin-top: 25px;
+}
+.detail-post .lapa__latest .detail-post__latest {
+  width: 97.22222%;
+  float: left;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+  float: none;
+}
+.detail-post .lapa__latest .lapa-post--latest {
+  padding-top: 0.69444%;
 }
