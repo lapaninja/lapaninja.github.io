@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inspiration Landing Pages Gallery | LAPA.Ninja</title>
+    <title>Landing Pages Collection</title>
     <link>http://new.lapa.ninja/category/</link>
-    <description>Recent content on Inspiration Landing Pages Gallery | LAPA.Ninja</description>
+    <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2015 23:42:34 +0700</lastBuildDate>
@@ -82,15 +82,6 @@
     </item>
     
     <item>
-      <title>Montage</title>
-      <link>http://new.lapa.ninja/post/montagebook/</link>
-      <pubDate>Fri, 16 Oct 2015 23:09:34 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/montagebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Flow</title>
       <link>http://new.lapa.ninja/post/getflow/</link>
       <pubDate>Fri, 16 Oct 2015 22:51:07 +0700</pubDate>
@@ -136,11 +127,20 @@
     </item>
     
     <item>
-      <title>PayPal.Me</title>
-      <link>http://new.lapa.ninja/post/paypal-me/</link>
-      <pubDate>Fri, 16 Oct 2015 22:35:40 +0700</pubDate>
+      <title>Apple Pencil</title>
+      <link>http://new.lapa.ninja/post/apple-pencil/</link>
+      <pubDate>Fri, 16 Oct 2015 22:29:52 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/paypal-me/</guid>
+      <guid>http://new.lapa.ninja/post/apple-pencil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pocket</title>
+      <link>http://new.lapa.ninja/post/getpocket/</link>
+      <pubDate>Fri, 16 Oct 2015 22:27:05 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/getpocket/</guid>
       <description></description>
     </item>
     

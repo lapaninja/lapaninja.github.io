@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Landing Pages Collection</title>
+    <link>http://new.lapa.ninja/category/blog/</link>
+    <description>Recent content in Blog on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Oct 2015 21:23:35 +0700</lastBuildDate>
+    <atom:link href="http://new.lapa.ninja/category/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Jackie Tran Anh</title>
+      <link>http://new.lapa.ninja/post/jackie-tran-anh/</link>
+      <pubDate>Thu, 15 Oct 2015 21:23:35 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/jackie-tran-anh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corporate on Landing Pages Collection</title>
+    <link>http://new.lapa.ninja/category/corporate/</link>
+    <description>Recent content in Corporate on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Oct 2015 21:48:31 +0700</lastBuildDate>
+    <atom:link href="http://new.lapa.ninja/category/corporate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Omni Group</title>
+      <link>http://new.lapa.ninja/post/omnigroup/</link>
+      <pubDate>Fri, 16 Oct 2015 21:48:31 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/omnigroup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origami</title>
+      <link>http://new.lapa.ninja/post/origami/</link>
+      <pubDate>Thu, 15 Oct 2015 17:19:35 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/origami/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

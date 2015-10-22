@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecommerce on Landing Pages Collection</title>
+    <link>http://new.lapa.ninja/category/ecommerce/</link>
+    <description>Recent content in Ecommerce on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Oct 2015 23:09:34 +0700</lastBuildDate>
+    <atom:link href="http://new.lapa.ninja/category/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Montage</title>
+      <link>http://new.lapa.ninja/post/montagebook/</link>
+      <pubDate>Fri, 16 Oct 2015 23:09:34 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/montagebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PayPal.Me</title>
+      <link>http://new.lapa.ninja/post/paypal-me/</link>
+      <pubDate>Fri, 16 Oct 2015 22:35:40 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/paypal-me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misfit App</title>
+      <link>http://new.lapa.ninja/post/misfit/</link>
+      <pubDate>Fri, 16 Oct 2015 22:10:02 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/misfit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apple</title>
+      <link>http://new.lapa.ninja/post/apple-store/</link>
+      <pubDate>Thu, 15 Oct 2015 22:06:11 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/apple-store/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

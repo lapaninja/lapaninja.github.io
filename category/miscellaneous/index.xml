@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellaneous on Landing Pages Collection</title>
+    <link>http://new.lapa.ninja/category/miscellaneous/</link>
+    <description>Recent content in Miscellaneous on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Oct 2015 22:03:20 +0700</lastBuildDate>
+    <atom:link href="http://new.lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pistats</title>
+      <link>http://new.lapa.ninja/post/pistats-io/</link>
+      <pubDate>Thu, 15 Oct 2015 22:03:20 +0700</pubDate>
+      
+      <guid>http://new.lapa.ninja/post/pistats-io/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
