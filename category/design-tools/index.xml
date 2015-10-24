@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Design Tools on Landing Pages Collection</title>
+    <title>Design Tools on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/category/design-tools/</link>
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 22:32:30 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/fiftythree-pencil/</guid>
-      <description></description>
+      <description>
+        
+        <p>Pencil by FiftyThree is a revolutionary stylus for touch-screen devices. Use Pencil with Paper to express your ideas beautifully and easily.</p>
+        <img src="http://new.lapa.ninja/assets/images/53-pencil.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -24,7 +30,13 @@
       <pubDate>Fri, 16 Oct 2015 20:30:34 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/avocode/</guid>
-      <description></description>
+      <description>
+        
+        <p>The smartest way to share designs, export assets and collaborate with your team.</p>
+        <img src="http://new.lapa.ninja/assets/images/avocode.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -33,7 +45,13 @@
       <pubDate>Fri, 16 Oct 2015 19:34:58 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/affinity-photo/</guid>
-      <description></description>
+      <description>
+        
+        <p>Affinity Photo - the fastest, smoothest, most precise professional image editing software, exclusively for Mac.</p>
+        <img src="http://new.lapa.ninja/assets/images/affinity-photo.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -42,7 +60,13 @@
       <pubDate>Thu, 15 Oct 2015 21:49:14 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/davinci-apps/</guid>
-      <description></description>
+      <description>
+        
+        <p>Pick one of predesigned screenshot templates, add your message, tweak the colors and get app screenshots of ALL required App Store sizes with a click</p>
+        <img src="http://new.lapa.ninja/assets/images/davinci.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -51,7 +75,13 @@
       <pubDate>Thu, 15 Oct 2015 21:28:59 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/blocsapp/</guid>
-      <description></description>
+      <description>
+        
+        <p>Blocs is a Mac app that lets you build beautiful websites without touching a line of code.</p>
+        <img src="http://new.lapa.ninja/assets/images/blocs.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -60,7 +90,13 @@
       <pubDate>Thu, 15 Oct 2015 17:14:31 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/atomic/</guid>
-      <description></description>
+      <description>
+        
+        <p>Atomic is professional software for digital designers, featuring tools for interface design, prototyping, version control and collaboration.</p>
+        <img src="http://new.lapa.ninja/assets/images/atomic.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

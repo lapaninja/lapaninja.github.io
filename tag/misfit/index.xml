@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Misfit on Landing Pages Collection</title>
+    <title>Misfit on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/misfit/</link>
     <description>Recent content in Misfit on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 22:10:02 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/misfit/</guid>
-      <description></description>
+      <description>
+        
+        <p>Misfit invents and manufactures premium wearable computing products, such as the Shine and Flash.</p>
+        <img src="http://new.lapa.ninja/assets/images/misfit.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

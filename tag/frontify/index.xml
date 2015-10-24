@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Frontify on Landing Pages Collection</title>
+    <title>Frontify on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/frontify/</link>
     <description>Recent content in Frontify on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 22:38:16 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/frontify/</guid>
-      <description></description>
+      <description>
+        
+        <p>Frontify is a software company based somewhere between Switzerlands deepest blue lakes and highest snowy mountains. Their chocolate fueled craftsmen develop web based apps that help you master the entire web design-to-development workflow (Frontify Workspace), collaborate joyfully and create professional brand &amp; design style guides (Frontify Style Guide).</p>
+        <img src="http://new.lapa.ninja/assets/images/frontify.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

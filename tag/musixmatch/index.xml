@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Musixmatch on Landing Pages Collection</title>
+    <title>Musixmatch on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/musixmatch/</link>
     <description>Recent content in Musixmatch on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 21:54:20 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/musixmatch-apps/</guid>
-      <description></description>
+      <description>
+        
+        <p>Musixmatch is the World&#39;s Largest Lyrics Catalog available on mobile and desktop</p>
+        <img src="http://new.lapa.ninja/assets/images/Musixmatch.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blocs on Landing Pages Collection</title>
+    <title>Blocs on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/blocs/</link>
     <description>Recent content in Blocs on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 21:28:59 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/blocsapp/</guid>
-      <description></description>
+      <description>
+        
+        <p>Blocs is a Mac app that lets you build beautiful websites without touching a line of code.</p>
+        <img src="http://new.lapa.ninja/assets/images/blocs.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

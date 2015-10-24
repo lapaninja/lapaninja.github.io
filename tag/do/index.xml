@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Do on Landing Pages Collection</title>
+    <title>Do on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/do/</link>
     <description>Recent content in Do on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 22:48:56 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/do-com/</guid>
-      <description></description>
+      <description>
+        
+        <p>Do helps you run productive meetings. Do work you love.</p>
+        <img src="http://new.lapa.ninja/assets/images/do-com.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

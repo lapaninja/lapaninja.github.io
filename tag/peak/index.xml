@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peak on Landing Pages Collection</title>
+    <title>Peak on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/peak/</link>
     <description>Recent content in Peak on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 20:32:54 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/peak/</guid>
-      <description></description>
+      <description>
+        
+        <p>Use Peak to be the helpful, supportive manager your busy team needs. The rich data you&#39;ll find in Peak can help you improve your team&#39;s productivity - with fewer shoulder taps, quicker standups, and an almost super-human ability to anticipate their needs.</p>
+        <img src="http://new.lapa.ninja/assets/images/peak.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

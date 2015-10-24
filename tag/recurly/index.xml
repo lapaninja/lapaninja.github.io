@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recurly on Landing Pages Collection</title>
+    <title>Recurly on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/recurly/</link>
     <description>Recent content in Recurly on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 21:09:46 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/recurly/</guid>
-      <description></description>
+      <description>
+        
+        <p>Subscription billing and recurring billing management.  Recurly offers enterprise-class subscription billing for thousands of companies worldwide.</p>
+        <img src="http://new.lapa.ninja/assets/images/recurly.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

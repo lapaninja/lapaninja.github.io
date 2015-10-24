@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vox on Landing Pages Collection</title>
+    <title>Vox on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/vox/</link>
     <description>Recent content in Vox on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 20:37:42 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/vox-for-iphone/</guid>
-      <description></description>
+      <description>
+        
+        <p>VOX – Music player for Mac OS with a minimalistic UI reflecting the future. Supports all popular audio formats like MP3, FLAC, AAC, WAV &amp; more!</p>
+        <img src="http://new.lapa.ninja/assets/images/Vox.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

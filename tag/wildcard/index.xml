@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wildcard on Landing Pages Collection</title>
+    <title>Wildcard on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/wildcard/</link>
     <description>Recent content in Wildcard on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 19:32:26 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/wildcard/</guid>
-      <description></description>
+      <description>
+        
+        <p>Wildcard is a new way to meet people that matter at events, meetups, conferences and basically any place. Wildcard gives you an icebreaker, a conversation starter to connect with professionals around you.</p>
+        <img src="http://new.lapa.ninja/assets/images/wilcard.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

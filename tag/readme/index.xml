@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Readme on Landing Pages Collection</title>
+    <title>Readme on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/readme/</link>
     <description>Recent content in Readme on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 22:43:08 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/readme-io/</guid>
-      <description></description>
+      <description>
+        
+        <p>A collaborative developer hub for your API or code.</p>
+        <img src="http://new.lapa.ninja/assets/images/readme.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

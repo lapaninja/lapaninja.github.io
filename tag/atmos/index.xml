@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Atmos on Landing Pages Collection</title>
+    <title>Atmos on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/atmos/</link>
     <description>Recent content in Atmos on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 17:37:28 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/atmosapp/</guid>
-      <description></description>
+      <description>
+        
+        <p>Atmos is an easy to use and stunningly beautiful weather app for your iPhone and Apple Watch. Atmos has been carefully crafted to bring the most vital weather data to you in the most user friendly way possible so you can get what you need and get on with your day. </p>
+        <img src="http://new.lapa.ninja/assets/images/Atmos.png" />
+
+
+      </description>
     </item>
     
   </channel>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Charlie on Landing Pages Collection</title>
+    <title>Charlie on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/charlie/</link>
     <description>Recent content in Charlie on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 23:03:22 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/charlieapp/</guid>
-      <description></description>
+      <description>
+        
+        <p>Charlie combs through 100s of sources and automatically sends you a one-pager on everyone you&#39;re going to meet with, before you see them</p>
+        <img src="http://new.lapa.ninja/assets/images/charlie.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

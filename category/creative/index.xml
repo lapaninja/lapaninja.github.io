@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creative on Landing Pages Collection</title>
+    <title>Creative on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/category/creative/</link>
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 21:23:35 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/jackie-tran-anh/</guid>
-      <description></description>
+      <description>
+        
+        <p>Jackie Tran is a Czech - Viet Visual Designer &amp; Photographer based in Prague.</p>
+        <img src="http://new.lapa.ninja/assets/images/jackie.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -24,7 +30,13 @@
       <pubDate>Thu, 15 Oct 2015 20:54:48 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/oculus-rift/</guid>
-      <description></description>
+      <description>
+        
+        <p>The Oculus Rift is a virtual reality system that completely immerses you inside virtual worlds.</p>
+        <img src="http://new.lapa.ninja/assets/images/oculus-rift.png" />
+
+
+      </description>
     </item>
     
   </channel>

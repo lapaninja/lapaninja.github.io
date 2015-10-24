@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Davinci on Landing Pages Collection</title>
+    <title>Davinci on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/davinci/</link>
     <description>Recent content in Davinci on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 21:49:14 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/davinci-apps/</guid>
-      <description></description>
+      <description>
+        
+        <p>Pick one of predesigned screenshot templates, add your message, tweak the colors and get app screenshots of ALL required App Store sizes with a click</p>
+        <img src="http://new.lapa.ninja/assets/images/davinci.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

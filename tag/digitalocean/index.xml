@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Digitalocean on Landing Pages Collection</title>
+    <title>Digitalocean on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/digitalocean/</link>
     <description>Recent content in Digitalocean on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 21:40:00 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/digitalocean/</guid>
-      <description></description>
+      <description>
+        
+        <p>Spin up an SSD cloud server, with full root access, in under a minute. Pricing starts at $5/mo for 512MB RAM, 20GB SSD, 1CPU and 1TB transfer.</p>
+        <img src="http://new.lapa.ninja/assets/images/DigitalOcean.png" />
+
+
+      </description>
     </item>
     
   </channel>

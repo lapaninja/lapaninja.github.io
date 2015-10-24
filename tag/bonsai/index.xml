@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bonsai on Landing Pages Collection</title>
+    <title>Bonsai on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/bonsai/</link>
     <description>Recent content in Bonsai on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 21:37:45 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/hellobonsai/</guid>
-      <description></description>
+      <description>
+        
+        <p>Bonsai provides bulletproof freelance work contract templates, simple e-signing, and payment escrow for creative freelancers like designers and developers.</p>
+        <img src="http://new.lapa.ninja/assets/images/bonsai.png" />
+
+
+      </description>
     </item>
     
   </channel>

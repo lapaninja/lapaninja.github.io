@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Infinum on Landing Pages Collection</title>
+    <title>Infinum on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/infinum/</link>
     <description>Recent content in Infinum on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 21:31:04 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/infinum/</guid>
-      <description></description>
+      <description>
+        
+        <p>Want a reliable company to develop your mobile and web projects? You&#39;re in the right place.</p>
+        <img src="http://new.lapa.ninja/assets/images/Infinum.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

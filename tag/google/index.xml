@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Google on Landing Pages Collection</title>
+    <title>Google on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/google/</link>
     <description>Recent content in Google on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 21:55:04 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/google-cardboard/</guid>
-      <description></description>
+      <description>
+        
+        <p>Turn your smartphone into a virtual reality viewer that’s simple, fun, and affordable.</p>
+        <img src="http://new.lapa.ninja/assets/images/google-cardboard.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

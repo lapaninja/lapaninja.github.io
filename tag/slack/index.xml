@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Slack on Landing Pages Collection</title>
+    <title>Slack on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/slack/</link>
     <description>Recent content in Slack on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 21:25:47 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/slack-08-2015/</guid>
-      <description></description>
+      <description>
+        
+        <p>Slack brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.</p>
+        <img src="http://new.lapa.ninja/assets/images/slack-19-08-2015.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -24,7 +30,13 @@
       <pubDate>Thu, 15 Oct 2015 17:47:32 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/slack/</guid>
-      <description></description>
+      <description>
+        
+        <p>Slack brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.</p>
+        <img src="http://new.lapa.ninja/assets/images/slack-19-08-2015.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

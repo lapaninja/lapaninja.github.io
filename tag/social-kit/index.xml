@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Kit on Landing Pages Collection</title>
+    <title>Social Kit on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/social-kit/</link>
     <description>Recent content in Social Kit on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 15:57:57 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/social-kit/</guid>
-      <description></description>
+      <description>
+        
+        <p>Cover images, profile pictures and ad banners in a free Up-to-Date Photoshop plugin. Social Kit is fast, it’s simple and most important – it’s free!</p>
+        <img src="http://new.lapa.ninja/assets/images/social-kit.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

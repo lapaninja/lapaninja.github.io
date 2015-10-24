@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ily on Landing Pages Collection</title>
+    <title>Ily on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/ily/</link>
     <description>Recent content in Ily on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 21:14:39 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/ily/</guid>
-      <description></description>
+      <description>
+        
+        <p>The simplest way to bring everyone in your family together from ages 3 to 93.</p>
+        <img src="http://new.lapa.ninja/assets/images/ily.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

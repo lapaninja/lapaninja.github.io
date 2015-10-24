@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Raindrop on Landing Pages Collection</title>
+    <title>Raindrop on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/raindrop/</link>
     <description>Recent content in Raindrop on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 21:08:40 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/raindrop/</guid>
-      <description></description>
+      <description>
+        
+        <p>Feature-rich, attractive and easy-to-use bookmarking app</p>
+        <img src="http://new.lapa.ninja/assets/images/raindrop.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

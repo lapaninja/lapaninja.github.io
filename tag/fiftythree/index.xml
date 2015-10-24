@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fiftythree on Landing Pages Collection</title>
+    <title>Fiftythree on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/fiftythree/</link>
     <description>Recent content in Fiftythree on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 22:32:30 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/fiftythree-pencil/</guid>
-      <description></description>
+      <description>
+        
+        <p>Pencil by FiftyThree is a revolutionary stylus for touch-screen devices. Use Pencil with Paper to express your ideas beautifully and easily.</p>
+        <img src="http://new.lapa.ninja/assets/images/53-pencil.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -24,7 +30,13 @@
       <pubDate>Thu, 15 Oct 2015 16:40:49 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/fiftythree/</guid>
-      <description></description>
+      <description>
+        
+        <p>FiftyThree builds tools for mobile creation. Our first product, Paper, is the easiest and most beautiful way to create on the iPad and iPhone. FiftyThree is the space to create.</p>
+        <img src="http://new.lapa.ninja/assets/images/FiftyThree.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

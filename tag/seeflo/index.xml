@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Seeflo on Landing Pages Collection</title>
+    <title>Seeflo on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/seeflo/</link>
     <description>Recent content in Seeflo on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 21:37:11 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/seeflo/</guid>
-      <description></description>
+      <description>
+        
+        <p>See how people use your site</p>
+        <img src="http://new.lapa.ninja/assets/images/Seeflo.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

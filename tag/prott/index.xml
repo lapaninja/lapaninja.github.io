@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prott on Landing Pages Collection</title>
+    <title>Prott on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/prott/</link>
     <description>Recent content in Prott on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 21:34:08 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/prottapp/</guid>
-      <description></description>
+      <description>
+        
+        <p>Prott is a free rapid prototyping and radical collaboration tool. Share your ideas and get feedback through easy-to-make interactive prototypes with Prott.</p>
+        <img src="http://new.lapa.ninja/assets/images/prott.png" />
+
+
+      </description>
     </item>
     
   </channel>

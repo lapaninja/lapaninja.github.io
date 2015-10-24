@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lily on Landing Pages Collection</title>
+    <title>Lily on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/lily/</link>
     <description>Recent content in Lily on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 16:18:10 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/lily-camera/</guid>
-      <description></description>
+      <description>
+        
+        <p>The world&#39;s first true flying camera.</p>
+        <img src="http://new.lapa.ninja/assets/images/lily-camera.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technology on Landing Pages Collection</title>
+    <title>Technology on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/category/technology/</link>
     <description>Recent content in Technology on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 22:10:02 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/misfit/</guid>
-      <description></description>
+      <description>
+        
+        <p>Misfit invents and manufactures premium wearable computing products, such as the Shine and Flash.</p>
+        <img src="http://new.lapa.ninja/assets/images/misfit.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -24,7 +30,13 @@
       <pubDate>Fri, 16 Oct 2015 21:40:00 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/digitalocean/</guid>
-      <description></description>
+      <description>
+        
+        <p>Spin up an SSD cloud server, with full root access, in under a minute. Pricing starts at $5/mo for 512MB RAM, 20GB SSD, 1CPU and 1TB transfer.</p>
+        <img src="http://new.lapa.ninja/assets/images/DigitalOcean.png" />
+
+
+      </description>
     </item>
     
     <item>
@@ -33,7 +45,13 @@
       <pubDate>Thu, 15 Oct 2015 16:18:10 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/lily-camera/</guid>
-      <description></description>
+      <description>
+        
+        <p>The world&#39;s first true flying camera.</p>
+        <img src="http://new.lapa.ninja/assets/images/lily-camera.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -42,7 +60,13 @@
       <pubDate>Wed, 14 Oct 2015 16:09:30 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/intercom/</guid>
-      <description></description>
+      <description>
+        
+        <p>Intercom is one place for every team in an internet business to communicate with customers, personally, at scale—on your website, inside web and mobile apps, and by email.</p>
+        <img src="http://new.lapa.ninja/assets/images/intercom-io.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

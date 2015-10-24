@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pixelmator on Landing Pages Collection</title>
+    <title>Pixelmator on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/pixelmator/</link>
     <description>Recent content in Pixelmator on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 19:30:07 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/pixelmator-for-mac/</guid>
-      <description></description>
+      <description>
+        
+        <p>The world’s most innovative, fastest, full-featured, and powerful image editing app for the Mac that has everything you need to create and edit your images.</p>
+        <img src="http://new.lapa.ninja/assets/images/pixelmator.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

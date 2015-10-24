@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Momentum on Landing Pages Collection</title>
+    <title>Momentum on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/momentum/</link>
     <description>Recent content in Momentum on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 17:54:14 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/momentum/</guid>
-      <description></description>
+      <description>
+        
+        <p>Momentum is everything you need to get motivated, stay on track, and accomplish your goals.</p>
+        <img src="http://new.lapa.ninja/assets/images/momentum.png" />
+
+
+      </description>
     </item>
     
   </channel>

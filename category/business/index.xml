@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Business on Landing Pages Collection</title>
+    <title>Business on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/category/business/</link>
     <description>Recent content in Business on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 21:40:00 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/digitalocean/</guid>
-      <description></description>
+      <description>
+        
+        <p>Spin up an SSD cloud server, with full root access, in under a minute. Pricing starts at $5/mo for 512MB RAM, 20GB SSD, 1CPU and 1TB transfer.</p>
+        <img src="http://new.lapa.ninja/assets/images/DigitalOcean.png" />
+
+
+      </description>
     </item>
     
     <item>
@@ -24,7 +30,13 @@
       <pubDate>Fri, 16 Oct 2015 21:09:46 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/recurly/</guid>
-      <description></description>
+      <description>
+        
+        <p>Subscription billing and recurring billing management.  Recurly offers enterprise-class subscription billing for thousands of companies worldwide.</p>
+        <img src="http://new.lapa.ninja/assets/images/recurly.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -33,7 +45,13 @@
       <pubDate>Thu, 15 Oct 2015 20:54:48 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/oculus-rift/</guid>
-      <description></description>
+      <description>
+        
+        <p>The Oculus Rift is a virtual reality system that completely immerses you inside virtual worlds.</p>
+        <img src="http://new.lapa.ninja/assets/images/oculus-rift.png" />
+
+
+      </description>
     </item>
     
     <item>
@@ -42,7 +60,13 @@
       <pubDate>Thu, 15 Oct 2015 20:46:11 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/streamline-icons/</guid>
-      <description></description>
+      <description>
+        
+        <p>4000 Vector Icons for IOS, Android and applications. The world&#39;s largest icon collection.</p>
+        <img src="http://new.lapa.ninja/assets/images/streamline.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -51,7 +75,13 @@
       <pubDate>Thu, 15 Oct 2015 16:18:10 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/lily-camera/</guid>
-      <description></description>
+      <description>
+        
+        <p>The world&#39;s first true flying camera.</p>
+        <img src="http://new.lapa.ninja/assets/images/lily-camera.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -60,7 +90,13 @@
       <pubDate>Wed, 14 Oct 2015 16:09:30 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/intercom/</guid>
-      <description></description>
+      <description>
+        
+        <p>Intercom is one place for every team in an internet business to communicate with customers, personally, at scale—on your website, inside web and mobile apps, and by email.</p>
+        <img src="http://new.lapa.ninja/assets/images/intercom-io.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

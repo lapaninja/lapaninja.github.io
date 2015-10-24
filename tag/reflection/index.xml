@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reflection on Landing Pages Collection</title>
+    <title>Reflection on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/reflection/</link>
     <description>Recent content in Reflection on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 21:59:37 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/reflection-io/</guid>
-      <description></description>
+      <description>
+        
+        <p>Powerful Intelligence for the Global App Industry</p>
+        <img src="http://new.lapa.ninja/assets/images/reflection.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

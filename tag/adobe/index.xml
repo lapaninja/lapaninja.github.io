@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adobe on Landing Pages Collection</title>
+    <title>Adobe on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/adobe/</link>
     <description>Recent content in Adobe on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 23:34:24 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/myportfolio/</guid>
-      <description></description>
+      <description>
+        
+        <p>Quickly and simply build a personalized website to showcase your creative work with Adobe Portfolio. Now included free with any Creative Cloud subscription.</p>
+        <img src="http://new.lapa.ninja/assets/images/myportfolio.png" />
+
+
+      </description>
     </item>
     
   </channel>

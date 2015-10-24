@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Postbox on Landing Pages Collection</title>
+    <title>Postbox on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/postbox/</link>
     <description>Recent content in Postbox on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 21:02:03 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/postbox/</guid>
-      <description></description>
+      <description>
+        
+        <p>Take control of your day with Postbox’s super-customizable interface. Make your email work for you, just the way you need it to.</p>
+        <img src="http://new.lapa.ninja/assets/images/postbox.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

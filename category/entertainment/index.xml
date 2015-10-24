@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Entertainment on Landing Pages Collection</title>
+    <title>Entertainment on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/category/entertainment/</link>
     <description>Recent content in Entertainment on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 19:24:33 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/now-spotify/</guid>
-      <description></description>
+      <description>
+        
+        <p>Catch up with the news, watch a quick video, and get music that matches the beat of your run.</p>
+        <img src="http://new.lapa.ninja/assets/images/now.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -24,7 +30,13 @@
       <pubDate>Thu, 15 Oct 2015 21:54:20 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/musixmatch-apps/</guid>
-      <description></description>
+      <description>
+        
+        <p>Musixmatch is the World&#39;s Largest Lyrics Catalog available on mobile and desktop</p>
+        <img src="http://new.lapa.ninja/assets/images/Musixmatch.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -33,7 +45,13 @@
       <pubDate>Thu, 15 Oct 2015 21:04:52 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/cloud-player/</guid>
-      <description></description>
+      <description>
+        
+        <p>CloudPlayer - a doubleTwist app designed in stunning Material Design by Pictogram</p>
+        <img src="http://new.lapa.ninja/assets/images/cloudplayer.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -42,7 +60,13 @@
       <pubDate>Tue, 13 Oct 2015 17:24:07 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/spotify/</guid>
-      <description></description>
+      <description>
+        
+        <p>Spotify is a digital music service that gives you access to millions of songs.</p>
+        <img src="http://new.lapa.ninja/assets/images/spotify-uk-thumb.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

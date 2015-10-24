@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neubible on Landing Pages Collection</title>
+    <title>Neubible on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/neubible/</link>
     <description>Recent content in Neubible on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 21:39:26 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/neubible/</guid>
-      <description></description>
+      <description>
+        
+        <p>NeuBible. A Bible app designed for you</p>
+        <img src="http://new.lapa.ninja/assets/images/neubible.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

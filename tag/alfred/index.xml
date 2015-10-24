@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alfred on Landing Pages Collection</title>
+    <title>Alfred on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/alfred/</link>
     <description>Recent content in Alfred on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 21:16:32 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/hello-alfred-app/</guid>
-      <description></description>
+      <description>
+        
+        <p>Alfred takes care of it so you don&#39;t have to.  Dry-cleaning, laundry, groceries, cobbler, tailor, packages, pharmacy, and donations.</p>
+        <img src="http://new.lapa.ninja/assets/images/alfred.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

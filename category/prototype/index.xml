@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prototype on Landing Pages Collection</title>
+    <title>Prototype on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/category/prototype/</link>
     <description>Recent content in Prototype on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Thu, 15 Oct 2015 21:34:08 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/prottapp/</guid>
-      <description></description>
+      <description>
+        
+        <p>Prott is a free rapid prototyping and radical collaboration tool. Share your ideas and get feedback through easy-to-make interactive prototypes with Prott.</p>
+        <img src="http://new.lapa.ninja/assets/images/prott.png" />
+
+
+      </description>
     </item>
     
     <item>
@@ -24,7 +30,13 @@
       <pubDate>Thu, 15 Oct 2015 20:42:21 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/invision-app/</guid>
-      <description></description>
+      <description>
+        
+        <p>Transform your Web &amp; Mobile (iOS, Android) designs into clickable, interactive Prototypes and Mockups. Share and Collaborate on them with others. Get it FREE forever!</p>
+        <img src="http://new.lapa.ninja/assets/images/invisionapp.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -33,7 +45,13 @@
       <pubDate>Thu, 15 Oct 2015 17:19:35 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/origami/</guid>
-      <description></description>
+      <description>
+        
+        <p>Origami is a free tool for designing modern user interfaces.</p>
+        <img src="http://new.lapa.ninja/assets/images/Origami.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -42,7 +60,13 @@
       <pubDate>Thu, 15 Oct 2015 17:10:47 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/pixate/</guid>
-      <description></description>
+      <description>
+        
+        <p>Change the way you design with the most powerful prototyping platform on the planet.</p>
+        <img src="http://new.lapa.ninja/assets/images/pixate.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -51,7 +75,13 @@
       <pubDate>Thu, 15 Oct 2015 17:06:13 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/marvelapp/</guid>
-      <description></description>
+      <description>
+        
+        <p>Turn sketches, mockups and designs into web, iPhone, iOS, Android and Apple Watch app prototypes.</p>
+        <img src="http://new.lapa.ninja/assets/images/marvelapp.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -60,7 +90,13 @@
       <pubDate>Thu, 15 Oct 2015 16:12:32 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/markly-app/</guid>
-      <description></description>
+      <description>
+        
+        <p>Markly is a fun way to create and design specs for your design works. It is maded for today&#39;s web and mobile designers, with Adobe Photoshop CC &amp; Sketch supported. Best Sketch / Photoshop spec plugin!</p>
+        <img src="http://new.lapa.ninja/assets/images/markly.jpg" />
+
+
+      </description>
     </item>
     
     <item>
@@ -69,7 +105,13 @@
       <pubDate>Wed, 14 Oct 2015 16:53:40 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/perspectivemockups/</guid>
-      <description></description>
+      <description>
+        
+        <p>Photoshop Perspective Mockups Plugin. Perspective Mockups is a clever little Photoshop Plugin that makes presenting your ideas a breeze. Photoshop 2015 ready</p>
+        <img src="http://new.lapa.ninja/assets/images/perspectivemockups.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

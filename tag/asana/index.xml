@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Asana on Landing Pages Collection</title>
+    <title>Asana on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/asana/</link>
     <description>Recent content in Asana on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 23:27:47 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/asana/</guid>
-      <description></description>
+      <description>
+        
+        <p>The easiest way for teams to track work, and get results. Do great things together.</p>
+        <img src="http://new.lapa.ninja/assets/images/asana.jpg" />
+
+
+      </description>
     </item>
     
   </channel>

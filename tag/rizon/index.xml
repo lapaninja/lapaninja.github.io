@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rizon on Landing Pages Collection</title>
+    <title>Rizon on Landing Pages Collection | Lapa.Ninja</title>
     <link>http://new.lapa.ninja/tag/rizon/</link>
     <description>Recent content in Rizon on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,7 +15,13 @@
       <pubDate>Fri, 16 Oct 2015 23:19:49 +0700</pubDate>
       
       <guid>http://new.lapa.ninja/post/rizonapp/</guid>
-      <description></description>
+      <description>
+        
+        <p>Rizon is a beautiful Golden Hour calculator for your iPhone that helps you easily find the best time to shoot outdoors in natural light. Set reminders, save offline locations, and see data for any date in the future.</p>
+        <img src="http://new.lapa.ninja/assets/images/rizon.jpg" />
+
+
+      </description>
     </item>
     
   </channel>
