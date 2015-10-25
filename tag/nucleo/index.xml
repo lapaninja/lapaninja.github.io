@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nucleo on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/nucleo/</link>
+    <link>http://lapa.ninja/tag/nucleo/</link>
     <description>Recent content in Nucleo on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 21:26:39 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/nucleo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/nucleo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nucleo</title>
-      <link>http://new.lapa.ninja/post/nucleoapp/</link>
+      <link>http://lapa.ninja/post/nucleoapp/</link>
       <pubDate>Thu, 15 Oct 2015 21:26:39 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/nucleoapp/</guid>
+      <guid>http://lapa.ninja/post/nucleoapp/</guid>
       <description>
         
         <p>Nucleo is a library of 2000&#43; responsive vector icons, in different styles and formats, as well as a web application to manage, customize and export them.</p>
-        <img src="http://new.lapa.ninja/assets/images/nucleo.jpg" />
+        <img src="http://lapa.ninja/assets/images/nucleo.jpg" />
 
 
       </description>

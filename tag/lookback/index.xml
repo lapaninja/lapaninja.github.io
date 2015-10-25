@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lookback on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/lookback/</link>
+    <link>http://lapa.ninja/tag/lookback/</link>
     <description>Recent content in Lookback on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2015 21:33:11 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/lookback/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/lookback/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lookback</title>
-      <link>http://new.lapa.ninja/post/lookback/</link>
+      <link>http://lapa.ninja/post/lookback/</link>
       <pubDate>Fri, 16 Oct 2015 21:33:11 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/lookback/</guid>
+      <guid>http://lapa.ninja/post/lookback/</guid>
       <description>
         
         <p>User experience recordings made simple. Lookback allows you to remotely record the screen, face, voice and touches of your users.</p>
-        <img src="http://new.lapa.ninja/assets/images/lookback.png" />
+        <img src="http://lapa.ninja/assets/images/lookback.png" />
 
 
       </description>

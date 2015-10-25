@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exoape on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/exoape/</link>
+    <description>Recent content in Exoape on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Oct 2015 21:14:17 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/exoape/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exo Ape</title>
+      <link>http://lapa.ninja/post/exoape/</link>
+      <pubDate>Fri, 16 Oct 2015 21:14:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/exoape/</guid>
+      <description>
+        
+        <p>By constantly pushing boundaries we create memorable designs that elevate your brand and enlighten your partners.</p>
+        <img src="http://lapa.ninja/assets/images/exo-ape.png" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

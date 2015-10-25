@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rokivo on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/rokivo/</link>
+    <link>http://lapa.ninja/tag/rokivo/</link>
     <description>Recent content in Rokivo on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2015 21:35:35 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/rokivo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/rokivo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Rokivo</title>
-      <link>http://new.lapa.ninja/post/rokivo/</link>
+      <link>http://lapa.ninja/post/rokivo/</link>
       <pubDate>Fri, 16 Oct 2015 21:35:35 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/rokivo/</guid>
+      <guid>http://lapa.ninja/post/rokivo/</guid>
       <description>
         
         <p>We design solutions for digital interactions. With its approach, our team generates extraordinary value for brands through innovative design.</p>
-        <img src="http://new.lapa.ninja/assets/images/rokivo.png" />
+        <img src="http://lapa.ninja/assets/images/rokivo.png" />
 
 
       </description>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karma on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/karma/</link>
+    <description>Recent content in Karma on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Oct 2015 16:04:39 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/karma/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Karma</title>
+      <link>http://lapa.ninja/post/your-karma/</link>
+      <pubDate>Wed, 14 Oct 2015 16:04:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/your-karma/</guid>
+      <description>
+        
+        <p>Karma Go lets you take WiFi everywhere. Pay-as-you-go for data that never expires. No contracts or monthly fees. With nationwide coverage on LTE, stay connected to the internet with all of your devices, seamlessly.</p>
+        <img src="http://lapa.ninja/assets/images/your-karma.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

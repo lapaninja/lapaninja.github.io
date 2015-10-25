@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grovemade on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/grovemade/</link>
+    <link>http://lapa.ninja/tag/grovemade/</link>
     <description>Recent content in Grovemade on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 17:27:39 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/grovemade/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/grovemade/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Grovemade</title>
-      <link>http://new.lapa.ninja/post/grovemade/</link>
+      <link>http://lapa.ninja/post/grovemade/</link>
       <pubDate>Thu, 15 Oct 2015 17:27:39 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/grovemade/</guid>
+      <guid>http://lapa.ninja/post/grovemade/</guid>
       <description>
         
         <p>We are a family of creators – close knit and a little crazy – handcrafting goods at our workshop in Portland, Oregon. We make beautiful products from quality materials because we believe each one is a representation of who we are.</p>
-        <img src="http://new.lapa.ninja/assets/images/grovemade.jpg" />
+        <img src="http://lapa.ninja/assets/images/grovemade.jpg" />
 
 
       </description>

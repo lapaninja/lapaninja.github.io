@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archeeve on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/archeeve/</link>
+    <link>http://lapa.ninja/tag/archeeve/</link>
     <description>Recent content in Archeeve on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2015 21:11:56 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/archeeve/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/archeeve/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Archeeve</title>
-      <link>http://new.lapa.ninja/post/archeeve-app/</link>
+      <link>http://lapa.ninja/post/archeeve-app/</link>
       <pubDate>Fri, 16 Oct 2015 21:11:56 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/archeeve-app/</guid>
+      <guid>http://lapa.ninja/post/archeeve-app/</guid>
       <description>
         
         <p>The most useful app to organise your bookmarks</p>
-        <img src="http://new.lapa.ninja/assets/images/archeeve.jpg" />
+        <img src="http://lapa.ninja/assets/images/archeeve.jpg" />
 
 
       </description>

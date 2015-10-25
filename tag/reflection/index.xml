@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reflection on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/reflection/</link>
+    <link>http://lapa.ninja/tag/reflection/</link>
     <description>Recent content in Reflection on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 21:59:37 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/reflection/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Reflection</title>
-      <link>http://new.lapa.ninja/post/reflection-io/</link>
+      <link>http://lapa.ninja/post/reflection-io/</link>
       <pubDate>Thu, 15 Oct 2015 21:59:37 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/reflection-io/</guid>
+      <guid>http://lapa.ninja/post/reflection-io/</guid>
       <description>
         
         <p>Powerful Intelligence for the Global App Industry</p>
-        <img src="http://new.lapa.ninja/assets/images/reflection.jpg" />
+        <img src="http://lapa.ninja/assets/images/reflection.jpg" />
 
 
       </description>

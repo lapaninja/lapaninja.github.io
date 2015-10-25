@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dayone on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/dayone/</link>
+    <description>Recent content in Dayone on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Oct 2015 16:04:06 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/dayone/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Day One</title>
+      <link>http://lapa.ninja/post/day-one/</link>
+      <pubDate>Thu, 15 Oct 2015 16:04:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/day-one/</guid>
+      <description>
+        
+        <p>A simple journal application for the Mac and iPhone.</p>
+        <img src="http://lapa.ninja/assets/images/day-one.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

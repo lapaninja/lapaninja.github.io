@@ -2,23 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>App on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/category/app/</link>
+    <link>http://lapa.ninja/category/app/</link>
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 23:36:35 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Oct 2015 22:18:15 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Floid</title>
+      <link>http://lapa.ninja/post/floid/</link>
+      <pubDate>Sun, 25 Oct 2015 22:18:15 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/floid/</guid>
+      <description>
+        
+        <p>UX design tool for creating interactive animations &amp; multiscreen app flows</p>
+        <img src="http://lapa.ninja/assets/images/floid.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Square</title>
+      <link>http://lapa.ninja/post/squareup/</link>
+      <pubDate>Sun, 25 Oct 2015 22:13:26 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/squareup/</guid>
+      <description>
+        
+        <p>Square Register is a simple, powerful and free POS system. Simplify business, inventory, analytics, digital receipts and more. Download the free app today.</p>
+        <img src="http://lapa.ninja/assets/images/squareup.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Skurt</title>
-      <link>http://new.lapa.ninja/post/skurtapp/</link>
+      <link>http://lapa.ninja/post/skurtapp/</link>
       <pubDate>Fri, 16 Oct 2015 23:36:35 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/skurtapp/</guid>
+      <guid>http://lapa.ninja/post/skurtapp/</guid>
       <description>
         
         <p>It’s the fastest way to rent a car. Say goodbye to long lines and paperwork. We deliver the car right to you.</p>
-        <img src="http://new.lapa.ninja/assets/images/skurt.jpg" />
+        <img src="http://lapa.ninja/assets/images/skurt.jpg" />
 
 
       </description>
@@ -26,14 +56,14 @@
     
     <item>
       <title>Tapcore</title>
-      <link>http://new.lapa.ninja/post/tapcore/</link>
+      <link>http://lapa.ninja/post/tapcore/</link>
       <pubDate>Fri, 16 Oct 2015 23:32:17 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/tapcore/</guid>
+      <guid>http://lapa.ninja/post/tapcore/</guid>
       <description>
         
         <p>Tapcore Mobile Ad Network</p>
-        <img src="http://new.lapa.ninja/assets/images/tapcore.png" />
+        <img src="http://lapa.ninja/assets/images/tapcore.png" />
 
 
       </description>
@@ -41,14 +71,14 @@
     
     <item>
       <title>WonderBox</title>
-      <link>http://new.lapa.ninja/post/wonderbox/</link>
+      <link>http://lapa.ninja/post/wonderbox/</link>
       <pubDate>Fri, 16 Oct 2015 23:29:49 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/wonderbox/</guid>
+      <guid>http://lapa.ninja/post/wonderbox/</guid>
       <description>
         
         <p>Explore, create, and share with family and friends.</p>
-        <img src="http://new.lapa.ninja/assets/images/wonderbox.png" />
+        <img src="http://lapa.ninja/assets/images/wonderbox.png" />
 
 
       </description>
@@ -56,14 +86,14 @@
     
     <item>
       <title>Asana</title>
-      <link>http://new.lapa.ninja/post/asana/</link>
+      <link>http://lapa.ninja/post/asana/</link>
       <pubDate>Fri, 16 Oct 2015 23:27:47 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/asana/</guid>
+      <guid>http://lapa.ninja/post/asana/</guid>
       <description>
         
         <p>The easiest way for teams to track work, and get results. Do great things together.</p>
-        <img src="http://new.lapa.ninja/assets/images/asana.jpg" />
+        <img src="http://lapa.ninja/assets/images/asana.jpg" />
 
 
       </description>
@@ -71,14 +101,14 @@
     
     <item>
       <title>Rizon</title>
-      <link>http://new.lapa.ninja/post/rizonapp/</link>
+      <link>http://lapa.ninja/post/rizonapp/</link>
       <pubDate>Fri, 16 Oct 2015 23:19:49 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/rizonapp/</guid>
+      <guid>http://lapa.ninja/post/rizonapp/</guid>
       <description>
         
         <p>Rizon is a beautiful Golden Hour calculator for your iPhone that helps you easily find the best time to shoot outdoors in natural light. Set reminders, save offline locations, and see data for any date in the future.</p>
-        <img src="http://new.lapa.ninja/assets/images/rizon.jpg" />
+        <img src="http://lapa.ninja/assets/images/rizon.jpg" />
 
 
       </description>
@@ -86,14 +116,14 @@
     
     <item>
       <title>Charlie App</title>
-      <link>http://new.lapa.ninja/post/charlieapp/</link>
+      <link>http://lapa.ninja/post/charlieapp/</link>
       <pubDate>Fri, 16 Oct 2015 23:03:22 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/charlieapp/</guid>
+      <guid>http://lapa.ninja/post/charlieapp/</guid>
       <description>
         
         <p>Charlie combs through 100s of sources and automatically sends you a one-pager on everyone you&#39;re going to meet with, before you see them</p>
-        <img src="http://new.lapa.ninja/assets/images/charlie.jpg" />
+        <img src="http://lapa.ninja/assets/images/charlie.jpg" />
 
 
       </description>
@@ -101,14 +131,14 @@
     
     <item>
       <title>Be My Eyes</title>
-      <link>http://new.lapa.ninja/post/bemyeyes/</link>
+      <link>http://lapa.ninja/post/bemyeyes/</link>
       <pubDate>Fri, 16 Oct 2015 22:59:53 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/bemyeyes/</guid>
+      <guid>http://lapa.ninja/post/bemyeyes/</guid>
       <description>
         
         <p>Be My Eyes is an iPhone app that lets blind people contact a network of sighted volunteers for help with live video chat.</p>
-        <img src="http://new.lapa.ninja/assets/images/bemyeyes.jpg" />
+        <img src="http://lapa.ninja/assets/images/bemyeyes.jpg" />
 
 
       </description>
@@ -116,14 +146,14 @@
     
     <item>
       <title>Layer</title>
-      <link>http://new.lapa.ninja/post/layer/</link>
+      <link>http://lapa.ninja/post/layer/</link>
       <pubDate>Fri, 16 Oct 2015 22:52:51 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/layer/</guid>
+      <guid>http://lapa.ninja/post/layer/</guid>
       <description>
         
         <p>Mobile and web messaging, built for developers.</p>
-        <img src="http://new.lapa.ninja/assets/images/layer.jpg" />
+        <img src="http://lapa.ninja/assets/images/layer.jpg" />
 
 
       </description>
@@ -131,14 +161,14 @@
     
     <item>
       <title>Do</title>
-      <link>http://new.lapa.ninja/post/do-com/</link>
+      <link>http://lapa.ninja/post/do-com/</link>
       <pubDate>Fri, 16 Oct 2015 22:48:56 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/do-com/</guid>
+      <guid>http://lapa.ninja/post/do-com/</guid>
       <description>
         
         <p>Do helps you run productive meetings. Do work you love.</p>
-        <img src="http://new.lapa.ninja/assets/images/do-com.jpg" />
+        <img src="http://lapa.ninja/assets/images/do-com.jpg" />
 
 
       </description>
@@ -146,14 +176,44 @@
     
     <item>
       <title>Sumoing</title>
-      <link>http://new.lapa.ninja/post/sumoing/</link>
+      <link>http://lapa.ninja/post/sumoing/</link>
       <pubDate>Fri, 16 Oct 2015 22:40:30 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/sumoing/</guid>
+      <guid>http://lapa.ninja/post/sumoing/</guid>
       <description>
         
         <p>Coloring book app for adults</p>
-        <img src="http://new.lapa.ninja/assets/images/sumoing.jpg" />
+        <img src="http://lapa.ninja/assets/images/sumoing.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pencil by FiftyThree</title>
+      <link>http://lapa.ninja/post/fiftythree-pencil/</link>
+      <pubDate>Fri, 16 Oct 2015 22:32:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/fiftythree-pencil/</guid>
+      <description>
+        
+        <p>Pencil by FiftyThree is a revolutionary stylus for touch-screen devices. Use Pencil with Paper to express your ideas beautifully and easily.</p>
+        <img src="http://lapa.ninja/assets/images/53-pencil.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pocket</title>
+      <link>http://lapa.ninja/post/getpocket/</link>
+      <pubDate>Fri, 16 Oct 2015 22:27:05 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/getpocket/</guid>
+      <description>
+        
+        <p>When you find something you want to view later, put it in Pocket.</p>
+        <img src="http://lapa.ninja/assets/images/pocket.jpg" />
 
 
       </description>
@@ -161,74 +221,14 @@
     
     <item>
       <title>Next</title>
-      <link>http://new.lapa.ninja/post/next-keyboard/</link>
+      <link>http://lapa.ninja/post/next-keyboard/</link>
       <pubDate>Fri, 16 Oct 2015 22:24:47 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/next-keyboard/</guid>
+      <guid>http://lapa.ninja/post/next-keyboard/</guid>
       <description>
         
         <p>Next comes fully loaded with lightning speed editing, predictive typing, all the emojis you love plus more, playful stickers and stunning themes.</p>
-        <img src="http://new.lapa.ninja/assets/images/next-keyboard.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Tookapic</title>
-      <link>http://new.lapa.ninja/post/tookapic/</link>
-      <pubDate>Fri, 16 Oct 2015 22:22:09 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/tookapic/</guid>
-      <description>
-        
-        <p>Tookapic was made to help you develop a habit of daily photo taking in a fun and addictive way.</p>
-        <img src="http://new.lapa.ninja/assets/images/tookapic.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Glow</title>
-      <link>http://new.lapa.ninja/post/glow/</link>
-      <pubDate>Fri, 16 Oct 2015 22:12:33 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/glow/</guid>
-      <description>
-        
-        <p>Eve by Glow is a savvy health &amp; sex app for women who want to take control of their sex lives. Eve helps women figure out tackle many different dimensions of their health: birth control &amp; contraception, ovulation &amp; fertility, menstruation, cycle symptoms and trends.</p>
-        <img src="http://new.lapa.ninja/assets/images/glow.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Misfit App</title>
-      <link>http://new.lapa.ninja/post/misfit/</link>
-      <pubDate>Fri, 16 Oct 2015 22:10:02 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/misfit/</guid>
-      <description>
-        
-        <p>Misfit invents and manufactures premium wearable computing products, such as the Shine and Flash.</p>
-        <img src="http://new.lapa.ninja/assets/images/misfit.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Revolut</title>
-      <link>http://new.lapa.ninja/post/revolut/</link>
-      <pubDate>Fri, 16 Oct 2015 21:51:03 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/revolut/</guid>
-      <description>
-        
-        <p>The new way to instantly send and spend money globally with zero fees.</p>
-        <img src="http://new.lapa.ninja/assets/images/revolut.jpg" />
+        <img src="http://lapa.ninja/assets/images/next-keyboard.jpg" />
 
 
       </description>

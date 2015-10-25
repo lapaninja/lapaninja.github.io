@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Front on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/front/</link>
+    <link>http://lapa.ninja/tag/front/</link>
     <description>Recent content in Front on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 17:50:29 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/front/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/front/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Front</title>
-      <link>http://new.lapa.ninja/post/frontapp/</link>
+      <link>http://lapa.ninja/post/frontapp/</link>
       <pubDate>Thu, 15 Oct 2015 17:50:29 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/frontapp/</guid>
+      <guid>http://lapa.ninja/post/frontapp/</guid>
       <description>
         
         <p>Front takes out the pain of team inboxes and enables you to scale your customer support, your hiring, your sales and more.</p>
-        <img src="http://new.lapa.ninja/assets/images/Front.png" />
+        <img src="http://lapa.ninja/assets/images/Front.png" />
 
 
       </description>

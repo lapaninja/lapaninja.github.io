@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Symu on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/symu/</link>
+    <link>http://lapa.ninja/tag/symu/</link>
     <description>Recent content in Symu on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2015 22:45:06 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/symu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/symu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Symu</title>
-      <link>http://new.lapa.ninja/post/symu/</link>
+      <link>http://lapa.ninja/post/symu/</link>
       <pubDate>Fri, 16 Oct 2015 22:45:06 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/symu/</guid>
+      <guid>http://lapa.ninja/post/symu/</guid>
       <description>
         
         <p>Show your web design in a web browser, free tool for designers</p>
-        <img src="http://new.lapa.ninja/assets/images/symu.jpg" />
+        <img src="http://lapa.ninja/assets/images/symu.jpg" />
 
 
       </description>

@@ -2,23 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design Tools on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/category/design-tools/</link>
+    <link>http://lapa.ninja/category/design-tools/</link>
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 22:32:30 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Oct 2015 22:18:15 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Floid</title>
+      <link>http://lapa.ninja/post/floid/</link>
+      <pubDate>Sun, 25 Oct 2015 22:18:15 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/floid/</guid>
+      <description>
+        
+        <p>UX design tool for creating interactive animations &amp; multiscreen app flows</p>
+        <img src="http://lapa.ninja/assets/images/floid.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Dropmark</title>
+      <link>http://lapa.ninja/post/dropmark/</link>
+      <pubDate>Fri, 16 Oct 2015 23:14:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dropmark/</guid>
+      <description>
+        
+        <p>All your stuff in one simple, visual, private place</p>
+        <img src="http://lapa.ninja/assets/images/dropmark.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Symu</title>
+      <link>http://lapa.ninja/post/symu/</link>
+      <pubDate>Fri, 16 Oct 2015 22:45:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/symu/</guid>
+      <description>
+        
+        <p>Show your web design in a web browser, free tool for designers</p>
+        <img src="http://lapa.ninja/assets/images/symu.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Frontify</title>
+      <link>http://lapa.ninja/post/frontify/</link>
+      <pubDate>Fri, 16 Oct 2015 22:38:16 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/frontify/</guid>
+      <description>
+        
+        <p>Frontify is a software company based somewhere between Switzerlands deepest blue lakes and highest snowy mountains. Their chocolate fueled craftsmen develop web based apps that help you master the entire web design-to-development workflow (Frontify Workspace), collaborate joyfully and create professional brand &amp; design style guides (Frontify Style Guide).</p>
+        <img src="http://lapa.ninja/assets/images/frontify.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Pencil by FiftyThree</title>
-      <link>http://new.lapa.ninja/post/fiftythree-pencil/</link>
+      <link>http://lapa.ninja/post/fiftythree-pencil/</link>
       <pubDate>Fri, 16 Oct 2015 22:32:30 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/fiftythree-pencil/</guid>
+      <guid>http://lapa.ninja/post/fiftythree-pencil/</guid>
       <description>
         
         <p>Pencil by FiftyThree is a revolutionary stylus for touch-screen devices. Use Pencil with Paper to express your ideas beautifully and easily.</p>
-        <img src="http://new.lapa.ninja/assets/images/53-pencil.jpg" />
+        <img src="http://lapa.ninja/assets/images/53-pencil.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lookback</title>
+      <link>http://lapa.ninja/post/lookback/</link>
+      <pubDate>Fri, 16 Oct 2015 21:33:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lookback/</guid>
+      <description>
+        
+        <p>User experience recordings made simple. Lookback allows you to remotely record the screen, face, voice and touches of your users.</p>
+        <img src="http://lapa.ninja/assets/images/lookback.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Archeeve</title>
+      <link>http://lapa.ninja/post/archeeve-app/</link>
+      <pubDate>Fri, 16 Oct 2015 21:11:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/archeeve-app/</guid>
+      <description>
+        
+        <p>The most useful app to organise your bookmarks</p>
+        <img src="http://lapa.ninja/assets/images/archeeve.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Scrapd</title>
+      <link>http://lapa.ninja/post/scrapd/</link>
+      <pubDate>Fri, 16 Oct 2015 20:57:01 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/scrapd/</guid>
+      <description>
+        
+        <p>Organise the creative projects you work on in a structured and visually appealing interface.</p>
+        <img src="http://lapa.ninja/assets/images/scrapd.jpg" />
 
 
       </description>
@@ -26,14 +131,29 @@
     
     <item>
       <title>Avocode</title>
-      <link>http://new.lapa.ninja/post/avocode/</link>
+      <link>http://lapa.ninja/post/avocode/</link>
       <pubDate>Fri, 16 Oct 2015 20:30:34 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/avocode/</guid>
+      <guid>http://lapa.ninja/post/avocode/</guid>
       <description>
         
         <p>The smartest way to share designs, export assets and collaborate with your team.</p>
-        <img src="http://new.lapa.ninja/assets/images/avocode.jpg" />
+        <img src="http://lapa.ninja/assets/images/avocode.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Red Pen</title>
+      <link>http://lapa.ninja/post/redpen-io/</link>
+      <pubDate>Fri, 16 Oct 2015 20:27:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/redpen-io/</guid>
+      <description>
+        
+        <p>Upload your design and get live, annotated feedback. It&#39;s the simplest way to get thoughts from the people you trust.</p>
+        <img src="http://lapa.ninja/assets/images/redpen.jpg" />
 
 
       </description>
@@ -41,14 +161,29 @@
     
     <item>
       <title>Affinity Photo</title>
-      <link>http://new.lapa.ninja/post/affinity-photo/</link>
+      <link>http://lapa.ninja/post/affinity-photo/</link>
       <pubDate>Fri, 16 Oct 2015 19:34:58 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/affinity-photo/</guid>
+      <guid>http://lapa.ninja/post/affinity-photo/</guid>
       <description>
         
         <p>Affinity Photo - the fastest, smoothest, most precise professional image editing software, exclusively for Mac.</p>
-        <img src="http://new.lapa.ninja/assets/images/affinity-photo.jpg" />
+        <img src="http://lapa.ninja/assets/images/affinity-photo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pixelmator for Mac</title>
+      <link>http://lapa.ninja/post/pixelmator-for-mac/</link>
+      <pubDate>Fri, 16 Oct 2015 19:30:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pixelmator-for-mac/</guid>
+      <description>
+        
+        <p>The world’s most innovative, fastest, full-featured, and powerful image editing app for the Mac that has everything you need to create and edit your images.</p>
+        <img src="http://lapa.ninja/assets/images/pixelmator.jpg" />
 
 
       </description>
@@ -56,44 +191,44 @@
     
     <item>
       <title>DaVinci Apps</title>
-      <link>http://new.lapa.ninja/post/davinci-apps/</link>
+      <link>http://lapa.ninja/post/davinci-apps/</link>
       <pubDate>Thu, 15 Oct 2015 21:49:14 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/davinci-apps/</guid>
+      <guid>http://lapa.ninja/post/davinci-apps/</guid>
       <description>
         
         <p>Pick one of predesigned screenshot templates, add your message, tweak the colors and get app screenshots of ALL required App Store sizes with a click</p>
-        <img src="http://new.lapa.ninja/assets/images/davinci.jpg" />
+        <img src="http://lapa.ninja/assets/images/davinci.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Blocs</title>
-      <link>http://new.lapa.ninja/post/blocsapp/</link>
-      <pubDate>Thu, 15 Oct 2015 21:28:59 +0700</pubDate>
+      <title>Mockuuups</title>
+      <link>http://lapa.ninja/post/mockuuups/</link>
+      <pubDate>Thu, 15 Oct 2015 21:44:52 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/blocsapp/</guid>
+      <guid>http://lapa.ninja/post/mockuuups/</guid>
       <description>
         
-        <p>Blocs is a Mac app that lets you build beautiful websites without touching a line of code.</p>
-        <img src="http://new.lapa.ninja/assets/images/blocs.jpg" />
+        <p>Beautiful high-resolution mockups to present your designs and prototypes. Loved by designers worldwide and compatible with Photoshop &amp; Sketch.</p>
+        <img src="http://lapa.ninja/assets/images/Mockuuups.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Atomic</title>
-      <link>http://new.lapa.ninja/post/atomic/</link>
-      <pubDate>Thu, 15 Oct 2015 17:14:31 +0700</pubDate>
+      <title>prottapp</title>
+      <link>http://lapa.ninja/post/prottapp/</link>
+      <pubDate>Thu, 15 Oct 2015 21:34:08 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/atomic/</guid>
+      <guid>http://lapa.ninja/post/prottapp/</guid>
       <description>
         
-        <p>Atomic is professional software for digital designers, featuring tools for interface design, prototyping, version control and collaboration.</p>
-        <img src="http://new.lapa.ninja/assets/images/atomic.jpg" />
+        <p>Prott is a free rapid prototyping and radical collaboration tool. Share your ideas and get feedback through easy-to-make interactive prototypes with Prott.</p>
+        <img src="http://lapa.ninja/assets/images/prott.png" />
 
 
       </description>

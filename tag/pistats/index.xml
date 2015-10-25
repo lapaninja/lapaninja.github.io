@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pistats on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/pistats/</link>
+    <link>http://lapa.ninja/tag/pistats/</link>
     <description>Recent content in Pistats on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 22:03:20 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/pistats/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/pistats/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pistats</title>
-      <link>http://new.lapa.ninja/post/pistats-io/</link>
+      <link>http://lapa.ninja/post/pistats-io/</link>
       <pubDate>Thu, 15 Oct 2015 22:03:20 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/pistats-io/</guid>
+      <guid>http://lapa.ninja/post/pistats-io/</guid>
       <description>
         
         <p>Your Uber and Lyft rides visualized</p>
-        <img src="http://new.lapa.ninja/assets/images/Pistats.jpg" />
+        <img src="http://lapa.ninja/assets/images/Pistats.jpg" />
 
 
       </description>

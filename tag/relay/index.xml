@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Relay on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/relay/</link>
+    <link>http://lapa.ninja/tag/relay/</link>
     <description>Recent content in Relay on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 21:31:50 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/relay/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/relay/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Relay</title>
-      <link>http://new.lapa.ninja/post/relay-io/</link>
+      <link>http://lapa.ninja/post/relay-io/</link>
       <pubDate>Thu, 15 Oct 2015 21:31:50 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/relay-io/</guid>
+      <guid>http://lapa.ninja/post/relay-io/</guid>
       <description>
         
         <p>Design communication synced with Slack. Capture and share work in progress. Discuss design with your team.</p>
-        <img src="http://new.lapa.ninja/assets/images/relay-io.jpg" />
+        <img src="http://lapa.ninja/assets/images/relay-io.jpg" />
 
 
       </description>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/lab/</link>
+    <link>http://lapa.ninja/tag/lab/</link>
     <description>Recent content in Lab on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2015 23:16:36 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/lab/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/lab/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lab</title>
-      <link>http://new.lapa.ninja/post/labphoenix/</link>
+      <link>http://lapa.ninja/post/labphoenix/</link>
       <pubDate>Fri, 16 Oct 2015 23:16:36 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/labphoenix/</guid>
+      <guid>http://lapa.ninja/post/labphoenix/</guid>
       <description>
         
         <p>A coworking space for creators of all kinds. Walking distance from great art, coffee shops &amp; restaurants. Come make stuff with us.</p>
-        <img src="http://new.lapa.ninja/assets/images/labphoenix.jpg" />
+        <img src="http://lapa.ninja/assets/images/labphoenix.jpg" />
 
 
       </description>

@@ -2,23 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/category/blog/</link>
+    <link>http://lapa.ninja/category/blog/</link>
     <description>Recent content in Blog on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2015 21:23:35 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/category/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2015 23:34:24 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adobe Portfolio</title>
+      <link>http://lapa.ninja/post/myportfolio/</link>
+      <pubDate>Fri, 16 Oct 2015 23:34:24 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/myportfolio/</guid>
+      <description>
+        
+        <p>Quickly and simply build a personalized website to showcase your creative work with Adobe Portfolio. Now included free with any Creative Cloud subscription.</p>
+        <img src="http://lapa.ninja/assets/images/myportfolio.png" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Jackie Tran Anh</title>
-      <link>http://new.lapa.ninja/post/jackie-tran-anh/</link>
+      <link>http://lapa.ninja/post/jackie-tran-anh/</link>
       <pubDate>Thu, 15 Oct 2015 21:23:35 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/jackie-tran-anh/</guid>
+      <guid>http://lapa.ninja/post/jackie-tran-anh/</guid>
       <description>
         
         <p>Jackie Tran is a Czech - Viet Visual Designer &amp; Photographer based in Prague.</p>
-        <img src="http://new.lapa.ninja/assets/images/jackie.jpg" />
+        <img src="http://lapa.ninja/assets/images/jackie.jpg" />
 
 
       </description>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marvel on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/marvel/</link>
+    <link>http://lapa.ninja/tag/marvel/</link>
     <description>Recent content in Marvel on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 17:06:13 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/marvel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/marvel/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Marvel Prototyping</title>
-      <link>http://new.lapa.ninja/post/marvelapp/</link>
+      <link>http://lapa.ninja/post/marvelapp/</link>
       <pubDate>Thu, 15 Oct 2015 17:06:13 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/marvelapp/</guid>
+      <guid>http://lapa.ninja/post/marvelapp/</guid>
       <description>
         
         <p>Turn sketches, mockups and designs into web, iPhone, iOS, Android and Apple Watch app prototypes.</p>
-        <img src="http://new.lapa.ninja/assets/images/marvelapp.jpg" />
+        <img src="http://lapa.ninja/assets/images/marvelapp.jpg" />
 
 
       </description>

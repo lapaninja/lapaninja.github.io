@@ -2,38 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/music/</link>
+    <link>http://lapa.ninja/tag/music/</link>
     <description>Recent content in Music on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 19:27:46 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/music/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Flat</title>
-      <link>http://new.lapa.ninja/post/flat-io/</link>
-      <pubDate>Fri, 16 Oct 2015 19:27:46 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/flat-io/</guid>
-      <description>
-        
-        <p>Compose your music online with your smartphone, tablet and laptop with your friends at the same time. Also available for Google Drive and Google Hangouts.</p>
-        <img src="http://new.lapa.ninja/assets/images/flat.jpg" />
-
-
-      </description>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2015 17:24:07 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/music/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Spotify</title>
-      <link>http://new.lapa.ninja/post/spotify/</link>
+      <link>http://lapa.ninja/post/spotify/</link>
       <pubDate>Tue, 13 Oct 2015 17:24:07 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/spotify/</guid>
+      <guid>http://lapa.ninja/post/spotify/</guid>
       <description>
         
         <p>Spotify is a digital music service that gives you access to millions of songs.</p>
-        <img src="http://new.lapa.ninja/assets/images/spotify-uk-thumb.jpg" />
+        <img src="http://lapa.ninja/assets/images/spotify-uk.jpg" />
 
 
       </description>

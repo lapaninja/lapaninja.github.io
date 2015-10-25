@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pick on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/pick/</link>
+    <link>http://lapa.ninja/tag/pick/</link>
     <description>Recent content in Pick on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 20:58:55 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/pick/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/pick/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pick</title>
-      <link>http://new.lapa.ninja/post/pick-co/</link>
+      <link>http://lapa.ninja/post/pick-co/</link>
       <pubDate>Thu, 15 Oct 2015 20:58:55 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/pick-co/</guid>
+      <guid>http://lapa.ninja/post/pick-co/</guid>
       <description>
         
         <p>Pick takes the back and forth out of finding a time to meet by comparing calendars, regardless of email domain, and displaying mutual availability &amp; scheduling.</p>
-        <img src="http://new.lapa.ninja/assets/images/pick.jpg" />
+        <img src="http://lapa.ninja/assets/images/pick.jpg" />
 
 
       </description>

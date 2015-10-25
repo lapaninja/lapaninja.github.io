@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ui8 on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/ui8/</link>
+    <link>http://lapa.ninja/tag/ui8/</link>
     <description>Recent content in Ui8 on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 17:23:32 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/ui8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/ui8/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>UI8</title>
-      <link>http://new.lapa.ninja/post/ui8/</link>
+      <link>http://lapa.ninja/post/ui8/</link>
       <pubDate>Thu, 15 Oct 2015 17:23:32 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/ui8/</guid>
+      <guid>http://lapa.ninja/post/ui8/</guid>
       <description>
         
         <p>Apple Watch UI Kit</p>
-        <img src="http://new.lapa.ninja/assets/images/ui8-apple-watch.jpg" />
+        <img src="http://lapa.ninja/assets/images/ui8-apple-watch.jpg" />
 
 
       </description>

@@ -2,23 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entertainment on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/category/entertainment/</link>
+    <link>http://lapa.ninja/category/entertainment/</link>
     <description>Recent content in Entertainment on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 19:24:33 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/category/entertainment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2015 22:40:30 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/entertainment/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sumoing</title>
+      <link>http://lapa.ninja/post/sumoing/</link>
+      <pubDate>Fri, 16 Oct 2015 22:40:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sumoing/</guid>
+      <description>
+        
+        <p>Coloring book app for adults</p>
+        <img src="http://lapa.ninja/assets/images/sumoing.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>VOX Player for iPhone</title>
+      <link>http://lapa.ninja/post/vox-for-iphone/</link>
+      <pubDate>Fri, 16 Oct 2015 20:37:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/vox-for-iphone/</guid>
+      <description>
+        
+        <p>VOX – Music player for Mac OS with a minimalistic UI reflecting the future. Supports all popular audio formats like MP3, FLAC, AAC, WAV &amp; more!</p>
+        <img src="http://lapa.ninja/assets/images/Vox.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Wildcard</title>
+      <link>http://lapa.ninja/post/wildcard/</link>
+      <pubDate>Fri, 16 Oct 2015 19:32:26 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wildcard/</guid>
+      <description>
+        
+        <p>Wildcard is a new way to meet people that matter at events, meetups, conferences and basically any place. Wildcard gives you an icebreaker, a conversation starter to connect with professionals around you.</p>
+        <img src="http://lapa.ninja/assets/images/wilcard.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Flat</title>
+      <link>http://lapa.ninja/post/flat-io/</link>
+      <pubDate>Fri, 16 Oct 2015 19:27:46 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/flat-io/</guid>
+      <description>
+        
+        <p>Compose your music online with your smartphone, tablet and laptop with your friends at the same time. Also available for Google Drive and Google Hangouts.</p>
+        <img src="http://lapa.ninja/assets/images/flat.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Now - Spotify</title>
-      <link>http://new.lapa.ninja/post/now-spotify/</link>
+      <link>http://lapa.ninja/post/now-spotify/</link>
       <pubDate>Fri, 16 Oct 2015 19:24:33 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/now-spotify/</guid>
+      <guid>http://lapa.ninja/post/now-spotify/</guid>
       <description>
         
         <p>Catch up with the news, watch a quick video, and get music that matches the beat of your run.</p>
-        <img src="http://new.lapa.ninja/assets/images/now.jpg" />
+        <img src="http://lapa.ninja/assets/images/now.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Triip</title>
+      <link>http://lapa.ninja/post/triip-me/</link>
+      <pubDate>Thu, 15 Oct 2015 21:57:05 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/triip-me/</guid>
+      <description>
+        
+        <p>Triip is the travel platform that enables travelers to enjoy the best private tours passionately crafted by handpicked local tour guides</p>
+        <img src="http://lapa.ninja/assets/images/triipme.jpg" />
 
 
       </description>
@@ -26,14 +101,44 @@
     
     <item>
       <title>Musixmatch Apps</title>
-      <link>http://new.lapa.ninja/post/musixmatch-apps/</link>
+      <link>http://lapa.ninja/post/musixmatch-apps/</link>
       <pubDate>Thu, 15 Oct 2015 21:54:20 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/musixmatch-apps/</guid>
+      <guid>http://lapa.ninja/post/musixmatch-apps/</guid>
       <description>
         
         <p>Musixmatch is the World&#39;s Largest Lyrics Catalog available on mobile and desktop</p>
-        <img src="http://new.lapa.ninja/assets/images/Musixmatch.jpg" />
+        <img src="http://lapa.ninja/assets/images/Musixmatch.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Wonders</title>
+      <link>http://lapa.ninja/post/wonders/</link>
+      <pubDate>Thu, 15 Oct 2015 21:42:01 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wonders/</guid>
+      <description>
+        
+        <p>Amazing hand-picked stories about travel &amp; outdoor culture</p>
+        <img src="http://lapa.ninja/assets/images/Wonders.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>ILY</title>
+      <link>http://lapa.ninja/post/ily/</link>
+      <pubDate>Thu, 15 Oct 2015 21:14:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ily/</guid>
+      <description>
+        
+        <p>The simplest way to bring everyone in your family together from ages 3 to 93.</p>
+        <img src="http://lapa.ninja/assets/images/ily.jpg" />
 
 
       </description>
@@ -41,14 +146,29 @@
     
     <item>
       <title>Cloud Player</title>
-      <link>http://new.lapa.ninja/post/cloud-player/</link>
+      <link>http://lapa.ninja/post/cloud-player/</link>
       <pubDate>Thu, 15 Oct 2015 21:04:52 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/cloud-player/</guid>
+      <guid>http://lapa.ninja/post/cloud-player/</guid>
       <description>
         
         <p>CloudPlayer - a doubleTwist app designed in stunning Material Design by Pictogram</p>
-        <img src="http://new.lapa.ninja/assets/images/cloudplayer.jpg" />
+        <img src="http://lapa.ninja/assets/images/cloudplayer.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Vee For Video</title>
+      <link>http://lapa.ninja/post/vee-for-video/</link>
+      <pubDate>Thu, 15 Oct 2015 17:57:19 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/vee-for-video/</guid>
+      <description>
+        
+        <p>Vee helps you create beautiful videos with an entirely new way to shoot, edit and share. Combine your clips together with high quality filters into stories you&#39;ll love to share.</p>
+        <img src="http://lapa.ninja/assets/images/vee.png" />
 
 
       </description>
@@ -56,14 +176,14 @@
     
     <item>
       <title>Spotify</title>
-      <link>http://new.lapa.ninja/post/spotify/</link>
+      <link>http://lapa.ninja/post/spotify/</link>
       <pubDate>Tue, 13 Oct 2015 17:24:07 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/spotify/</guid>
+      <guid>http://lapa.ninja/post/spotify/</guid>
       <description>
         
         <p>Spotify is a digital music service that gives you access to millions of songs.</p>
-        <img src="http://new.lapa.ninja/assets/images/spotify-uk-thumb.jpg" />
+        <img src="http://lapa.ninja/assets/images/spotify-uk.jpg" />
 
 
       </description>

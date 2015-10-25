@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Segment on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/segment/</link>
+    <link>http://lapa.ninja/tag/segment/</link>
     <description>Recent content in Segment on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2015 20:42:46 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/segment/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/segment/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Segment</title>
-      <link>http://new.lapa.ninja/post/segment/</link>
+      <link>http://lapa.ninja/post/segment/</link>
       <pubDate>Fri, 16 Oct 2015 20:42:46 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/segment/</guid>
+      <guid>http://lapa.ninja/post/segment/</guid>
       <description>
         
         <p>Segment is one place to collect customer data and send it to your tools for analytics, marketing automation, and raw data access with SQL.</p>
-        <img src="http://new.lapa.ninja/assets/images/segment.jpg" />
+        <img src="http://lapa.ninja/assets/images/segment.jpg" />
 
 
       </description>

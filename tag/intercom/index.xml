@@ -2,23 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intercom on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/intercom/</link>
+    <link>http://lapa.ninja/tag/intercom/</link>
     <description>Recent content in Intercom on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2015 23:42:34 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/intercom/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/intercom/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Intercom</title>
-      <link>http://new.lapa.ninja/post/say-no/</link>
+      <link>http://lapa.ninja/post/say-no/</link>
       <pubDate>Fri, 16 Oct 2015 23:42:34 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/say-no/</guid>
+      <guid>http://lapa.ninja/post/say-no/</guid>
       <description>
         
         <p>A great product manager knows how to say no to ideas that don’t serve their vision. See 8 tempting reasons to build a feature, and why you should just say no.</p>
-        <img src="http://new.lapa.ninja/assets/images/productstrategymeanssayingno.jpg" />
+        <img src="http://lapa.ninja/assets/images/productstrategymeanssayingno.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Intercom</title>
+      <link>http://lapa.ninja/post/intercom/</link>
+      <pubDate>Wed, 14 Oct 2015 16:09:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/intercom/</guid>
+      <description>
+        
+        <p>Intercom is one place for every team in an internet business to communicate with customers, personally, at scale—on your website, inside web and mobile apps, and by email.</p>
+        <img src="http://lapa.ninja/assets/images/intercom-io.jpg" />
 
 
       </description>

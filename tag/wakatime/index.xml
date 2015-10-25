@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wakatime on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/wakatime/</link>
+    <link>http://lapa.ninja/tag/wakatime/</link>
     <description>Recent content in Wakatime on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 21:46:54 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/wakatime/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/wakatime/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>WakaTime</title>
-      <link>http://new.lapa.ninja/post/wakatime/</link>
+      <link>http://lapa.ninja/post/wakatime/</link>
       <pubDate>Thu, 15 Oct 2015 21:46:54 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/wakatime/</guid>
+      <guid>http://lapa.ninja/post/wakatime/</guid>
       <description>
         
         <p>Open-source text editor plugins for metrics about your programming.</p>
-        <img src="http://new.lapa.ninja/assets/images/wakatime.jpg" />
+        <img src="http://lapa.ninja/assets/images/wakatime.jpg" />
 
 
       </description>

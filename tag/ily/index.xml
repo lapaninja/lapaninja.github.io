@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ily on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/ily/</link>
+    <link>http://lapa.ninja/tag/ily/</link>
     <description>Recent content in Ily on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 21:14:39 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/ily/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/ily/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ILY</title>
-      <link>http://new.lapa.ninja/post/ily/</link>
+      <link>http://lapa.ninja/post/ily/</link>
       <pubDate>Thu, 15 Oct 2015 21:14:39 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/ily/</guid>
+      <guid>http://lapa.ninja/post/ily/</guid>
       <description>
         
         <p>The simplest way to bring everyone in your family together from ages 3 to 93.</p>
-        <img src="http://new.lapa.ninja/assets/images/ily.jpg" />
+        <img src="http://lapa.ninja/assets/images/ily.jpg" />
 
 
       </description>

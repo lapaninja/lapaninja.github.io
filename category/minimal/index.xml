@@ -2,23 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minimal on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/category/minimal/</link>
+    <link>http://lapa.ninja/category/minimal/</link>
     <description>Recent content in Minimal on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2015 17:43:43 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/category/minimal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2015 19:27:46 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/minimal/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Flat</title>
+      <link>http://lapa.ninja/post/flat-io/</link>
+      <pubDate>Fri, 16 Oct 2015 19:27:46 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/flat-io/</guid>
+      <description>
+        
+        <p>Compose your music online with your smartphone, tablet and laptop with your friends at the same time. Also available for Google Drive and Google Hangouts.</p>
+        <img src="http://lapa.ninja/assets/images/flat.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>NeuBible</title>
+      <link>http://lapa.ninja/post/neubible/</link>
+      <pubDate>Thu, 15 Oct 2015 21:39:26 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/neubible/</guid>
+      <description>
+        
+        <p>NeuBible. A Bible app designed for you</p>
+        <img src="http://lapa.ninja/assets/images/neubible.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Numi</title>
-      <link>http://new.lapa.ninja/post/numi/</link>
+      <link>http://lapa.ninja/post/numi/</link>
       <pubDate>Thu, 15 Oct 2015 17:43:43 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/numi/</guid>
+      <guid>http://lapa.ninja/post/numi/</guid>
       <description>
         
         <p>Numi calculator for Yosemite that blends math with text. It can be used as currency converter, unit converter, science calculator or scientific calculator.</p>
-        <img src="http://new.lapa.ninja/assets/images/numi.jpg" />
+        <img src="http://lapa.ninja/assets/images/numi.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Wake</title>
+      <link>http://lapa.ninja/post/wake-io/</link>
+      <pubDate>Thu, 15 Oct 2015 16:30:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wake-io/</guid>
+      <description>
+        
+        <p>A private space to share and discuss design work with your team.</p>
+        <img src="http://lapa.ninja/assets/images/wake-io.jpg" />
 
 
       </description>

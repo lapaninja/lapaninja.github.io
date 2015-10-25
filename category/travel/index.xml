@@ -2,23 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/category/travel/</link>
+    <link>http://lapa.ninja/category/travel/</link>
     <description>Recent content in Travel on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 21:57:05 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/category/travel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/category/travel/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Triip</title>
-      <link>http://new.lapa.ninja/post/triip-me/</link>
+      <link>http://lapa.ninja/post/triip-me/</link>
       <pubDate>Thu, 15 Oct 2015 21:57:05 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/triip-me/</guid>
+      <guid>http://lapa.ninja/post/triip-me/</guid>
       <description>
         
         <p>Triip is the travel platform that enables travelers to enjoy the best private tours passionately crafted by handpicked local tour guides</p>
-        <img src="http://new.lapa.ninja/assets/images/triipme.jpg" />
+        <img src="http://lapa.ninja/assets/images/triipme.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Wonders</title>
+      <link>http://lapa.ninja/post/wonders/</link>
+      <pubDate>Thu, 15 Oct 2015 21:42:01 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wonders/</guid>
+      <description>
+        
+        <p>Amazing hand-picked stories about travel &amp; outdoor culture</p>
+        <img src="http://lapa.ninja/assets/images/Wonders.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Day One</title>
+      <link>http://lapa.ninja/post/day-one/</link>
+      <pubDate>Thu, 15 Oct 2015 16:04:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/day-one/</guid>
+      <description>
+        
+        <p>A simple journal application for the Mac and iPhone.</p>
+        <img src="http://lapa.ninja/assets/images/day-one.jpg" />
 
 
       </description>

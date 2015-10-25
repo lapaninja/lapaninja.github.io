@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Numi on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/numi/</link>
+    <link>http://lapa.ninja/tag/numi/</link>
     <description>Recent content in Numi on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 17:43:43 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/numi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/numi/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Numi</title>
-      <link>http://new.lapa.ninja/post/numi/</link>
+      <link>http://lapa.ninja/post/numi/</link>
       <pubDate>Thu, 15 Oct 2015 17:43:43 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/numi/</guid>
+      <guid>http://lapa.ninja/post/numi/</guid>
       <description>
         
         <p>Numi calculator for Yosemite that blends math with text. It can be used as currency converter, unit converter, science calculator or scientific calculator.</p>
-        <img src="http://new.lapa.ninja/assets/images/numi.jpg" />
+        <img src="http://lapa.ninja/assets/images/numi.jpg" />
 
 
       </description>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Handwriting on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/handwriting/</link>
+    <link>http://lapa.ninja/tag/handwriting/</link>
     <description>Recent content in Handwriting on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 20:50:41 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/handwriting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/handwriting/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Handwriting.io</title>
-      <link>http://new.lapa.ninja/post/handwriting-io/</link>
+      <link>http://lapa.ninja/post/handwriting-io/</link>
       <pubDate>Thu, 15 Oct 2015 20:50:41 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/handwriting-io/</guid>
+      <guid>http://lapa.ninja/post/handwriting-io/</guid>
       <description>
         
         <p>Reimagining handwriting in a digital age</p>
-        <img src="http://new.lapa.ninja/assets/images/handwriting.png" />
+        <img src="http://lapa.ninja/assets/images/handwriting.png" />
 
 
       </description>

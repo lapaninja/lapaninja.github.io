@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/google/</link>
+    <link>http://lapa.ninja/tag/google/</link>
     <description>Recent content in Google on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2015 21:55:04 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/google/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/google/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Google Cardboard</title>
-      <link>http://new.lapa.ninja/post/google-cardboard/</link>
+      <link>http://lapa.ninja/post/google-cardboard/</link>
       <pubDate>Fri, 16 Oct 2015 21:55:04 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/google-cardboard/</guid>
+      <guid>http://lapa.ninja/post/google-cardboard/</guid>
       <description>
         
         <p>Turn your smartphone into a virtual reality viewer that’s simple, fun, and affordable.</p>
-        <img src="http://new.lapa.ninja/assets/images/google-cardboard.jpg" />
+        <img src="http://lapa.ninja/assets/images/google-cardboard.jpg" />
 
 
       </description>

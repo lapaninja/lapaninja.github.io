@@ -2,23 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photography on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/category/photography/</link>
+    <link>http://lapa.ninja/category/photography/</link>
     <description>Recent content in Photography on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 20:30:34 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/category/photography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2015 23:34:24 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adobe Portfolio</title>
+      <link>http://lapa.ninja/post/myportfolio/</link>
+      <pubDate>Fri, 16 Oct 2015 23:34:24 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/myportfolio/</guid>
+      <description>
+        
+        <p>Quickly and simply build a personalized website to showcase your creative work with Adobe Portfolio. Now included free with any Creative Cloud subscription.</p>
+        <img src="http://lapa.ninja/assets/images/myportfolio.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>WonderBox</title>
+      <link>http://lapa.ninja/post/wonderbox/</link>
+      <pubDate>Fri, 16 Oct 2015 23:29:49 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wonderbox/</guid>
+      <description>
+        
+        <p>Explore, create, and share with family and friends.</p>
+        <img src="http://lapa.ninja/assets/images/wonderbox.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tookapic</title>
+      <link>http://lapa.ninja/post/tookapic/</link>
+      <pubDate>Fri, 16 Oct 2015 22:22:09 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tookapic/</guid>
+      <description>
+        
+        <p>Tookapic was made to help you develop a habit of daily photo taking in a fun and addictive way.</p>
+        <img src="http://lapa.ninja/assets/images/tookapic.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Avocode</title>
-      <link>http://new.lapa.ninja/post/avocode/</link>
+      <link>http://lapa.ninja/post/avocode/</link>
       <pubDate>Fri, 16 Oct 2015 20:30:34 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/avocode/</guid>
+      <guid>http://lapa.ninja/post/avocode/</guid>
       <description>
         
         <p>The smartest way to share designs, export assets and collaborate with your team.</p>
-        <img src="http://new.lapa.ninja/assets/images/avocode.jpg" />
+        <img src="http://lapa.ninja/assets/images/avocode.jpg" />
 
 
       </description>
@@ -26,14 +71,89 @@
     
     <item>
       <title>Affinity Photo</title>
-      <link>http://new.lapa.ninja/post/affinity-photo/</link>
+      <link>http://lapa.ninja/post/affinity-photo/</link>
       <pubDate>Fri, 16 Oct 2015 19:34:58 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/affinity-photo/</guid>
+      <guid>http://lapa.ninja/post/affinity-photo/</guid>
       <description>
         
         <p>Affinity Photo - the fastest, smoothest, most precise professional image editing software, exclusively for Mac.</p>
-        <img src="http://new.lapa.ninja/assets/images/affinity-photo.jpg" />
+        <img src="http://lapa.ninja/assets/images/affinity-photo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pixelmator for Mac</title>
+      <link>http://lapa.ninja/post/pixelmator-for-mac/</link>
+      <pubDate>Fri, 16 Oct 2015 19:30:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pixelmator-for-mac/</guid>
+      <description>
+        
+        <p>The world’s most innovative, fastest, full-featured, and powerful image editing app for the Mac that has everything you need to create and edit your images.</p>
+        <img src="http://lapa.ninja/assets/images/pixelmator.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Mockuuups</title>
+      <link>http://lapa.ninja/post/mockuuups/</link>
+      <pubDate>Thu, 15 Oct 2015 21:44:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mockuuups/</guid>
+      <description>
+        
+        <p>Beautiful high-resolution mockups to present your designs and prototypes. Loved by designers worldwide and compatible with Photoshop &amp; Sketch.</p>
+        <img src="http://lapa.ninja/assets/images/Mockuuups.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Jackie Tran Anh</title>
+      <link>http://lapa.ninja/post/jackie-tran-anh/</link>
+      <pubDate>Thu, 15 Oct 2015 21:23:35 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/jackie-tran-anh/</guid>
+      <description>
+        
+        <p>Jackie Tran is a Czech - Viet Visual Designer &amp; Photographer based in Prague.</p>
+        <img src="http://lapa.ninja/assets/images/jackie.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>ILY</title>
+      <link>http://lapa.ninja/post/ily/</link>
+      <pubDate>Thu, 15 Oct 2015 21:14:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ily/</guid>
+      <description>
+        
+        <p>The simplest way to bring everyone in your family together from ages 3 to 93.</p>
+        <img src="http://lapa.ninja/assets/images/ily.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Kredo</title>
+      <link>http://lapa.ninja/post/kredo/</link>
+      <pubDate>Wed, 14 Oct 2015 15:57:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/kredo/</guid>
+      <description>
+        
+        <p>Your professional portfolio, reimagined. The premier creative network for photographers, designers, illustrators, and artists. Free download for iPad.</p>
+        <img src="http://lapa.ninja/assets/images/kredo.jpg" />
 
 
       </description>

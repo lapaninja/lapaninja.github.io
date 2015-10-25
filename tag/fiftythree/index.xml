@@ -2,23 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fiftythree on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/fiftythree/</link>
+    <link>http://lapa.ninja/tag/fiftythree/</link>
     <description>Recent content in Fiftythree on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2015 22:32:30 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/fiftythree/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/fiftythree/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pencil by FiftyThree</title>
-      <link>http://new.lapa.ninja/post/fiftythree-pencil/</link>
+      <link>http://lapa.ninja/post/fiftythree-pencil/</link>
       <pubDate>Fri, 16 Oct 2015 22:32:30 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/fiftythree-pencil/</guid>
+      <guid>http://lapa.ninja/post/fiftythree-pencil/</guid>
       <description>
         
         <p>Pencil by FiftyThree is a revolutionary stylus for touch-screen devices. Use Pencil with Paper to express your ideas beautifully and easily.</p>
-        <img src="http://new.lapa.ninja/assets/images/53-pencil.jpg" />
+        <img src="http://lapa.ninja/assets/images/53-pencil.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Think with Paper by FiftyThree</title>
+      <link>http://lapa.ninja/post/fiftythree-think/</link>
+      <pubDate>Thu, 15 Oct 2015 17:02:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/fiftythree-think/</guid>
+      <description>
+        
+        <p>Think Kit’s Diagram, Fill, and Cut tools make it fast and easy to draw charts, diagrams, graphs, flows, wireframes, and models. Use them to sketch perfect shapes and connectors, and create presentation­-ready visual model. Anything you create can then be exported directly to PowerPoint, Keynote, or your favorite iPad apps, and shared with colleagues everywhere.</p>
+        <img src="http://lapa.ninja/assets/images/FiftyThree-Think.jpg" />
 
 
       </description>
@@ -26,14 +41,14 @@
     
     <item>
       <title>FiftyThree</title>
-      <link>http://new.lapa.ninja/post/fiftythree/</link>
+      <link>http://lapa.ninja/post/fiftythree/</link>
       <pubDate>Thu, 15 Oct 2015 16:40:49 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/fiftythree/</guid>
+      <guid>http://lapa.ninja/post/fiftythree/</guid>
       <description>
         
         <p>FiftyThree builds tools for mobile creation. Our first product, Paper, is the easiest and most beautiful way to create on the iPad and iPhone. FiftyThree is the space to create.</p>
-        <img src="http://new.lapa.ninja/assets/images/FiftyThree.jpg" />
+        <img src="http://lapa.ninja/assets/images/FiftyThree.jpg" />
 
 
       </description>

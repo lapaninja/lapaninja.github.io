@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scrapd on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/scrapd/</link>
+    <link>http://lapa.ninja/tag/scrapd/</link>
     <description>Recent content in Scrapd on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2015 20:57:01 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/scrapd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/scrapd/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Scrapd</title>
-      <link>http://new.lapa.ninja/post/scrapd/</link>
+      <link>http://lapa.ninja/post/scrapd/</link>
       <pubDate>Fri, 16 Oct 2015 20:57:01 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/scrapd/</guid>
+      <guid>http://lapa.ninja/post/scrapd/</guid>
       <description>
         
         <p>Organise the creative projects you work on in a structured and visually appealing interface.</p>
-        <img src="http://new.lapa.ninja/assets/images/scrapd.jpg" />
+        <img src="http://lapa.ninja/assets/images/scrapd.jpg" />
 
 
       </description>

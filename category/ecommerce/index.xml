@@ -2,23 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ecommerce on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/category/ecommerce/</link>
+    <link>http://lapa.ninja/category/ecommerce/</link>
     <description>Recent content in Ecommerce on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 23:09:34 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/category/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2015 23:23:16 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gusto</title>
+      <link>http://lapa.ninja/post/gusto/</link>
+      <pubDate>Fri, 16 Oct 2015 23:23:16 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/gusto/</guid>
+      <description>
+        
+        <p>Gusto. Payroll, benefits and compliance in one integrated product. We&#39;re here to change how the world works, and put people first.</p>
+        <img src="http://lapa.ninja/assets/images/gusto.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Montage</title>
-      <link>http://new.lapa.ninja/post/montagebook/</link>
+      <link>http://lapa.ninja/post/montagebook/</link>
       <pubDate>Fri, 16 Oct 2015 23:09:34 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/montagebook/</guid>
+      <guid>http://lapa.ninja/post/montagebook/</guid>
       <description>
         
         <p>Montage is the perfect way to bring your photos to life. Give it as a gift, show it off on your coffee table, or use it to relive life&#39;s best moments.</p>
-        <img src="http://new.lapa.ninja/assets/images/montage.jpg" />
+        <img src="http://lapa.ninja/assets/images/montage.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Five Simple Steps</title>
+      <link>http://lapa.ninja/post/fivesimplesteps/</link>
+      <pubDate>Fri, 16 Oct 2015 22:46:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/fivesimplesteps/</guid>
+      <description>
+        
+        <p>Five Simple Steps publishes books aimed at web designers and developers. Beautiful, practical and built to last.</p>
+        <img src="http://lapa.ninja/assets/images/fivesimplesteps.jpg" />
 
 
       </description>
@@ -26,14 +56,14 @@
     
     <item>
       <title>PayPal.Me</title>
-      <link>http://new.lapa.ninja/post/paypal-me/</link>
+      <link>http://lapa.ninja/post/paypal-me/</link>
       <pubDate>Fri, 16 Oct 2015 22:35:40 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/paypal-me/</guid>
+      <guid>http://lapa.ninja/post/paypal-me/</guid>
       <description>
         
         <p>The link to getting paid</p>
-        <img src="http://new.lapa.ninja/assets/images/paypalme.jpg" />
+        <img src="http://lapa.ninja/assets/images/paypalme.jpg" />
 
 
       </description>
@@ -41,14 +71,44 @@
     
     <item>
       <title>Misfit App</title>
-      <link>http://new.lapa.ninja/post/misfit/</link>
+      <link>http://lapa.ninja/post/misfit/</link>
       <pubDate>Fri, 16 Oct 2015 22:10:02 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/misfit/</guid>
+      <guid>http://lapa.ninja/post/misfit/</guid>
       <description>
         
         <p>Misfit invents and manufactures premium wearable computing products, such as the Shine and Flash.</p>
-        <img src="http://new.lapa.ninja/assets/images/misfit.jpg" />
+        <img src="http://lapa.ninja/assets/images/misfit.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Flightfox</title>
+      <link>http://lapa.ninja/post/flightfox/</link>
+      <pubDate>Fri, 16 Oct 2015 21:57:44 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/flightfox/</guid>
+      <description>
+        
+        <p>Fly better for less by working with genuine flight experts.</p>
+        <img src="http://lapa.ninja/assets/images/flightfox.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Recurly</title>
+      <link>http://lapa.ninja/post/recurly/</link>
+      <pubDate>Fri, 16 Oct 2015 21:09:46 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/recurly/</guid>
+      <description>
+        
+        <p>Subscription billing and recurring billing management.  Recurly offers enterprise-class subscription billing for thousands of companies worldwide.</p>
+        <img src="http://lapa.ninja/assets/images/recurly.jpg" />
 
 
       </description>
@@ -56,14 +116,59 @@
     
     <item>
       <title>Apple</title>
-      <link>http://new.lapa.ninja/post/apple-store/</link>
+      <link>http://lapa.ninja/post/apple-store/</link>
       <pubDate>Thu, 15 Oct 2015 22:06:11 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/apple-store/</guid>
+      <guid>http://lapa.ninja/post/apple-store/</guid>
       <description>
         
         <p>Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, iOS, OS X, watchOS and more. Visit the site to learn, buy, and get support.</p>
-        <img src="http://new.lapa.ninja/assets/images/apple-store.jpg" />
+        <img src="http://lapa.ninja/assets/images/apple-store.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Mockuuups</title>
+      <link>http://lapa.ninja/post/mockuuups/</link>
+      <pubDate>Thu, 15 Oct 2015 21:44:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mockuuups/</guid>
+      <description>
+        
+        <p>Beautiful high-resolution mockups to present your designs and prototypes. Loved by designers worldwide and compatible with Photoshop &amp; Sketch.</p>
+        <img src="http://lapa.ninja/assets/images/Mockuuups.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Grovemade</title>
+      <link>http://lapa.ninja/post/grovemade/</link>
+      <pubDate>Thu, 15 Oct 2015 17:27:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/grovemade/</guid>
+      <description>
+        
+        <p>We are a family of creators – close knit and a little crazy – handcrafting goods at our workshop in Portland, Oregon. We make beautiful products from quality materials because we believe each one is a representation of who we are.</p>
+        <img src="http://lapa.ninja/assets/images/grovemade.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sush.io</title>
+      <link>http://lapa.ninja/post/sushio/</link>
+      <pubDate>Wed, 14 Oct 2015 16:58:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sushio/</guid>
+      <description>
+        
+        <p>Reconcile Stripe &amp; Paypal sales receipts, fees and even transfers into deposits, automatically</p>
+        <img src="http://lapa.ninja/assets/images/sushio.jpg" />
 
 
       </description>

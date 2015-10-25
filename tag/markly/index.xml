@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markly on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/markly/</link>
+    <description>Recent content in Markly on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Oct 2015 16:12:32 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/markly/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Markly App</title>
+      <link>http://lapa.ninja/post/markly-app/</link>
+      <pubDate>Thu, 15 Oct 2015 16:12:32 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/markly-app/</guid>
+      <description>
+        
+        <p>Markly is a fun way to create and design specs for your design works. It is maded for today&#39;s web and mobile designers, with Adobe Photoshop CC &amp; Sketch supported. Best Sketch / Photoshop spec plugin!</p>
+        <img src="http://lapa.ninja/assets/images/markly.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

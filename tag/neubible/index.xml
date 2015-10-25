@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neubible on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/neubible/</link>
+    <link>http://lapa.ninja/tag/neubible/</link>
     <description>Recent content in Neubible on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 21:39:26 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/neubible/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/neubible/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>NeuBible</title>
-      <link>http://new.lapa.ninja/post/neubible/</link>
+      <link>http://lapa.ninja/post/neubible/</link>
       <pubDate>Thu, 15 Oct 2015 21:39:26 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/neubible/</guid>
+      <guid>http://lapa.ninja/post/neubible/</guid>
       <description>
         
         <p>NeuBible. A Bible app designed for you</p>
-        <img src="http://new.lapa.ninja/assets/images/neubible.jpg" />
+        <img src="http://lapa.ninja/assets/images/neubible.jpg" />
 
 
       </description>

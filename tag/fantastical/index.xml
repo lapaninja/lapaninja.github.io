@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fantastical on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/fantastical/</link>
+    <description>Recent content in Fantastical on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Oct 2015 16:08:02 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/fantastical/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fantastical 2 for Mac</title>
+      <link>http://lapa.ninja/post/fantastical-2-for-mac/</link>
+      <pubDate>Thu, 15 Oct 2015 16:08:02 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/fantastical-2-for-mac/</guid>
+      <description>
+        
+        <p>Presenting Fantastical, the Mac calendar app you&#39;ll enjoy using. Quickly create new events and reminders with natural language input and more.</p>
+        <img src="http://lapa.ninja/assets/images/fantastical-apple-mac.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Fantastical 2 for Apple Watch</title>
+      <link>http://lapa.ninja/post/fantastical-watch/</link>
+      <pubDate>Wed, 14 Oct 2015 15:17:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/fantastical-watch/</guid>
+      <description>
+        
+        <p>Fantastical 2 for Apple Watch. All the fun of Fantastical, on your wrist.</p>
+        <img src="http://lapa.ninja/assets/images/fantastical-apple-watch.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

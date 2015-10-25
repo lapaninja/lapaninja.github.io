@@ -2,83 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Business on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/category/business/</link>
+    <link>http://lapa.ninja/category/business/</link>
     <description>Recent content in Business on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 21:40:00 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Oct 2015 22:13:26 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>DigitalOcean</title>
-      <link>http://new.lapa.ninja/post/digitalocean/</link>
-      <pubDate>Fri, 16 Oct 2015 21:40:00 +0700</pubDate>
+      <title>Square</title>
+      <link>http://lapa.ninja/post/squareup/</link>
+      <pubDate>Sun, 25 Oct 2015 22:13:26 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/digitalocean/</guid>
+      <guid>http://lapa.ninja/post/squareup/</guid>
       <description>
         
-        <p>Spin up an SSD cloud server, with full root access, in under a minute. Pricing starts at $5/mo for 512MB RAM, 20GB SSD, 1CPU and 1TB transfer.</p>
-        <img src="http://new.lapa.ninja/assets/images/DigitalOcean.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Recurly</title>
-      <link>http://new.lapa.ninja/post/recurly/</link>
-      <pubDate>Fri, 16 Oct 2015 21:09:46 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/recurly/</guid>
-      <description>
-        
-        <p>Subscription billing and recurring billing management.  Recurly offers enterprise-class subscription billing for thousands of companies worldwide.</p>
-        <img src="http://new.lapa.ninja/assets/images/recurly.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Oculus Rift</title>
-      <link>http://new.lapa.ninja/post/oculus-rift/</link>
-      <pubDate>Thu, 15 Oct 2015 20:54:48 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/oculus-rift/</guid>
-      <description>
-        
-        <p>The Oculus Rift is a virtual reality system that completely immerses you inside virtual worlds.</p>
-        <img src="http://new.lapa.ninja/assets/images/oculus-rift.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Streamline</title>
-      <link>http://new.lapa.ninja/post/streamline-icons/</link>
-      <pubDate>Thu, 15 Oct 2015 20:46:11 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/streamline-icons/</guid>
-      <description>
-        
-        <p>4000 Vector Icons for IOS, Android and applications. The world&#39;s largest icon collection.</p>
-        <img src="http://new.lapa.ninja/assets/images/streamline.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lily - Camera</title>
-      <link>http://new.lapa.ninja/post/lily-camera/</link>
-      <pubDate>Thu, 15 Oct 2015 16:18:10 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/lily-camera/</guid>
-      <description>
-        
-        <p>The world&#39;s first true flying camera.</p>
-        <img src="http://new.lapa.ninja/assets/images/lily-camera.jpg" />
+        <p>Square Register is a simple, powerful and free POS system. Simplify business, inventory, analytics, digital receipts and more. Download the free app today.</p>
+        <img src="http://lapa.ninja/assets/images/squareup.jpg" />
 
 
       </description>
@@ -86,14 +26,209 @@
     
     <item>
       <title>Intercom</title>
-      <link>http://new.lapa.ninja/post/intercom/</link>
-      <pubDate>Wed, 14 Oct 2015 16:09:30 +0700</pubDate>
+      <link>http://lapa.ninja/post/say-no/</link>
+      <pubDate>Fri, 16 Oct 2015 23:42:34 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/intercom/</guid>
+      <guid>http://lapa.ninja/post/say-no/</guid>
       <description>
         
-        <p>Intercom is one place for every team in an internet business to communicate with customers, personally, at scale—on your website, inside web and mobile apps, and by email.</p>
-        <img src="http://new.lapa.ninja/assets/images/intercom-io.jpg" />
+        <p>A great product manager knows how to say no to ideas that don’t serve their vision. See 8 tempting reasons to build a feature, and why you should just say no.</p>
+        <img src="http://lapa.ninja/assets/images/productstrategymeanssayingno.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Semplice</title>
+      <link>http://lapa.ninja/post/semplice/</link>
+      <pubDate>Fri, 16 Oct 2015 23:39:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/semplice/</guid>
+      <description>
+        
+        <p>With Semplice you can build fully responsive case studies &amp; custom branded project pages with just a few clicks.</p>
+        <img src="http://lapa.ninja/assets/images/semplice.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Skurt</title>
+      <link>http://lapa.ninja/post/skurtapp/</link>
+      <pubDate>Fri, 16 Oct 2015 23:36:35 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/skurtapp/</guid>
+      <description>
+        
+        <p>It’s the fastest way to rent a car. Say goodbye to long lines and paperwork. We deliver the car right to you.</p>
+        <img src="http://lapa.ninja/assets/images/skurt.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tapcore</title>
+      <link>http://lapa.ninja/post/tapcore/</link>
+      <pubDate>Fri, 16 Oct 2015 23:32:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tapcore/</guid>
+      <description>
+        
+        <p>Tapcore Mobile Ad Network</p>
+        <img src="http://lapa.ninja/assets/images/tapcore.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Asana</title>
+      <link>http://lapa.ninja/post/asana/</link>
+      <pubDate>Fri, 16 Oct 2015 23:27:47 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/asana/</guid>
+      <description>
+        
+        <p>The easiest way for teams to track work, and get results. Do great things together.</p>
+        <img src="http://lapa.ninja/assets/images/asana.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>VWO</title>
+      <link>http://lapa.ninja/post/vwo/</link>
+      <pubDate>Fri, 16 Oct 2015 23:25:31 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/vwo/</guid>
+      <description>
+        
+        <p>VWO is the easiest A/B, Split and Multivariate testing tool. Try a free 30-day trial to start optimizing your website for increased conversion rate and sales.</p>
+        <img src="http://lapa.ninja/assets/images/vwo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Gusto</title>
+      <link>http://lapa.ninja/post/gusto/</link>
+      <pubDate>Fri, 16 Oct 2015 23:23:16 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/gusto/</guid>
+      <description>
+        
+        <p>Gusto. Payroll, benefits and compliance in one integrated product. We&#39;re here to change how the world works, and put people first.</p>
+        <img src="http://lapa.ninja/assets/images/gusto.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>http://lapa.ninja/post/labphoenix/</link>
+      <pubDate>Fri, 16 Oct 2015 23:16:36 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/labphoenix/</guid>
+      <description>
+        
+        <p>A coworking space for creators of all kinds. Walking distance from great art, coffee shops &amp; restaurants. Come make stuff with us.</p>
+        <img src="http://lapa.ninja/assets/images/labphoenix.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Desk</title>
+      <link>http://lapa.ninja/post/desk-com/</link>
+      <pubDate>Fri, 16 Oct 2015 23:11:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/desk-com/</guid>
+      <description>
+        
+        <p>Desk.com is an online customer service software and support ticket help desk application for small business and fast-growing companies.</p>
+        <img src="http://lapa.ninja/assets/images/desk.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Montage</title>
+      <link>http://lapa.ninja/post/montagebook/</link>
+      <pubDate>Fri, 16 Oct 2015 23:09:34 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/montagebook/</guid>
+      <description>
+        
+        <p>Montage is the perfect way to bring your photos to life. Give it as a gift, show it off on your coffee table, or use it to relive life&#39;s best moments.</p>
+        <img src="http://lapa.ninja/assets/images/montage.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Five Simple Steps</title>
+      <link>http://lapa.ninja/post/fivesimplesteps/</link>
+      <pubDate>Fri, 16 Oct 2015 22:46:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/fivesimplesteps/</guid>
+      <description>
+        
+        <p>Five Simple Steps publishes books aimed at web designers and developers. Beautiful, practical and built to last.</p>
+        <img src="http://lapa.ninja/assets/images/fivesimplesteps.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>PayPal.Me</title>
+      <link>http://lapa.ninja/post/paypal-me/</link>
+      <pubDate>Fri, 16 Oct 2015 22:35:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/paypal-me/</guid>
+      <description>
+        
+        <p>The link to getting paid</p>
+        <img src="http://lapa.ninja/assets/images/paypalme.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pocket</title>
+      <link>http://lapa.ninja/post/getpocket/</link>
+      <pubDate>Fri, 16 Oct 2015 22:27:05 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/getpocket/</guid>
+      <description>
+        
+        <p>When you find something you want to view later, put it in Pocket.</p>
+        <img src="http://lapa.ninja/assets/images/pocket.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Selz</title>
+      <link>http://lapa.ninja/post/selz/</link>
+      <pubDate>Fri, 16 Oct 2015 22:20:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/selz/</guid>
+      <description>
+        
+        <p>Create a beautiful store or add ecommerce to your existing site and social profiles. Manage your customers, orders and process payments - all in one simple place.</p>
+        <img src="http://lapa.ninja/assets/images/selz.jpg" />
 
 
       </description>

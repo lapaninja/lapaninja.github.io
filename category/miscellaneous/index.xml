@@ -2,23 +2,233 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miscellaneous on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/category/miscellaneous/</link>
+    <link>http://lapa.ninja/category/miscellaneous/</link>
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2015 22:03:20 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2015 23:42:34 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Pistats</title>
-      <link>http://new.lapa.ninja/post/pistats-io/</link>
-      <pubDate>Thu, 15 Oct 2015 22:03:20 +0700</pubDate>
+      <title>Intercom</title>
+      <link>http://lapa.ninja/post/say-no/</link>
+      <pubDate>Fri, 16 Oct 2015 23:42:34 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/pistats-io/</guid>
+      <guid>http://lapa.ninja/post/say-no/</guid>
       <description>
         
-        <p>Your Uber and Lyft rides visualized</p>
-        <img src="http://new.lapa.ninja/assets/images/Pistats.jpg" />
+        <p>A great product manager knows how to say no to ideas that don’t serve their vision. See 8 tempting reasons to build a feature, and why you should just say no.</p>
+        <img src="http://lapa.ninja/assets/images/productstrategymeanssayingno.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tapcore</title>
+      <link>http://lapa.ninja/post/tapcore/</link>
+      <pubDate>Fri, 16 Oct 2015 23:32:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tapcore/</guid>
+      <description>
+        
+        <p>Tapcore Mobile Ad Network</p>
+        <img src="http://lapa.ninja/assets/images/tapcore.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>VWO</title>
+      <link>http://lapa.ninja/post/vwo/</link>
+      <pubDate>Fri, 16 Oct 2015 23:25:31 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/vwo/</guid>
+      <description>
+        
+        <p>VWO is the easiest A/B, Split and Multivariate testing tool. Try a free 30-day trial to start optimizing your website for increased conversion rate and sales.</p>
+        <img src="http://lapa.ninja/assets/images/vwo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lab</title>
+      <link>http://lapa.ninja/post/labphoenix/</link>
+      <pubDate>Fri, 16 Oct 2015 23:16:36 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/labphoenix/</guid>
+      <description>
+        
+        <p>A coworking space for creators of all kinds. Walking distance from great art, coffee shops &amp; restaurants. Come make stuff with us.</p>
+        <img src="http://lapa.ninja/assets/images/labphoenix.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>ReadMe.io</title>
+      <link>http://lapa.ninja/post/readme-io/</link>
+      <pubDate>Fri, 16 Oct 2015 22:43:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/readme-io/</guid>
+      <description>
+        
+        <p>A collaborative developer hub for your API or code.</p>
+        <img src="http://lapa.ninja/assets/images/readme.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>PayPal.Me</title>
+      <link>http://lapa.ninja/post/paypal-me/</link>
+      <pubDate>Fri, 16 Oct 2015 22:35:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/paypal-me/</guid>
+      <description>
+        
+        <p>The link to getting paid</p>
+        <img src="http://lapa.ninja/assets/images/paypalme.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Selz</title>
+      <link>http://lapa.ninja/post/selz/</link>
+      <pubDate>Fri, 16 Oct 2015 22:20:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/selz/</guid>
+      <description>
+        
+        <p>Create a beautiful store or add ecommerce to your existing site and social profiles. Manage your customers, orders and process payments - all in one simple place.</p>
+        <img src="http://lapa.ninja/assets/images/selz.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Revolut</title>
+      <link>http://lapa.ninja/post/revolut/</link>
+      <pubDate>Fri, 16 Oct 2015 21:51:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/revolut/</guid>
+      <description>
+        
+        <p>The new way to instantly send and spend money globally with zero fees.</p>
+        <img src="http://lapa.ninja/assets/images/revolut.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Bonsai</title>
+      <link>http://lapa.ninja/post/hellobonsai/</link>
+      <pubDate>Fri, 16 Oct 2015 21:37:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/hellobonsai/</guid>
+      <description>
+        
+        <p>Bonsai provides bulletproof freelance work contract templates, simple e-signing, and payment escrow for creative freelancers like designers and developers.</p>
+        <img src="http://lapa.ninja/assets/images/bonsai.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sigstr</title>
+      <link>http://lapa.ninja/post/sigstr/</link>
+      <pubDate>Fri, 16 Oct 2015 21:29:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sigstr/</guid>
+      <description>
+        
+        <p>Smart Marketing through Email Signatures</p>
+        <img src="http://lapa.ninja/assets/images/sigstr.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Optimizely</title>
+      <link>http://lapa.ninja/post/optimizely/</link>
+      <pubDate>Fri, 16 Oct 2015 21:22:01 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/optimizely/</guid>
+      <description>
+        
+        <p>Enterprise-level A/B testing and personalization for the web and mobile apps.</p>
+        <img src="http://lapa.ninja/assets/images/optimizely.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Vibrant</title>
+      <link>http://lapa.ninja/post/vibrant/</link>
+      <pubDate>Fri, 16 Oct 2015 21:07:27 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/vibrant/</guid>
+      <description>
+        
+        <p>A haptic communicator that creates precise taps</p>
+        <img src="http://lapa.ninja/assets/images/vibrant.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>KUKU</title>
+      <link>http://lapa.ninja/post/kuku/</link>
+      <pubDate>Fri, 16 Oct 2015 20:59:01 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/kuku/</guid>
+      <description>
+        
+        <p>Create memorable content, schedule posts and share on multiple social networks with KUKU. In seconds.</p>
+        <img src="http://lapa.ninja/assets/images/kuku.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Scrapd</title>
+      <link>http://lapa.ninja/post/scrapd/</link>
+      <pubDate>Fri, 16 Oct 2015 20:57:01 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/scrapd/</guid>
+      <description>
+        
+        <p>Organise the creative projects you work on in a structured and visually appealing interface.</p>
+        <img src="http://lapa.ninja/assets/images/scrapd.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Memrise</title>
+      <link>http://lapa.ninja/post/memrise/</link>
+      <pubDate>Fri, 16 Oct 2015 20:45:00 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/memrise/</guid>
+      <description>
+        
+        <p>The Memrise community uses images and science to make learning easy and fun. Learn a language. Learn anything.</p>
+        <img src="http://lapa.ninja/assets/images/memrise.jpg" />
 
 
       </description>

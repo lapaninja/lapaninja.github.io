@@ -2,23 +2,233 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/category/software/</link>
+    <link>http://lapa.ninja/category/software/</link>
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2015 17:34:08 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2015 23:27:47 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Onfleet</title>
-      <link>http://new.lapa.ninja/post/onfleet/</link>
-      <pubDate>Thu, 15 Oct 2015 17:34:08 +0700</pubDate>
+      <title>Asana</title>
+      <link>http://lapa.ninja/post/asana/</link>
+      <pubDate>Fri, 16 Oct 2015 23:27:47 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/onfleet/</guid>
+      <guid>http://lapa.ninja/post/asana/</guid>
       <description>
         
-        <p>Onfleet&#39;s delivery management software simplifies your local deliveries from start to finish, allowing you to focus more on what really matters.</p>
-        <img src="http://new.lapa.ninja/assets/images/onfleet.png" />
+        <p>The easiest way for teams to track work, and get results. Do great things together.</p>
+        <img src="http://lapa.ninja/assets/images/asana.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>VWO</title>
+      <link>http://lapa.ninja/post/vwo/</link>
+      <pubDate>Fri, 16 Oct 2015 23:25:31 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/vwo/</guid>
+      <description>
+        
+        <p>VWO is the easiest A/B, Split and Multivariate testing tool. Try a free 30-day trial to start optimizing your website for increased conversion rate and sales.</p>
+        <img src="http://lapa.ninja/assets/images/vwo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Dropmark</title>
+      <link>http://lapa.ninja/post/dropmark/</link>
+      <pubDate>Fri, 16 Oct 2015 23:14:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dropmark/</guid>
+      <description>
+        
+        <p>All your stuff in one simple, visual, private place</p>
+        <img src="http://lapa.ninja/assets/images/dropmark.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Layer</title>
+      <link>http://lapa.ninja/post/layer/</link>
+      <pubDate>Fri, 16 Oct 2015 22:52:51 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/layer/</guid>
+      <description>
+        
+        <p>Mobile and web messaging, built for developers.</p>
+        <img src="http://lapa.ninja/assets/images/layer.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Flow</title>
+      <link>http://lapa.ninja/post/getflow/</link>
+      <pubDate>Fri, 16 Oct 2015 22:51:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/getflow/</guid>
+      <description>
+        
+        <p>Flow is project management software that simplifies teamwork. Use it to plan projects, prioritize to-dos, delegate tasks, and collaborate beautifully.</p>
+        <img src="http://lapa.ninja/assets/images/getflow.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Do</title>
+      <link>http://lapa.ninja/post/do-com/</link>
+      <pubDate>Fri, 16 Oct 2015 22:48:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/do-com/</guid>
+      <description>
+        
+        <p>Do helps you run productive meetings. Do work you love.</p>
+        <img src="http://lapa.ninja/assets/images/do-com.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Symu</title>
+      <link>http://lapa.ninja/post/symu/</link>
+      <pubDate>Fri, 16 Oct 2015 22:45:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/symu/</guid>
+      <description>
+        
+        <p>Show your web design in a web browser, free tool for designers</p>
+        <img src="http://lapa.ninja/assets/images/symu.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>ReadMe.io</title>
+      <link>http://lapa.ninja/post/readme-io/</link>
+      <pubDate>Fri, 16 Oct 2015 22:43:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/readme-io/</guid>
+      <description>
+        
+        <p>A collaborative developer hub for your API or code.</p>
+        <img src="http://lapa.ninja/assets/images/readme.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sumoing</title>
+      <link>http://lapa.ninja/post/sumoing/</link>
+      <pubDate>Fri, 16 Oct 2015 22:40:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sumoing/</guid>
+      <description>
+        
+        <p>Coloring book app for adults</p>
+        <img src="http://lapa.ninja/assets/images/sumoing.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Frontify</title>
+      <link>http://lapa.ninja/post/frontify/</link>
+      <pubDate>Fri, 16 Oct 2015 22:38:16 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/frontify/</guid>
+      <description>
+        
+        <p>Frontify is a software company based somewhere between Switzerlands deepest blue lakes and highest snowy mountains. Their chocolate fueled craftsmen develop web based apps that help you master the entire web design-to-development workflow (Frontify Workspace), collaborate joyfully and create professional brand &amp; design style guides (Frontify Style Guide).</p>
+        <img src="http://lapa.ninja/assets/images/frontify.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Apple Pencil</title>
+      <link>http://lapa.ninja/post/apple-pencil/</link>
+      <pubDate>Fri, 16 Oct 2015 22:29:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/apple-pencil/</guid>
+      <description>
+        
+        <p>Apple Pencil for iPad Pro. Completely familiar. Entirely revolutionary.</p>
+        <img src="http://lapa.ninja/assets/images/apple-pencil.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Next</title>
+      <link>http://lapa.ninja/post/next-keyboard/</link>
+      <pubDate>Fri, 16 Oct 2015 22:24:47 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/next-keyboard/</guid>
+      <description>
+        
+        <p>Next comes fully loaded with lightning speed editing, predictive typing, all the emojis you love plus more, playful stickers and stunning themes.</p>
+        <img src="http://lapa.ninja/assets/images/next-keyboard.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Selz</title>
+      <link>http://lapa.ninja/post/selz/</link>
+      <pubDate>Fri, 16 Oct 2015 22:20:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/selz/</guid>
+      <description>
+        
+        <p>Create a beautiful store or add ecommerce to your existing site and social profiles. Manage your customers, orders and process payments - all in one simple place.</p>
+        <img src="http://lapa.ninja/assets/images/selz.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Evernote</title>
+      <link>http://lapa.ninja/post/evernote/</link>
+      <pubDate>Fri, 16 Oct 2015 21:44:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/evernote/</guid>
+      <description>
+        
+        <p>Bring your life&#39;s work together in one digital workspace. Evernote is the place to collect inspirational ideas, write meaningful words, and move your important projects forward.</p>
+        <img src="http://lapa.ninja/assets/images/evernote.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Nylas</title>
+      <link>http://lapa.ninja/post/nylas/</link>
+      <pubDate>Fri, 16 Oct 2015 21:42:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/nylas/</guid>
+      <description>
+        
+        <p>Nylas provides a modern developer platform for email, contacts, and calendar. Stop fighting old protocols, and start building great products.</p>
+        <img src="http://lapa.ninja/assets/images/nylas.jpg" />
 
 
       </description>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memrise on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/memrise/</link>
+    <link>http://lapa.ninja/tag/memrise/</link>
     <description>Recent content in Memrise on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2015 20:45:00 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/memrise/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/memrise/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Memrise</title>
-      <link>http://new.lapa.ninja/post/memrise/</link>
+      <link>http://lapa.ninja/post/memrise/</link>
       <pubDate>Fri, 16 Oct 2015 20:45:00 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/memrise/</guid>
+      <guid>http://lapa.ninja/post/memrise/</guid>
       <description>
         
         <p>The Memrise community uses images and science to make learning easy and fun. Learn a language. Learn anything.</p>
-        <img src="http://new.lapa.ninja/assets/images/memrise.jpg" />
+        <img src="http://lapa.ninja/assets/images/memrise.jpg" />
 
 
       </description>

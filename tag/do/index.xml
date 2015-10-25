@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Do on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/tag/do/</link>
+    <link>http://lapa.ninja/tag/do/</link>
     <description>Recent content in Do on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2015 22:48:56 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/tag/do/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lapa.ninja/tag/do/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Do</title>
-      <link>http://new.lapa.ninja/post/do-com/</link>
+      <link>http://lapa.ninja/post/do-com/</link>
       <pubDate>Fri, 16 Oct 2015 22:48:56 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/do-com/</guid>
+      <guid>http://lapa.ninja/post/do-com/</guid>
       <description>
         
         <p>Do helps you run productive meetings. Do work you love.</p>
-        <img src="http://new.lapa.ninja/assets/images/do-com.jpg" />
+        <img src="http://lapa.ninja/assets/images/do-com.jpg" />
 
 
       </description>

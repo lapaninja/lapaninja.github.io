@@ -2,38 +2,233 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creative on Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/category/creative/</link>
+    <link>http://lapa.ninja/category/creative/</link>
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2015 21:23:35 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2015 23:42:34 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Jackie Tran Anh</title>
-      <link>http://new.lapa.ninja/post/jackie-tran-anh/</link>
-      <pubDate>Thu, 15 Oct 2015 21:23:35 +0700</pubDate>
+      <title>Intercom</title>
+      <link>http://lapa.ninja/post/say-no/</link>
+      <pubDate>Fri, 16 Oct 2015 23:42:34 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/jackie-tran-anh/</guid>
+      <guid>http://lapa.ninja/post/say-no/</guid>
       <description>
         
-        <p>Jackie Tran is a Czech - Viet Visual Designer &amp; Photographer based in Prague.</p>
-        <img src="http://new.lapa.ninja/assets/images/jackie.jpg" />
+        <p>A great product manager knows how to say no to ideas that don’t serve their vision. See 8 tempting reasons to build a feature, and why you should just say no.</p>
+        <img src="http://lapa.ninja/assets/images/productstrategymeanssayingno.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Oculus Rift</title>
-      <link>http://new.lapa.ninja/post/oculus-rift/</link>
-      <pubDate>Thu, 15 Oct 2015 20:54:48 +0700</pubDate>
+      <title>Semplice</title>
+      <link>http://lapa.ninja/post/semplice/</link>
+      <pubDate>Fri, 16 Oct 2015 23:39:18 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/oculus-rift/</guid>
+      <guid>http://lapa.ninja/post/semplice/</guid>
       <description>
         
-        <p>The Oculus Rift is a virtual reality system that completely immerses you inside virtual worlds.</p>
-        <img src="http://new.lapa.ninja/assets/images/oculus-rift.png" />
+        <p>With Semplice you can build fully responsive case studies &amp; custom branded project pages with just a few clicks.</p>
+        <img src="http://lapa.ninja/assets/images/semplice.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>WonderBox</title>
+      <link>http://lapa.ninja/post/wonderbox/</link>
+      <pubDate>Fri, 16 Oct 2015 23:29:49 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wonderbox/</guid>
+      <description>
+        
+        <p>Explore, create, and share with family and friends.</p>
+        <img src="http://lapa.ninja/assets/images/wonderbox.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rizon</title>
+      <link>http://lapa.ninja/post/rizonapp/</link>
+      <pubDate>Fri, 16 Oct 2015 23:19:49 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/rizonapp/</guid>
+      <description>
+        
+        <p>Rizon is a beautiful Golden Hour calculator for your iPhone that helps you easily find the best time to shoot outdoors in natural light. Set reminders, save offline locations, and see data for any date in the future.</p>
+        <img src="http://lapa.ninja/assets/images/rizon.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Dropmark</title>
+      <link>http://lapa.ninja/post/dropmark/</link>
+      <pubDate>Fri, 16 Oct 2015 23:14:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dropmark/</guid>
+      <description>
+        
+        <p>All your stuff in one simple, visual, private place</p>
+        <img src="http://lapa.ninja/assets/images/dropmark.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Do</title>
+      <link>http://lapa.ninja/post/do-com/</link>
+      <pubDate>Fri, 16 Oct 2015 22:48:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/do-com/</guid>
+      <description>
+        
+        <p>Do helps you run productive meetings. Do work you love.</p>
+        <img src="http://lapa.ninja/assets/images/do-com.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sumoing</title>
+      <link>http://lapa.ninja/post/sumoing/</link>
+      <pubDate>Fri, 16 Oct 2015 22:40:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sumoing/</guid>
+      <description>
+        
+        <p>Coloring book app for adults</p>
+        <img src="http://lapa.ninja/assets/images/sumoing.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Frontify</title>
+      <link>http://lapa.ninja/post/frontify/</link>
+      <pubDate>Fri, 16 Oct 2015 22:38:16 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/frontify/</guid>
+      <description>
+        
+        <p>Frontify is a software company based somewhere between Switzerlands deepest blue lakes and highest snowy mountains. Their chocolate fueled craftsmen develop web based apps that help you master the entire web design-to-development workflow (Frontify Workspace), collaborate joyfully and create professional brand &amp; design style guides (Frontify Style Guide).</p>
+        <img src="http://lapa.ninja/assets/images/frontify.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pencil by FiftyThree</title>
+      <link>http://lapa.ninja/post/fiftythree-pencil/</link>
+      <pubDate>Fri, 16 Oct 2015 22:32:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/fiftythree-pencil/</guid>
+      <description>
+        
+        <p>Pencil by FiftyThree is a revolutionary stylus for touch-screen devices. Use Pencil with Paper to express your ideas beautifully and easily.</p>
+        <img src="http://lapa.ninja/assets/images/53-pencil.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tookapic</title>
+      <link>http://lapa.ninja/post/tookapic/</link>
+      <pubDate>Fri, 16 Oct 2015 22:22:09 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tookapic/</guid>
+      <description>
+        
+        <p>Tookapic was made to help you develop a habit of daily photo taking in a fun and addictive way.</p>
+        <img src="http://lapa.ninja/assets/images/tookapic.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Google Cardboard</title>
+      <link>http://lapa.ninja/post/google-cardboard/</link>
+      <pubDate>Fri, 16 Oct 2015 21:55:04 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/google-cardboard/</guid>
+      <description>
+        
+        <p>Turn your smartphone into a virtual reality viewer that’s simple, fun, and affordable.</p>
+        <img src="http://lapa.ninja/assets/images/google-cardboard.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rokivo</title>
+      <link>http://lapa.ninja/post/rokivo/</link>
+      <pubDate>Fri, 16 Oct 2015 21:35:35 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/rokivo/</guid>
+      <description>
+        
+        <p>We design solutions for digital interactions. With its approach, our team generates extraordinary value for brands through innovative design.</p>
+        <img src="http://lapa.ninja/assets/images/rokivo.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Dots</title>
+      <link>http://lapa.ninja/post/twodots/</link>
+      <pubDate>Fri, 16 Oct 2015 21:19:13 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/twodots/</guid>
+      <description>
+        
+        <p>Inspired by minimalist art, Dots was created with the notion that beauty and fun are not mutually exclusive. Dots is a minimalist game that was designed to be a soothing experience.</p>
+        <img src="http://lapa.ninja/assets/images/dots.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Exo Ape</title>
+      <link>http://lapa.ninja/post/exoape/</link>
+      <pubDate>Fri, 16 Oct 2015 21:14:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/exoape/</guid>
+      <description>
+        
+        <p>By constantly pushing boundaries we create memorable designs that elevate your brand and enlighten your partners.</p>
+        <img src="http://lapa.ninja/assets/images/exo-ape.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>SuperTasker</title>
+      <link>http://lapa.ninja/post/supertasker/</link>
+      <pubDate>Fri, 16 Oct 2015 20:53:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/supertasker/</guid>
+      <description>
+        
+        <p>SuperTasker&#39;s vision is to be your &#39;Digital HelpDesk in the Cloud&#39;, allowing you to outsource and manage high volumes of small tasks, super fast, to a pool of curated experts.</p>
+        <img src="http://lapa.ninja/assets/images/supertask.jpg" />
 
 
       </description>
