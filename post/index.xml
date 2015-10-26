@@ -6,8 +6,23 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2015 22:18:15 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2015 12:39:26 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mod Notebooks</title>
+      <link>http://lapa.ninja/post/modnotebooks/</link>
+      <pubDate>Mon, 26 Oct 2015 12:39:26 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/modnotebooks/</guid>
+      <description>
+        
+        <p>A paper notebook that syncs to the cloud</p>
+        <img src="http://lapa.ninja/assets/images/mod-notebooks.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Floid</title>
@@ -214,21 +229,6 @@
         
         <p>All your stuff in one simple, visual, private place</p>
         <img src="http://lapa.ninja/assets/images/dropmark.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Desk</title>
-      <link>http://lapa.ninja/post/desk-com/</link>
-      <pubDate>Fri, 16 Oct 2015 23:11:55 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/desk-com/</guid>
-      <description>
-        
-        <p>Desk.com is an online customer service software and support ticket help desk application for small business and fast-growing companies.</p>
-        <img src="http://lapa.ninja/assets/images/desk.jpg" />
 
 
       </description>
