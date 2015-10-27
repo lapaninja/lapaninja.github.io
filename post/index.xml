@@ -6,8 +6,23 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2015 12:39:26 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2015 10:15:54 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Grav</title>
+      <link>http://lapa.ninja/post/grav/</link>
+      <pubDate>Tue, 27 Oct 2015 10:15:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/grav/</guid>
+      <description>
+        
+        <p>Grav is an easy to use, yet powerful, opensource CMS that requires no database</p>
+        <img src="http://lapa.ninja/assets/images/grav.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Mod Notebooks</title>
@@ -214,21 +229,6 @@
         
         <p>A coworking space for creators of all kinds. Walking distance from great art, coffee shops &amp; restaurants. Come make stuff with us.</p>
         <img src="http://lapa.ninja/assets/images/labphoenix.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dropmark</title>
-      <link>http://lapa.ninja/post/dropmark/</link>
-      <pubDate>Fri, 16 Oct 2015 23:14:14 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dropmark/</guid>
-      <description>
-        
-        <p>All your stuff in one simple, visual, private place</p>
-        <img src="http://lapa.ninja/assets/images/dropmark.jpg" />
 
 
       </description>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grav on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/grav/</link>
+    <description>Recent content in Grav on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Oct 2015 10:15:54 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/grav/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Grav</title>
+      <link>http://lapa.ninja/post/grav/</link>
+      <pubDate>Tue, 27 Oct 2015 10:15:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/grav/</guid>
+      <description>
+        
+        <p>Grav is an easy to use, yet powerful, opensource CMS that requires no database</p>
+        <img src="http://lapa.ninja/assets/images/grav.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2015 22:18:15 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2015 10:15:54 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Grav</title>
+      <link>http://lapa.ninja/post/grav/</link>
+      <pubDate>Tue, 27 Oct 2015 10:15:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/grav/</guid>
+      <description>
+        
+        <p>Grav is an easy to use, yet powerful, opensource CMS that requires no database</p>
+        <img src="http://lapa.ninja/assets/images/grav.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Floid</title>
@@ -214,21 +229,6 @@
         
         <p>Beautiful high-resolution mockups to present your designs and prototypes. Loved by designers worldwide and compatible with Photoshop &amp; Sketch.</p>
         <img src="http://lapa.ninja/assets/images/Mockuuups.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>prottapp</title>
-      <link>http://lapa.ninja/post/prottapp/</link>
-      <pubDate>Thu, 15 Oct 2015 21:34:08 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/prottapp/</guid>
-      <description>
-        
-        <p>Prott is a free rapid prototyping and radical collaboration tool. Share your ideas and get feedback through easy-to-make interactive prototypes with Prott.</p>
-        <img src="http://lapa.ninja/assets/images/prott.png" />
 
 
       </description>
