@@ -3,7 +3,8 @@
 // Lazy Load
 
 $("a.js-lazy").lazyload({
-      effect : "fadeIn"
+      effect : "fadeIn",
+      threshold : 400
   });
 
 
