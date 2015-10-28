@@ -6,8 +6,23 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2015 10:15:54 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2015 17:10:24 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ramotion</title>
+      <link>http://lapa.ninja/post/ramotion/</link>
+      <pubDate>Wed, 28 Oct 2015 17:10:24 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ramotion/</guid>
+      <description>
+        
+        <p>Ramotion is a digital product design agency in San Francisco, specializing in brand identity, mobile and web. We make product logos, app user interfaces and websites for startups and businesses.</p>
+        <img src="http://lapa.ninja/assets/images/ramotion.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Grav</title>
@@ -214,21 +229,6 @@
         
         <p>Rizon is a beautiful Golden Hour calculator for your iPhone that helps you easily find the best time to shoot outdoors in natural light. Set reminders, save offline locations, and see data for any date in the future.</p>
         <img src="http://lapa.ninja/assets/images/rizon.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lab</title>
-      <link>http://lapa.ninja/post/labphoenix/</link>
-      <pubDate>Fri, 16 Oct 2015 23:16:36 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/labphoenix/</guid>
-      <description>
-        
-        <p>A coworking space for creators of all kinds. Walking distance from great art, coffee shops &amp; restaurants. Come make stuff with us.</p>
-        <img src="http://lapa.ninja/assets/images/labphoenix.jpg" />
 
 
       </description>

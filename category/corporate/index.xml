@@ -6,8 +6,23 @@
     <description>Recent content in Corporate on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 23:39:18 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2015 17:10:24 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/corporate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ramotion</title>
+      <link>http://lapa.ninja/post/ramotion/</link>
+      <pubDate>Wed, 28 Oct 2015 17:10:24 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ramotion/</guid>
+      <description>
+        
+        <p>Ramotion is a digital product design agency in San Francisco, specializing in brand identity, mobile and web. We make product logos, app user interfaces and websites for startups and businesses.</p>
+        <img src="http://lapa.ninja/assets/images/ramotion.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Semplice</title>
@@ -214,21 +229,6 @@
         
         <p>Clearbit provides Business Intelligence APIs</p>
         <img src="http://lapa.ninja/assets/images/Clearbit.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>WakaTime</title>
-      <link>http://lapa.ninja/post/wakatime/</link>
-      <pubDate>Thu, 15 Oct 2015 21:46:54 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/wakatime/</guid>
-      <description>
-        
-        <p>Open-source text editor plugins for metrics about your programming.</p>
-        <img src="http://lapa.ninja/assets/images/wakatime.jpg" />
 
 
       </description>
