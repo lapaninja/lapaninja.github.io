@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2015 22:18:15 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2015 10:37:52 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Prevue</title>
+      <link>http://lapa.ninja/post/prevue/</link>
+      <pubDate>Sat, 31 Oct 2015 10:37:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/prevue/</guid>
+      <description>
+        
+        <p>Prevue is a tool for designers and digital agencies to give stunning design presentations, and get fast client feedback.</p>
+        <img src="http://lapa.ninja/assets/images/prevue.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Floid</title>
@@ -214,21 +229,6 @@
         
         <p>When you find something you want to view later, put it in Pocket.</p>
         <img src="http://lapa.ninja/assets/images/pocket.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Next</title>
-      <link>http://lapa.ninja/post/next-keyboard/</link>
-      <pubDate>Fri, 16 Oct 2015 22:24:47 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/next-keyboard/</guid>
-      <description>
-        
-        <p>Next comes fully loaded with lightning speed editing, predictive typing, all the emojis you love plus more, playful stickers and stunning themes.</p>
-        <img src="http://lapa.ninja/assets/images/next-keyboard.jpg" />
 
 
       </description>

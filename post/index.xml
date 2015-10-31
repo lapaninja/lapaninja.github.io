@@ -6,8 +6,23 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2015 17:10:24 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2015 10:37:52 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Prevue</title>
+      <link>http://lapa.ninja/post/prevue/</link>
+      <pubDate>Sat, 31 Oct 2015 10:37:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/prevue/</guid>
+      <description>
+        
+        <p>Prevue is a tool for designers and digital agencies to give stunning design presentations, and get fast client feedback.</p>
+        <img src="http://lapa.ninja/assets/images/prevue.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Ramotion</title>
@@ -214,21 +229,6 @@
         
         <p>Gusto. Payroll, benefits and compliance in one integrated product. We&#39;re here to change how the world works, and put people first.</p>
         <img src="http://lapa.ninja/assets/images/gusto.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rizon</title>
-      <link>http://lapa.ninja/post/rizonapp/</link>
-      <pubDate>Fri, 16 Oct 2015 23:19:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/rizonapp/</guid>
-      <description>
-        
-        <p>Rizon is a beautiful Golden Hour calculator for your iPhone that helps you easily find the best time to shoot outdoors in natural light. Set reminders, save offline locations, and see data for any date in the future.</p>
-        <img src="http://lapa.ninja/assets/images/rizon.jpg" />
 
 
       </description>
