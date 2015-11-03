@@ -6,8 +6,23 @@
     <description>Recent content in Technology on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2015 22:13:26 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2015 18:04:17 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Intercom Acquire</title>
+      <link>http://lapa.ninja/post/intercom-acquire/</link>
+      <pubDate>Tue, 03 Nov 2015 18:04:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/intercom-acquire/</guid>
+      <description>
+        
+        <p>Chat with visitors to your website in real-time, capture them as leads, and convert them to customers.</p>
+        <img src="http://lapa.ninja/assets/images/intercom-acquire.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Square</title>
@@ -214,21 +229,6 @@
         
         <p>Affinity Photo - the fastest, smoothest, most precise professional image editing software, exclusively for Mac.</p>
         <img src="http://lapa.ninja/assets/images/affinity-photo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Seeflo</title>
-      <link>http://lapa.ninja/post/seeflo/</link>
-      <pubDate>Thu, 15 Oct 2015 21:37:11 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/seeflo/</guid>
-      <description>
-        
-        <p>See how people use your site</p>
-        <img src="http://lapa.ninja/assets/images/Seeflo.jpg" />
 
 
       </description>
