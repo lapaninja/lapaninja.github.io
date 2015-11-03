@@ -6,8 +6,23 @@
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2015 17:10:24 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2015 17:53:06 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Prototypo</title>
+      <link>http://lapa.ninja/post/prototypo/</link>
+      <pubDate>Tue, 03 Nov 2015 17:53:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/prototypo/</guid>
+      <description>
+        
+        <p>Prototypo is an online application that allows to create beautiful fonts in minutes. Start with one of our templates, customize it with more than twenty sliders, and download your font to use it on the Web or on your desktop.</p>
+        <img src="http://lapa.ninja/assets/images/prototypo.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Ramotion</title>
@@ -214,21 +229,6 @@
         
         <p>We design solutions for digital interactions. With its approach, our team generates extraordinary value for brands through innovative design.</p>
         <img src="http://lapa.ninja/assets/images/rokivo.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dots</title>
-      <link>http://lapa.ninja/post/twodots/</link>
-      <pubDate>Fri, 16 Oct 2015 21:19:13 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/twodots/</guid>
-      <description>
-        
-        <p>Inspired by minimalist art, Dots was created with the notion that beauty and fun are not mutually exclusive. Dots is a minimalist game that was designed to be a soothing experience.</p>
-        <img src="http://lapa.ninja/assets/images/dots.jpg" />
 
 
       </description>

@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2015 10:37:52 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2015 17:53:06 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Prototypo</title>
+      <link>http://lapa.ninja/post/prototypo/</link>
+      <pubDate>Tue, 03 Nov 2015 17:53:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/prototypo/</guid>
+      <description>
+        
+        <p>Prototypo is an online application that allows to create beautiful fonts in minutes. Start with one of our templates, customize it with more than twenty sliders, and download your font to use it on the Web or on your desktop.</p>
+        <img src="http://lapa.ninja/assets/images/prototypo.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Prevue</title>
@@ -214,21 +229,6 @@
         
         <p>The world’s most innovative, fastest, full-featured, and powerful image editing app for the Mac that has everything you need to create and edit your images.</p>
         <img src="http://lapa.ninja/assets/images/pixelmator.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>DaVinci Apps</title>
-      <link>http://lapa.ninja/post/davinci-apps/</link>
-      <pubDate>Thu, 15 Oct 2015 21:49:14 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/davinci-apps/</guid>
-      <description>
-        
-        <p>Pick one of predesigned screenshot templates, add your message, tweak the colors and get app screenshots of ALL required App Store sizes with a click</p>
-        <img src="http://lapa.ninja/assets/images/davinci.jpg" />
 
 
       </description>
