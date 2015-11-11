@@ -6,8 +6,38 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2015 18:04:17 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2015 15:27:35 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Primer</title>
+      <link>http://lapa.ninja/post/yourprimer/</link>
+      <pubDate>Wed, 11 Nov 2015 15:27:35 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/yourprimer/</guid>
+      <description>
+        
+        <p>Primer is the fast, easy way to learn new marketing skills. Download our free mobile app for 5-minute lessons you can do anywhere.</p>
+        <img src="http://lapa.ninja/assets/images/yourprimer.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Amber Creative</title>
+      <link>http://lapa.ninja/post/ambercreative/</link>
+      <pubDate>Wed, 11 Nov 2015 15:11:34 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ambercreative/</guid>
+      <description>
+        
+        <p>Design and code responsive web applications. From London with LOVE.</p>
+        <img src="http://lapa.ninja/assets/images/ambercreative.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Intercom Acquire</title>
@@ -199,36 +229,6 @@
         
         <p>Tapcore Mobile Ad Network</p>
         <img src="http://lapa.ninja/assets/images/tapcore.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>WonderBox</title>
-      <link>http://lapa.ninja/post/wonderbox/</link>
-      <pubDate>Fri, 16 Oct 2015 23:29:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/wonderbox/</guid>
-      <description>
-        
-        <p>Explore, create, and share with family and friends.</p>
-        <img src="http://lapa.ninja/assets/images/wonderbox.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Asana</title>
-      <link>http://lapa.ninja/post/asana/</link>
-      <pubDate>Fri, 16 Oct 2015 23:27:47 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/asana/</guid>
-      <description>
-        
-        <p>The easiest way for teams to track work, and get results. Do great things together.</p>
-        <img src="http://lapa.ninja/assets/images/asana.jpg" />
 
 
       </description>

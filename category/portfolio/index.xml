@@ -6,8 +6,23 @@
     <description>Recent content in Portfolio on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 23:34:24 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2015 15:11:34 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amber Creative</title>
+      <link>http://lapa.ninja/post/ambercreative/</link>
+      <pubDate>Wed, 11 Nov 2015 15:11:34 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ambercreative/</guid>
+      <description>
+        
+        <p>Design and code responsive web applications. From London with LOVE.</p>
+        <img src="http://lapa.ninja/assets/images/ambercreative.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Adobe Portfolio</title>

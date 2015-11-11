@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amber on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/amber/</link>
+    <description>Recent content in Amber on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2015 15:11:34 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/amber/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amber Creative</title>
+      <link>http://lapa.ninja/post/ambercreative/</link>
+      <pubDate>Wed, 11 Nov 2015 15:11:34 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ambercreative/</guid>
+      <description>
+        
+        <p>Design and code responsive web applications. From London with LOVE.</p>
+        <img src="http://lapa.ninja/assets/images/ambercreative.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
