@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2015 15:27:35 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2015 16:02:18 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azendoo</title>
+      <link>http://lapa.ninja/post/azendoo/</link>
+      <pubDate>Wed, 11 Nov 2015 16:02:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/azendoo/</guid>
+      <description>
+        
+        <p>Azendoo is a Teamwork Application. Organize your tasks, plan your projects, share your documents and sync with your team, without email.</p>
+        <img src="http://lapa.ninja/assets/images/azendoo.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Primer</title>
@@ -214,21 +229,6 @@
         
         <p>Do helps you run productive meetings. Do work you love.</p>
         <img src="http://lapa.ninja/assets/images/do-com.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sumoing</title>
-      <link>http://lapa.ninja/post/sumoing/</link>
-      <pubDate>Fri, 16 Oct 2015 22:40:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/sumoing/</guid>
-      <description>
-        
-        <p>Coloring book app for adults</p>
-        <img src="http://lapa.ninja/assets/images/sumoing.jpg" />
 
 
       </description>

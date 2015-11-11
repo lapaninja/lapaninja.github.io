@@ -6,8 +6,23 @@
     <description>Recent content in Business on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2015 15:27:35 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2015 16:11:27 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>uHoo</title>
+      <link>http://lapa.ninja/post/uhoo/</link>
+      <pubDate>Wed, 11 Nov 2015 16:11:27 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/uhoo/</guid>
+      <description>
+        
+        <p>uHoo is a beautiful indoor air quality sensor that understands how the air you breathe affects your health to provide you with personalized alerts.</p>
+        <img src="http://lapa.ninja/assets/images/uhoo.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Primer</title>
@@ -214,21 +229,6 @@
         
         <p>Desk.com is an online customer service software and support ticket help desk application for small business and fast-growing companies.</p>
         <img src="http://lapa.ninja/assets/images/desk.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Montage</title>
-      <link>http://lapa.ninja/post/montagebook/</link>
-      <pubDate>Fri, 16 Oct 2015 23:09:34 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/montagebook/</guid>
-      <description>
-        
-        <p>Montage is the perfect way to bring your photos to life. Give it as a gift, show it off on your coffee table, or use it to relive life&#39;s best moments.</p>
-        <img src="http://lapa.ninja/assets/images/montage.jpg" />
 
 
       </description>

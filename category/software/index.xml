@@ -6,8 +6,23 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 23:27:47 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2015 16:02:18 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azendoo</title>
+      <link>http://lapa.ninja/post/azendoo/</link>
+      <pubDate>Wed, 11 Nov 2015 16:02:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/azendoo/</guid>
+      <description>
+        
+        <p>Azendoo is a Teamwork Application. Organize your tasks, plan your projects, share your documents and sync with your team, without email.</p>
+        <img src="http://lapa.ninja/assets/images/azendoo.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Asana</title>
@@ -214,21 +229,6 @@
         
         <p>Bring your life&#39;s work together in one digital workspace. Evernote is the place to collect inspirational ideas, write meaningful words, and move your important projects forward.</p>
         <img src="http://lapa.ninja/assets/images/evernote.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Nylas</title>
-      <link>http://lapa.ninja/post/nylas/</link>
-      <pubDate>Fri, 16 Oct 2015 21:42:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/nylas/</guid>
-      <description>
-        
-        <p>Nylas provides a modern developer platform for email, contacts, and calendar. Stop fighting old protocols, and start building great products.</p>
-        <img src="http://lapa.ninja/assets/images/nylas.jpg" />
 
 
       </description>

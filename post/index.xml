@@ -6,8 +6,38 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2015 15:27:35 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2015 16:11:27 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>uHoo</title>
+      <link>http://lapa.ninja/post/uhoo/</link>
+      <pubDate>Wed, 11 Nov 2015 16:11:27 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/uhoo/</guid>
+      <description>
+        
+        <p>uHoo is a beautiful indoor air quality sensor that understands how the air you breathe affects your health to provide you with personalized alerts.</p>
+        <img src="http://lapa.ninja/assets/images/uhoo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Azendoo</title>
+      <link>http://lapa.ninja/post/azendoo/</link>
+      <pubDate>Wed, 11 Nov 2015 16:02:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/azendoo/</guid>
+      <description>
+        
+        <p>Azendoo is a Teamwork Application. Organize your tasks, plan your projects, share your documents and sync with your team, without email.</p>
+        <img src="http://lapa.ninja/assets/images/azendoo.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Primer</title>
@@ -199,36 +229,6 @@
         
         <p>It’s the fastest way to rent a car. Say goodbye to long lines and paperwork. We deliver the car right to you.</p>
         <img src="http://lapa.ninja/assets/images/skurt.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Adobe Portfolio</title>
-      <link>http://lapa.ninja/post/myportfolio/</link>
-      <pubDate>Fri, 16 Oct 2015 23:34:24 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/myportfolio/</guid>
-      <description>
-        
-        <p>Quickly and simply build a personalized website to showcase your creative work with Adobe Portfolio. Now included free with any Creative Cloud subscription.</p>
-        <img src="http://lapa.ninja/assets/images/myportfolio.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Tapcore</title>
-      <link>http://lapa.ninja/post/tapcore/</link>
-      <pubDate>Fri, 16 Oct 2015 23:32:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/tapcore/</guid>
-      <description>
-        
-        <p>Tapcore Mobile Ad Network</p>
-        <img src="http://lapa.ninja/assets/images/tapcore.png" />
 
 
       </description>
