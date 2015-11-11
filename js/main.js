@@ -8,6 +8,10 @@ $("a.js-lazy").lazyload({
   });
 
 
+
+
+
+
 // Menu
 
 // function closeNav() {
@@ -57,6 +61,22 @@ $("a.js-lazy").lazyload({
 		$('.cd-nav-trigger').toggleClass('nav-is-visible');
 
 		$('.js-lapa-category').toggleClass('active');
+
+		$('.lapa-overlay').toggleClass('lapa-overlay--active');
+
+	});
+
+
+	$('.cd-search-trigger').on('click', function(event){
+		event.preventDefault();
+
+		//alert("search");
+
+		$('.cd-search-trigger').toggleClass('search-is-visible');
+
+		$('#cd-search').toggleClass('is-visible');
+
+		$('.cd-search').find('input[type="search"]').focus();
 
 		$('.lapa-overlay').toggleClass('lapa-overlay--active');
 
