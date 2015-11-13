@@ -6,8 +6,23 @@
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2015 11:27:55 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2015 16:09:25 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Subvisual</title>
+      <link>http://lapa.ninja/post/subvisual/</link>
+      <pubDate>Fri, 13 Nov 2015 16:09:25 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/subvisual/</guid>
+      <description>
+        
+        <p>Since 2011, Subvisual has helped companies transform ideas into successful products. We are a small, powerful team of professionals who understand how to create, build, and grow digital products.</p>
+        <img src="http://lapa.ninja/assets/images/subvisual.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>UENO</title>
@@ -214,21 +229,6 @@
         
         <p>Pencil by FiftyThree is a revolutionary stylus for touch-screen devices. Use Pencil with Paper to express your ideas beautifully and easily.</p>
         <img src="http://lapa.ninja/assets/images/53-pencil.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Tookapic</title>
-      <link>http://lapa.ninja/post/tookapic/</link>
-      <pubDate>Fri, 16 Oct 2015 22:22:09 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/tookapic/</guid>
-      <description>
-        
-        <p>Tookapic was made to help you develop a habit of daily photo taking in a fun and addictive way.</p>
-        <img src="http://lapa.ninja/assets/images/tookapic.jpg" />
 
 
       </description>
