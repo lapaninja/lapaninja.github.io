@@ -6,8 +6,53 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2015 10:18:59 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2015 11:43:08 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1</title>
+      <link>http://lapa.ninja/about/1/</link>
+      <pubDate>Fri, 13 Nov 2015 11:43:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/about/1/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja/assets/images/" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Kibo</title>
+      <link>http://lapa.ninja/post/kibo/</link>
+      <pubDate>Fri, 13 Nov 2015 11:39:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/kibo/</guid>
+      <description>
+        
+        <p>Kibo App protects your messages and safe your secrets in popular messengers and social networks. Furthermore, you&#39;ll be able to add hidden text into a regular message, available only to you and your contact</p>
+        <img src="http://lapa.ninja/assets/images/kibo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>UENO</title>
+      <link>http://lapa.ninja/post/ueno/</link>
+      <pubDate>Fri, 13 Nov 2015 11:27:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ueno/</guid>
+      <description>
+        
+        <p>Ueno is a full-service digital agency with offices in San Francisco and Iceland.</p>
+        <img src="http://lapa.ninja/assets/images/ueno.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Lapa Search</title>
@@ -184,51 +229,6 @@
         
         <p>A paper notebook that syncs to the cloud</p>
         <img src="http://lapa.ninja/assets/images/mod-notebooks.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Floid</title>
-      <link>http://lapa.ninja/post/floid/</link>
-      <pubDate>Sun, 25 Oct 2015 22:18:15 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/floid/</guid>
-      <description>
-        
-        <p>UX design tool for creating interactive animations &amp; multiscreen app flows</p>
-        <img src="http://lapa.ninja/assets/images/floid.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Square</title>
-      <link>http://lapa.ninja/post/squareup/</link>
-      <pubDate>Sun, 25 Oct 2015 22:13:26 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/squareup/</guid>
-      <description>
-        
-        <p>Square Register is a simple, powerful and free POS system. Simplify business, inventory, analytics, digital receipts and more. Download the free app today.</p>
-        <img src="http://lapa.ninja/assets/images/squareup.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Intercom</title>
-      <link>http://lapa.ninja/post/say-no/</link>
-      <pubDate>Fri, 16 Oct 2015 23:42:34 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/say-no/</guid>
-      <description>
-        
-        <p>A great product manager knows how to say no to ideas that don’t serve their vision. See 8 tempting reasons to build a feature, and why you should just say no.</p>
-        <img src="http://lapa.ninja/assets/images/productstrategymeanssayingno.jpg" />
 
 
       </description>

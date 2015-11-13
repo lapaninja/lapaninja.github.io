@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ueno on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/ueno/</link>
+    <description>Recent content in Ueno on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Nov 2015 11:27:55 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/ueno/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UENO</title>
+      <link>http://lapa.ninja/post/ueno/</link>
+      <pubDate>Fri, 13 Nov 2015 11:27:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ueno/</guid>
+      <description>
+        
+        <p>Ueno is a full-service digital agency with offices in San Francisco and Iceland.</p>
+        <img src="http://lapa.ninja/assets/images/ueno.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

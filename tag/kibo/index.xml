@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kibo on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/kibo/</link>
+    <description>Recent content in Kibo on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Nov 2015 11:39:38 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/kibo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kibo</title>
+      <link>http://lapa.ninja/post/kibo/</link>
+      <pubDate>Fri, 13 Nov 2015 11:39:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/kibo/</guid>
+      <description>
+        
+        <p>Kibo App protects your messages and safe your secrets in popular messengers and social networks. Furthermore, you&#39;ll be able to add hidden text into a regular message, available only to you and your contact</p>
+        <img src="http://lapa.ninja/assets/images/kibo.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
