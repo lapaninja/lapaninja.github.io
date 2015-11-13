@@ -6,8 +6,38 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2015 16:11:27 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2015 10:18:59 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lapa Search</title>
+      <link>http://lapa.ninja/search/</link>
+      <pubDate>Fri, 13 Nov 2015 10:18:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/search/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>http://lapa.ninja/about/</link>
+      <pubDate>Fri, 13 Nov 2015 10:18:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/about/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja/assets/images/" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>uHoo</title>
@@ -199,36 +229,6 @@
         
         <p>A great product manager knows how to say no to ideas that don’t serve their vision. See 8 tempting reasons to build a feature, and why you should just say no.</p>
         <img src="http://lapa.ninja/assets/images/productstrategymeanssayingno.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Semplice</title>
-      <link>http://lapa.ninja/post/semplice/</link>
-      <pubDate>Fri, 16 Oct 2015 23:39:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/semplice/</guid>
-      <description>
-        
-        <p>With Semplice you can build fully responsive case studies &amp; custom branded project pages with just a few clicks.</p>
-        <img src="http://lapa.ninja/assets/images/semplice.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Skurt</title>
-      <link>http://lapa.ninja/post/skurtapp/</link>
-      <pubDate>Fri, 16 Oct 2015 23:36:35 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/skurtapp/</guid>
-      <description>
-        
-        <p>It’s the fastest way to rent a car. Say goodbye to long lines and paperwork. We deliver the car right to you.</p>
-        <img src="http://lapa.ninja/assets/images/skurt.jpg" />
 
 
       </description>

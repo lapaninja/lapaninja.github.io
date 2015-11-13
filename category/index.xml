@@ -2,233 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Landing Pages Collection | Lapa.Ninja</title>
-    <link>http://new.lapa.ninja/category/</link>
+    <link>http://lapa.ninja/category/</link>
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 23:42:34 +0700</lastBuildDate>
-    <atom:link href="http://new.lapa.ninja/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2015 10:18:59 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Intercom</title>
-      <link>http://new.lapa.ninja/post/say-no/</link>
-      <pubDate>Fri, 16 Oct 2015 23:42:34 +0700</pubDate>
+      <title>Lapa Search</title>
+      <link>http://lapa.ninja/search/</link>
+      <pubDate>Fri, 13 Nov 2015 10:18:59 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/say-no/</guid>
+      <guid>http://lapa.ninja/search/</guid>
       <description>
         
-        <p>A great product manager knows how to say no to ideas that don’t serve their vision. See 8 tempting reasons to build a feature, and why you should just say no.</p>
-        <img src="http://new.lapa.ninja/assets/images/productstrategymeanssayingno.jpg" />
+        <p></p>
+        <img src="http://lapa.ninja" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Semplice</title>
-      <link>http://new.lapa.ninja/post/semplice/</link>
-      <pubDate>Fri, 16 Oct 2015 23:39:18 +0700</pubDate>
+      <title>index</title>
+      <link>http://lapa.ninja/about/</link>
+      <pubDate>Fri, 13 Nov 2015 10:18:17 +0700</pubDate>
       
-      <guid>http://new.lapa.ninja/post/semplice/</guid>
+      <guid>http://lapa.ninja/about/</guid>
       <description>
         
-        <p>With Semplice you can build fully responsive case studies &amp; custom branded project pages with just a few clicks.</p>
-        <img src="http://new.lapa.ninja/assets/images/semplice.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Adobe Portfolio</title>
-      <link>http://new.lapa.ninja/post/myportfolio/</link>
-      <pubDate>Fri, 16 Oct 2015 23:34:24 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/myportfolio/</guid>
-      <description>
-        
-        <p>Quickly and simply build a personalized website to showcase your creative work with Adobe Portfolio. Now included free with any Creative Cloud subscription.</p>
-        <img src="http://new.lapa.ninja/assets/images/myportfolio.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>VWO</title>
-      <link>http://new.lapa.ninja/post/vwo/</link>
-      <pubDate>Fri, 16 Oct 2015 23:25:31 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/vwo/</guid>
-      <description>
-        
-        <p>VWO is the easiest A/B, Split and Multivariate testing tool. Try a free 30-day trial to start optimizing your website for increased conversion rate and sales.</p>
-        <img src="http://new.lapa.ninja/assets/images/vwo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Gusto</title>
-      <link>http://new.lapa.ninja/post/gusto/</link>
-      <pubDate>Fri, 16 Oct 2015 23:23:16 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/gusto/</guid>
-      <description>
-        
-        <p>Gusto. Payroll, benefits and compliance in one integrated product. We&#39;re here to change how the world works, and put people first.</p>
-        <img src="http://new.lapa.ninja/assets/images/gusto.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lab</title>
-      <link>http://new.lapa.ninja/post/labphoenix/</link>
-      <pubDate>Fri, 16 Oct 2015 23:16:36 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/labphoenix/</guid>
-      <description>
-        
-        <p>A coworking space for creators of all kinds. Walking distance from great art, coffee shops &amp; restaurants. Come make stuff with us.</p>
-        <img src="http://new.lapa.ninja/assets/images/labphoenix.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dropmark</title>
-      <link>http://new.lapa.ninja/post/dropmark/</link>
-      <pubDate>Fri, 16 Oct 2015 23:14:14 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/dropmark/</guid>
-      <description>
-        
-        <p>All your stuff in one simple, visual, private place</p>
-        <img src="http://new.lapa.ninja/assets/images/dropmark.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Desk</title>
-      <link>http://new.lapa.ninja/post/desk-com/</link>
-      <pubDate>Fri, 16 Oct 2015 23:11:55 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/desk-com/</guid>
-      <description>
-        
-        <p>Desk.com is an online customer service software and support ticket help desk application for small business and fast-growing companies.</p>
-        <img src="http://new.lapa.ninja/assets/images/desk.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Flow</title>
-      <link>http://new.lapa.ninja/post/getflow/</link>
-      <pubDate>Fri, 16 Oct 2015 22:51:07 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/getflow/</guid>
-      <description>
-        
-        <p>Flow is project management software that simplifies teamwork. Use it to plan projects, prioritize to-dos, delegate tasks, and collaborate beautifully.</p>
-        <img src="http://new.lapa.ninja/assets/images/getflow.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Five Simple Steps</title>
-      <link>http://new.lapa.ninja/post/fivesimplesteps/</link>
-      <pubDate>Fri, 16 Oct 2015 22:46:59 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/fivesimplesteps/</guid>
-      <description>
-        
-        <p>Five Simple Steps publishes books aimed at web designers and developers. Beautiful, practical and built to last.</p>
-        <img src="http://new.lapa.ninja/assets/images/fivesimplesteps.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Symu</title>
-      <link>http://new.lapa.ninja/post/symu/</link>
-      <pubDate>Fri, 16 Oct 2015 22:45:06 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/symu/</guid>
-      <description>
-        
-        <p>Show your web design in a web browser, free tool for designers</p>
-        <img src="http://new.lapa.ninja/assets/images/symu.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>ReadMe.io</title>
-      <link>http://new.lapa.ninja/post/readme-io/</link>
-      <pubDate>Fri, 16 Oct 2015 22:43:08 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/readme-io/</guid>
-      <description>
-        
-        <p>A collaborative developer hub for your API or code.</p>
-        <img src="http://new.lapa.ninja/assets/images/readme.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Frontify</title>
-      <link>http://new.lapa.ninja/post/frontify/</link>
-      <pubDate>Fri, 16 Oct 2015 22:38:16 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/frontify/</guid>
-      <description>
-        
-        <p>Frontify is a software company based somewhere between Switzerlands deepest blue lakes and highest snowy mountains. Their chocolate fueled craftsmen develop web based apps that help you master the entire web design-to-development workflow (Frontify Workspace), collaborate joyfully and create professional brand &amp; design style guides (Frontify Style Guide).</p>
-        <img src="http://new.lapa.ninja/assets/images/frontify.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Apple Pencil</title>
-      <link>http://new.lapa.ninja/post/apple-pencil/</link>
-      <pubDate>Fri, 16 Oct 2015 22:29:52 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/apple-pencil/</guid>
-      <description>
-        
-        <p>Apple Pencil for iPad Pro. Completely familiar. Entirely revolutionary.</p>
-        <img src="http://new.lapa.ninja/assets/images/apple-pencil.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Pocket</title>
-      <link>http://new.lapa.ninja/post/getpocket/</link>
-      <pubDate>Fri, 16 Oct 2015 22:27:05 +0700</pubDate>
-      
-      <guid>http://new.lapa.ninja/post/getpocket/</guid>
-      <description>
-        
-        <p>When you find something you want to view later, put it in Pocket.</p>
-        <img src="http://new.lapa.ninja/assets/images/pocket.jpg" />
+        <p></p>
+        <img src="http://lapa.ninja/assets/images/" />
 
 
       </description>

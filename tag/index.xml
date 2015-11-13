@@ -6,8 +6,38 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 23:34:24 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2015 10:18:59 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/tag/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lapa Search</title>
+      <link>http://lapa.ninja/search/</link>
+      <pubDate>Fri, 13 Nov 2015 10:18:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/search/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>http://lapa.ninja/about/</link>
+      <pubDate>Fri, 13 Nov 2015 10:18:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/about/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja/assets/images/" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Adobe Portfolio</title>
