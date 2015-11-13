@@ -1438,6 +1438,20 @@ body {
   padding-top: 2.77778%;
 }
 
+.lapa-404 {
+  width: 97.22222%;
+  float: left;
+  margin-left: 1.38889%;
+  margin-right: 1.38889%;
+  padding-top: 1.38889%;
+  float: none;
+  min-height: 500px;
+}
+.lapa-404 h1 {
+  font-size: 2rem;
+  padding-bottom: 20px;
+}
+
 .cd-header-buttons {
   position: absolute;
   display: inline-block;
