@@ -6,8 +6,23 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2015 16:09:25 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2015 12:16:00 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Upturn</title>
+      <link>http://lapa.ninja/post/upturn/</link>
+      <pubDate>Tue, 17 Nov 2015 12:16:00 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/upturn/</guid>
+      <description>
+        
+        <p>Technology impacts nearly every major social issue. We explain how technology works and why it matters.</p>
+        <img src="http://lapa.ninja/assets/images/upturn.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Subvisual</title>
@@ -214,21 +229,6 @@
         
         <p>Ramotion is a digital product design agency in San Francisco, specializing in brand identity, mobile and web. We make product logos, app user interfaces and websites for startups and businesses.</p>
         <img src="http://lapa.ninja/assets/images/ramotion.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Grav</title>
-      <link>http://lapa.ninja/post/grav/</link>
-      <pubDate>Tue, 27 Oct 2015 10:15:54 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/grav/</guid>
-      <description>
-        
-        <p>Grav is an easy to use, yet powerful, opensource CMS that requires no database</p>
-        <img src="http://lapa.ninja/assets/images/grav.jpg" />
 
 
       </description>

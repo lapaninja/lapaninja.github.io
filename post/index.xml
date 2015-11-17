@@ -6,8 +6,23 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2015 16:09:25 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2015 12:16:00 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Upturn</title>
+      <link>http://lapa.ninja/post/upturn/</link>
+      <pubDate>Tue, 17 Nov 2015 12:16:00 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/upturn/</guid>
+      <description>
+        
+        <p>Technology impacts nearly every major social issue. We explain how technology works and why it matters.</p>
+        <img src="http://lapa.ninja/assets/images/upturn.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Subvisual</title>
@@ -214,21 +229,6 @@
         
         <p>UX design tool for creating interactive animations &amp; multiscreen app flows</p>
         <img src="http://lapa.ninja/assets/images/floid.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Square</title>
-      <link>http://lapa.ninja/post/squareup/</link>
-      <pubDate>Sun, 25 Oct 2015 22:13:26 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/squareup/</guid>
-      <description>
-        
-        <p>Square Register is a simple, powerful and free POS system. Simplify business, inventory, analytics, digital receipts and more. Download the free app today.</p>
-        <img src="http://lapa.ninja/assets/images/squareup.jpg" />
 
 
       </description>

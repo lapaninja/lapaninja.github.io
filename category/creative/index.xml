@@ -6,8 +6,23 @@
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2015 16:09:25 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2015 12:16:00 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Upturn</title>
+      <link>http://lapa.ninja/post/upturn/</link>
+      <pubDate>Tue, 17 Nov 2015 12:16:00 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/upturn/</guid>
+      <description>
+        
+        <p>Technology impacts nearly every major social issue. We explain how technology works and why it matters.</p>
+        <img src="http://lapa.ninja/assets/images/upturn.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Subvisual</title>
@@ -214,21 +229,6 @@
         
         <p>Frontify is a software company based somewhere between Switzerlands deepest blue lakes and highest snowy mountains. Their chocolate fueled craftsmen develop web based apps that help you master the entire web design-to-development workflow (Frontify Workspace), collaborate joyfully and create professional brand &amp; design style guides (Frontify Style Guide).</p>
         <img src="http://lapa.ninja/assets/images/frontify.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Pencil by FiftyThree</title>
-      <link>http://lapa.ninja/post/fiftythree-pencil/</link>
-      <pubDate>Fri, 16 Oct 2015 22:32:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/fiftythree-pencil/</guid>
-      <description>
-        
-        <p>Pencil by FiftyThree is a revolutionary stylus for touch-screen devices. Use Pencil with Paper to express your ideas beautifully and easily.</p>
-        <img src="http://lapa.ninja/assets/images/53-pencil.jpg" />
 
 
       </description>
