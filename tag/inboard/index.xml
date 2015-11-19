@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inboard on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/inboard/</link>
+    <description>Recent content in Inboard on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Nov 2015 10:10:45 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/inboard/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Inboard App</title>
+      <link>http://lapa.ninja/post/inboard/</link>
+      <pubDate>Thu, 19 Nov 2015 10:10:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/inboard/</guid>
+      <description>
+        
+        <p>Organizing screenshots, images or photos in Finder is a major pain. Does it sound familiar? If so, we have a solution for you.</p>
+        <img src="http://lapa.ninja/assets/images/inboard.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2015 12:16:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2015 10:11:21 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ginventory</title>
+      <link>http://lapa.ninja/post/ginventory/</link>
+      <pubDate>Thu, 19 Nov 2015 10:11:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ginventory/</guid>
+      <description>
+        
+        <p>Find the Perfect Serve for every gin in the world. Just search for a gin, tonic or botanical and find the best Gin &amp; Tonic combinations according to distillers and connoisseurs.</p>
+        <img src="http://lapa.ninja/assets/images/ginventory.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Biz Eyes</title>
+      <link>http://lapa.ninja/post/biz-eyes/</link>
+      <pubDate>Thu, 19 Nov 2015 10:11:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/biz-eyes/</guid>
+      <description>
+        
+        <p>Make your stories worth telling</p>
+        <img src="http://lapa.ninja/assets/images/biz-eyes.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Inboard App</title>
+      <link>http://lapa.ninja/post/inboard/</link>
+      <pubDate>Thu, 19 Nov 2015 10:10:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/inboard/</guid>
+      <description>
+        
+        <p>Organizing screenshots, images or photos in Finder is a major pain. Does it sound familiar? If so, we have a solution for you.</p>
+        <img src="http://lapa.ninja/assets/images/inboard.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Upturn</title>
@@ -184,51 +229,6 @@
         
         <p>Ramotion is a digital product design agency in San Francisco, specializing in brand identity, mobile and web. We make product logos, app user interfaces and websites for startups and businesses.</p>
         <img src="http://lapa.ninja/assets/images/ramotion.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Grav</title>
-      <link>http://lapa.ninja/post/grav/</link>
-      <pubDate>Tue, 27 Oct 2015 10:15:54 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/grav/</guid>
-      <description>
-        
-        <p>Grav is an easy to use, yet powerful, opensource CMS that requires no database</p>
-        <img src="http://lapa.ninja/assets/images/grav.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Mod Notebooks</title>
-      <link>http://lapa.ninja/post/modnotebooks/</link>
-      <pubDate>Mon, 26 Oct 2015 12:39:26 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/modnotebooks/</guid>
-      <description>
-        
-        <p>A paper notebook that syncs to the cloud</p>
-        <img src="http://lapa.ninja/assets/images/mod-notebooks.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Floid</title>
-      <link>http://lapa.ninja/post/floid/</link>
-      <pubDate>Sun, 25 Oct 2015 22:18:15 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/floid/</guid>
-      <description>
-        
-        <p>UX design tool for creating interactive animations &amp; multiscreen app flows</p>
-        <img src="http://lapa.ninja/assets/images/floid.jpg" />
 
 
       </description>

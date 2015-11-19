@@ -6,8 +6,23 @@
     <description>Recent content in Photography on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 23:34:24 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2015 10:10:45 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Inboard App</title>
+      <link>http://lapa.ninja/post/inboard/</link>
+      <pubDate>Thu, 19 Nov 2015 10:10:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/inboard/</guid>
+      <description>
+        
+        <p>Organizing screenshots, images or photos in Finder is a major pain. Does it sound familiar? If so, we have a solution for you.</p>
+        <img src="http://lapa.ninja/assets/images/inboard.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Adobe Portfolio</title>

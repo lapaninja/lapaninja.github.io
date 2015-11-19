@@ -6,8 +6,23 @@
     <description>Recent content in Portfolio on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2015 11:27:55 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2015 10:11:08 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Biz Eyes</title>
+      <link>http://lapa.ninja/post/biz-eyes/</link>
+      <pubDate>Thu, 19 Nov 2015 10:11:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/biz-eyes/</guid>
+      <description>
+        
+        <p>Make your stories worth telling</p>
+        <img src="http://lapa.ninja/assets/images/biz-eyes.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>UENO</title>

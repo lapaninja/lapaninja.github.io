@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2015 17:53:06 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2015 10:10:45 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Inboard App</title>
+      <link>http://lapa.ninja/post/inboard/</link>
+      <pubDate>Thu, 19 Nov 2015 10:10:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/inboard/</guid>
+      <description>
+        
+        <p>Organizing screenshots, images or photos in Finder is a major pain. Does it sound familiar? If so, we have a solution for you.</p>
+        <img src="http://lapa.ninja/assets/images/inboard.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Prototypo</title>
@@ -214,21 +229,6 @@
         
         <p>Affinity Photo - the fastest, smoothest, most precise professional image editing software, exclusively for Mac.</p>
         <img src="http://lapa.ninja/assets/images/affinity-photo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Pixelmator for Mac</title>
-      <link>http://lapa.ninja/post/pixelmator-for-mac/</link>
-      <pubDate>Fri, 16 Oct 2015 19:30:07 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/pixelmator-for-mac/</guid>
-      <description>
-        
-        <p>The world’s most innovative, fastest, full-featured, and powerful image editing app for the Mac that has everything you need to create and edit your images.</p>
-        <img src="http://lapa.ninja/assets/images/pixelmator.jpg" />
 
 
       </description>

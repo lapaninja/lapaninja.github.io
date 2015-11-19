@@ -6,8 +6,38 @@
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2015 12:16:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2015 10:11:08 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Biz Eyes</title>
+      <link>http://lapa.ninja/post/biz-eyes/</link>
+      <pubDate>Thu, 19 Nov 2015 10:11:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/biz-eyes/</guid>
+      <description>
+        
+        <p>Make your stories worth telling</p>
+        <img src="http://lapa.ninja/assets/images/biz-eyes.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Inboard App</title>
+      <link>http://lapa.ninja/post/inboard/</link>
+      <pubDate>Thu, 19 Nov 2015 10:10:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/inboard/</guid>
+      <description>
+        
+        <p>Organizing screenshots, images or photos in Finder is a major pain. Does it sound familiar? If so, we have a solution for you.</p>
+        <img src="http://lapa.ninja/assets/images/inboard.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Upturn</title>
@@ -199,36 +229,6 @@
         
         <p>Do helps you run productive meetings. Do work you love.</p>
         <img src="http://lapa.ninja/assets/images/do-com.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sumoing</title>
-      <link>http://lapa.ninja/post/sumoing/</link>
-      <pubDate>Fri, 16 Oct 2015 22:40:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/sumoing/</guid>
-      <description>
-        
-        <p>Coloring book app for adults</p>
-        <img src="http://lapa.ninja/assets/images/sumoing.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Frontify</title>
-      <link>http://lapa.ninja/post/frontify/</link>
-      <pubDate>Fri, 16 Oct 2015 22:38:16 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/frontify/</guid>
-      <description>
-        
-        <p>Frontify is a software company based somewhere between Switzerlands deepest blue lakes and highest snowy mountains. Their chocolate fueled craftsmen develop web based apps that help you master the entire web design-to-development workflow (Frontify Workspace), collaborate joyfully and create professional brand &amp; design style guides (Frontify Style Guide).</p>
-        <img src="http://lapa.ninja/assets/images/frontify.jpg" />
 
 
       </description>
