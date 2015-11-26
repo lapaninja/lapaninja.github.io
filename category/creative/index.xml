@@ -6,8 +6,23 @@
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2015 10:11:08 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2015 09:26:33 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MetaLab</title>
+      <link>http://lapa.ninja/post/metalab/</link>
+      <pubDate>Thu, 26 Nov 2015 09:26:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/metalab/</guid>
+      <description>
+        
+        <p>We’re an award-winning team that transforms ideas into great experiences.</p>
+        <img src="http://lapa.ninja/assets/images/metalab.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Biz Eyes</title>
@@ -214,21 +229,6 @@
         
         <p>All your stuff in one simple, visual, private place</p>
         <img src="http://lapa.ninja/assets/images/dropmark.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Do</title>
-      <link>http://lapa.ninja/post/do-com/</link>
-      <pubDate>Fri, 16 Oct 2015 22:48:56 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/do-com/</guid>
-      <description>
-        
-        <p>Do helps you run productive meetings. Do work you love.</p>
-        <img src="http://lapa.ninja/assets/images/do-com.jpg" />
 
 
       </description>

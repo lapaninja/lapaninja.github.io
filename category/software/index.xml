@@ -6,8 +6,53 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2015 11:39:38 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2015 09:26:33 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MetaLab</title>
+      <link>http://lapa.ninja/post/metalab/</link>
+      <pubDate>Thu, 26 Nov 2015 09:26:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/metalab/</guid>
+      <description>
+        
+        <p>We’re an award-winning team that transforms ideas into great experiences.</p>
+        <img src="http://lapa.ninja/assets/images/metalab.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Atomic</title>
+      <link>http://lapa.ninja/post/atomic-2/</link>
+      <pubDate>Thu, 26 Nov 2015 08:58:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/atomic-2/</guid>
+      <description>
+        
+        <p>Atomic is professional software for digital designers, featuring tools for interface design, prototyping, version control and collaboration.</p>
+        <img src="http://lapa.ninja/assets/images/atomic-2.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Zarget</title>
+      <link>http://lapa.ninja/post/zarget/</link>
+      <pubDate>Thu, 26 Nov 2015 08:55:50 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/zarget/</guid>
+      <description>
+        
+        <p>Zarget is new age AB testing and Heatmap software that lets you optimize your website with just a few clicks thereby increasing sales.</p>
+        <img src="http://lapa.ninja/assets/images/zarget.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Kibo</title>
@@ -184,51 +229,6 @@
         
         <p>Frontify is a software company based somewhere between Switzerlands deepest blue lakes and highest snowy mountains. Their chocolate fueled craftsmen develop web based apps that help you master the entire web design-to-development workflow (Frontify Workspace), collaborate joyfully and create professional brand &amp; design style guides (Frontify Style Guide).</p>
         <img src="http://lapa.ninja/assets/images/frontify.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Apple Pencil</title>
-      <link>http://lapa.ninja/post/apple-pencil/</link>
-      <pubDate>Fri, 16 Oct 2015 22:29:52 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/apple-pencil/</guid>
-      <description>
-        
-        <p>Apple Pencil for iPad Pro. Completely familiar. Entirely revolutionary.</p>
-        <img src="http://lapa.ninja/assets/images/apple-pencil.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Next</title>
-      <link>http://lapa.ninja/post/next-keyboard/</link>
-      <pubDate>Fri, 16 Oct 2015 22:24:47 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/next-keyboard/</guid>
-      <description>
-        
-        <p>Next comes fully loaded with lightning speed editing, predictive typing, all the emojis you love plus more, playful stickers and stunning themes.</p>
-        <img src="http://lapa.ninja/assets/images/next-keyboard.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Selz</title>
-      <link>http://lapa.ninja/post/selz/</link>
-      <pubDate>Fri, 16 Oct 2015 22:20:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/selz/</guid>
-      <description>
-        
-        <p>Create a beautiful store or add ecommerce to your existing site and social profiles. Manage your customers, orders and process payments - all in one simple place.</p>
-        <img src="http://lapa.ninja/assets/images/selz.jpg" />
 
 
       </description>

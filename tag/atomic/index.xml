@@ -6,8 +6,23 @@
     <description>Recent content in Atomic on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2015 17:14:31 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2015 08:58:17 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/tag/atomic/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Atomic</title>
+      <link>http://lapa.ninja/post/atomic-2/</link>
+      <pubDate>Thu, 26 Nov 2015 08:58:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/atomic-2/</guid>
+      <description>
+        
+        <p>Atomic is professional software for digital designers, featuring tools for interface design, prototyping, version control and collaboration.</p>
+        <img src="http://lapa.ninja/assets/images/atomic-2.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Atomic</title>

@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2015 10:10:45 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2015 08:58:17 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Atomic</title>
+      <link>http://lapa.ninja/post/atomic-2/</link>
+      <pubDate>Thu, 26 Nov 2015 08:58:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/atomic-2/</guid>
+      <description>
+        
+        <p>Atomic is professional software for digital designers, featuring tools for interface design, prototyping, version control and collaboration.</p>
+        <img src="http://lapa.ninja/assets/images/atomic-2.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Inboard App</title>
@@ -214,21 +229,6 @@
         
         <p>Upload your design and get live, annotated feedback. It&#39;s the simplest way to get thoughts from the people you trust.</p>
         <img src="http://lapa.ninja/assets/images/redpen.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Affinity Photo</title>
-      <link>http://lapa.ninja/post/affinity-photo/</link>
-      <pubDate>Fri, 16 Oct 2015 19:34:58 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/affinity-photo/</guid>
-      <description>
-        
-        <p>Affinity Photo - the fastest, smoothest, most precise professional image editing software, exclusively for Mac.</p>
-        <img src="http://lapa.ninja/assets/images/affinity-photo.jpg" />
 
 
       </description>

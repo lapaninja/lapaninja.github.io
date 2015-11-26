@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2015 10:11:21 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2015 09:26:33 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MetaLab</title>
+      <link>http://lapa.ninja/post/metalab/</link>
+      <pubDate>Thu, 26 Nov 2015 09:26:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/metalab/</guid>
+      <description>
+        
+        <p>We’re an award-winning team that transforms ideas into great experiences.</p>
+        <img src="http://lapa.ninja/assets/images/metalab.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Atomic</title>
+      <link>http://lapa.ninja/post/atomic-2/</link>
+      <pubDate>Thu, 26 Nov 2015 08:58:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/atomic-2/</guid>
+      <description>
+        
+        <p>Atomic is professional software for digital designers, featuring tools for interface design, prototyping, version control and collaboration.</p>
+        <img src="http://lapa.ninja/assets/images/atomic-2.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Zarget</title>
+      <link>http://lapa.ninja/post/zarget/</link>
+      <pubDate>Thu, 26 Nov 2015 08:55:50 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/zarget/</guid>
+      <description>
+        
+        <p>Zarget is new age AB testing and Heatmap software that lets you optimize your website with just a few clicks thereby increasing sales.</p>
+        <img src="http://lapa.ninja/assets/images/zarget.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Ginventory</title>
@@ -184,51 +229,6 @@
         
         <p>Chat with visitors to your website in real-time, capture them as leads, and convert them to customers.</p>
         <img src="http://lapa.ninja/assets/images/intercom-acquire.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Prototypo</title>
-      <link>http://lapa.ninja/post/prototypo/</link>
-      <pubDate>Tue, 03 Nov 2015 17:53:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/prototypo/</guid>
-      <description>
-        
-        <p>Prototypo is an online application that allows to create beautiful fonts in minutes. Start with one of our templates, customize it with more than twenty sliders, and download your font to use it on the Web or on your desktop.</p>
-        <img src="http://lapa.ninja/assets/images/prototypo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Prevue</title>
-      <link>http://lapa.ninja/post/prevue/</link>
-      <pubDate>Sat, 31 Oct 2015 10:37:52 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/prevue/</guid>
-      <description>
-        
-        <p>Prevue is a tool for designers and digital agencies to give stunning design presentations, and get fast client feedback.</p>
-        <img src="http://lapa.ninja/assets/images/prevue.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ramotion</title>
-      <link>http://lapa.ninja/post/ramotion/</link>
-      <pubDate>Wed, 28 Oct 2015 17:10:24 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ramotion/</guid>
-      <description>
-        
-        <p>Ramotion is a digital product design agency in San Francisco, specializing in brand identity, mobile and web. We make product logos, app user interfaces and websites for startups and businesses.</p>
-        <img src="http://lapa.ninja/assets/images/ramotion.jpg" />
 
 
       </description>
