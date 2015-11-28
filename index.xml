@@ -6,8 +6,23 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2015 09:26:33 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2015 10:21:08 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Swifty</title>
+      <link>http://lapa.ninja/post/swifty/</link>
+      <pubDate>Sat, 28 Nov 2015 10:21:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/swifty/</guid>
+      <description>
+        
+        <p>Learn how to code in Swift on your phone. Always wanted to build your own apps? With Swifty and its 200&#43; bite-sized, interactive tutorials, getting started has never been so easy!</p>
+        <img src="http://lapa.ninja/assets/images/swifty.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>MetaLab</title>
@@ -214,21 +229,6 @@
         
         <p>uHoo is a beautiful indoor air quality sensor that understands how the air you breathe affects your health to provide you with personalized alerts.</p>
         <img src="http://lapa.ninja/assets/images/uhoo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Azendoo</title>
-      <link>http://lapa.ninja/post/azendoo/</link>
-      <pubDate>Wed, 11 Nov 2015 16:02:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/azendoo/</guid>
-      <description>
-        
-        <p>Azendoo is a Teamwork Application. Organize your tasks, plan your projects, share your documents and sync with your team, without email.</p>
-        <img src="http://lapa.ninja/assets/images/azendoo.jpg" />
 
 
       </description>

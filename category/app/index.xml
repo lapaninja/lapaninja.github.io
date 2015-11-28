@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2015 08:58:17 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2015 10:21:08 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Swifty</title>
+      <link>http://lapa.ninja/post/swifty/</link>
+      <pubDate>Sat, 28 Nov 2015 10:21:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/swifty/</guid>
+      <description>
+        
+        <p>Learn how to code in Swift on your phone. Always wanted to build your own apps? With Swifty and its 200&#43; bite-sized, interactive tutorials, getting started has never been so easy!</p>
+        <img src="http://lapa.ninja/assets/images/swifty.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Atomic</title>
@@ -214,21 +229,6 @@
         
         <p>The easiest way for teams to track work, and get results. Do great things together.</p>
         <img src="http://lapa.ninja/assets/images/asana.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rizon</title>
-      <link>http://lapa.ninja/post/rizonapp/</link>
-      <pubDate>Fri, 16 Oct 2015 23:19:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/rizonapp/</guid>
-      <description>
-        
-        <p>Rizon is a beautiful Golden Hour calculator for your iPhone that helps you easily find the best time to shoot outdoors in natural light. Set reminders, save offline locations, and see data for any date in the future.</p>
-        <img src="http://lapa.ninja/assets/images/rizon.jpg" />
 
 
       </description>

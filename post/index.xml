@@ -6,8 +6,23 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2015 09:26:33 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2015 10:21:08 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Swifty</title>
+      <link>http://lapa.ninja/post/swifty/</link>
+      <pubDate>Sat, 28 Nov 2015 10:21:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/swifty/</guid>
+      <description>
+        
+        <p>Learn how to code in Swift on your phone. Always wanted to build your own apps? With Swifty and its 200&#43; bite-sized, interactive tutorials, getting started has never been so easy!</p>
+        <img src="http://lapa.ninja/assets/images/swifty.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>MetaLab</title>
@@ -214,21 +229,6 @@
         
         <p>Design and code responsive web applications. From London with LOVE.</p>
         <img src="http://lapa.ninja/assets/images/ambercreative.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Intercom Acquire</title>
-      <link>http://lapa.ninja/post/intercom-acquire/</link>
-      <pubDate>Tue, 03 Nov 2015 18:04:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/intercom-acquire/</guid>
-      <description>
-        
-        <p>Chat with visitors to your website in real-time, capture them as leads, and convert them to customers.</p>
-        <img src="http://lapa.ninja/assets/images/intercom-acquire.jpg" />
 
 
       </description>
