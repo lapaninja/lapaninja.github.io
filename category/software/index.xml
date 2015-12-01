@@ -6,8 +6,38 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2015 09:26:33 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2015 10:54:16 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UserApp</title>
+      <link>http://lapa.ninja/post/userapp/</link>
+      <pubDate>Tue, 01 Dec 2015 10:54:16 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/userapp/</guid>
+      <description>
+        
+        <p>Cloud-based user management for web and mobile apps.</p>
+        <img src="http://lapa.ninja/assets/images/userapp.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>IFTTT</title>
+      <link>http://lapa.ninja/post/ifttt/</link>
+      <pubDate>Tue, 01 Dec 2015 10:40:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ifttt/</guid>
+      <description>
+        
+        <p>IFTTT puts the internet to work for you. Create simple connections between the products you use every day.</p>
+        <img src="http://lapa.ninja/assets/images/ifttt.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>MetaLab</title>
@@ -199,36 +229,6 @@
         
         <p>A collaborative developer hub for your API or code.</p>
         <img src="http://lapa.ninja/assets/images/readme.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sumoing</title>
-      <link>http://lapa.ninja/post/sumoing/</link>
-      <pubDate>Fri, 16 Oct 2015 22:40:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/sumoing/</guid>
-      <description>
-        
-        <p>Coloring book app for adults</p>
-        <img src="http://lapa.ninja/assets/images/sumoing.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Frontify</title>
-      <link>http://lapa.ninja/post/frontify/</link>
-      <pubDate>Fri, 16 Oct 2015 22:38:16 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/frontify/</guid>
-      <description>
-        
-        <p>Frontify is a software company based somewhere between Switzerlands deepest blue lakes and highest snowy mountains. Their chocolate fueled craftsmen develop web based apps that help you master the entire web design-to-development workflow (Frontify Workspace), collaborate joyfully and create professional brand &amp; design style guides (Frontify Style Guide).</p>
-        <img src="http://lapa.ninja/assets/images/frontify.jpg" />
 
 
       </description>

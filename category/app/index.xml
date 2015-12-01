@@ -6,8 +6,38 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2015 10:21:08 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2015 10:54:16 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UserApp</title>
+      <link>http://lapa.ninja/post/userapp/</link>
+      <pubDate>Tue, 01 Dec 2015 10:54:16 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/userapp/</guid>
+      <description>
+        
+        <p>Cloud-based user management for web and mobile apps.</p>
+        <img src="http://lapa.ninja/assets/images/userapp.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>IFTTT</title>
+      <link>http://lapa.ninja/post/ifttt/</link>
+      <pubDate>Tue, 01 Dec 2015 10:40:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ifttt/</guid>
+      <description>
+        
+        <p>IFTTT puts the internet to work for you. Create simple connections between the products you use every day.</p>
+        <img src="http://lapa.ninja/assets/images/ifttt.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Swifty</title>
@@ -199,36 +229,6 @@
         
         <p>Tapcore Mobile Ad Network</p>
         <img src="http://lapa.ninja/assets/images/tapcore.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>WonderBox</title>
-      <link>http://lapa.ninja/post/wonderbox/</link>
-      <pubDate>Fri, 16 Oct 2015 23:29:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/wonderbox/</guid>
-      <description>
-        
-        <p>Explore, create, and share with family and friends.</p>
-        <img src="http://lapa.ninja/assets/images/wonderbox.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Asana</title>
-      <link>http://lapa.ninja/post/asana/</link>
-      <pubDate>Fri, 16 Oct 2015 23:27:47 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/asana/</guid>
-      <description>
-        
-        <p>The easiest way for teams to track work, and get results. Do great things together.</p>
-        <img src="http://lapa.ninja/assets/images/asana.jpg" />
 
 
       </description>

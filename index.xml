@@ -6,8 +6,38 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2015 10:21:08 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2015 10:54:16 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UserApp</title>
+      <link>http://lapa.ninja/post/userapp/</link>
+      <pubDate>Tue, 01 Dec 2015 10:54:16 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/userapp/</guid>
+      <description>
+        
+        <p>Cloud-based user management for web and mobile apps.</p>
+        <img src="http://lapa.ninja/assets/images/userapp.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>IFTTT</title>
+      <link>http://lapa.ninja/post/ifttt/</link>
+      <pubDate>Tue, 01 Dec 2015 10:40:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ifttt/</guid>
+      <description>
+        
+        <p>IFTTT puts the internet to work for you. Create simple connections between the products you use every day.</p>
+        <img src="http://lapa.ninja/assets/images/ifttt.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Swifty</title>
@@ -199,36 +229,6 @@
         
         <p></p>
         <img src="http://lapa.ninja" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>index</title>
-      <link>http://lapa.ninja/about/</link>
-      <pubDate>Fri, 13 Nov 2015 10:18:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/about/</guid>
-      <description>
-        
-        <p></p>
-        <img src="http://lapa.ninja/assets/images/" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>uHoo</title>
-      <link>http://lapa.ninja/post/uhoo/</link>
-      <pubDate>Wed, 11 Nov 2015 16:11:27 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/uhoo/</guid>
-      <description>
-        
-        <p>uHoo is a beautiful indoor air quality sensor that understands how the air you breathe affects your health to provide you with personalized alerts.</p>
-        <img src="http://lapa.ninja/assets/images/uhoo.jpg" />
 
 
       </description>
