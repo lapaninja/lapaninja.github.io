@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typed on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/typed/</link>
+    <description>Recent content in Typed on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Dec 2015 15:24:57 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/typed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Typed</title>
+      <link>http://lapa.ninja/post/typed/</link>
+      <pubDate>Tue, 08 Dec 2015 15:24:57 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/typed/</guid>
+      <description>
+        
+        <p>Typed is a better blogging service that allows you to build and collaborate on websites from anywhere, on any device.</p>
+        <img src="http://lapa.ninja/assets/images/typed.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

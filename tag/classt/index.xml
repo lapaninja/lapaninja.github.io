@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classt on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/classt/</link>
+    <description>Recent content in Classt on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Dec 2015 15:24:36 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/classt/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Classt</title>
+      <link>http://lapa.ninja/post/classt/</link>
+      <pubDate>Tue, 08 Dec 2015 15:24:36 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/classt/</guid>
+      <description>
+        
+        <p>A collaborative learning landscape that extends beyond the classroom, connecting teachers and students with a mutual goal.</p>
+        <img src="http://lapa.ninja/assets/images/classt.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

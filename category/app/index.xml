@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2015 11:03:44 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2015 15:24:51 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Peer</title>
+      <link>http://lapa.ninja/post/peer/</link>
+      <pubDate>Tue, 08 Dec 2015 15:24:51 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/peer/</guid>
+      <description>
+        
+        <p>Feedback and performance for today&#39;s workforce.Create a culture of continuous improvement with the lightweight alternative to traditional performance reviews</p>
+        <img src="http://lapa.ninja/assets/images/peer.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Framer</title>
@@ -214,21 +229,6 @@
         
         <p>Square Register is a simple, powerful and free POS system. Simplify business, inventory, analytics, digital receipts and more. Download the free app today.</p>
         <img src="http://lapa.ninja/assets/images/squareup.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Skurt</title>
-      <link>http://lapa.ninja/post/skurtapp/</link>
-      <pubDate>Fri, 16 Oct 2015 23:36:35 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/skurtapp/</guid>
-      <description>
-        
-        <p>It’s the fastest way to rent a car. Say goodbye to long lines and paperwork. We deliver the car right to you.</p>
-        <img src="http://lapa.ninja/assets/images/skurt.jpg" />
 
 
       </description>
