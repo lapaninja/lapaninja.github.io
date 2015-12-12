@@ -6,8 +6,23 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Dec 2015 15:24:36 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Dec 2015 11:39:38 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Polymail</title>
+      <link>http://lapa.ninja/post/polymail/</link>
+      <pubDate>Sat, 12 Dec 2015 11:39:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/polymail/</guid>
+      <description>
+        
+        <p>Simple, beautiful, powerful email. The most powerful platform for email productivity in a beautiful native app</p>
+        <img src="http://lapa.ninja/assets/images/polymail.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Classt</title>
@@ -214,21 +229,6 @@
         
         <p>Do helps you run productive meetings. Do work you love.</p>
         <img src="http://lapa.ninja/assets/images/do-com.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Symu</title>
-      <link>http://lapa.ninja/post/symu/</link>
-      <pubDate>Fri, 16 Oct 2015 22:45:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/symu/</guid>
-      <description>
-        
-        <p>Show your web design in a web browser, free tool for designers</p>
-        <img src="http://lapa.ninja/assets/images/symu.jpg" />
 
 
       </description>

@@ -6,8 +6,38 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Dec 2015 15:24:57 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Dec 2015 11:45:28 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Flat for Education</title>
+      <link>http://lapa.ninja/post/flat-io-edu/</link>
+      <pubDate>Sat, 12 Dec 2015 11:45:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/flat-io-edu/</guid>
+      <description>
+        
+        <p>Teach music to your students - Flat for Education</p>
+        <img src="http://lapa.ninja/assets/images/flatio-edu.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Polymail</title>
+      <link>http://lapa.ninja/post/polymail/</link>
+      <pubDate>Sat, 12 Dec 2015 11:39:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/polymail/</guid>
+      <description>
+        
+        <p>Simple, beautiful, powerful email. The most powerful platform for email productivity in a beautiful native app</p>
+        <img src="http://lapa.ninja/assets/images/polymail.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Typed</title>
@@ -199,36 +229,6 @@
         
         <p>Organizing screenshots, images or photos in Finder is a major pain. Does it sound familiar? If so, we have a solution for you.</p>
         <img src="http://lapa.ninja/assets/images/inboard.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Upturn</title>
-      <link>http://lapa.ninja/post/upturn/</link>
-      <pubDate>Tue, 17 Nov 2015 12:16:00 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/upturn/</guid>
-      <description>
-        
-        <p>Technology impacts nearly every major social issue. We explain how technology works and why it matters.</p>
-        <img src="http://lapa.ninja/assets/images/upturn.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Subvisual</title>
-      <link>http://lapa.ninja/post/subvisual/</link>
-      <pubDate>Fri, 13 Nov 2015 16:09:25 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/subvisual/</guid>
-      <description>
-        
-        <p>Since 2011, Subvisual has helped companies transform ideas into successful products. We are a small, powerful team of professionals who understand how to create, build, and grow digital products.</p>
-        <img src="http://lapa.ninja/assets/images/subvisual.jpg" />
 
 
       </description>
