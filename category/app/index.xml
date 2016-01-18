@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Dec 2015 15:24:51 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2016 10:36:13 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Akdemia</title>
+      <link>http://lapa.ninja/post/akdemia/</link>
+      <pubDate>Mon, 18 Jan 2016 10:36:13 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/akdemia/</guid>
+      <description>
+        
+        <p>Make Schools Awesome - Akdemia is the most comprehensive and easy to use school management platform designed to bring out the best in your school</p>
+        <img src="http://lapa.ninja/assets/images/akdemia.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Peer</title>
@@ -214,21 +229,6 @@
         
         <p>UX design tool for creating interactive animations &amp; multiscreen app flows</p>
         <img src="http://lapa.ninja/assets/images/floid.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Square</title>
-      <link>http://lapa.ninja/post/squareup/</link>
-      <pubDate>Sun, 25 Oct 2015 22:13:26 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/squareup/</guid>
-      <description>
-        
-        <p>Square Register is a simple, powerful and free POS system. Simplify business, inventory, analytics, digital receipts and more. Download the free app today.</p>
-        <img src="http://lapa.ninja/assets/images/squareup.jpg" />
 
 
       </description>

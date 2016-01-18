@@ -6,8 +6,38 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Dec 2015 11:45:28 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2016 10:40:45 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Iconjar</title>
+      <link>http://lapa.ninja/post/iconjar/</link>
+      <pubDate>Mon, 18 Jan 2016 10:40:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/iconjar/</guid>
+      <description>
+        
+        <p>Iconjar gives you the ability to store all your icons in one place, just one click away</p>
+        <img src="http://lapa.ninja/assets/images/iconjar.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Akdemia</title>
+      <link>http://lapa.ninja/post/akdemia/</link>
+      <pubDate>Mon, 18 Jan 2016 10:36:13 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/akdemia/</guid>
+      <description>
+        
+        <p>Make Schools Awesome - Akdemia is the most comprehensive and easy to use school management platform designed to bring out the best in your school</p>
+        <img src="http://lapa.ninja/assets/images/akdemia.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Flat for Education</title>
@@ -199,36 +229,6 @@
         
         <p>Find the Perfect Serve for every gin in the world. Just search for a gin, tonic or botanical and find the best Gin &amp; Tonic combinations according to distillers and connoisseurs.</p>
         <img src="http://lapa.ninja/assets/images/ginventory.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Biz Eyes</title>
-      <link>http://lapa.ninja/post/biz-eyes/</link>
-      <pubDate>Thu, 19 Nov 2015 10:11:08 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/biz-eyes/</guid>
-      <description>
-        
-        <p>Make your stories worth telling</p>
-        <img src="http://lapa.ninja/assets/images/biz-eyes.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Inboard App</title>
-      <link>http://lapa.ninja/post/inboard/</link>
-      <pubDate>Thu, 19 Nov 2015 10:10:45 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/inboard/</guid>
-      <description>
-        
-        <p>Organizing screenshots, images or photos in Finder is a major pain. Does it sound familiar? If so, we have a solution for you.</p>
-        <img src="http://lapa.ninja/assets/images/inboard.jpg" />
 
 
       </description>

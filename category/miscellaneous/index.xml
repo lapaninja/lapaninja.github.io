@@ -6,8 +6,23 @@
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Dec 2015 11:39:38 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2016 10:36:13 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Akdemia</title>
+      <link>http://lapa.ninja/post/akdemia/</link>
+      <pubDate>Mon, 18 Jan 2016 10:36:13 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/akdemia/</guid>
+      <description>
+        
+        <p>Make Schools Awesome - Akdemia is the most comprehensive and easy to use school management platform designed to bring out the best in your school</p>
+        <img src="http://lapa.ninja/assets/images/akdemia.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Polymail</title>
@@ -214,21 +229,6 @@
         
         <p>The link to getting paid</p>
         <img src="http://lapa.ninja/assets/images/paypalme.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Selz</title>
-      <link>http://lapa.ninja/post/selz/</link>
-      <pubDate>Fri, 16 Oct 2015 22:20:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/selz/</guid>
-      <description>
-        
-        <p>Create a beautiful store or add ecommerce to your existing site and social profiles. Manage your customers, orders and process payments - all in one simple place.</p>
-        <img src="http://lapa.ninja/assets/images/selz.jpg" />
 
 
       </description>

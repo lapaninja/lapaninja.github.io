@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akdemia on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/akdemia/</link>
+    <description>Recent content in Akdemia on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jan 2016 10:36:13 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/akdemia/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Akdemia</title>
+      <link>http://lapa.ninja/post/akdemia/</link>
+      <pubDate>Mon, 18 Jan 2016 10:36:13 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/akdemia/</guid>
+      <description>
+        
+        <p>Make Schools Awesome - Akdemia is the most comprehensive and easy to use school management platform designed to bring out the best in your school</p>
+        <img src="http://lapa.ninja/assets/images/akdemia.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
