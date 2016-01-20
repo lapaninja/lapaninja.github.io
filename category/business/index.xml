@@ -6,8 +6,38 @@
     <description>Recent content in Business on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Dec 2015 15:24:51 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2016 13:55:10 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Crew</title>
+      <link>http://lapa.ninja/post/crew/</link>
+      <pubDate>Wed, 20 Jan 2016 13:55:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/crew/</guid>
+      <description>
+        
+        <p>Make your dream website, iOS app, Android app, or logo by connecting with our worldwide community of handpicked quality freelance developers and designers.</p>
+        <img src="http://lapa.ninja/assets/images/crew.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Spaces</title>
+      <link>http://lapa.ninja/post/gospaces/</link>
+      <pubDate>Wed, 20 Jan 2016 13:46:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/gospaces/</guid>
+      <description>
+        
+        <p>Sell subscriptions services, digital downloads and physical goods with no hassle</p>
+        <img src="http://lapa.ninja/assets/images/gospaces.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Peer</title>
@@ -199,36 +229,6 @@
         
         <p>It’s the fastest way to rent a car. Say goodbye to long lines and paperwork. We deliver the car right to you.</p>
         <img src="http://lapa.ninja/assets/images/skurt.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Tapcore</title>
-      <link>http://lapa.ninja/post/tapcore/</link>
-      <pubDate>Fri, 16 Oct 2015 23:32:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/tapcore/</guid>
-      <description>
-        
-        <p>Tapcore Mobile Ad Network</p>
-        <img src="http://lapa.ninja/assets/images/tapcore.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Asana</title>
-      <link>http://lapa.ninja/post/asana/</link>
-      <pubDate>Fri, 16 Oct 2015 23:27:47 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/asana/</guid>
-      <description>
-        
-        <p>The easiest way for teams to track work, and get results. Do great things together.</p>
-        <img src="http://lapa.ninja/assets/images/asana.jpg" />
 
 
       </description>

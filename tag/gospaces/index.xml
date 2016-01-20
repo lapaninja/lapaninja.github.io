@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gospaces on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/gospaces/</link>
+    <description>Recent content in Gospaces on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2016 13:46:56 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/gospaces/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spaces</title>
+      <link>http://lapa.ninja/post/gospaces/</link>
+      <pubDate>Wed, 20 Jan 2016 13:46:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/gospaces/</guid>
+      <description>
+        
+        <p>Sell subscriptions services, digital downloads and physical goods with no hassle</p>
+        <img src="http://lapa.ninja/assets/images/gospaces.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

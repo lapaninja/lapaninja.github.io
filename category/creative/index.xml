@@ -6,8 +6,23 @@
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Dec 2015 15:24:57 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2016 13:46:56 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spaces</title>
+      <link>http://lapa.ninja/post/gospaces/</link>
+      <pubDate>Wed, 20 Jan 2016 13:46:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/gospaces/</guid>
+      <description>
+        
+        <p>Sell subscriptions services, digital downloads and physical goods with no hassle</p>
+        <img src="http://lapa.ninja/assets/images/gospaces.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Typed</title>
@@ -214,21 +229,6 @@
         
         <p>Explore, create, and share with family and friends.</p>
         <img src="http://lapa.ninja/assets/images/wonderbox.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rizon</title>
-      <link>http://lapa.ninja/post/rizonapp/</link>
-      <pubDate>Fri, 16 Oct 2015 23:19:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/rizonapp/</guid>
-      <description>
-        
-        <p>Rizon is a beautiful Golden Hour calculator for your iPhone that helps you easily find the best time to shoot outdoors in natural light. Set reminders, save offline locations, and see data for any date in the future.</p>
-        <img src="http://lapa.ninja/assets/images/rizon.jpg" />
 
 
       </description>

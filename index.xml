@@ -6,8 +6,38 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jan 2016 10:40:45 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2016 13:55:10 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Crew</title>
+      <link>http://lapa.ninja/post/crew/</link>
+      <pubDate>Wed, 20 Jan 2016 13:55:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/crew/</guid>
+      <description>
+        
+        <p>Make your dream website, iOS app, Android app, or logo by connecting with our worldwide community of handpicked quality freelance developers and designers.</p>
+        <img src="http://lapa.ninja/assets/images/crew.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Spaces</title>
+      <link>http://lapa.ninja/post/gospaces/</link>
+      <pubDate>Wed, 20 Jan 2016 13:46:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/gospaces/</guid>
+      <description>
+        
+        <p>Sell subscriptions services, digital downloads and physical goods with no hassle</p>
+        <img src="http://lapa.ninja/assets/images/gospaces.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Iconjar</title>
@@ -199,36 +229,6 @@
         
         <p>Atomic is professional software for digital designers, featuring tools for interface design, prototyping, version control and collaboration.</p>
         <img src="http://lapa.ninja/assets/images/atomic-2.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Zarget</title>
-      <link>http://lapa.ninja/post/zarget/</link>
-      <pubDate>Thu, 26 Nov 2015 08:55:50 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/zarget/</guid>
-      <description>
-        
-        <p>Zarget is new age AB testing and Heatmap software that lets you optimize your website with just a few clicks thereby increasing sales.</p>
-        <img src="http://lapa.ninja/assets/images/zarget.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ginventory</title>
-      <link>http://lapa.ninja/post/ginventory/</link>
-      <pubDate>Thu, 19 Nov 2015 10:11:21 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ginventory/</guid>
-      <description>
-        
-        <p>Find the Perfect Serve for every gin in the world. Just search for a gin, tonic or botanical and find the best Gin &amp; Tonic combinations according to distillers and connoisseurs.</p>
-        <img src="http://lapa.ninja/assets/images/ginventory.jpg" />
 
 
       </description>
