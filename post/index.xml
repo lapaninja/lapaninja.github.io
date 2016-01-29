@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jan 2016 13:55:10 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jan 2016 11:19:48 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SoFlow</title>
+      <link>http://lapa.ninja/post/soflow/</link>
+      <pubDate>Fri, 29 Jan 2016 11:19:48 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/soflow/</guid>
+      <description>
+        
+        <p>Everything in one place. View all of your social media streams from Facebook, Twitter, Instagram and Tumblr in one elegant feed.</p>
+        <img src="http://lapa.ninja/assets/images/soflow.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Airtable</title>
+      <link>http://lapa.ninja/post/airtable/</link>
+      <pubDate>Fri, 29 Jan 2016 11:19:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/airtable/</guid>
+      <description>
+        
+        <p>Airtable works like a spreadsheet but gives you the power of a database to organize anything.</p>
+        <img src="http://lapa.ninja/assets/images/airtable.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Marvel</title>
+      <link>http://lapa.ninja/post/marvelapp-2/</link>
+      <pubDate>Fri, 29 Jan 2016 11:18:49 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/marvelapp-2/</guid>
+      <description>
+        
+        <p>Turn sketches, mockups and designs into web, iPhone, iOS, Android and Apple Watch app prototypes.</p>
+        <img src="http://lapa.ninja/assets/images/marvelapp-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Crew</title>
@@ -184,51 +229,6 @@
         
         <p>IFTTT puts the internet to work for you. Create simple connections between the products you use every day.</p>
         <img src="http://lapa.ninja/assets/images/ifttt.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Swifty</title>
-      <link>http://lapa.ninja/post/swifty/</link>
-      <pubDate>Sat, 28 Nov 2015 10:21:08 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/swifty/</guid>
-      <description>
-        
-        <p>Learn how to code in Swift on your phone. Always wanted to build your own apps? With Swifty and its 200&#43; bite-sized, interactive tutorials, getting started has never been so easy!</p>
-        <img src="http://lapa.ninja/assets/images/swifty.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MetaLab</title>
-      <link>http://lapa.ninja/post/metalab/</link>
-      <pubDate>Thu, 26 Nov 2015 09:26:33 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/metalab/</guid>
-      <description>
-        
-        <p>We’re an award-winning team that transforms ideas into great experiences.</p>
-        <img src="http://lapa.ninja/assets/images/metalab.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Atomic</title>
-      <link>http://lapa.ninja/post/atomic-2/</link>
-      <pubDate>Thu, 26 Nov 2015 08:58:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/atomic-2/</guid>
-      <description>
-        
-        <p>Atomic is professional software for digital designers, featuring tools for interface design, prototyping, version control and collaboration.</p>
-        <img src="http://lapa.ninja/assets/images/atomic-2.jpg" />
 
 
       </description>
