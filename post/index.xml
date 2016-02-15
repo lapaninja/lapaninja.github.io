@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jan 2016 11:19:48 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2016 14:06:42 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Riiot Labs</title>
+      <link>http://lapa.ninja/post/riiot-labs/</link>
+      <pubDate>Mon, 15 Feb 2016 14:06:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/riiot-labs/</guid>
+      <description>
+        
+        <p>Get instant data on your pool water quality and temperature. Blue will tell you in real-time via an app if your pool is fine for a dip or otherwise suggest customized solutions for you.</p>
+        <img src="http://lapa.ninja/assets/images/riiot-labs.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Wellcoin</title>
+      <link>http://lapa.ninja/post/wellcoin/</link>
+      <pubDate>Mon, 15 Feb 2016 14:06:24 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wellcoin/</guid>
+      <description>
+        
+        <p>Wellcoin&#39;s mission is to help the world get healthier by increasing the frequency and diversity of healthy activities in our daily lives.</p>
+        <img src="http://lapa.ninja/assets/images/wellcoin.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Klets</title>
+      <link>http://lapa.ninja/post/klets/</link>
+      <pubDate>Mon, 15 Feb 2016 14:06:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/klets/</guid>
+      <description>
+        
+        <p>Klets is a chat page for your business. People want chat. With Klets, so do you. No IT guy needed. It&#39;s as simple as signing up for a Twitter profile or Facebook page.</p>
+        <img src="http://lapa.ninja/assets/images/klets.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>SoFlow</title>
@@ -184,51 +229,6 @@
         
         <p>A collaborative learning landscape that extends beyond the classroom, connecting teachers and students with a mutual goal.</p>
         <img src="http://lapa.ninja/assets/images/classt.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Framer</title>
-      <link>http://lapa.ninja/post/framerjs/</link>
-      <pubDate>Tue, 01 Dec 2015 11:03:44 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/framerjs/</guid>
-      <description>
-        
-        <p>Design interactive high-fidelity prototypes for iOS, Android, desktop or the web. Invent new animations and interactions. Integrates with Sketch and Photoshop.</p>
-        <img src="http://lapa.ninja/assets/images/framerjs.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>UserApp</title>
-      <link>http://lapa.ninja/post/userapp/</link>
-      <pubDate>Tue, 01 Dec 2015 10:54:16 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/userapp/</guid>
-      <description>
-        
-        <p>Cloud-based user management for web and mobile apps.</p>
-        <img src="http://lapa.ninja/assets/images/userapp.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>IFTTT</title>
-      <link>http://lapa.ninja/post/ifttt/</link>
-      <pubDate>Tue, 01 Dec 2015 10:40:28 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ifttt/</guid>
-      <description>
-        
-        <p>IFTTT puts the internet to work for you. Create simple connections between the products you use every day.</p>
-        <img src="http://lapa.ninja/assets/images/ifttt.jpg" />
 
 
       </description>

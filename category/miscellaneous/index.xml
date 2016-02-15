@@ -6,8 +6,38 @@
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jan 2016 11:19:39 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2016 14:06:42 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Riiot Labs</title>
+      <link>http://lapa.ninja/post/riiot-labs/</link>
+      <pubDate>Mon, 15 Feb 2016 14:06:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/riiot-labs/</guid>
+      <description>
+        
+        <p>Get instant data on your pool water quality and temperature. Blue will tell you in real-time via an app if your pool is fine for a dip or otherwise suggest customized solutions for you.</p>
+        <img src="http://lapa.ninja/assets/images/riiot-labs.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Wellcoin</title>
+      <link>http://lapa.ninja/post/wellcoin/</link>
+      <pubDate>Mon, 15 Feb 2016 14:06:24 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wellcoin/</guid>
+      <description>
+        
+        <p>Wellcoin&#39;s mission is to help the world get healthier by increasing the frequency and diversity of healthy activities in our daily lives.</p>
+        <img src="http://lapa.ninja/assets/images/wellcoin.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Airtable</title>
@@ -199,36 +229,6 @@
         
         <p>Tapcore Mobile Ad Network</p>
         <img src="http://lapa.ninja/assets/images/tapcore.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>VWO</title>
-      <link>http://lapa.ninja/post/vwo/</link>
-      <pubDate>Fri, 16 Oct 2015 23:25:31 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/vwo/</guid>
-      <description>
-        
-        <p>VWO is the easiest A/B, Split and Multivariate testing tool. Try a free 30-day trial to start optimizing your website for increased conversion rate and sales.</p>
-        <img src="http://lapa.ninja/assets/images/vwo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lab</title>
-      <link>http://lapa.ninja/post/labphoenix/</link>
-      <pubDate>Fri, 16 Oct 2015 23:16:36 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/labphoenix/</guid>
-      <description>
-        
-        <p>A coworking space for creators of all kinds. Walking distance from great art, coffee shops &amp; restaurants. Come make stuff with us.</p>
-        <img src="http://lapa.ninja/assets/images/labphoenix.jpg" />
 
 
       </description>

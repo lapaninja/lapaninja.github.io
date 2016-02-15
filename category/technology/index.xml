@@ -6,8 +6,38 @@
     <description>Recent content in Technology on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2015 16:11:27 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2016 14:06:42 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Riiot Labs</title>
+      <link>http://lapa.ninja/post/riiot-labs/</link>
+      <pubDate>Mon, 15 Feb 2016 14:06:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/riiot-labs/</guid>
+      <description>
+        
+        <p>Get instant data on your pool water quality and temperature. Blue will tell you in real-time via an app if your pool is fine for a dip or otherwise suggest customized solutions for you.</p>
+        <img src="http://lapa.ninja/assets/images/riiot-labs.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Wellcoin</title>
+      <link>http://lapa.ninja/post/wellcoin/</link>
+      <pubDate>Mon, 15 Feb 2016 14:06:24 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wellcoin/</guid>
+      <description>
+        
+        <p>Wellcoin&#39;s mission is to help the world get healthier by increasing the frequency and diversity of healthy activities in our daily lives.</p>
+        <img src="http://lapa.ninja/assets/images/wellcoin.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>uHoo</title>
@@ -199,36 +229,6 @@
         
         <p>Spin up an SSD cloud server, with full root access, in under a minute. Pricing starts at $5/mo for 512MB RAM, 20GB SSD, 1CPU and 1TB transfer.</p>
         <img src="http://lapa.ninja/assets/images/DigitalOcean.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Recurly</title>
-      <link>http://lapa.ninja/post/recurly/</link>
-      <pubDate>Fri, 16 Oct 2015 21:09:46 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/recurly/</guid>
-      <description>
-        
-        <p>Subscription billing and recurring billing management.  Recurly offers enterprise-class subscription billing for thousands of companies worldwide.</p>
-        <img src="http://lapa.ninja/assets/images/recurly.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Vibrant</title>
-      <link>http://lapa.ninja/post/vibrant/</link>
-      <pubDate>Fri, 16 Oct 2015 21:07:27 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/vibrant/</guid>
-      <description>
-        
-        <p>A haptic communicator that creates precise taps</p>
-        <img src="http://lapa.ninja/assets/images/vibrant.jpg" />
 
 
       </description>

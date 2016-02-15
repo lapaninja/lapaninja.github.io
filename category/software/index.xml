@@ -6,8 +6,23 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jan 2016 11:19:39 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2016 14:06:06 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Klets</title>
+      <link>http://lapa.ninja/post/klets/</link>
+      <pubDate>Mon, 15 Feb 2016 14:06:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/klets/</guid>
+      <description>
+        
+        <p>Klets is a chat page for your business. People want chat. With Klets, so do you. No IT guy needed. It&#39;s as simple as signing up for a Twitter profile or Facebook page.</p>
+        <img src="http://lapa.ninja/assets/images/klets.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Airtable</title>
@@ -214,21 +229,6 @@
         
         <p>All your stuff in one simple, visual, private place</p>
         <img src="http://lapa.ninja/assets/images/dropmark.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Layer</title>
-      <link>http://lapa.ninja/post/layer/</link>
-      <pubDate>Fri, 16 Oct 2015 22:52:51 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/layer/</guid>
-      <description>
-        
-        <p>Mobile and web messaging, built for developers.</p>
-        <img src="http://lapa.ninja/assets/images/layer.jpg" />
 
 
       </description>

@@ -6,8 +6,53 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jan 2016 11:19:48 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2016 14:06:42 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Riiot Labs</title>
+      <link>http://lapa.ninja/post/riiot-labs/</link>
+      <pubDate>Mon, 15 Feb 2016 14:06:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/riiot-labs/</guid>
+      <description>
+        
+        <p>Get instant data on your pool water quality and temperature. Blue will tell you in real-time via an app if your pool is fine for a dip or otherwise suggest customized solutions for you.</p>
+        <img src="http://lapa.ninja/assets/images/riiot-labs.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Wellcoin</title>
+      <link>http://lapa.ninja/post/wellcoin/</link>
+      <pubDate>Mon, 15 Feb 2016 14:06:24 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wellcoin/</guid>
+      <description>
+        
+        <p>Wellcoin&#39;s mission is to help the world get healthier by increasing the frequency and diversity of healthy activities in our daily lives.</p>
+        <img src="http://lapa.ninja/assets/images/wellcoin.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Klets</title>
+      <link>http://lapa.ninja/post/klets/</link>
+      <pubDate>Mon, 15 Feb 2016 14:06:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/klets/</guid>
+      <description>
+        
+        <p>Klets is a chat page for your business. People want chat. With Klets, so do you. No IT guy needed. It&#39;s as simple as signing up for a Twitter profile or Facebook page.</p>
+        <img src="http://lapa.ninja/assets/images/klets.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>SoFlow</title>
@@ -184,51 +229,6 @@
         
         <p>Azendoo is a Teamwork Application. Organize your tasks, plan your projects, share your documents and sync with your team, without email.</p>
         <img src="http://lapa.ninja/assets/images/azendoo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Primer</title>
-      <link>http://lapa.ninja/post/yourprimer/</link>
-      <pubDate>Wed, 11 Nov 2015 15:27:35 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/yourprimer/</guid>
-      <description>
-        
-        <p>Primer is the fast, easy way to learn new marketing skills. Download our free mobile app for 5-minute lessons you can do anywhere.</p>
-        <img src="http://lapa.ninja/assets/images/yourprimer.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Intercom Acquire</title>
-      <link>http://lapa.ninja/post/intercom-acquire/</link>
-      <pubDate>Tue, 03 Nov 2015 18:04:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/intercom-acquire/</guid>
-      <description>
-        
-        <p>Chat with visitors to your website in real-time, capture them as leads, and convert them to customers.</p>
-        <img src="http://lapa.ninja/assets/images/intercom-acquire.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Prevue</title>
-      <link>http://lapa.ninja/post/prevue/</link>
-      <pubDate>Sat, 31 Oct 2015 10:37:52 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/prevue/</guid>
-      <description>
-        
-        <p>Prevue is a tool for designers and digital agencies to give stunning design presentations, and get fast client feedback.</p>
-        <img src="http://lapa.ninja/assets/images/prevue.jpg" />
 
 
       </description>

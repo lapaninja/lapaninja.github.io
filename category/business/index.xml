@@ -6,8 +6,23 @@
     <description>Recent content in Business on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jan 2016 11:19:39 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2016 14:06:06 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Klets</title>
+      <link>http://lapa.ninja/post/klets/</link>
+      <pubDate>Mon, 15 Feb 2016 14:06:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/klets/</guid>
+      <description>
+        
+        <p>Klets is a chat page for your business. People want chat. With Klets, so do you. No IT guy needed. It&#39;s as simple as signing up for a Twitter profile or Facebook page.</p>
+        <img src="http://lapa.ninja/assets/images/klets.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Airtable</title>
@@ -214,21 +229,6 @@
         
         <p>A great product manager knows how to say no to ideas that don’t serve their vision. See 8 tempting reasons to build a feature, and why you should just say no.</p>
         <img src="http://lapa.ninja/assets/images/productstrategymeanssayingno.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Semplice</title>
-      <link>http://lapa.ninja/post/semplice/</link>
-      <pubDate>Fri, 16 Oct 2015 23:39:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/semplice/</guid>
-      <description>
-        
-        <p>With Semplice you can build fully responsive case studies &amp; custom branded project pages with just a few clicks.</p>
-        <img src="http://lapa.ninja/assets/images/semplice.jpg" />
 
 
       </description>
