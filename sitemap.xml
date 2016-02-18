@@ -3,8 +3,23 @@
   
   <url>
     <loc>http://lapa.ninja/</loc>
-    <lastmod>2016-02-15T14:06:42+07:00</lastmod>
+    <lastmod>2016-02-18T10:32:40+07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/post/carto-db/</loc>
+    <lastmod>2016-02-18T10:32:40+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/post/webflow/</loc>
+    <lastmod>2016-02-18T10:32:23+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/post/craft/</loc>
+    <lastmod>2016-02-18T10:32:06+07:00</lastmod>
   </url>
   
   <url>

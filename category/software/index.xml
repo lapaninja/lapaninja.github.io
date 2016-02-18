@@ -6,8 +6,53 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Feb 2016 14:06:06 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2016 10:32:40 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CartoDB</title>
+      <link>http://lapa.ninja/post/carto-db/</link>
+      <pubDate>Thu, 18 Feb 2016 10:32:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/carto-db/</guid>
+      <description>
+        
+        <p>CartoDB is a location intelligence and visualization engine that empowers you to effortlessly transform data into insights.</p>
+        <img src="http://lapa.ninja/assets/images/carto-db.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Webflow</title>
+      <link>http://lapa.ninja/post/webflow/</link>
+      <pubDate>Thu, 18 Feb 2016 10:32:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow/</guid>
+      <description>
+        
+        <p>Build responsive websites in your browser. Launch with a click. Or export your code to host wherever. Discover the professional website builder made for designers.</p>
+        <img src="http://lapa.ninja/assets/images/webflow.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Craft by InVision LABS</title>
+      <link>http://lapa.ninja/post/craft/</link>
+      <pubDate>Thu, 18 Feb 2016 10:32:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/craft/</guid>
+      <description>
+        
+        <p>Craft is a plugin suite for Sketch and Photoshop that lets you design with real data in mind. Best of all, they integrate directly into both Photoshop and Sketch via a panel interface.</p>
+        <img src="http://lapa.ninja/assets/images/craft.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Klets</title>
@@ -184,51 +229,6 @@
         
         <p>Azendoo is a Teamwork Application. Organize your tasks, plan your projects, share your documents and sync with your team, without email.</p>
         <img src="http://lapa.ninja/assets/images/azendoo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Asana</title>
-      <link>http://lapa.ninja/post/asana/</link>
-      <pubDate>Fri, 16 Oct 2015 23:27:47 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/asana/</guid>
-      <description>
-        
-        <p>The easiest way for teams to track work, and get results. Do great things together.</p>
-        <img src="http://lapa.ninja/assets/images/asana.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>VWO</title>
-      <link>http://lapa.ninja/post/vwo/</link>
-      <pubDate>Fri, 16 Oct 2015 23:25:31 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/vwo/</guid>
-      <description>
-        
-        <p>VWO is the easiest A/B, Split and Multivariate testing tool. Try a free 30-day trial to start optimizing your website for increased conversion rate and sales.</p>
-        <img src="http://lapa.ninja/assets/images/vwo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dropmark</title>
-      <link>http://lapa.ninja/post/dropmark/</link>
-      <pubDate>Fri, 16 Oct 2015 23:14:14 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dropmark/</guid>
-      <description>
-        
-        <p>All your stuff in one simple, visual, private place</p>
-        <img src="http://lapa.ninja/assets/images/dropmark.jpg" />
 
 
       </description>

@@ -6,8 +6,23 @@
     <description>Recent content in Corporate on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jan 2016 13:55:10 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2016 10:32:40 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/corporate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CartoDB</title>
+      <link>http://lapa.ninja/post/carto-db/</link>
+      <pubDate>Thu, 18 Feb 2016 10:32:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/carto-db/</guid>
+      <description>
+        
+        <p>CartoDB is a location intelligence and visualization engine that empowers you to effortlessly transform data into insights.</p>
+        <img src="http://lapa.ninja/assets/images/carto-db.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Crew</title>
@@ -214,21 +229,6 @@
         
         <p>Creators of Mac, iPad, and iPhone productivity software. Proud to bring you OmniFocus, OmniOutliner, OmniGraffle, and OmniPlan.</p>
         <img src="http://lapa.ninja/assets/images/The-Omni-Group.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Mailchimp</title>
-      <link>http://lapa.ninja/post/mailchimp/</link>
-      <pubDate>Fri, 16 Oct 2015 21:46:15 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/mailchimp/</guid>
-      <description>
-        
-        <p>MailChimp is the best way to design, send, and share email newsletters.</p>
-        <img src="http://lapa.ninja/assets/images/mailchimp.jpg" />
 
 
       </description>

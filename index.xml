@@ -6,8 +6,53 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Feb 2016 14:06:42 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2016 10:32:40 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CartoDB</title>
+      <link>http://lapa.ninja/post/carto-db/</link>
+      <pubDate>Thu, 18 Feb 2016 10:32:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/carto-db/</guid>
+      <description>
+        
+        <p>CartoDB is a location intelligence and visualization engine that empowers you to effortlessly transform data into insights.</p>
+        <img src="http://lapa.ninja/assets/images/carto-db.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Webflow</title>
+      <link>http://lapa.ninja/post/webflow/</link>
+      <pubDate>Thu, 18 Feb 2016 10:32:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow/</guid>
+      <description>
+        
+        <p>Build responsive websites in your browser. Launch with a click. Or export your code to host wherever. Discover the professional website builder made for designers.</p>
+        <img src="http://lapa.ninja/assets/images/webflow.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Craft by InVision LABS</title>
+      <link>http://lapa.ninja/post/craft/</link>
+      <pubDate>Thu, 18 Feb 2016 10:32:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/craft/</guid>
+      <description>
+        
+        <p>Craft is a plugin suite for Sketch and Photoshop that lets you design with real data in mind. Best of all, they integrate directly into both Photoshop and Sketch via a panel interface.</p>
+        <img src="http://lapa.ninja/assets/images/craft.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Riiot Labs</title>
@@ -184,51 +229,6 @@
         
         <p>Simple, beautiful, powerful email. The most powerful platform for email productivity in a beautiful native app</p>
         <img src="http://lapa.ninja/assets/images/polymail.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Typed</title>
-      <link>http://lapa.ninja/post/typed/</link>
-      <pubDate>Tue, 08 Dec 2015 15:24:57 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/typed/</guid>
-      <description>
-        
-        <p>Typed is a better blogging service that allows you to build and collaborate on websites from anywhere, on any device.</p>
-        <img src="http://lapa.ninja/assets/images/typed.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Peer</title>
-      <link>http://lapa.ninja/post/peer/</link>
-      <pubDate>Tue, 08 Dec 2015 15:24:51 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/peer/</guid>
-      <description>
-        
-        <p>Feedback and performance for today&#39;s workforce.Create a culture of continuous improvement with the lightweight alternative to traditional performance reviews</p>
-        <img src="http://lapa.ninja/assets/images/peer.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Classt</title>
-      <link>http://lapa.ninja/post/classt/</link>
-      <pubDate>Tue, 08 Dec 2015 15:24:36 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/classt/</guid>
-      <description>
-        
-        <p>A collaborative learning landscape that extends beyond the classroom, connecting teachers and students with a mutual goal.</p>
-        <img src="http://lapa.ninja/assets/images/classt.jpg" />
 
 
       </description>

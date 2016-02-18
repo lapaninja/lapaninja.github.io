@@ -6,8 +6,38 @@
     <description>Recent content in Business on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Feb 2016 14:06:06 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2016 10:32:40 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CartoDB</title>
+      <link>http://lapa.ninja/post/carto-db/</link>
+      <pubDate>Thu, 18 Feb 2016 10:32:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/carto-db/</guid>
+      <description>
+        
+        <p>CartoDB is a location intelligence and visualization engine that empowers you to effortlessly transform data into insights.</p>
+        <img src="http://lapa.ninja/assets/images/carto-db.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Webflow</title>
+      <link>http://lapa.ninja/post/webflow/</link>
+      <pubDate>Thu, 18 Feb 2016 10:32:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow/</guid>
+      <description>
+        
+        <p>Build responsive websites in your browser. Launch with a click. Or export your code to host wherever. Discover the professional website builder made for designers.</p>
+        <img src="http://lapa.ninja/assets/images/webflow.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Klets</title>
@@ -199,36 +229,6 @@
         
         <p>A paper notebook that syncs to the cloud</p>
         <img src="http://lapa.ninja/assets/images/mod-notebooks.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Square</title>
-      <link>http://lapa.ninja/post/squareup/</link>
-      <pubDate>Sun, 25 Oct 2015 22:13:26 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/squareup/</guid>
-      <description>
-        
-        <p>Square Register is a simple, powerful and free POS system. Simplify business, inventory, analytics, digital receipts and more. Download the free app today.</p>
-        <img src="http://lapa.ninja/assets/images/squareup.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Intercom</title>
-      <link>http://lapa.ninja/post/say-no/</link>
-      <pubDate>Fri, 16 Oct 2015 23:42:34 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/say-no/</guid>
-      <description>
-        
-        <p>A great product manager knows how to say no to ideas that don’t serve their vision. See 8 tempting reasons to build a feature, and why you should just say no.</p>
-        <img src="http://lapa.ninja/assets/images/productstrategymeanssayingno.jpg" />
 
 
       </description>

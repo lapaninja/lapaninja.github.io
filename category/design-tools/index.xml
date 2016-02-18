@@ -6,8 +6,38 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jan 2016 11:18:49 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2016 10:32:23 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Webflow</title>
+      <link>http://lapa.ninja/post/webflow/</link>
+      <pubDate>Thu, 18 Feb 2016 10:32:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow/</guid>
+      <description>
+        
+        <p>Build responsive websites in your browser. Launch with a click. Or export your code to host wherever. Discover the professional website builder made for designers.</p>
+        <img src="http://lapa.ninja/assets/images/webflow.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Craft by InVision LABS</title>
+      <link>http://lapa.ninja/post/craft/</link>
+      <pubDate>Thu, 18 Feb 2016 10:32:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/craft/</guid>
+      <description>
+        
+        <p>Craft is a plugin suite for Sketch and Photoshop that lets you design with real data in mind. Best of all, they integrate directly into both Photoshop and Sketch via a panel interface.</p>
+        <img src="http://lapa.ninja/assets/images/craft.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Marvel</title>
@@ -199,36 +229,6 @@
         
         <p>Frontify is a software company based somewhere between Switzerlands deepest blue lakes and highest snowy mountains. Their chocolate fueled craftsmen develop web based apps that help you master the entire web design-to-development workflow (Frontify Workspace), collaborate joyfully and create professional brand &amp; design style guides (Frontify Style Guide).</p>
         <img src="http://lapa.ninja/assets/images/frontify.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Pencil by FiftyThree</title>
-      <link>http://lapa.ninja/post/fiftythree-pencil/</link>
-      <pubDate>Fri, 16 Oct 2015 22:32:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/fiftythree-pencil/</guid>
-      <description>
-        
-        <p>Pencil by FiftyThree is a revolutionary stylus for touch-screen devices. Use Pencil with Paper to express your ideas beautifully and easily.</p>
-        <img src="http://lapa.ninja/assets/images/53-pencil.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lookback</title>
-      <link>http://lapa.ninja/post/lookback/</link>
-      <pubDate>Fri, 16 Oct 2015 21:33:11 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/lookback/</guid>
-      <description>
-        
-        <p>User experience recordings made simple. Lookback allows you to remotely record the screen, face, voice and touches of your users.</p>
-        <img src="http://lapa.ninja/assets/images/lookback.png" />
 
 
       </description>
