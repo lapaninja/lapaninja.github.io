@@ -6,8 +6,23 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Feb 2016 10:32:40 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 20 Feb 2016 11:57:53 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Index.co</title>
+      <link>http://lapa.ninja/post/index-co/</link>
+      <pubDate>Sat, 20 Feb 2016 11:57:53 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/index-co/</guid>
+      <description>
+        
+        <p>Index turns public data and content from across the web into structured data on private tech companies, industries and locations across the globe.</p>
+        <img src="http://lapa.ninja/assets/images/indexco.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>CartoDB</title>
@@ -214,21 +229,6 @@
         
         <p>Kibo App protects your messages and safe your secrets in popular messengers and social networks. Furthermore, you&#39;ll be able to add hidden text into a regular message, available only to you and your contact</p>
         <img src="http://lapa.ninja/assets/images/kibo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Azendoo</title>
-      <link>http://lapa.ninja/post/azendoo/</link>
-      <pubDate>Wed, 11 Nov 2015 16:02:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/azendoo/</guid>
-      <description>
-        
-        <p>Azendoo is a Teamwork Application. Organize your tasks, plan your projects, share your documents and sync with your team, without email.</p>
-        <img src="http://lapa.ninja/assets/images/azendoo.jpg" />
 
 
       </description>

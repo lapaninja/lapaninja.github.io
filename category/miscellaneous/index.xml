@@ -6,8 +6,23 @@
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Feb 2016 10:32:40 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 20 Feb 2016 11:57:41 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dunked</title>
+      <link>http://lapa.ninja/post/dunked/</link>
+      <pubDate>Sat, 20 Feb 2016 11:57:41 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dunked/</guid>
+      <description>
+        
+        <p>Dunked makes creating your online &amp; mobile portfolio website super simple. Showcase your design, illustration, photography and other creative work on any device.</p>
+        <img src="http://lapa.ninja/assets/images/dunked.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>CartoDB</title>
@@ -214,21 +229,6 @@
         
         <p>uHoo is a beautiful indoor air quality sensor that understands how the air you breathe affects your health to provide you with personalized alerts.</p>
         <img src="http://lapa.ninja/assets/images/uhoo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Primer</title>
-      <link>http://lapa.ninja/post/yourprimer/</link>
-      <pubDate>Wed, 11 Nov 2015 15:27:35 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/yourprimer/</guid>
-      <description>
-        
-        <p>Primer is the fast, easy way to learn new marketing skills. Download our free mobile app for 5-minute lessons you can do anywhere.</p>
-        <img src="http://lapa.ninja/assets/images/yourprimer.jpg" />
 
 
       </description>

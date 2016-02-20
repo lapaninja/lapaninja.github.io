@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dunked on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/dunked/</link>
+    <description>Recent content in Dunked on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2016 11:57:41 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/dunked/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dunked</title>
+      <link>http://lapa.ninja/post/dunked/</link>
+      <pubDate>Sat, 20 Feb 2016 11:57:41 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dunked/</guid>
+      <description>
+        
+        <p>Dunked makes creating your online &amp; mobile portfolio website super simple. Showcase your design, illustration, photography and other creative work on any device.</p>
+        <img src="http://lapa.ninja/assets/images/dunked.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

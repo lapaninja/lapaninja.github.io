@@ -6,8 +6,23 @@
     <description>Recent content in Technology on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Feb 2016 14:06:42 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 20 Feb 2016 11:57:53 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Index.co</title>
+      <link>http://lapa.ninja/post/index-co/</link>
+      <pubDate>Sat, 20 Feb 2016 11:57:53 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/index-co/</guid>
+      <description>
+        
+        <p>Index turns public data and content from across the web into structured data on private tech companies, industries and locations across the globe.</p>
+        <img src="http://lapa.ninja/assets/images/indexco.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Riiot Labs</title>
@@ -214,21 +229,6 @@
         
         <p>Creators of Mac, iPad, and iPhone productivity software. Proud to bring you OmniFocus, OmniOutliner, OmniGraffle, and OmniPlan.</p>
         <img src="http://lapa.ninja/assets/images/The-Omni-Group.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>DigitalOcean</title>
-      <link>http://lapa.ninja/post/digitalocean/</link>
-      <pubDate>Fri, 16 Oct 2015 21:40:00 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/digitalocean/</guid>
-      <description>
-        
-        <p>Spin up an SSD cloud server, with full root access, in under a minute. Pricing starts at $5/mo for 512MB RAM, 20GB SSD, 1CPU and 1TB transfer.</p>
-        <img src="http://lapa.ninja/assets/images/DigitalOcean.png" />
 
 
       </description>
