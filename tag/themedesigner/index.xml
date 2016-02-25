@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Themedesigner on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/themedesigner/</link>
+    <description>Recent content in Themedesigner on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Feb 2016 14:15:59 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/themedesigner/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Theme Designer</title>
+      <link>http://lapa.ninja/post/theme-designer/</link>
+      <pubDate>Thu, 25 Feb 2016 14:15:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/theme-designer/</guid>
+      <description>
+        
+        <p>Having hands on experience in creating innovative designs, ThemeDesigner offer website designs, wordpress themes, landing page design and homepage design.</p>
+        <img src="http://lapa.ninja/assets/images/themedesigner.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

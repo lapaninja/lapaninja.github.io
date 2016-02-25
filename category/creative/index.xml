@@ -6,8 +6,23 @@
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Feb 2016 11:58:02 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2016 14:15:59 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Theme Designer</title>
+      <link>http://lapa.ninja/post/theme-designer/</link>
+      <pubDate>Thu, 25 Feb 2016 14:15:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/theme-designer/</guid>
+      <description>
+        
+        <p>Having hands on experience in creating innovative designs, ThemeDesigner offer website designs, wordpress themes, landing page design and homepage design.</p>
+        <img src="http://lapa.ninja/assets/images/themedesigner.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Pixel Union</title>
@@ -214,21 +229,6 @@
         
         <p>A great product manager knows how to say no to ideas that don’t serve their vision. See 8 tempting reasons to build a feature, and why you should just say no.</p>
         <img src="http://lapa.ninja/assets/images/productstrategymeanssayingno.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Semplice</title>
-      <link>http://lapa.ninja/post/semplice/</link>
-      <pubDate>Fri, 16 Oct 2015 23:39:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/semplice/</guid>
-      <description>
-        
-        <p>With Semplice you can build fully responsive case studies &amp; custom branded project pages with just a few clicks.</p>
-        <img src="http://lapa.ninja/assets/images/semplice.jpg" />
 
 
       </description>

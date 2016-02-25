@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Squarespace on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/squarespace/</link>
+    <description>Recent content in Squarespace on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Feb 2016 14:16:46 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/squarespace/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Squarespace</title>
+      <link>http://lapa.ninja/post/square-space/</link>
+      <pubDate>Thu, 25 Feb 2016 14:16:46 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/square-space/</guid>
+      <description>
+        
+        <p>Squarespace is the easiest way for anyone to create an exceptional website. Pages, galleries, blogs, e-commerce, domains, hosting, analytics, 24/7 support - all included.</p>
+        <img src="http://lapa.ninja/assets/images/squarespace.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

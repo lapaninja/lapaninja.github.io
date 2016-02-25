@@ -6,8 +6,23 @@
     <description>Recent content in Technology on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Feb 2016 11:57:53 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2016 14:16:18 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Samsung Gear 360</title>
+      <link>http://lapa.ninja/post/samsung-gear-360/</link>
+      <pubDate>Thu, 25 Feb 2016 14:16:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/samsung-gear-360/</guid>
+      <description>
+        
+        <p>With Samsung Gear 360, creating seamlessly spherical videos and photos is beautifully simple.</p>
+        <img src="http://lapa.ninja/assets/images/samsung-gear-360.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Index.co</title>
@@ -214,21 +229,6 @@
         
         <p>Turn your smartphone into a virtual reality viewer that’s simple, fun, and affordable.</p>
         <img src="http://lapa.ninja/assets/images/google-cardboard.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>The Omni Group</title>
-      <link>http://lapa.ninja/post/omnigroup/</link>
-      <pubDate>Fri, 16 Oct 2015 21:48:31 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/omnigroup/</guid>
-      <description>
-        
-        <p>Creators of Mac, iPad, and iPhone productivity software. Proud to bring you OmniFocus, OmniOutliner, OmniGraffle, and OmniPlan.</p>
-        <img src="http://lapa.ninja/assets/images/The-Omni-Group.jpg" />
 
 
       </description>
