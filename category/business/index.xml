@@ -25,21 +25,6 @@
     </item>
     
     <item>
-      <title>Squarespace</title>
-      <link>http://lapa.ninja/post/square-space/</link>
-      <pubDate>Thu, 25 Feb 2016 14:16:46 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/square-space/</guid>
-      <description>
-        
-        <p>Squarespace is the easiest way for anyone to create an exceptional website. Pages, galleries, blogs, e-commerce, domains, hosting, analytics, 24/7 support - all included.</p>
-        <img src="http://lapa.ninja/assets/images/squarespace.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
       <title>Theme Designer</title>
       <link>http://lapa.ninja/post/theme-designer/</link>
       <pubDate>Thu, 25 Feb 2016 14:15:59 +0700</pubDate>
@@ -229,6 +214,21 @@
         
         <p>We’re an award-winning team that transforms ideas into great experiences.</p>
         <img src="http://lapa.ninja/assets/images/metalab.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Zarget</title>
+      <link>http://lapa.ninja/post/zarget/</link>
+      <pubDate>Thu, 26 Nov 2015 08:55:50 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/zarget/</guid>
+      <description>
+        
+        <p>Zarget is new age AB testing and Heatmap software that lets you optimize your website with just a few clicks thereby increasing sales.</p>
+        <img src="http://lapa.ninja/assets/images/zarget.jpg" />
 
 
       </description>
