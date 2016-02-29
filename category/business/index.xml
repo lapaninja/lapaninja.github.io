@@ -6,8 +6,38 @@
     <description>Recent content in Business on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2016 14:16:46 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 Feb 2016 11:03:20 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stripe Atlas</title>
+      <link>http://lapa.ninja/post/stripe-atlas/</link>
+      <pubDate>Mon, 29 Feb 2016 11:03:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/stripe-atlas/</guid>
+      <description>
+        
+        <p>A new way to start an internet business anywhere.</p>
+        <img src="http://lapa.ninja/assets/images/stripe-atlas.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lift</title>
+      <link>http://lapa.ninja/post/liftux/</link>
+      <pubDate>Mon, 29 Feb 2016 11:02:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/liftux/</guid>
+      <description>
+        
+        <p>Lift is a full-service user experience design agency. Oh, and we do cool stuff with WordPress.</p>
+        <img src="http://lapa.ninja/assets/images/lift-ux.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Squarespace</title>
@@ -199,36 +229,6 @@
         
         <p>A collaborative learning landscape that extends beyond the classroom, connecting teachers and students with a mutual goal.</p>
         <img src="http://lapa.ninja/assets/images/classt.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MetaLab</title>
-      <link>http://lapa.ninja/post/metalab/</link>
-      <pubDate>Thu, 26 Nov 2015 09:26:33 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/metalab/</guid>
-      <description>
-        
-        <p>We’re an award-winning team that transforms ideas into great experiences.</p>
-        <img src="http://lapa.ninja/assets/images/metalab.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Zarget</title>
-      <link>http://lapa.ninja/post/zarget/</link>
-      <pubDate>Thu, 26 Nov 2015 08:55:50 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/zarget/</guid>
-      <description>
-        
-        <p>Zarget is new age AB testing and Heatmap software that lets you optimize your website with just a few clicks thereby increasing sales.</p>
-        <img src="http://lapa.ninja/assets/images/zarget.jpg" />
 
 
       </description>

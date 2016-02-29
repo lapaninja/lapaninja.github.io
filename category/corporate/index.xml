@@ -6,8 +6,38 @@
     <description>Recent content in Corporate on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2016 14:16:46 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 Feb 2016 11:03:20 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/corporate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stripe Atlas</title>
+      <link>http://lapa.ninja/post/stripe-atlas/</link>
+      <pubDate>Mon, 29 Feb 2016 11:03:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/stripe-atlas/</guid>
+      <description>
+        
+        <p>A new way to start an internet business anywhere.</p>
+        <img src="http://lapa.ninja/assets/images/stripe-atlas.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lift</title>
+      <link>http://lapa.ninja/post/liftux/</link>
+      <pubDate>Mon, 29 Feb 2016 11:02:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/liftux/</guid>
+      <description>
+        
+        <p>Lift is a full-service user experience design agency. Oh, and we do cool stuff with WordPress.</p>
+        <img src="http://lapa.ninja/assets/images/lift-ux.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Squarespace</title>
@@ -199,36 +229,6 @@
         
         <p>Ramotion is a digital product design agency in San Francisco, specializing in brand identity, mobile and web. We make product logos, app user interfaces and websites for startups and businesses.</p>
         <img src="http://lapa.ninja/assets/images/ramotion.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Semplice</title>
-      <link>http://lapa.ninja/post/semplice/</link>
-      <pubDate>Fri, 16 Oct 2015 23:39:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/semplice/</guid>
-      <description>
-        
-        <p>With Semplice you can build fully responsive case studies &amp; custom branded project pages with just a few clicks.</p>
-        <img src="http://lapa.ninja/assets/images/semplice.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lab</title>
-      <link>http://lapa.ninja/post/labphoenix/</link>
-      <pubDate>Fri, 16 Oct 2015 23:16:36 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/labphoenix/</guid>
-      <description>
-        
-        <p>A coworking space for creators of all kinds. Walking distance from great art, coffee shops &amp; restaurants. Come make stuff with us.</p>
-        <img src="http://lapa.ninja/assets/images/labphoenix.jpg" />
 
 
       </description>

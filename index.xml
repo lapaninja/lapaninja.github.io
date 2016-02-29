@@ -6,8 +6,53 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2016 14:16:46 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 Feb 2016 11:03:37 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ClassDojo</title>
+      <link>http://lapa.ninja/post/class-dojo/</link>
+      <pubDate>Mon, 29 Feb 2016 11:03:37 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/class-dojo/</guid>
+      <description>
+        
+        <p>Simple, positive classroom management, and parent engagement. Loved by over 35 million teachers, parents, and students.</p>
+        <img src="http://lapa.ninja/assets/images/classdojo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Stripe Atlas</title>
+      <link>http://lapa.ninja/post/stripe-atlas/</link>
+      <pubDate>Mon, 29 Feb 2016 11:03:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/stripe-atlas/</guid>
+      <description>
+        
+        <p>A new way to start an internet business anywhere.</p>
+        <img src="http://lapa.ninja/assets/images/stripe-atlas.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lift</title>
+      <link>http://lapa.ninja/post/liftux/</link>
+      <pubDate>Mon, 29 Feb 2016 11:02:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/liftux/</guid>
+      <description>
+        
+        <p>Lift is a full-service user experience design agency. Oh, and we do cool stuff with WordPress.</p>
+        <img src="http://lapa.ninja/assets/images/lift-ux.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Squarespace</title>
@@ -184,51 +229,6 @@
         
         <p>Klets is a chat page for your business. People want chat. With Klets, so do you. No IT guy needed. It&#39;s as simple as signing up for a Twitter profile or Facebook page.</p>
         <img src="http://lapa.ninja/assets/images/klets.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>SoFlow</title>
-      <link>http://lapa.ninja/post/soflow/</link>
-      <pubDate>Fri, 29 Jan 2016 11:19:48 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/soflow/</guid>
-      <description>
-        
-        <p>Everything in one place. View all of your social media streams from Facebook, Twitter, Instagram and Tumblr in one elegant feed.</p>
-        <img src="http://lapa.ninja/assets/images/soflow.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Airtable</title>
-      <link>http://lapa.ninja/post/airtable/</link>
-      <pubDate>Fri, 29 Jan 2016 11:19:39 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/airtable/</guid>
-      <description>
-        
-        <p>Airtable works like a spreadsheet but gives you the power of a database to organize anything.</p>
-        <img src="http://lapa.ninja/assets/images/airtable.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Marvel</title>
-      <link>http://lapa.ninja/post/marvelapp-2/</link>
-      <pubDate>Fri, 29 Jan 2016 11:18:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/marvelapp-2/</guid>
-      <description>
-        
-        <p>Turn sketches, mockups and designs into web, iPhone, iOS, Android and Apple Watch app prototypes.</p>
-        <img src="http://lapa.ninja/assets/images/marvelapp-2016.jpg" />
 
 
       </description>

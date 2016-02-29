@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lift on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/lift/</link>
+    <description>Recent content in Lift on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Feb 2016 11:02:55 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/lift/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lift</title>
+      <link>http://lapa.ninja/post/liftux/</link>
+      <pubDate>Mon, 29 Feb 2016 11:02:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/liftux/</guid>
+      <description>
+        
+        <p>Lift is a full-service user experience design agency. Oh, and we do cool stuff with WordPress.</p>
+        <img src="http://lapa.ninja/assets/images/lift-ux.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

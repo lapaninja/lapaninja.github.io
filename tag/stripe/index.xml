@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stripe on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/stripe/</link>
+    <description>Recent content in Stripe on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Feb 2016 11:03:20 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/stripe/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stripe Atlas</title>
+      <link>http://lapa.ninja/post/stripe-atlas/</link>
+      <pubDate>Mon, 29 Feb 2016 11:03:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/stripe-atlas/</guid>
+      <description>
+        
+        <p>A new way to start an internet business anywhere.</p>
+        <img src="http://lapa.ninja/assets/images/stripe-atlas.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
