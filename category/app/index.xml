@@ -6,8 +6,38 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Feb 2016 11:03:37 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2016 14:35:40 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Quiver</title>
+      <link>http://lapa.ninja/post/quiver/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/quiver/</guid>
+      <description>
+        
+        <p>Quiver offers unlimited storage and allows you to share files and collaborate with complete control over who sees them, how and when</p>
+        <img src="http://lapa.ninja/assets/images/quiver.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Mapbox</title>
+      <link>http://lapa.ninja/post/mapbox/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:31 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mapbox/</guid>
+      <description>
+        
+        <p>An open source mapping platform for custom designed maps. Our APIs and SDKs are the building blocks to integrate location into any mobile or web app.</p>
+        <img src="http://lapa.ninja/assets/images/mapbox.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>ClassDojo</title>
@@ -199,36 +229,6 @@
         
         <p>Atomic is professional software for digital designers, featuring tools for interface design, prototyping, version control and collaboration.</p>
         <img src="http://lapa.ninja/assets/images/atomic-2.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ginventory</title>
-      <link>http://lapa.ninja/post/ginventory/</link>
-      <pubDate>Thu, 19 Nov 2015 10:11:21 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ginventory/</guid>
-      <description>
-        
-        <p>Find the Perfect Serve for every gin in the world. Just search for a gin, tonic or botanical and find the best Gin &amp; Tonic combinations according to distillers and connoisseurs.</p>
-        <img src="http://lapa.ninja/assets/images/ginventory.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Inboard App</title>
-      <link>http://lapa.ninja/post/inboard/</link>
-      <pubDate>Thu, 19 Nov 2015 10:10:45 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/inboard/</guid>
-      <description>
-        
-        <p>Organizing screenshots, images or photos in Finder is a major pain. Does it sound familiar? If so, we have a solution for you.</p>
-        <img src="http://lapa.ninja/assets/images/inboard.jpg" />
 
 
       </description>

@@ -6,8 +6,23 @@
     <description>Recent content in Ecommerce on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Feb 2016 11:03:20 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2016 14:35:04 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Market Me</title>
+      <link>http://lapa.ninja/post/market-me/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:04 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/market-me/</guid>
+      <description>
+        
+        <p>The marketplace for design resources. Buy Premium Creative Design Contents Like, UI Kits, Wordpress Theme, Presentations, Icons and much more… </p>
+        <img src="http://lapa.ninja/assets/images/market-me.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Stripe Atlas</title>
@@ -214,21 +229,6 @@
         
         <p>We are a family of creators – close knit and a little crazy – handcrafting goods at our workshop in Portland, Oregon. We make beautiful products from quality materials because we believe each one is a representation of who we are.</p>
         <img src="http://lapa.ninja/assets/images/grovemade.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sush.io</title>
-      <link>http://lapa.ninja/post/sushio/</link>
-      <pubDate>Wed, 14 Oct 2015 16:58:56 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/sushio/</guid>
-      <description>
-        
-        <p>Reconcile Stripe &amp; Paypal sales receipts, fees and even transfers into deposits, automatically</p>
-        <img src="http://lapa.ninja/assets/images/sushio.jpg" />
 
 
       </description>

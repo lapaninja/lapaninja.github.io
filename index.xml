@@ -6,8 +6,98 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Feb 2016 11:03:37 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2016 14:35:40 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Quiver</title>
+      <link>http://lapa.ninja/post/quiver/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/quiver/</guid>
+      <description>
+        
+        <p>Quiver offers unlimited storage and allows you to share files and collaborate with complete control over who sees them, how and when</p>
+        <img src="http://lapa.ninja/assets/images/quiver.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Mapbox</title>
+      <link>http://lapa.ninja/post/mapbox/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:31 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mapbox/</guid>
+      <description>
+        
+        <p>An open source mapping platform for custom designed maps. Our APIs and SDKs are the building blocks to integrate location into any mobile or web app.</p>
+        <img src="http://lapa.ninja/assets/images/mapbox.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Webydo</title>
+      <link>http://lapa.ninja/post/webydo/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webydo/</guid>
+      <description>
+        
+        <p>Webydo is a professional online website design software for designers. With Webydo, designers can create multiple responsive websites with custom tailored design from scratch without writing one line of code.</p>
+        <img src="http://lapa.ninja/assets/images/webydo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Market Me</title>
+      <link>http://lapa.ninja/post/market-me/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:04 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/market-me/</guid>
+      <description>
+        
+        <p>The marketplace for design resources. Buy Premium Creative Design Contents Like, UI Kits, Wordpress Theme, Presentations, Icons and much more… </p>
+        <img src="http://lapa.ninja/assets/images/market-me.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Format.com</title>
+      <link>http://lapa.ninja/post/format/</link>
+      <pubDate>Thu, 03 Mar 2016 14:34:51 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/format/</guid>
+      <description>
+        
+        <p>Create your online portfolio website and showcase your photography, design, illustration, art, modeling and style, professionally.</p>
+        <img src="http://lapa.ninja/assets/images/format.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Flex</title>
+      <link>http://lapa.ninja/post/flex/</link>
+      <pubDate>Thu, 03 Mar 2016 14:34:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/flex/</guid>
+      <description>
+        
+        <p>Discover an effortless way to design beautiful websites that can be managed independently.</p>
+        <img src="http://lapa.ninja/assets/images/flex.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>ClassDojo</title>
@@ -139,96 +229,6 @@
         
         <p>Dunked makes creating your online &amp; mobile portfolio website super simple. Showcase your design, illustration, photography and other creative work on any device.</p>
         <img src="http://lapa.ninja/assets/images/dunked.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>CartoDB</title>
-      <link>http://lapa.ninja/post/carto-db/</link>
-      <pubDate>Thu, 18 Feb 2016 10:32:40 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/carto-db/</guid>
-      <description>
-        
-        <p>CartoDB is a location intelligence and visualization engine that empowers you to effortlessly transform data into insights.</p>
-        <img src="http://lapa.ninja/assets/images/carto-db.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Webflow</title>
-      <link>http://lapa.ninja/post/webflow/</link>
-      <pubDate>Thu, 18 Feb 2016 10:32:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/webflow/</guid>
-      <description>
-        
-        <p>Build responsive websites in your browser. Launch with a click. Or export your code to host wherever. Discover the professional website builder made for designers.</p>
-        <img src="http://lapa.ninja/assets/images/webflow.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Craft by InVision LABS</title>
-      <link>http://lapa.ninja/post/craft/</link>
-      <pubDate>Thu, 18 Feb 2016 10:32:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/craft/</guid>
-      <description>
-        
-        <p>Craft is a plugin suite for Sketch and Photoshop that lets you design with real data in mind. Best of all, they integrate directly into both Photoshop and Sketch via a panel interface.</p>
-        <img src="http://lapa.ninja/assets/images/craft.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Riiot Labs</title>
-      <link>http://lapa.ninja/post/riiot-labs/</link>
-      <pubDate>Mon, 15 Feb 2016 14:06:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/riiot-labs/</guid>
-      <description>
-        
-        <p>Get instant data on your pool water quality and temperature. Blue will tell you in real-time via an app if your pool is fine for a dip or otherwise suggest customized solutions for you.</p>
-        <img src="http://lapa.ninja/assets/images/riiot-labs.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Wellcoin</title>
-      <link>http://lapa.ninja/post/wellcoin/</link>
-      <pubDate>Mon, 15 Feb 2016 14:06:24 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/wellcoin/</guid>
-      <description>
-        
-        <p>Wellcoin&#39;s mission is to help the world get healthier by increasing the frequency and diversity of healthy activities in our daily lives.</p>
-        <img src="http://lapa.ninja/assets/images/wellcoin.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Klets</title>
-      <link>http://lapa.ninja/post/klets/</link>
-      <pubDate>Mon, 15 Feb 2016 14:06:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/klets/</guid>
-      <description>
-        
-        <p>Klets is a chat page for your business. People want chat. With Klets, so do you. No IT guy needed. It&#39;s as simple as signing up for a Twitter profile or Facebook page.</p>
-        <img src="http://lapa.ninja/assets/images/klets.jpg" />
 
 
       </description>

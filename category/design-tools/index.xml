@@ -6,8 +6,53 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Feb 2016 10:32:23 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2016 14:35:40 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Quiver</title>
+      <link>http://lapa.ninja/post/quiver/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/quiver/</guid>
+      <description>
+        
+        <p>Quiver offers unlimited storage and allows you to share files and collaborate with complete control over who sees them, how and when</p>
+        <img src="http://lapa.ninja/assets/images/quiver.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Webydo</title>
+      <link>http://lapa.ninja/post/webydo/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webydo/</guid>
+      <description>
+        
+        <p>Webydo is a professional online website design software for designers. With Webydo, designers can create multiple responsive websites with custom tailored design from scratch without writing one line of code.</p>
+        <img src="http://lapa.ninja/assets/images/webydo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Flex</title>
+      <link>http://lapa.ninja/post/flex/</link>
+      <pubDate>Thu, 03 Mar 2016 14:34:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/flex/</guid>
+      <description>
+        
+        <p>Discover an effortless way to design beautiful websites that can be managed independently.</p>
+        <img src="http://lapa.ninja/assets/images/flex.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Webflow</title>
@@ -184,51 +229,6 @@
         
         <p>UX design tool for creating interactive animations &amp; multiscreen app flows</p>
         <img src="http://lapa.ninja/assets/images/floid.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dropmark</title>
-      <link>http://lapa.ninja/post/dropmark/</link>
-      <pubDate>Fri, 16 Oct 2015 23:14:14 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dropmark/</guid>
-      <description>
-        
-        <p>All your stuff in one simple, visual, private place</p>
-        <img src="http://lapa.ninja/assets/images/dropmark.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Symu</title>
-      <link>http://lapa.ninja/post/symu/</link>
-      <pubDate>Fri, 16 Oct 2015 22:45:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/symu/</guid>
-      <description>
-        
-        <p>Show your web design in a web browser, free tool for designers</p>
-        <img src="http://lapa.ninja/assets/images/symu.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Frontify</title>
-      <link>http://lapa.ninja/post/frontify/</link>
-      <pubDate>Fri, 16 Oct 2015 22:38:16 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/frontify/</guid>
-      <description>
-        
-        <p>Frontify is a software company based somewhere between Switzerlands deepest blue lakes and highest snowy mountains. Their chocolate fueled craftsmen develop web based apps that help you master the entire web design-to-development workflow (Frontify Workspace), collaborate joyfully and create professional brand &amp; design style guides (Frontify Style Guide).</p>
-        <img src="http://lapa.ninja/assets/images/frontify.jpg" />
 
 
       </description>

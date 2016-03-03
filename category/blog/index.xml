@@ -6,8 +6,23 @@
     <description>Recent content in Blog on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2016 14:16:46 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2016 14:34:51 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Format.com</title>
+      <link>http://lapa.ninja/post/format/</link>
+      <pubDate>Thu, 03 Mar 2016 14:34:51 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/format/</guid>
+      <description>
+        
+        <p>Create your online portfolio website and showcase your photography, design, illustration, art, modeling and style, professionally.</p>
+        <img src="http://lapa.ninja/assets/images/format.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Squarespace</title>

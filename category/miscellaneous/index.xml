@@ -6,8 +6,68 @@
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Feb 2016 11:03:37 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2016 14:35:31 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mapbox</title>
+      <link>http://lapa.ninja/post/mapbox/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:31 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mapbox/</guid>
+      <description>
+        
+        <p>An open source mapping platform for custom designed maps. Our APIs and SDKs are the building blocks to integrate location into any mobile or web app.</p>
+        <img src="http://lapa.ninja/assets/images/mapbox.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Webydo</title>
+      <link>http://lapa.ninja/post/webydo/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webydo/</guid>
+      <description>
+        
+        <p>Webydo is a professional online website design software for designers. With Webydo, designers can create multiple responsive websites with custom tailored design from scratch without writing one line of code.</p>
+        <img src="http://lapa.ninja/assets/images/webydo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Format.com</title>
+      <link>http://lapa.ninja/post/format/</link>
+      <pubDate>Thu, 03 Mar 2016 14:34:51 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/format/</guid>
+      <description>
+        
+        <p>Create your online portfolio website and showcase your photography, design, illustration, art, modeling and style, professionally.</p>
+        <img src="http://lapa.ninja/assets/images/format.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Flex</title>
+      <link>http://lapa.ninja/post/flex/</link>
+      <pubDate>Thu, 03 Mar 2016 14:34:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/flex/</guid>
+      <description>
+        
+        <p>Discover an effortless way to design beautiful websites that can be managed independently.</p>
+        <img src="http://lapa.ninja/assets/images/flex.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>ClassDojo</title>
@@ -169,66 +229,6 @@
         
         <p>Make Schools Awesome - Akdemia is the most comprehensive and easy to use school management platform designed to bring out the best in your school</p>
         <img src="http://lapa.ninja/assets/images/akdemia.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Polymail</title>
-      <link>http://lapa.ninja/post/polymail/</link>
-      <pubDate>Sat, 12 Dec 2015 11:39:38 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/polymail/</guid>
-      <description>
-        
-        <p>Simple, beautiful, powerful email. The most powerful platform for email productivity in a beautiful native app</p>
-        <img src="http://lapa.ninja/assets/images/polymail.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Peer</title>
-      <link>http://lapa.ninja/post/peer/</link>
-      <pubDate>Tue, 08 Dec 2015 15:24:51 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/peer/</guid>
-      <description>
-        
-        <p>Feedback and performance for today&#39;s workforce.Create a culture of continuous improvement with the lightweight alternative to traditional performance reviews</p>
-        <img src="http://lapa.ninja/assets/images/peer.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Classt</title>
-      <link>http://lapa.ninja/post/classt/</link>
-      <pubDate>Tue, 08 Dec 2015 15:24:36 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/classt/</guid>
-      <description>
-        
-        <p>A collaborative learning landscape that extends beyond the classroom, connecting teachers and students with a mutual goal.</p>
-        <img src="http://lapa.ninja/assets/images/classt.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>UserApp</title>
-      <link>http://lapa.ninja/post/userapp/</link>
-      <pubDate>Tue, 01 Dec 2015 10:54:16 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/userapp/</guid>
-      <description>
-        
-        <p>Cloud-based user management for web and mobile apps.</p>
-        <img src="http://lapa.ninja/assets/images/userapp.jpg" />
 
 
       </description>

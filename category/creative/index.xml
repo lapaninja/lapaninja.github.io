@@ -6,8 +6,53 @@
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2016 14:15:59 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2016 14:35:18 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Webydo</title>
+      <link>http://lapa.ninja/post/webydo/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webydo/</guid>
+      <description>
+        
+        <p>Webydo is a professional online website design software for designers. With Webydo, designers can create multiple responsive websites with custom tailored design from scratch without writing one line of code.</p>
+        <img src="http://lapa.ninja/assets/images/webydo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Market Me</title>
+      <link>http://lapa.ninja/post/market-me/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:04 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/market-me/</guid>
+      <description>
+        
+        <p>The marketplace for design resources. Buy Premium Creative Design Contents Like, UI Kits, Wordpress Theme, Presentations, Icons and much more… </p>
+        <img src="http://lapa.ninja/assets/images/market-me.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Format.com</title>
+      <link>http://lapa.ninja/post/format/</link>
+      <pubDate>Thu, 03 Mar 2016 14:34:51 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/format/</guid>
+      <description>
+        
+        <p>Create your online portfolio website and showcase your photography, design, illustration, art, modeling and style, professionally.</p>
+        <img src="http://lapa.ninja/assets/images/format.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Theme Designer</title>
@@ -184,51 +229,6 @@
         
         <p>Prototypo is an online application that allows to create beautiful fonts in minutes. Start with one of our templates, customize it with more than twenty sliders, and download your font to use it on the Web or on your desktop.</p>
         <img src="http://lapa.ninja/assets/images/prototypo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ramotion</title>
-      <link>http://lapa.ninja/post/ramotion/</link>
-      <pubDate>Wed, 28 Oct 2015 17:10:24 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ramotion/</guid>
-      <description>
-        
-        <p>Ramotion is a digital product design agency in San Francisco, specializing in brand identity, mobile and web. We make product logos, app user interfaces and websites for startups and businesses.</p>
-        <img src="http://lapa.ninja/assets/images/ramotion.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Grav</title>
-      <link>http://lapa.ninja/post/grav/</link>
-      <pubDate>Tue, 27 Oct 2015 10:15:54 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/grav/</guid>
-      <description>
-        
-        <p>Grav is an easy to use, yet powerful, opensource CMS that requires no database</p>
-        <img src="http://lapa.ninja/assets/images/grav.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Intercom</title>
-      <link>http://lapa.ninja/post/say-no/</link>
-      <pubDate>Fri, 16 Oct 2015 23:42:34 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/say-no/</guid>
-      <description>
-        
-        <p>A great product manager knows how to say no to ideas that don’t serve their vision. See 8 tempting reasons to build a feature, and why you should just say no.</p>
-        <img src="http://lapa.ninja/assets/images/productstrategymeanssayingno.jpg" />
 
 
       </description>

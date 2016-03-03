@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flex on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/flex/</link>
+    <description>Recent content in Flex on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Mar 2016 14:34:42 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/flex/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Flex</title>
+      <link>http://lapa.ninja/post/flex/</link>
+      <pubDate>Thu, 03 Mar 2016 14:34:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/flex/</guid>
+      <description>
+        
+        <p>Discover an effortless way to design beautiful websites that can be managed independently.</p>
+        <img src="http://lapa.ninja/assets/images/flex.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

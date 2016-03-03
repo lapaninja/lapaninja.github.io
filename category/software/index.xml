@@ -6,8 +6,68 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Feb 2016 11:03:37 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2016 14:35:40 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Quiver</title>
+      <link>http://lapa.ninja/post/quiver/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/quiver/</guid>
+      <description>
+        
+        <p>Quiver offers unlimited storage and allows you to share files and collaborate with complete control over who sees them, how and when</p>
+        <img src="http://lapa.ninja/assets/images/quiver.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Mapbox</title>
+      <link>http://lapa.ninja/post/mapbox/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:31 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mapbox/</guid>
+      <description>
+        
+        <p>An open source mapping platform for custom designed maps. Our APIs and SDKs are the building blocks to integrate location into any mobile or web app.</p>
+        <img src="http://lapa.ninja/assets/images/mapbox.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Webydo</title>
+      <link>http://lapa.ninja/post/webydo/</link>
+      <pubDate>Thu, 03 Mar 2016 14:35:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webydo/</guid>
+      <description>
+        
+        <p>Webydo is a professional online website design software for designers. With Webydo, designers can create multiple responsive websites with custom tailored design from scratch without writing one line of code.</p>
+        <img src="http://lapa.ninja/assets/images/webydo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Flex</title>
+      <link>http://lapa.ninja/post/flex/</link>
+      <pubDate>Thu, 03 Mar 2016 14:34:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/flex/</guid>
+      <description>
+        
+        <p>Discover an effortless way to design beautiful websites that can be managed independently.</p>
+        <img src="http://lapa.ninja/assets/images/flex.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>ClassDojo</title>
@@ -169,66 +229,6 @@
         
         <p>A collaborative learning landscape that extends beyond the classroom, connecting teachers and students with a mutual goal.</p>
         <img src="http://lapa.ninja/assets/images/classt.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>UserApp</title>
-      <link>http://lapa.ninja/post/userapp/</link>
-      <pubDate>Tue, 01 Dec 2015 10:54:16 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/userapp/</guid>
-      <description>
-        
-        <p>Cloud-based user management for web and mobile apps.</p>
-        <img src="http://lapa.ninja/assets/images/userapp.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>IFTTT</title>
-      <link>http://lapa.ninja/post/ifttt/</link>
-      <pubDate>Tue, 01 Dec 2015 10:40:28 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ifttt/</guid>
-      <description>
-        
-        <p>IFTTT puts the internet to work for you. Create simple connections between the products you use every day.</p>
-        <img src="http://lapa.ninja/assets/images/ifttt.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MetaLab</title>
-      <link>http://lapa.ninja/post/metalab/</link>
-      <pubDate>Thu, 26 Nov 2015 09:26:33 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/metalab/</guid>
-      <description>
-        
-        <p>We’re an award-winning team that transforms ideas into great experiences.</p>
-        <img src="http://lapa.ninja/assets/images/metalab.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Atomic</title>
-      <link>http://lapa.ninja/post/atomic-2/</link>
-      <pubDate>Thu, 26 Nov 2015 08:58:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/atomic-2/</guid>
-      <description>
-        
-        <p>Atomic is professional software for digital designers, featuring tools for interface design, prototyping, version control and collaboration.</p>
-        <img src="http://lapa.ninja/assets/images/atomic-2.jpg" />
 
 
       </description>
