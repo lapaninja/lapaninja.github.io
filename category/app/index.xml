@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Mar 2016 14:35:40 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Mar 2016 14:20:39 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Human.co</title>
+      <link>http://lapa.ninja/post/human/</link>
+      <pubDate>Mon, 14 Mar 2016 14:20:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/human/</guid>
+      <description>
+        
+        <p>Human is a free all-day activity tracker that inspires you to be more active and helps you to move at least 30 minutes, every day. Track your everyday activity with Human and compare yourself with other people like you.</p>
+        <img src="http://lapa.ninja/assets/images/human.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Quiver</title>
@@ -214,21 +229,6 @@
         
         <p>Learn how to code in Swift on your phone. Always wanted to build your own apps? With Swifty and its 200&#43; bite-sized, interactive tutorials, getting started has never been so easy!</p>
         <img src="http://lapa.ninja/assets/images/swifty.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Atomic</title>
-      <link>http://lapa.ninja/post/atomic-2/</link>
-      <pubDate>Thu, 26 Nov 2015 08:58:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/atomic-2/</guid>
-      <description>
-        
-        <p>Atomic is professional software for digital designers, featuring tools for interface design, prototyping, version control and collaboration.</p>
-        <img src="http://lapa.ninja/assets/images/atomic-2.jpg" />
 
 
       </description>

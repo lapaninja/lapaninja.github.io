@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/portfolio/</link>
+    <description>Recent content in Portfolio on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Mar 2016 14:20:53 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Evan Kosowski</title>
+      <link>http://lapa.ninja/post/evan-kosowski/</link>
+      <pubDate>Mon, 14 Mar 2016 14:20:53 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/evan-kosowski/</guid>
+      <description>
+        
+        <p>I design thoughtful digital experiences &amp; beautiful brand aesthetics.</p>
+        <img src="http://lapa.ninja/assets/images/evan-kosowski.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Ariel Beninca</title>
+      <link>http://lapa.ninja/post/ariel-beninca/</link>
+      <pubDate>Mon, 14 Mar 2016 14:20:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ariel-beninca/</guid>
+      <description>
+        
+        <p>Graphic and Web designer on the gold coast</p>
+        <img src="http://lapa.ninja/assets/images/ariel-beninca.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
