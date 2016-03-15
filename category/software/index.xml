@@ -6,8 +6,38 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Mar 2016 14:20:39 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Mar 2016 17:09:29 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cubes Digital</title>
+      <link>http://lapa.ninja/post/cubes-digital/</link>
+      <pubDate>Tue, 15 Mar 2016 17:09:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/cubes-digital/</guid>
+      <description>
+        
+        <p>We combine design and technologies to create a complex of functions and beauty in every product we deliver to startups and companies. We are specialists in UX, graphic design, web, and mobile.</p>
+        <img src="http://lapa.ninja/assets/images/cubes-digital.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>3drops</title>
+      <link>http://lapa.ninja/post/3drops/</link>
+      <pubDate>Tue, 15 Mar 2016 17:09:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/3drops/</guid>
+      <description>
+        
+        <p>We’re a digital product partner, working with startups and companies to kick-start, launch and grow products.</p>
+        <img src="http://lapa.ninja/assets/images/3drops.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Human.co</title>
@@ -199,36 +229,6 @@
         
         <p>Airtable works like a spreadsheet but gives you the power of a database to organize anything.</p>
         <img src="http://lapa.ninja/assets/images/airtable.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Iconjar</title>
-      <link>http://lapa.ninja/post/iconjar/</link>
-      <pubDate>Mon, 18 Jan 2016 10:40:45 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/iconjar/</guid>
-      <description>
-        
-        <p>Iconjar gives you the ability to store all your icons in one place, just one click away</p>
-        <img src="http://lapa.ninja/assets/images/iconjar.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Polymail</title>
-      <link>http://lapa.ninja/post/polymail/</link>
-      <pubDate>Sat, 12 Dec 2015 11:39:38 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/polymail/</guid>
-      <description>
-        
-        <p>Simple, beautiful, powerful email. The most powerful platform for email productivity in a beautiful native app</p>
-        <img src="http://lapa.ninja/assets/images/polymail.jpg" />
 
 
       </description>

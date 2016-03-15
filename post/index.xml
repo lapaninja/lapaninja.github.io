@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Mar 2016 14:20:53 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Mar 2016 17:09:29 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cubes Digital</title>
+      <link>http://lapa.ninja/post/cubes-digital/</link>
+      <pubDate>Tue, 15 Mar 2016 17:09:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/cubes-digital/</guid>
+      <description>
+        
+        <p>We combine design and technologies to create a complex of functions and beauty in every product we deliver to startups and companies. We are specialists in UX, graphic design, web, and mobile.</p>
+        <img src="http://lapa.ninja/assets/images/cubes-digital.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>3drops</title>
+      <link>http://lapa.ninja/post/3drops/</link>
+      <pubDate>Tue, 15 Mar 2016 17:09:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/3drops/</guid>
+      <description>
+        
+        <p>We’re a digital product partner, working with startups and companies to kick-start, launch and grow products.</p>
+        <img src="http://lapa.ninja/assets/images/3drops.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Surfy</title>
+      <link>http://lapa.ninja/post/surfy/</link>
+      <pubDate>Tue, 15 Mar 2016 17:08:57 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/surfy/</guid>
+      <description>
+        
+        <p>A team of creative talented tech savvies</p>
+        <img src="http://lapa.ninja/assets/images/surfy.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Evan Kosowski</title>
@@ -184,51 +229,6 @@
         
         <p>Lift is a full-service user experience design agency. Oh, and we do cool stuff with WordPress.</p>
         <img src="http://lapa.ninja/assets/images/lift-ux.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Squarespace</title>
-      <link>http://lapa.ninja/post/square-space/</link>
-      <pubDate>Thu, 25 Feb 2016 14:16:46 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/square-space/</guid>
-      <description>
-        
-        <p>Squarespace is the easiest way for anyone to create an exceptional website. Pages, galleries, blogs, e-commerce, domains, hosting, analytics, 24/7 support - all included.</p>
-        <img src="http://lapa.ninja/assets/images/squarespace.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Samsung Gear 360</title>
-      <link>http://lapa.ninja/post/samsung-gear-360/</link>
-      <pubDate>Thu, 25 Feb 2016 14:16:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/samsung-gear-360/</guid>
-      <description>
-        
-        <p>With Samsung Gear 360, creating seamlessly spherical videos and photos is beautifully simple.</p>
-        <img src="http://lapa.ninja/assets/images/samsung-gear-360.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Theme Designer</title>
-      <link>http://lapa.ninja/post/theme-designer/</link>
-      <pubDate>Thu, 25 Feb 2016 14:15:59 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/theme-designer/</guid>
-      <description>
-        
-        <p>Having hands on experience in creating innovative designs, ThemeDesigner offer website designs, wordpress themes, landing page design and homepage design.</p>
-        <img src="http://lapa.ninja/assets/images/themedesigner.jpg" />
 
 
       </description>

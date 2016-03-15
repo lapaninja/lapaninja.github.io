@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Surfy on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/surfy/</link>
+    <description>Recent content in Surfy on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Mar 2016 17:08:57 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/surfy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Surfy</title>
+      <link>http://lapa.ninja/post/surfy/</link>
+      <pubDate>Tue, 15 Mar 2016 17:08:57 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/surfy/</guid>
+      <description>
+        
+        <p>A team of creative talented tech savvies</p>
+        <img src="http://lapa.ninja/assets/images/surfy.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
