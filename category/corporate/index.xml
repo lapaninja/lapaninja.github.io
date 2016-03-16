@@ -6,8 +6,23 @@
     <description>Recent content in Corporate on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Mar 2016 17:09:29 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2016 11:55:44 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/corporate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DebugMe</title>
+      <link>http://lapa.ninja/post/debug-me/</link>
+      <pubDate>Wed, 16 Mar 2016 11:55:44 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/debug-me/</guid>
+      <description>
+        
+        <p>DebugMe is a simple bug tracker for web designers and developers. Bug tracking, browser testing and giving visual feedback was never easier. Try it for FREE</p>
+        <img src="http://lapa.ninja/assets/images/debug-me.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Cubes Digital</title>
@@ -214,21 +229,6 @@
         
         <p>Make your stories worth telling</p>
         <img src="http://lapa.ninja/assets/images/biz-eyes.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Upturn</title>
-      <link>http://lapa.ninja/post/upturn/</link>
-      <pubDate>Tue, 17 Nov 2015 12:16:00 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/upturn/</guid>
-      <description>
-        
-        <p>Technology impacts nearly every major social issue. We explain how technology works and why it matters.</p>
-        <img src="http://lapa.ninja/assets/images/upturn.jpg" />
 
 
       </description>

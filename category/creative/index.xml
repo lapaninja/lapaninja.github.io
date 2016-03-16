@@ -6,8 +6,38 @@
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Mar 2016 17:09:29 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2016 11:56:06 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>re:create</title>
+      <link>http://lapa.ninja/post/re-create/</link>
+      <pubDate>Wed, 16 Mar 2016 11:56:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/re-create/</guid>
+      <description>
+        
+        <p>Be inspired by our super talented mentors - It’s time to kick it up a gear</p>
+        <img src="http://lapa.ninja/assets/images/re-create.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tilt Brush by Google</title>
+      <link>http://lapa.ninja/post/tilt-brush/</link>
+      <pubDate>Wed, 16 Mar 2016 11:55:57 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tilt-brush/</guid>
+      <description>
+        
+        <p>Tilt Brush lets you paint in 3D space with virtual reality. Your room is your canvas. Your palette is your imagination. The possibilities are endless.</p>
+        <img src="http://lapa.ninja/assets/images/tilt-brush.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Cubes Digital</title>
@@ -199,36 +229,6 @@
         
         <p>We’re an award-winning team that transforms ideas into great experiences.</p>
         <img src="http://lapa.ninja/assets/images/metalab.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Biz Eyes</title>
-      <link>http://lapa.ninja/post/biz-eyes/</link>
-      <pubDate>Thu, 19 Nov 2015 10:11:08 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/biz-eyes/</guid>
-      <description>
-        
-        <p>Make your stories worth telling</p>
-        <img src="http://lapa.ninja/assets/images/biz-eyes.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Inboard App</title>
-      <link>http://lapa.ninja/post/inboard/</link>
-      <pubDate>Thu, 19 Nov 2015 10:10:45 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/inboard/</guid>
-      <description>
-        
-        <p>Organizing screenshots, images or photos in Finder is a major pain. Does it sound familiar? If so, we have a solution for you.</p>
-        <img src="http://lapa.ninja/assets/images/inboard.jpg" />
 
 
       </description>

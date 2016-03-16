@@ -6,8 +6,23 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Mar 2016 17:09:29 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2016 11:55:44 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DebugMe</title>
+      <link>http://lapa.ninja/post/debug-me/</link>
+      <pubDate>Wed, 16 Mar 2016 11:55:44 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/debug-me/</guid>
+      <description>
+        
+        <p>DebugMe is a simple bug tracker for web designers and developers. Bug tracking, browser testing and giving visual feedback was never easier. Try it for FREE</p>
+        <img src="http://lapa.ninja/assets/images/debug-me.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Cubes Digital</title>
@@ -214,21 +229,6 @@
         
         <p>Klets is a chat page for your business. People want chat. With Klets, so do you. No IT guy needed. It&#39;s as simple as signing up for a Twitter profile or Facebook page.</p>
         <img src="http://lapa.ninja/assets/images/klets.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Airtable</title>
-      <link>http://lapa.ninja/post/airtable/</link>
-      <pubDate>Fri, 29 Jan 2016 11:19:39 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/airtable/</guid>
-      <description>
-        
-        <p>Airtable works like a spreadsheet but gives you the power of a database to organize anything.</p>
-        <img src="http://lapa.ninja/assets/images/airtable.jpg" />
 
 
       </description>
