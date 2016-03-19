@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gearvr on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/gearvr/</link>
+    <description>Recent content in Gearvr on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Mar 2016 09:46:07 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/gearvr/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gear VR Powered by Oculus</title>
+      <link>http://lapa.ninja/post/gear-vr-oculus/</link>
+      <pubDate>Sat, 19 Mar 2016 09:46:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/gear-vr-oculus/</guid>
+      <description>
+        
+        <p>The Gear VR is groundbreaking VR technology that combines a lightweight, wireless headset with the convenience of the full 2015 line of Samsung GALAXY smartphones.</p>
+        <img src="http://lapa.ninja/assets/images/gear-vr-oculus.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

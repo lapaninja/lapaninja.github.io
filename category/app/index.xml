@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Mar 2016 14:20:39 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 19 Mar 2016 09:46:23 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>bulldog yoga</title>
+      <link>http://lapa.ninja/post/bulldog-yoga/</link>
+      <pubDate>Sat, 19 Mar 2016 09:46:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bulldog-yoga/</guid>
+      <description>
+        
+        <p>Yoga on the main line: genuine, uncomplicated and relaxed. Your Kind of Movement.</p>
+        <img src="http://lapa.ninja/assets/images/bulldog-yoga.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Human.co</title>
@@ -214,21 +229,6 @@
         
         <p>IFTTT puts the internet to work for you. Create simple connections between the products you use every day.</p>
         <img src="http://lapa.ninja/assets/images/ifttt.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Swifty</title>
-      <link>http://lapa.ninja/post/swifty/</link>
-      <pubDate>Sat, 28 Nov 2015 10:21:08 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/swifty/</guid>
-      <description>
-        
-        <p>Learn how to code in Swift on your phone. Always wanted to build your own apps? With Swifty and its 200&#43; bite-sized, interactive tutorials, getting started has never been so easy!</p>
-        <img src="http://lapa.ninja/assets/images/swifty.jpg" />
 
 
       </description>
