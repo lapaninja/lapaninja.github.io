@@ -6,8 +6,23 @@
     <description>Recent content in Business on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Mar 2016 11:56:06 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Mar 2016 10:42:05 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TwoCards</title>
+      <link>http://lapa.ninja/post/twocards/</link>
+      <pubDate>Mon, 21 Mar 2016 10:42:05 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/twocards/</guid>
+      <description>
+        
+        <p>Your invoicing made easy. TwoCards is a simple way to send invoices and get paid on time.</p>
+        <img src="http://lapa.ninja/assets/images/two-cards.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>re:create</title>
@@ -214,21 +229,6 @@
         
         <p>Dunked makes creating your online &amp; mobile portfolio website super simple. Showcase your design, illustration, photography and other creative work on any device.</p>
         <img src="http://lapa.ninja/assets/images/dunked.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>CartoDB</title>
-      <link>http://lapa.ninja/post/carto-db/</link>
-      <pubDate>Thu, 18 Feb 2016 10:32:40 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/carto-db/</guid>
-      <description>
-        
-        <p>CartoDB is a location intelligence and visualization engine that empowers you to effortlessly transform data into insights.</p>
-        <img src="http://lapa.ninja/assets/images/carto-db.jpg" />
 
 
       </description>

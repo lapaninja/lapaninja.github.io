@@ -6,8 +6,23 @@
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Mar 2016 09:46:38 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Mar 2016 09:42:21 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NTMY – The Show</title>
+      <link>http://lapa.ninja/post/tobias-van-schneider/</link>
+      <pubDate>Tue, 22 Mar 2016 09:42:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tobias-van-schneider/</guid>
+      <description>
+        
+        <p>Tobias van Schneider is a multi-disciplinary designer living in New York</p>
+        <img src="http://lapa.ninja/assets/images/tobias-van-schneider.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Checkland Kindleysides</title>
@@ -214,21 +229,6 @@
         
         <p>Sell subscriptions services, digital downloads and physical goods with no hassle</p>
         <img src="http://lapa.ninja/assets/images/gospaces.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Typed</title>
-      <link>http://lapa.ninja/post/typed/</link>
-      <pubDate>Tue, 08 Dec 2015 15:24:57 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/typed/</guid>
-      <description>
-        
-        <p>Typed is a better blogging service that allows you to build and collaborate on websites from anywhere, on any device.</p>
-        <img src="http://lapa.ninja/assets/images/typed.jpg" />
 
 
       </description>

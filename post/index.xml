@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Mar 2016 09:46:38 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Mar 2016 10:41:26 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Day One</title>
+      <link>http://lapa.ninja/post/dayone-me/</link>
+      <pubDate>Tue, 22 Mar 2016 10:41:26 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dayone-me/</guid>
+      <description>
+        
+        <p>Day One is a simple and elegant journaling app for Mac, iOS, and Apple Watch.</p>
+        <img src="http://lapa.ninja/assets/images/day-one-me.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>NTMY – The Show</title>
+      <link>http://lapa.ninja/post/tobias-van-schneider/</link>
+      <pubDate>Tue, 22 Mar 2016 09:42:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tobias-van-schneider/</guid>
+      <description>
+        
+        <p>Tobias van Schneider is a multi-disciplinary designer living in New York</p>
+        <img src="http://lapa.ninja/assets/images/tobias-van-schneider.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>TwoCards</title>
+      <link>http://lapa.ninja/post/twocards/</link>
+      <pubDate>Mon, 21 Mar 2016 10:42:05 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/twocards/</guid>
+      <description>
+        
+        <p>Your invoicing made easy. TwoCards is a simple way to send invoices and get paid on time.</p>
+        <img src="http://lapa.ninja/assets/images/two-cards.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Checkland Kindleysides</title>
@@ -184,51 +229,6 @@
         
         <p>Graphic and Web designer on the gold coast</p>
         <img src="http://lapa.ninja/assets/images/ariel-beninca.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Quiver</title>
-      <link>http://lapa.ninja/post/quiver/</link>
-      <pubDate>Thu, 03 Mar 2016 14:35:40 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/quiver/</guid>
-      <description>
-        
-        <p>Quiver offers unlimited storage and allows you to share files and collaborate with complete control over who sees them, how and when</p>
-        <img src="http://lapa.ninja/assets/images/quiver.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Mapbox</title>
-      <link>http://lapa.ninja/post/mapbox/</link>
-      <pubDate>Thu, 03 Mar 2016 14:35:31 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/mapbox/</guid>
-      <description>
-        
-        <p>An open source mapping platform for custom designed maps. Our APIs and SDKs are the building blocks to integrate location into any mobile or web app.</p>
-        <img src="http://lapa.ninja/assets/images/mapbox.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Webydo</title>
-      <link>http://lapa.ninja/post/webydo/</link>
-      <pubDate>Thu, 03 Mar 2016 14:35:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/webydo/</guid>
-      <description>
-        
-        <p>Webydo is a professional online website design software for designers. With Webydo, designers can create multiple responsive websites with custom tailored design from scratch without writing one line of code.</p>
-        <img src="http://lapa.ninja/assets/images/webydo.jpg" />
 
 
       </description>

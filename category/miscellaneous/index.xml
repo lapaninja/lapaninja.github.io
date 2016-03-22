@@ -6,8 +6,38 @@
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Mar 2016 09:46:23 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Mar 2016 09:42:21 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NTMY – The Show</title>
+      <link>http://lapa.ninja/post/tobias-van-schneider/</link>
+      <pubDate>Tue, 22 Mar 2016 09:42:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tobias-van-schneider/</guid>
+      <description>
+        
+        <p>Tobias van Schneider is a multi-disciplinary designer living in New York</p>
+        <img src="http://lapa.ninja/assets/images/tobias-van-schneider.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>TwoCards</title>
+      <link>http://lapa.ninja/post/twocards/</link>
+      <pubDate>Mon, 21 Mar 2016 10:42:05 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/twocards/</guid>
+      <description>
+        
+        <p>Your invoicing made easy. TwoCards is a simple way to send invoices and get paid on time.</p>
+        <img src="http://lapa.ninja/assets/images/two-cards.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>bulldog yoga</title>
@@ -199,36 +229,6 @@
         
         <p>CartoDB is a location intelligence and visualization engine that empowers you to effortlessly transform data into insights.</p>
         <img src="http://lapa.ninja/assets/images/carto-db.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Craft by InVision LABS</title>
-      <link>http://lapa.ninja/post/craft/</link>
-      <pubDate>Thu, 18 Feb 2016 10:32:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/craft/</guid>
-      <description>
-        
-        <p>Craft is a plugin suite for Sketch and Photoshop that lets you design with real data in mind. Best of all, they integrate directly into both Photoshop and Sketch via a panel interface.</p>
-        <img src="http://lapa.ninja/assets/images/craft.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Riiot Labs</title>
-      <link>http://lapa.ninja/post/riiot-labs/</link>
-      <pubDate>Mon, 15 Feb 2016 14:06:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/riiot-labs/</guid>
-      <description>
-        
-        <p>Get instant data on your pool water quality and temperature. Blue will tell you in real-time via an app if your pool is fine for a dip or otherwise suggest customized solutions for you.</p>
-        <img src="http://lapa.ninja/assets/images/riiot-labs.jpg" />
 
 
       </description>

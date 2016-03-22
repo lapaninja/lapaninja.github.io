@@ -6,8 +6,23 @@
     <description>Recent content in Ecommerce on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Mar 2016 09:46:07 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Mar 2016 10:42:05 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TwoCards</title>
+      <link>http://lapa.ninja/post/twocards/</link>
+      <pubDate>Mon, 21 Mar 2016 10:42:05 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/twocards/</guid>
+      <description>
+        
+        <p>Your invoicing made easy. TwoCards is a simple way to send invoices and get paid on time.</p>
+        <img src="http://lapa.ninja/assets/images/two-cards.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Gear VR Powered by Oculus</title>
@@ -214,21 +229,6 @@
         
         <p>Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, iOS, OS X, watchOS and more. Visit the site to learn, buy, and get support.</p>
         <img src="http://lapa.ninja/assets/images/apple-store.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Mockuuups</title>
-      <link>http://lapa.ninja/post/mockuuups/</link>
-      <pubDate>Thu, 15 Oct 2015 21:44:52 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/mockuuups/</guid>
-      <description>
-        
-        <p>Beautiful high-resolution mockups to present your designs and prototypes. Loved by designers worldwide and compatible with Photoshop &amp; Sketch.</p>
-        <img src="http://lapa.ninja/assets/images/Mockuuups.jpg" />
 
 
       </description>
