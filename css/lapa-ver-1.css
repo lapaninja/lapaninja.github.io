@@ -427,13 +427,15 @@ html {
  * Customize the background color to match your design.
  */
 ::-moz-selection {
-  background: #b3d4fc;
+  background: #6869D1;
   text-shadow: none;
+  color: #fff;
 }
 
 ::selection {
-  background: #b3d4fc;
+  background: #6869D1;
   text-shadow: none;
+  color: #fff;
 }
 
 /*
@@ -1077,12 +1079,55 @@ body {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   border-radius: 2px;
+  position: relative;
 }
 .lapa-post__home li .lapa-post__item:hover {
   webkit-transform: translateY(-4px);
   -ms-transform: translateY(-4px);
   transform: translateY(-4px);
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+}
+.lapa-post__home li .lapa-post__item:hover .lapa-post__share {
+  opacity: 1;
+}
+.lapa-post__home li .lapa-post__item .lapa-post__share {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  width: 72px;
+  height: 24px;
+  opacity: 0;
+  -webkit-transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
+}
+.lapa-post__home li .lapa-post__item .lapa-post__twitter {
+  width: 24px;
+  height: 24px;
+  text-indent: -99999px;
+  display: inline-block;
+  background: url(/img/twitter.svg) no-repeat center center #1b95e0;
+  background-size: 15px;
+  border-radius: 2px 0 0 2px;
+  float: left;
+}
+.lapa-post__home li .lapa-post__item .lapa-post__fb {
+  width: 24px;
+  height: 24px;
+  text-indent: -99999px;
+  display: inline-block;
+  background: url(/img/fb.svg) no-repeat center center #435E9F;
+  background-size: 7px;
+  float: left;
+}
+.lapa-post__home li .lapa-post__item .lapa-post__pin {
+  width: 24px;
+  height: 24px;
+  text-indent: -99999px;
+  display: inline-block;
+  background: url(/img/pin.svg) no-repeat center center #bd081c;
+  background-size: 12px;
+  border-radius: 0 2px 2px 0;
+  float: left;
 }
 .lapa-post__home li .lapa-post__link {
   display: block;
@@ -1127,7 +1172,7 @@ body {
   display: block;
   position: absolute;
   width: 65px;
-  height: 65px;
+  height: 64px;
   right: 0px;
   top: 0px;
   border-radius: 0 0 2px 0;
