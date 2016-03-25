@@ -6,8 +6,23 @@
     <description>Recent content in Ecommerce on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Mar 2016 10:42:05 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2016 11:04:49 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nextbit</title>
+      <link>http://lapa.ninja/post/nextbit/</link>
+      <pubDate>Fri, 25 Mar 2016 11:04:49 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/nextbit/</guid>
+      <description>
+        
+        <p>Everything to gain. Introducing Robin, the first Android phone that makes running out of space history. With the cloud integrated into Android OS, your onboard storage is merged with the cloud, so you always have the space you need.</p>
+        <img src="http://lapa.ninja/assets/images/nextbit.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>TwoCards</title>
@@ -214,21 +229,6 @@
         
         <p>Subscription billing and recurring billing management.  Recurly offers enterprise-class subscription billing for thousands of companies worldwide.</p>
         <img src="http://lapa.ninja/assets/images/recurly.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Apple</title>
-      <link>http://lapa.ninja/post/apple-store/</link>
-      <pubDate>Thu, 15 Oct 2015 22:06:11 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/apple-store/</guid>
-      <description>
-        
-        <p>Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, iOS, OS X, watchOS and more. Visit the site to learn, buy, and get support.</p>
-        <img src="http://lapa.ninja/assets/images/apple-store.jpg" />
 
 
       </description>

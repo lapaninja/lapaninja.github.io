@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minimill on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/minimill/</link>
+    <description>Recent content in Minimill on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Mar 2016 11:05:03 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/minimill/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Minimill</title>
+      <link>http://lapa.ninja/post/minimill/</link>
+      <pubDate>Fri, 25 Mar 2016 11:05:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/minimill/</guid>
+      <description>
+        
+        <p>We are Minimill, a design agency for branding and web. Let&#39;s work together.</p>
+        <img src="http://lapa.ninja/assets/images/minimill.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

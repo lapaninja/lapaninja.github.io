@@ -6,8 +6,23 @@
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Mar 2016 09:42:21 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2016 11:04:49 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nextbit</title>
+      <link>http://lapa.ninja/post/nextbit/</link>
+      <pubDate>Fri, 25 Mar 2016 11:04:49 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/nextbit/</guid>
+      <description>
+        
+        <p>Everything to gain. Introducing Robin, the first Android phone that makes running out of space history. With the cloud integrated into Android OS, your onboard storage is merged with the cloud, so you always have the space you need.</p>
+        <img src="http://lapa.ninja/assets/images/nextbit.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>NTMY – The Show</title>
@@ -214,21 +229,6 @@
         
         <p>Dunked makes creating your online &amp; mobile portfolio website super simple. Showcase your design, illustration, photography and other creative work on any device.</p>
         <img src="http://lapa.ninja/assets/images/dunked.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>CartoDB</title>
-      <link>http://lapa.ninja/post/carto-db/</link>
-      <pubDate>Thu, 18 Feb 2016 10:32:40 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/carto-db/</guid>
-      <description>
-        
-        <p>CartoDB is a location intelligence and visualization engine that empowers you to effortlessly transform data into insights.</p>
-        <img src="http://lapa.ninja/assets/images/carto-db.jpg" />
 
 
       </description>

@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Mar 2016 14:35:40 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2016 11:05:10 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lingo</title>
+      <link>http://lapa.ninja/post/lingo/</link>
+      <pubDate>Fri, 25 Mar 2016 11:05:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lingo/</guid>
+      <description>
+        
+        <p>Lingo is the best way to organize, share and use all your visual assets in one place - all on your desktop.</p>
+        <img src="http://lapa.ninja/assets/images/lingo.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Quiver</title>
@@ -214,21 +229,6 @@
         
         <p>Grav is an easy to use, yet powerful, opensource CMS that requires no database</p>
         <img src="http://lapa.ninja/assets/images/grav.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Floid</title>
-      <link>http://lapa.ninja/post/floid/</link>
-      <pubDate>Sun, 25 Oct 2015 22:18:15 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/floid/</guid>
-      <description>
-        
-        <p>UX design tool for creating interactive animations &amp; multiscreen app flows</p>
-        <img src="http://lapa.ninja/assets/images/floid.jpg" />
 
 
       </description>

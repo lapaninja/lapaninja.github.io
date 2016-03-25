@@ -6,8 +6,23 @@
     <description>Recent content in Corporate on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Mar 2016 09:46:38 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2016 11:05:03 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/corporate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Minimill</title>
+      <link>http://lapa.ninja/post/minimill/</link>
+      <pubDate>Fri, 25 Mar 2016 11:05:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/minimill/</guid>
+      <description>
+        
+        <p>We are Minimill, a design agency for branding and web. Let&#39;s work together.</p>
+        <img src="http://lapa.ninja/assets/images/minimill.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Checkland Kindleysides</title>
@@ -214,21 +229,6 @@
         
         <p>Make your dream website, iOS app, Android app, or logo by connecting with our worldwide community of handpicked quality freelance developers and designers.</p>
         <img src="http://lapa.ninja/assets/images/crew.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MetaLab</title>
-      <link>http://lapa.ninja/post/metalab/</link>
-      <pubDate>Thu, 26 Nov 2015 09:26:33 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/metalab/</guid>
-      <description>
-        
-        <p>We’re an award-winning team that transforms ideas into great experiences.</p>
-        <img src="http://lapa.ninja/assets/images/metalab.jpg" />
 
 
       </description>

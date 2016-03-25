@@ -6,8 +6,23 @@
     <description>Recent content in Business on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Mar 2016 10:42:05 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2016 11:04:49 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nextbit</title>
+      <link>http://lapa.ninja/post/nextbit/</link>
+      <pubDate>Fri, 25 Mar 2016 11:04:49 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/nextbit/</guid>
+      <description>
+        
+        <p>Everything to gain. Introducing Robin, the first Android phone that makes running out of space history. With the cloud integrated into Android OS, your onboard storage is merged with the cloud, so you always have the space you need.</p>
+        <img src="http://lapa.ninja/assets/images/nextbit.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>TwoCards</title>
@@ -214,21 +229,6 @@
         
         <p>Index turns public data and content from across the web into structured data on private tech companies, industries and locations across the globe.</p>
         <img src="http://lapa.ninja/assets/images/indexco.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dunked</title>
-      <link>http://lapa.ninja/post/dunked/</link>
-      <pubDate>Sat, 20 Feb 2016 11:57:41 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dunked/</guid>
-      <description>
-        
-        <p>Dunked makes creating your online &amp; mobile portfolio website super simple. Showcase your design, illustration, photography and other creative work on any device.</p>
-        <img src="http://lapa.ninja/assets/images/dunked.jpg" />
 
 
       </description>

@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Mar 2016 10:41:26 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2016 11:05:10 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lingo</title>
+      <link>http://lapa.ninja/post/lingo/</link>
+      <pubDate>Fri, 25 Mar 2016 11:05:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lingo/</guid>
+      <description>
+        
+        <p>Lingo is the best way to organize, share and use all your visual assets in one place - all on your desktop.</p>
+        <img src="http://lapa.ninja/assets/images/lingo.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Day One</title>
@@ -214,21 +229,6 @@
         
         <p>Design interactive high-fidelity prototypes for iOS, Android, desktop or the web. Invent new animations and interactions. Integrates with Sketch and Photoshop.</p>
         <img src="http://lapa.ninja/assets/images/framerjs.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>UserApp</title>
-      <link>http://lapa.ninja/post/userapp/</link>
-      <pubDate>Tue, 01 Dec 2015 10:54:16 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/userapp/</guid>
-      <description>
-        
-        <p>Cloud-based user management for web and mobile apps.</p>
-        <img src="http://lapa.ninja/assets/images/userapp.jpg" />
 
 
       </description>

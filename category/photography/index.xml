@@ -6,8 +6,23 @@
     <description>Recent content in Photography on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Mar 2016 14:20:53 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2016 11:05:10 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lingo</title>
+      <link>http://lapa.ninja/post/lingo/</link>
+      <pubDate>Fri, 25 Mar 2016 11:05:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lingo/</guid>
+      <description>
+        
+        <p>Lingo is the best way to organize, share and use all your visual assets in one place - all on your desktop.</p>
+        <img src="http://lapa.ninja/assets/images/lingo.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Evan Kosowski</title>
@@ -214,21 +229,6 @@
         
         <p>The simplest way to bring everyone in your family together from ages 3 to 93.</p>
         <img src="http://lapa.ninja/assets/images/ily.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Kredo</title>
-      <link>http://lapa.ninja/post/kredo/</link>
-      <pubDate>Wed, 14 Oct 2015 15:57:14 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/kredo/</guid>
-      <description>
-        
-        <p>Your professional portfolio, reimagined. The premier creative network for photographers, designers, illustrators, and artists. Free download for iPad.</p>
-        <img src="http://lapa.ninja/assets/images/kredo.jpg" />
 
 
       </description>

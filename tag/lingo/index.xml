@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lingo on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/lingo/</link>
+    <description>Recent content in Lingo on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Mar 2016 11:05:10 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/lingo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lingo</title>
+      <link>http://lapa.ninja/post/lingo/</link>
+      <pubDate>Fri, 25 Mar 2016 11:05:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lingo/</guid>
+      <description>
+        
+        <p>Lingo is the best way to organize, share and use all your visual assets in one place - all on your desktop.</p>
+        <img src="http://lapa.ninja/assets/images/lingo.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
