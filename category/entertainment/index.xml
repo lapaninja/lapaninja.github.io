@@ -6,8 +6,23 @@
     <description>Recent content in Entertainment on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Mar 2016 10:41:26 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2016 15:50:11 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/entertainment/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Oculus</title>
+      <link>http://lapa.ninja/post/oculus/</link>
+      <pubDate>Mon, 04 Apr 2016 15:50:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/oculus/</guid>
+      <description>
+        
+        <p>Oculus is making it possible to experience anything, anywhere, through the power of virtual reality. Visit to learn more about Gear VR and Oculus Rift.</p>
+        <img src="http://lapa.ninja/assets/images/oculus.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Day One</title>
@@ -214,21 +229,6 @@
         
         <p>The simplest way to bring everyone in your family together from ages 3 to 93.</p>
         <img src="http://lapa.ninja/assets/images/ily.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Cloud Player</title>
-      <link>http://lapa.ninja/post/cloud-player/</link>
-      <pubDate>Thu, 15 Oct 2015 21:04:52 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/cloud-player/</guid>
-      <description>
-        
-        <p>CloudPlayer - a doubleTwist app designed in stunning Material Design by Pictogram</p>
-        <img src="http://lapa.ninja/assets/images/cloudplayer.jpg" />
 
 
       </description>

@@ -6,8 +6,23 @@
     <description>Recent content in Technology on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Mar 2016 11:04:49 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2016 15:50:11 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Oculus</title>
+      <link>http://lapa.ninja/post/oculus/</link>
+      <pubDate>Mon, 04 Apr 2016 15:50:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/oculus/</guid>
+      <description>
+        
+        <p>Oculus is making it possible to experience anything, anywhere, through the power of virtual reality. Visit to learn more about Gear VR and Oculus Rift.</p>
+        <img src="http://lapa.ninja/assets/images/oculus.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Nextbit</title>
@@ -214,21 +229,6 @@
         
         <p>Flow is project management software that simplifies teamwork. Use it to plan projects, prioritize to-dos, delegate tasks, and collaborate beautifully.</p>
         <img src="http://lapa.ninja/assets/images/getflow.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Apple Pencil</title>
-      <link>http://lapa.ninja/post/apple-pencil/</link>
-      <pubDate>Fri, 16 Oct 2015 22:29:52 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/apple-pencil/</guid>
-      <description>
-        
-        <p>Apple Pencil for iPad Pro. Completely familiar. Entirely revolutionary.</p>
-        <img src="http://lapa.ninja/assets/images/apple-pencil.jpg" />
 
 
       </description>

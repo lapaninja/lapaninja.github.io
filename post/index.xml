@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Mar 2016 11:05:10 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2016 15:50:42 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Apartment</title>
+      <link>http://lapa.ninja/post/the-apartment/</link>
+      <pubDate>Mon, 04 Apr 2016 15:50:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/the-apartment/</guid>
+      <description>
+        
+        <p>A digital design and web dev studio specializing in beautiful, speedy websites. We&#39;re based in Amsterdam, The Netherlands, but work with global clients.</p>
+        <img src="http://lapa.ninja/assets/images/the-apartment.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Spendesk</title>
+      <link>http://lapa.ninja/post/spendesk/</link>
+      <pubDate>Mon, 04 Apr 2016 15:50:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/spendesk/</guid>
+      <description>
+        
+        <p>One place to manage your team spendings.</p>
+        <img src="http://lapa.ninja/assets/images/spendesk.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Oculus</title>
+      <link>http://lapa.ninja/post/oculus/</link>
+      <pubDate>Mon, 04 Apr 2016 15:50:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/oculus/</guid>
+      <description>
+        
+        <p>Oculus is making it possible to experience anything, anywhere, through the power of virtual reality. Visit to learn more about Gear VR and Oculus Rift.</p>
+        <img src="http://lapa.ninja/assets/images/oculus.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Lingo</title>
@@ -184,51 +229,6 @@
         
         <p>DebugMe is a simple bug tracker for web designers and developers. Bug tracking, browser testing and giving visual feedback was never easier. Try it for FREE</p>
         <img src="http://lapa.ninja/assets/images/debug-me.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Cubes Digital</title>
-      <link>http://lapa.ninja/post/cubes-digital/</link>
-      <pubDate>Tue, 15 Mar 2016 17:09:29 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/cubes-digital/</guid>
-      <description>
-        
-        <p>We combine design and technologies to create a complex of functions and beauty in every product we deliver to startups and companies. We are specialists in UX, graphic design, web, and mobile.</p>
-        <img src="http://lapa.ninja/assets/images/cubes-digital.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>3drops</title>
-      <link>http://lapa.ninja/post/3drops/</link>
-      <pubDate>Tue, 15 Mar 2016 17:09:20 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/3drops/</guid>
-      <description>
-        
-        <p>We’re a digital product partner, working with startups and companies to kick-start, launch and grow products.</p>
-        <img src="http://lapa.ninja/assets/images/3drops.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Surfy</title>
-      <link>http://lapa.ninja/post/surfy/</link>
-      <pubDate>Tue, 15 Mar 2016 17:08:57 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/surfy/</guid>
-      <description>
-        
-        <p>A team of creative talented tech savvies</p>
-        <img src="http://lapa.ninja/assets/images/surfy.jpg" />
 
 
       </description>

@@ -6,8 +6,23 @@
     <description>Recent content in Oculus on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Mar 2016 09:46:07 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2016 15:50:11 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/tag/oculus/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Oculus</title>
+      <link>http://lapa.ninja/post/oculus/</link>
+      <pubDate>Mon, 04 Apr 2016 15:50:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/oculus/</guid>
+      <description>
+        
+        <p>Oculus is making it possible to experience anything, anywhere, through the power of virtual reality. Visit to learn more about Gear VR and Oculus Rift.</p>
+        <img src="http://lapa.ninja/assets/images/oculus.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Gear VR Powered by Oculus</title>
