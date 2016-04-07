@@ -6,8 +6,23 @@
     <description>Recent content in Ecommerce on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Mar 2016 11:04:49 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Apr 2016 15:36:23 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pattern by Etsy</title>
+      <link>http://lapa.ninja/post/pattern-by-etsy/</link>
+      <pubDate>Thu, 07 Apr 2016 15:36:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pattern-by-etsy/</guid>
+      <description>
+        
+        <p>Design your own website, powered by your Etsy shop</p>
+        <img src="http://lapa.ninja/assets/images/pattern-by-etsy.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Nextbit</title>
@@ -214,21 +229,6 @@
         
         <p>Fly better for less by working with genuine flight experts.</p>
         <img src="http://lapa.ninja/assets/images/flightfox.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Recurly</title>
-      <link>http://lapa.ninja/post/recurly/</link>
-      <pubDate>Fri, 16 Oct 2015 21:09:46 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/recurly/</guid>
-      <description>
-        
-        <p>Subscription billing and recurring billing management.  Recurly offers enterprise-class subscription billing for thousands of companies worldwide.</p>
-        <img src="http://lapa.ninja/assets/images/recurly.jpg" />
 
 
       </description>

@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2016 15:50:42 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Apr 2016 15:36:23 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pattern by Etsy</title>
+      <link>http://lapa.ninja/post/pattern-by-etsy/</link>
+      <pubDate>Thu, 07 Apr 2016 15:36:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pattern-by-etsy/</guid>
+      <description>
+        
+        <p>Design your own website, powered by your Etsy shop</p>
+        <img src="http://lapa.ninja/assets/images/pattern-by-etsy.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Thington</title>
+      <link>http://lapa.ninja/post/thington/</link>
+      <pubDate>Thu, 07 Apr 2016 15:35:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/thington/</guid>
+      <description>
+        
+        <p>Thington&#39;s concierge helps you get the most from your smart devices</p>
+        <img src="http://lapa.ninja/assets/images/thington.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Huge</title>
+      <link>http://lapa.ninja/post/hugeinc/</link>
+      <pubDate>Thu, 07 Apr 2016 15:35:47 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/hugeinc/</guid>
+      <description>
+        
+        <p>Huge is a full service digital agency headquartered in Brooklyn with offices worldwide. We transform brands and build businesses.</p>
+        <img src="http://lapa.ninja/assets/images/huge.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>The Apartment</title>
@@ -184,51 +229,6 @@
         
         <p>The Gear VR is groundbreaking VR technology that combines a lightweight, wireless headset with the convenience of the full 2015 line of Samsung GALAXY smartphones.</p>
         <img src="http://lapa.ninja/assets/images/gear-vr-oculus.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>re:create</title>
-      <link>http://lapa.ninja/post/re-create/</link>
-      <pubDate>Wed, 16 Mar 2016 11:56:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/re-create/</guid>
-      <description>
-        
-        <p>Be inspired by our super talented mentors - It’s time to kick it up a gear</p>
-        <img src="http://lapa.ninja/assets/images/re-create.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Tilt Brush by Google</title>
-      <link>http://lapa.ninja/post/tilt-brush/</link>
-      <pubDate>Wed, 16 Mar 2016 11:55:57 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/tilt-brush/</guid>
-      <description>
-        
-        <p>Tilt Brush lets you paint in 3D space with virtual reality. Your room is your canvas. Your palette is your imagination. The possibilities are endless.</p>
-        <img src="http://lapa.ninja/assets/images/tilt-brush.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>DebugMe</title>
-      <link>http://lapa.ninja/post/debug-me/</link>
-      <pubDate>Wed, 16 Mar 2016 11:55:44 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/debug-me/</guid>
-      <description>
-        
-        <p>DebugMe is a simple bug tracker for web designers and developers. Bug tracking, browser testing and giving visual feedback was never easier. Try it for FREE</p>
-        <img src="http://lapa.ninja/assets/images/debug-me.jpg" />
 
 
       </description>

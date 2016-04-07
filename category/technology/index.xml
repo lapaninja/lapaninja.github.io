@@ -6,8 +6,23 @@
     <description>Recent content in Technology on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2016 15:50:11 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Apr 2016 15:35:59 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Thington</title>
+      <link>http://lapa.ninja/post/thington/</link>
+      <pubDate>Thu, 07 Apr 2016 15:35:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/thington/</guid>
+      <description>
+        
+        <p>Thington&#39;s concierge helps you get the most from your smart devices</p>
+        <img src="http://lapa.ninja/assets/images/thington.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Oculus</title>
@@ -214,21 +229,6 @@
         
         <p>Be My Eyes is an iPhone app that lets blind people contact a network of sighted volunteers for help with live video chat.</p>
         <img src="http://lapa.ninja/assets/images/bemyeyes.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Flow</title>
-      <link>http://lapa.ninja/post/getflow/</link>
-      <pubDate>Fri, 16 Oct 2015 22:51:07 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/getflow/</guid>
-      <description>
-        
-        <p>Flow is project management software that simplifies teamwork. Use it to plan projects, prioritize to-dos, delegate tasks, and collaborate beautifully.</p>
-        <img src="http://lapa.ninja/assets/images/getflow.jpg" />
 
 
       </description>

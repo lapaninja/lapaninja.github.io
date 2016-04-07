@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etsy on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/etsy/</link>
+    <description>Recent content in Etsy on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Apr 2016 15:36:23 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/etsy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pattern by Etsy</title>
+      <link>http://lapa.ninja/post/pattern-by-etsy/</link>
+      <pubDate>Thu, 07 Apr 2016 15:36:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pattern-by-etsy/</guid>
+      <description>
+        
+        <p>Design your own website, powered by your Etsy shop</p>
+        <img src="http://lapa.ninja/assets/images/pattern-by-etsy.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
