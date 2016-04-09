@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Apr 2016 15:36:23 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2016 10:20:21 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ViewFlux</title>
+      <link>http://lapa.ninja/post/viewflux/</link>
+      <pubDate>Sat, 09 Apr 2016 10:20:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/viewflux/</guid>
+      <description>
+        
+        <p>ViewFlux allows you to create clickable prototypes from your designs, easily get feedback &amp; collaborate with your clients or team mates.</p>
+        <img src="http://lapa.ninja/assets/images/view-flux.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>UNCOVER</title>
+      <link>http://lapa.ninja/post/uncovermac/</link>
+      <pubDate>Sat, 09 Apr 2016 10:20:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/uncovermac/</guid>
+      <description>
+        
+        <p>We lasercut MacBooks and let their innate light shine through.</p>
+        <img src="http://lapa.ninja/assets/images/uncovermac.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Asana</title>
+      <link>http://lapa.ninja/post/asana-2/</link>
+      <pubDate>Sat, 09 Apr 2016 10:19:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/asana-2/</guid>
+      <description>
+        
+        <p>Asana is the easiest way for teams to track their work—and get results.</p>
+        <img src="http://lapa.ninja/assets/images/asana-09-04-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Pattern by Etsy</title>
@@ -184,51 +229,6 @@
         
         <p>Your invoicing made easy. TwoCards is a simple way to send invoices and get paid on time.</p>
         <img src="http://lapa.ninja/assets/images/two-cards.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Checkland Kindleysides</title>
-      <link>http://lapa.ninja/post/checkland-kindleysides/</link>
-      <pubDate>Sat, 19 Mar 2016 09:46:38 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/checkland-kindleysides/</guid>
-      <description>
-        
-        <p>Checkland Kindleysides is a global design agency specialising in the art of brand storytelling. We craft digital, graphic and 3 dimensional thinking to create category leading brand experiences.</p>
-        <img src="http://lapa.ninja/assets/images/checkland-kindleysides.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>bulldog yoga</title>
-      <link>http://lapa.ninja/post/bulldog-yoga/</link>
-      <pubDate>Sat, 19 Mar 2016 09:46:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bulldog-yoga/</guid>
-      <description>
-        
-        <p>Yoga on the main line: genuine, uncomplicated and relaxed. Your Kind of Movement.</p>
-        <img src="http://lapa.ninja/assets/images/bulldog-yoga.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Gear VR Powered by Oculus</title>
-      <link>http://lapa.ninja/post/gear-vr-oculus/</link>
-      <pubDate>Sat, 19 Mar 2016 09:46:07 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/gear-vr-oculus/</guid>
-      <description>
-        
-        <p>The Gear VR is groundbreaking VR technology that combines a lightweight, wireless headset with the convenience of the full 2015 line of Samsung GALAXY smartphones.</p>
-        <img src="http://lapa.ninja/assets/images/gear-vr-oculus.jpg" />
 
 
       </description>

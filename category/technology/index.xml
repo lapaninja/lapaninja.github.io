@@ -6,8 +6,23 @@
     <description>Recent content in Technology on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Apr 2016 15:35:59 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2016 10:20:11 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UNCOVER</title>
+      <link>http://lapa.ninja/post/uncovermac/</link>
+      <pubDate>Sat, 09 Apr 2016 10:20:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/uncovermac/</guid>
+      <description>
+        
+        <p>We lasercut MacBooks and let their innate light shine through.</p>
+        <img src="http://lapa.ninja/assets/images/uncovermac.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Thington</title>
@@ -214,21 +229,6 @@
         
         <p>Rizon is a beautiful Golden Hour calculator for your iPhone that helps you easily find the best time to shoot outdoors in natural light. Set reminders, save offline locations, and see data for any date in the future.</p>
         <img src="http://lapa.ninja/assets/images/rizon.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Be My Eyes</title>
-      <link>http://lapa.ninja/post/bemyeyes/</link>
-      <pubDate>Fri, 16 Oct 2015 22:59:53 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bemyeyes/</guid>
-      <description>
-        
-        <p>Be My Eyes is an iPhone app that lets blind people contact a network of sighted volunteers for help with live video chat.</p>
-        <img src="http://lapa.ninja/assets/images/bemyeyes.jpg" />
 
 
       </description>

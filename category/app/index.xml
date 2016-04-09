@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Apr 2016 15:35:59 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2016 10:19:54 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Asana</title>
+      <link>http://lapa.ninja/post/asana-2/</link>
+      <pubDate>Sat, 09 Apr 2016 10:19:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/asana-2/</guid>
+      <description>
+        
+        <p>Asana is the easiest way for teams to track their work—and get results.</p>
+        <img src="http://lapa.ninja/assets/images/asana-09-04-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Thington</title>
@@ -214,21 +229,6 @@
         
         <p>Everything in one place. View all of your social media streams from Facebook, Twitter, Instagram and Tumblr in one elegant feed.</p>
         <img src="http://lapa.ninja/assets/images/soflow.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Akdemia</title>
-      <link>http://lapa.ninja/post/akdemia/</link>
-      <pubDate>Mon, 18 Jan 2016 10:36:13 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/akdemia/</guid>
-      <description>
-        
-        <p>Make Schools Awesome - Akdemia is the most comprehensive and easy to use school management platform designed to bring out the best in your school</p>
-        <img src="http://lapa.ninja/assets/images/akdemia.jpg" />
 
 
       </description>

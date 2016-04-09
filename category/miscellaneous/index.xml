@@ -6,8 +6,23 @@
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2016 15:50:20 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2016 10:20:11 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UNCOVER</title>
+      <link>http://lapa.ninja/post/uncovermac/</link>
+      <pubDate>Sat, 09 Apr 2016 10:20:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/uncovermac/</guid>
+      <description>
+        
+        <p>We lasercut MacBooks and let their innate light shine through.</p>
+        <img src="http://lapa.ninja/assets/images/uncovermac.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Spendesk</title>
@@ -214,21 +229,6 @@
         
         <p>Lift is a full-service user experience design agency. Oh, and we do cool stuff with WordPress.</p>
         <img src="http://lapa.ninja/assets/images/lift-ux.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Samsung Gear 360</title>
-      <link>http://lapa.ninja/post/samsung-gear-360/</link>
-      <pubDate>Thu, 25 Feb 2016 14:16:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/samsung-gear-360/</guid>
-      <description>
-        
-        <p>With Samsung Gear 360, creating seamlessly spherical videos and photos is beautifully simple.</p>
-        <img src="http://lapa.ninja/assets/images/samsung-gear-360.jpg" />
 
 
       </description>

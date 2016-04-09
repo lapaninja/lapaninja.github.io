@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Mar 2016 11:05:10 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2016 10:20:21 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ViewFlux</title>
+      <link>http://lapa.ninja/post/viewflux/</link>
+      <pubDate>Sat, 09 Apr 2016 10:20:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/viewflux/</guid>
+      <description>
+        
+        <p>ViewFlux allows you to create clickable prototypes from your designs, easily get feedback &amp; collaborate with your clients or team mates.</p>
+        <img src="http://lapa.ninja/assets/images/view-flux.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Lingo</title>
@@ -214,21 +229,6 @@
         
         <p>Prevue is a tool for designers and digital agencies to give stunning design presentations, and get fast client feedback.</p>
         <img src="http://lapa.ninja/assets/images/prevue.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Grav</title>
-      <link>http://lapa.ninja/post/grav/</link>
-      <pubDate>Tue, 27 Oct 2015 10:15:54 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/grav/</guid>
-      <description>
-        
-        <p>Grav is an easy to use, yet powerful, opensource CMS that requires no database</p>
-        <img src="http://lapa.ninja/assets/images/grav.jpg" />
 
 
       </description>

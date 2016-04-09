@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viewflux on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/viewflux/</link>
+    <description>Recent content in Viewflux on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2016 10:20:21 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/viewflux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ViewFlux</title>
+      <link>http://lapa.ninja/post/viewflux/</link>
+      <pubDate>Sat, 09 Apr 2016 10:20:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/viewflux/</guid>
+      <description>
+        
+        <p>ViewFlux allows you to create clickable prototypes from your designs, easily get feedback &amp; collaborate with your clients or team mates.</p>
+        <img src="http://lapa.ninja/assets/images/view-flux.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
