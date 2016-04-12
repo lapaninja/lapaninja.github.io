@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lunarway on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/lunarway/</link>
+    <description>Recent content in Lunarway on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Apr 2016 16:05:50 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/lunarway/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lunar Way</title>
+      <link>http://lapa.ninja/post/lunar-way/</link>
+      <pubDate>Tue, 12 Apr 2016 16:05:50 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lunar-way/</guid>
+      <description>
+        
+        <p>Lunar Way is digital banking for the millennial generation. We believe in banking that is easy, personal and driven by mobile technology.</p>
+        <img src="http://lapa.ninja/assets/images/lunar-way.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

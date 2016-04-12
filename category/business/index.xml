@@ -6,8 +6,38 @@
     <description>Recent content in Business on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2016 10:20:21 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 12 Apr 2016 16:05:50 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lunar Way</title>
+      <link>http://lapa.ninja/post/lunar-way/</link>
+      <pubDate>Tue, 12 Apr 2016 16:05:50 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lunar-way/</guid>
+      <description>
+        
+        <p>Lunar Way is digital banking for the millennial generation. We believe in banking that is easy, personal and driven by mobile technology.</p>
+        <img src="http://lapa.ninja/assets/images/lunar-way.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Degordian</title>
+      <link>http://lapa.ninja/post/degordian/</link>
+      <pubDate>Tue, 12 Apr 2016 15:48:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/degordian/</guid>
+      <description>
+        
+        <p>Curious about digital marketing? We´re specialized in creating social media and performance based campaigns for the world´s leading brands.</p>
+        <img src="http://lapa.ninja/assets/images/degordian.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>ViewFlux</title>
@@ -199,36 +229,6 @@
         
         <p>The marketplace for design resources. Buy Premium Creative Design Contents Like, UI Kits, Wordpress Theme, Presentations, Icons and much more… </p>
         <img src="http://lapa.ninja/assets/images/market-me.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Flex.ly</title>
-      <link>http://lapa.ninja/post/flex/</link>
-      <pubDate>Thu, 03 Mar 2016 14:34:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/flex/</guid>
-      <description>
-        
-        <p>Discover an effortless way to design beautiful websites that can be managed independently.</p>
-        <img src="http://lapa.ninja/assets/images/flex.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Stripe Atlas</title>
-      <link>http://lapa.ninja/post/stripe-atlas/</link>
-      <pubDate>Mon, 29 Feb 2016 11:03:20 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/stripe-atlas/</guid>
-      <description>
-        
-        <p>A new way to start an internet business anywhere.</p>
-        <img src="http://lapa.ninja/assets/images/stripe-atlas.jpg" />
 
 
       </description>

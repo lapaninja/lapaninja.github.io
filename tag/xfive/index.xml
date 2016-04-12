@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xfive on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/xfive/</link>
+    <description>Recent content in Xfive on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Apr 2016 15:48:26 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/xfive/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Xfive</title>
+      <link>http://lapa.ninja/post/xfive/</link>
+      <pubDate>Tue, 12 Apr 2016 15:48:26 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/xfive/</guid>
+      <description>
+        
+        <p>Your project is in good hands with the web developers who care. Xfive will code your website or application with the highest standards</p>
+        <img src="http://lapa.ninja/assets/images/xfive.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

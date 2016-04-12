@@ -6,8 +6,53 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2016 10:20:21 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 12 Apr 2016 16:05:50 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lunar Way</title>
+      <link>http://lapa.ninja/post/lunar-way/</link>
+      <pubDate>Tue, 12 Apr 2016 16:05:50 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lunar-way/</guid>
+      <description>
+        
+        <p>Lunar Way is digital banking for the millennial generation. We believe in banking that is easy, personal and driven by mobile technology.</p>
+        <img src="http://lapa.ninja/assets/images/lunar-way.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Degordian</title>
+      <link>http://lapa.ninja/post/degordian/</link>
+      <pubDate>Tue, 12 Apr 2016 15:48:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/degordian/</guid>
+      <description>
+        
+        <p>Curious about digital marketing? We´re specialized in creating social media and performance based campaigns for the world´s leading brands.</p>
+        <img src="http://lapa.ninja/assets/images/degordian.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Xfive</title>
+      <link>http://lapa.ninja/post/xfive/</link>
+      <pubDate>Tue, 12 Apr 2016 15:48:26 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/xfive/</guid>
+      <description>
+        
+        <p>Your project is in good hands with the web developers who care. Xfive will code your website or application with the highest standards</p>
+        <img src="http://lapa.ninja/assets/images/xfive.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>ViewFlux</title>
@@ -184,51 +229,6 @@
         
         <p>Everything to gain. Introducing Robin, the first Android phone that makes running out of space history. With the cloud integrated into Android OS, your onboard storage is merged with the cloud, so you always have the space you need.</p>
         <img src="http://lapa.ninja/assets/images/nextbit.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Day One</title>
-      <link>http://lapa.ninja/post/dayone-me/</link>
-      <pubDate>Tue, 22 Mar 2016 10:41:26 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dayone-me/</guid>
-      <description>
-        
-        <p>Day One is a simple and elegant journaling app for Mac, iOS, and Apple Watch.</p>
-        <img src="http://lapa.ninja/assets/images/day-one-me.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>NTMY – The Show</title>
-      <link>http://lapa.ninja/post/tobias-van-schneider/</link>
-      <pubDate>Tue, 22 Mar 2016 09:42:21 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/tobias-van-schneider/</guid>
-      <description>
-        
-        <p>Tobias van Schneider is a multi-disciplinary designer living in New York</p>
-        <img src="http://lapa.ninja/assets/images/tobias-van-schneider.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>TwoCards</title>
-      <link>http://lapa.ninja/post/twocards/</link>
-      <pubDate>Mon, 21 Mar 2016 10:42:05 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/twocards/</guid>
-      <description>
-        
-        <p>Your invoicing made easy. TwoCards is a simple way to send invoices and get paid on time.</p>
-        <img src="http://lapa.ninja/assets/images/two-cards.jpg" />
 
 
       </description>
