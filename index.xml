@@ -100,51 +100,6 @@
     </item>
     
     <item>
-      <title>mochi</title>
-      <link>http://lapa.ninja/freebie/mochi/</link>
-      <pubDate>Fri, 08 Apr 2016 22:49:21 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/freebie/mochi/</guid>
-      <description>
-        
-        <p></p>
-        <img src="http://lapa.ninja/assets/freebies/coming-soon.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>dangtinh</title>
-      <link>http://lapa.ninja/freebie/dangtinh/</link>
-      <pubDate>Fri, 08 Apr 2016 22:49:14 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/freebie/dangtinh/</guid>
-      <description>
-        
-        <p></p>
-        <img src="http://lapa.ninja/assets/freebies/coming-soon.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>aresta</title>
-      <link>http://lapa.ninja/freebie/aresta/</link>
-      <pubDate>Fri, 08 Apr 2016 22:43:01 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/freebie/aresta/</guid>
-      <description>
-        
-        <p></p>
-        <img src="http://lapa.ninja/assets/freebies/coming-soon.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
       <title>Lapax</title>
       <link>http://lapa.ninja/freebie/lapax/</link>
       <pubDate>Fri, 08 Apr 2016 22:33:50 +0700</pubDate>
@@ -153,7 +108,7 @@
       <description>
         
         <p></p>
-        <img src="http://lapa.ninja/assets/freebies/lapax.jpg" />
+        <img src="http://lapa.ninja/assets/freebies/lapax/lapax.jpg" />
 
 
       </description>
@@ -168,7 +123,7 @@
       <description>
         
         <p></p>
-        <img src="http://lapa.ninja/assets/freebies/arestix.jpg" />
+        <img src="http://lapa.ninja/assets/freebies/arestix/arestix.jpg" />
 
 
       </description>
@@ -229,6 +184,51 @@
         
         <p>A digital design and web dev studio specializing in beautiful, speedy websites. We&#39;re based in Amsterdam, The Netherlands, but work with global clients.</p>
         <img src="http://lapa.ninja/assets/images/the-apartment.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Spendesk</title>
+      <link>http://lapa.ninja/post/spendesk/</link>
+      <pubDate>Mon, 04 Apr 2016 15:50:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/spendesk/</guid>
+      <description>
+        
+        <p>One place to manage your team spendings.</p>
+        <img src="http://lapa.ninja/assets/images/spendesk.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Oculus</title>
+      <link>http://lapa.ninja/post/oculus/</link>
+      <pubDate>Mon, 04 Apr 2016 15:50:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/oculus/</guid>
+      <description>
+        
+        <p>Oculus is making it possible to experience anything, anywhere, through the power of virtual reality. Visit to learn more about Gear VR and Oculus Rift.</p>
+        <img src="http://lapa.ninja/assets/images/oculus.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lingo</title>
+      <link>http://lapa.ninja/post/lingo/</link>
+      <pubDate>Fri, 25 Mar 2016 11:05:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lingo/</guid>
+      <description>
+        
+        <p>Lingo is the best way to organize, share and use all your visual assets in one place - all on your desktop.</p>
+        <img src="http://lapa.ninja/assets/images/lingo.jpg" />
 
 
       </description>

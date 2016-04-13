@@ -1944,7 +1944,7 @@ body {
   }
 }
 .lapa-post__freebie li .freebie__item {
-  padding: 4px;
+  padding: 5px;
   border-radius: 2x;
   background: #fff;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
@@ -1967,7 +1967,7 @@ body {
   background: #eee;
 }
 .lapa-post__freebie li .freebie__name {
-  padding: 7px 10px;
+  padding: 5px 10px;
   max-height: 65px;
 }
 .lapa-post__freebie li .freebie__title {
@@ -1990,6 +1990,7 @@ body {
 .lapa-post__freebie li .freebie__link {
   color: #444;
   text-decoration: none;
+  display: block;
 }
 .lapa-post__freebie li .freebie__link:hover {
   color: #6869D1;
@@ -2019,14 +2020,96 @@ body {
   margin-right: 1.38889%;
 }
 .freebie__detail header {
-  padding-bottom: 2.77778%;
-  margin-bottom: 2.77778%;
-  border-bottom: 1px solid #eee;
+  padding-bottom: 1.38889%;
+  margin-bottom: 1.38889%;
+  border-bottom: 1px solid #ddd;
 }
 
-.freebie__info {
+.freebie__aside {
   width: 22.22222%;
   float: left;
   margin-left: 1.38889%;
   margin-right: 1.38889%;
+}
+.freebie__aside .author {
+  border-radius: 4px;
+  background: #fff;
+  padding: 15px;
+}
+.freebie__aside .freebie__download {
+  display: block;
+  padding: 15px;
+  font-size: 1.2em;
+  font-weight: 700;
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background: #6869D1;
+  text-decoration: none;
+  color: #fff;
+  margin-bottom: 20px;
+  margin-top: 15px;
+}
+.freebie__aside .author__title {
+  text-transform: uppercase;
+  font-size: 0.7em;
+  color: #999;
+  padding-bottom: 10px;
+}
+.freebie__aside .freebie__author-detail {
+  overflow: hidden;
+  *zoom: 1;
+  padding-bottom: 15px;
+}
+.freebie__aside .freebie__author-detail img {
+  width: 45px;
+  height: 45px;
+  float: left;
+  border-radius: 50%;
+  display: block;
+  margin-right: 8px;
+}
+.freebie__aside .freebie__author-detail .author__name {
+  font-size: 1em;
+  display: inline-block;
+}
+.freebie__aside .freebie__author-detail .author__link {
+  font-size: 0.8em;
+  color: #6869D1;
+  text-decoration: none;
+}
+.freebie__aside .author__donate {
+  background: #FFD400;
+  display: block;
+  padding: 5px;
+  font-size: 1em;
+  font-weight: 500;
+  width: 100%;
+  text-align: center;
+  border-radius: 30px;
+  text-decoration: none;
+  color: #333;
+}
+
+.freebie__main-content img {
+  display: block;
+  margin-bottom: 2em;
+  margin-top: 2em;
+  max-width: 100%;
+}
+.freebie__main-content ul {
+  list-style: disc;
+  list-style-position: inside;
+  font-size: 0.9em;
+  line-height: 1.8;
+}
+.freebie__main-content hr {
+  border-top: 1px solid #ddd;
+  margin: 0.5em 0;
+}
+.freebie__main-content a {
+  font-size: 0.9em;
+  color: #6869D1;
+  text-decoration: none;
 }

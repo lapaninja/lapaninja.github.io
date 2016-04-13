@@ -6,53 +6,8 @@
     <description>Recent content in Freebies on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2016 22:49:21 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2016 22:33:50 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/freebie/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>mochi</title>
-      <link>http://lapa.ninja/freebie/mochi/</link>
-      <pubDate>Fri, 08 Apr 2016 22:49:21 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/freebie/mochi/</guid>
-      <description>
-        
-        <p></p>
-        <img src="http://lapa.ninja/assets/freebies/coming-soon.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>dangtinh</title>
-      <link>http://lapa.ninja/freebie/dangtinh/</link>
-      <pubDate>Fri, 08 Apr 2016 22:49:14 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/freebie/dangtinh/</guid>
-      <description>
-        
-        <p></p>
-        <img src="http://lapa.ninja/assets/freebies/coming-soon.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>aresta</title>
-      <link>http://lapa.ninja/freebie/aresta/</link>
-      <pubDate>Fri, 08 Apr 2016 22:43:01 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/freebie/aresta/</guid>
-      <description>
-        
-        <p></p>
-        <img src="http://lapa.ninja/assets/freebies/coming-soon.jpg" />
-
-
-      </description>
-    </item>
     
     <item>
       <title>Lapax</title>
@@ -63,7 +18,7 @@
       <description>
         
         <p></p>
-        <img src="http://lapa.ninja/assets/freebies/lapax.jpg" />
+        <img src="http://lapa.ninja/assets/freebies/lapax/lapax.jpg" />
 
 
       </description>
@@ -78,7 +33,7 @@
       <description>
         
         <p></p>
-        <img src="http://lapa.ninja/assets/freebies/arestix.jpg" />
+        <img src="http://lapa.ninja/assets/freebies/arestix/arestix.jpg" />
 
 
       </description>
