@@ -6,8 +6,53 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Apr 2016 16:05:50 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Apr 2016 10:31:58 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IDEO</title>
+      <link>http://lapa.ninja/post/ideo/</link>
+      <pubDate>Fri, 15 Apr 2016 10:31:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ideo/</guid>
+      <description>
+        
+        <p>IDEO is a global design company. We create positive impact through design.</p>
+        <img src="http://lapa.ninja/assets/images/ideo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Thankbot</title>
+      <link>http://lapa.ninja/post/thankbot/</link>
+      <pubDate>Fri, 15 Apr 2016 10:18:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/thankbot/</guid>
+      <description>
+        
+        <p>Drive more business with handwritten notes.</p>
+        <img src="http://lapa.ninja/assets/images/thankbot.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Jumpshare</title>
+      <link>http://lapa.ninja/post/jumpshare/</link>
+      <pubDate>Fri, 15 Apr 2016 10:18:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/jumpshare/</guid>
+      <description>
+        
+        <p>Share unlimited files, screenshots, screencasts, and more with your team and clients. Collaborate in real-time, preview 200&#43; file formats online - all for free!</p>
+        <img src="http://lapa.ninja/assets/images/jumpshare.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Lunar Way</title>
@@ -184,51 +229,6 @@
         
         <p>A digital design and web dev studio specializing in beautiful, speedy websites. We&#39;re based in Amsterdam, The Netherlands, but work with global clients.</p>
         <img src="http://lapa.ninja/assets/images/the-apartment.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Spendesk</title>
-      <link>http://lapa.ninja/post/spendesk/</link>
-      <pubDate>Mon, 04 Apr 2016 15:50:20 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/spendesk/</guid>
-      <description>
-        
-        <p>One place to manage your team spendings.</p>
-        <img src="http://lapa.ninja/assets/images/spendesk.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Oculus</title>
-      <link>http://lapa.ninja/post/oculus/</link>
-      <pubDate>Mon, 04 Apr 2016 15:50:11 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/oculus/</guid>
-      <description>
-        
-        <p>Oculus is making it possible to experience anything, anywhere, through the power of virtual reality. Visit to learn more about Gear VR and Oculus Rift.</p>
-        <img src="http://lapa.ninja/assets/images/oculus.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lingo</title>
-      <link>http://lapa.ninja/post/lingo/</link>
-      <pubDate>Fri, 25 Mar 2016 11:05:10 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/lingo/</guid>
-      <description>
-        
-        <p>Lingo is the best way to organize, share and use all your visual assets in one place - all on your desktop.</p>
-        <img src="http://lapa.ninja/assets/images/lingo.jpg" />
 
 
       </description>

@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2016 10:19:54 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Apr 2016 10:18:18 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Jumpshare</title>
+      <link>http://lapa.ninja/post/jumpshare/</link>
+      <pubDate>Fri, 15 Apr 2016 10:18:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/jumpshare/</guid>
+      <description>
+        
+        <p>Share unlimited files, screenshots, screencasts, and more with your team and clients. Collaborate in real-time, preview 200&#43; file formats online - all for free!</p>
+        <img src="http://lapa.ninja/assets/images/jumpshare.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Asana</title>
@@ -214,21 +229,6 @@
         
         <p>Klets is a chat page for your business. People want chat. With Klets, so do you. No IT guy needed. It&#39;s as simple as signing up for a Twitter profile or Facebook page.</p>
         <img src="http://lapa.ninja/assets/images/klets.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>SoFlow</title>
-      <link>http://lapa.ninja/post/soflow/</link>
-      <pubDate>Fri, 29 Jan 2016 11:19:48 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/soflow/</guid>
-      <description>
-        
-        <p>Everything in one place. View all of your social media streams from Facebook, Twitter, Instagram and Tumblr in one elegant feed.</p>
-        <img src="http://lapa.ninja/assets/images/soflow.jpg" />
 
 
       </description>

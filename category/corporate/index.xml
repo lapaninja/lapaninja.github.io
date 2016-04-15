@@ -6,8 +6,23 @@
     <description>Recent content in Corporate on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Apr 2016 15:48:26 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Apr 2016 10:31:58 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/corporate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IDEO</title>
+      <link>http://lapa.ninja/post/ideo/</link>
+      <pubDate>Fri, 15 Apr 2016 10:31:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ideo/</guid>
+      <description>
+        
+        <p>IDEO is a global design company. We create positive impact through design.</p>
+        <img src="http://lapa.ninja/assets/images/ideo.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Xfive</title>
@@ -214,21 +229,6 @@
         
         <p>Having hands on experience in creating innovative designs, ThemeDesigner offer website designs, wordpress themes, landing page design and homepage design.</p>
         <img src="http://lapa.ninja/assets/images/themedesigner.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Pixel Union</title>
-      <link>http://lapa.ninja/post/pixel-union/</link>
-      <pubDate>Sat, 20 Feb 2016 11:58:02 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/pixel-union/</guid>
-      <description>
-        
-        <p>Beautiful, responsive themes that help grow your ecommerce store and website. We also build custom themes and ecommerce solutions.</p>
-        <img src="http://lapa.ninja/assets/images/pixel-union.jpg" />
 
 
       </description>

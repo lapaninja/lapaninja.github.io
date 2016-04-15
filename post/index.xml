@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Apr 2016 16:05:50 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 Apr 2016 10:31:58 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IDEO</title>
+      <link>http://lapa.ninja/post/ideo/</link>
+      <pubDate>Fri, 15 Apr 2016 10:31:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ideo/</guid>
+      <description>
+        
+        <p>IDEO is a global design company. We create positive impact through design.</p>
+        <img src="http://lapa.ninja/assets/images/ideo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Thankbot</title>
+      <link>http://lapa.ninja/post/thankbot/</link>
+      <pubDate>Fri, 15 Apr 2016 10:18:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/thankbot/</guid>
+      <description>
+        
+        <p>Drive more business with handwritten notes.</p>
+        <img src="http://lapa.ninja/assets/images/thankbot.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Jumpshare</title>
+      <link>http://lapa.ninja/post/jumpshare/</link>
+      <pubDate>Fri, 15 Apr 2016 10:18:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/jumpshare/</guid>
+      <description>
+        
+        <p>Share unlimited files, screenshots, screencasts, and more with your team and clients. Collaborate in real-time, preview 200&#43; file formats online - all for free!</p>
+        <img src="http://lapa.ninja/assets/images/jumpshare.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Lunar Way</title>
@@ -184,51 +229,6 @@
         
         <p>Oculus is making it possible to experience anything, anywhere, through the power of virtual reality. Visit to learn more about Gear VR and Oculus Rift.</p>
         <img src="http://lapa.ninja/assets/images/oculus.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lingo</title>
-      <link>http://lapa.ninja/post/lingo/</link>
-      <pubDate>Fri, 25 Mar 2016 11:05:10 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/lingo/</guid>
-      <description>
-        
-        <p>Lingo is the best way to organize, share and use all your visual assets in one place - all on your desktop.</p>
-        <img src="http://lapa.ninja/assets/images/lingo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Minimill</title>
-      <link>http://lapa.ninja/post/minimill/</link>
-      <pubDate>Fri, 25 Mar 2016 11:05:03 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/minimill/</guid>
-      <description>
-        
-        <p>We are Minimill, a design agency for branding and web. Let&#39;s work together.</p>
-        <img src="http://lapa.ninja/assets/images/minimill.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Nextbit</title>
-      <link>http://lapa.ninja/post/nextbit/</link>
-      <pubDate>Fri, 25 Mar 2016 11:04:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/nextbit/</guid>
-      <description>
-        
-        <p>Everything to gain. Introducing Robin, the first Android phone that makes running out of space history. With the cloud integrated into Android OS, your onboard storage is merged with the cloud, so you always have the space you need.</p>
-        <img src="http://lapa.ninja/assets/images/nextbit.jpg" />
 
 
       </description>
