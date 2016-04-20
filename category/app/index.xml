@@ -6,8 +6,53 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Apr 2016 10:18:18 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 11:02:41 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Airbnb - Live There</title>
+      <link>http://lapa.ninja/post/airbnb-live-there/</link>
+      <pubDate>Wed, 20 Apr 2016 11:02:41 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/airbnb-live-there/</guid>
+      <description>
+        
+        <p>Don’t go there. Live there. Even if it’s just for a night. Travel with Airbnb and experience a place like you live there.</p>
+        <img src="http://lapa.ninja/assets/images/airbnb-live-there.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Simple</title>
+      <link>http://lapa.ninja/post/simple/</link>
+      <pubDate>Wed, 20 Apr 2016 11:02:25 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/simple/</guid>
+      <description>
+        
+        <p>Simple is reinventing online banking with modern web and mobile experiences, no surprise fees, and great customer service. Simplify your finances.</p>
+        <img src="http://lapa.ninja/assets/images/simple.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Framer</title>
+      <link>http://lapa.ninja/post/framerjs-2/</link>
+      <pubDate>Wed, 20 Apr 2016 11:02:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/framerjs-2/</guid>
+      <description>
+        
+        <p>Design interactive high-fidelity prototypes for iOS, Android, desktop or the web. Invent new animations and interactions. Integrates with Sketch and Photoshop.</p>
+        <img src="http://lapa.ninja/assets/images/framer-20-04-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Jumpshare</title>
@@ -184,51 +229,6 @@
         
         <p>Build responsive websites in your browser. Launch with a click. Or export your code to host wherever. Discover the professional website builder made for designers.</p>
         <img src="http://lapa.ninja/assets/images/webflow.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Riiot Labs</title>
-      <link>http://lapa.ninja/post/riiot-labs/</link>
-      <pubDate>Mon, 15 Feb 2016 14:06:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/riiot-labs/</guid>
-      <description>
-        
-        <p>Get instant data on your pool water quality and temperature. Blue will tell you in real-time via an app if your pool is fine for a dip or otherwise suggest customized solutions for you.</p>
-        <img src="http://lapa.ninja/assets/images/riiot-labs.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Wellcoin</title>
-      <link>http://lapa.ninja/post/wellcoin/</link>
-      <pubDate>Mon, 15 Feb 2016 14:06:24 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/wellcoin/</guid>
-      <description>
-        
-        <p>Wellcoin&#39;s mission is to help the world get healthier by increasing the frequency and diversity of healthy activities in our daily lives.</p>
-        <img src="http://lapa.ninja/assets/images/wellcoin.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Klets</title>
-      <link>http://lapa.ninja/post/klets/</link>
-      <pubDate>Mon, 15 Feb 2016 14:06:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/klets/</guid>
-      <description>
-        
-        <p>Klets is a chat page for your business. People want chat. With Klets, so do you. No IT guy needed. It&#39;s as simple as signing up for a Twitter profile or Facebook page.</p>
-        <img src="http://lapa.ninja/assets/images/klets.jpg" />
 
 
       </description>

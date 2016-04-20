@@ -6,8 +6,23 @@
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Apr 2016 10:18:39 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 11:02:41 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Airbnb - Live There</title>
+      <link>http://lapa.ninja/post/airbnb-live-there/</link>
+      <pubDate>Wed, 20 Apr 2016 11:02:41 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/airbnb-live-there/</guid>
+      <description>
+        
+        <p>Don’t go there. Live there. Even if it’s just for a night. Travel with Airbnb and experience a place like you live there.</p>
+        <img src="http://lapa.ninja/assets/images/airbnb-live-there.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Thankbot</title>
@@ -214,21 +229,6 @@
         
         <p>An open source mapping platform for custom designed maps. Our APIs and SDKs are the building blocks to integrate location into any mobile or web app.</p>
         <img src="http://lapa.ninja/assets/images/mapbox.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Webydo</title>
-      <link>http://lapa.ninja/post/webydo/</link>
-      <pubDate>Thu, 03 Mar 2016 14:35:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/webydo/</guid>
-      <description>
-        
-        <p>Webydo is a professional online website design software for designers. With Webydo, designers can create multiple responsive websites with custom tailored design from scratch without writing one line of code.</p>
-        <img src="http://lapa.ninja/assets/images/webydo.jpg" />
 
 
       </description>
