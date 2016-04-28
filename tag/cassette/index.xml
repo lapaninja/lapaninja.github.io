@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cassette on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/cassette/</link>
+    <description>Recent content in Cassette on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Apr 2016 10:37:51 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/cassette/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cassette</title>
+      <link>http://lapa.ninja/post/cassette/</link>
+      <pubDate>Thu, 28 Apr 2016 10:37:51 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/cassette/</guid>
+      <description>
+        
+        <p>The best way for designers to record, transcribe, and bookmark key moments in user interviews – and share it all with your team.</p>
+        <img src="http://lapa.ninja/assets/images/cassette.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,8 +6,23 @@
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 11:02:41 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 28 Apr 2016 10:38:52 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GoHero.ai</title>
+      <link>http://lapa.ninja/post/gohero-ai/</link>
+      <pubDate>Thu, 28 Apr 2016 10:38:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/gohero-ai/</guid>
+      <description>
+        
+        <p>Go Hero is a personal travel concierge app via chat available on iOS, Android</p>
+        <img src="http://lapa.ninja/assets/images/gohero-ai.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Airbnb - Live There</title>
@@ -214,21 +229,6 @@
         
         <p>DebugMe is a simple bug tracker for web designers and developers. Bug tracking, browser testing and giving visual feedback was never easier. Try it for FREE</p>
         <img src="http://lapa.ninja/assets/images/debug-me.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Mapbox</title>
-      <link>http://lapa.ninja/post/mapbox/</link>
-      <pubDate>Thu, 03 Mar 2016 14:35:31 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/mapbox/</guid>
-      <description>
-        
-        <p>An open source mapping platform for custom designed maps. Our APIs and SDKs are the building blocks to integrate location into any mobile or web app.</p>
-        <img src="http://lapa.ninja/assets/images/mapbox.jpg" />
 
 
       </description>

@@ -6,8 +6,23 @@
     <description>Recent content in Technology on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Apr 2016 10:20:11 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 28 Apr 2016 10:38:26 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Divvy</title>
+      <link>http://lapa.ninja/post/divvyapp/</link>
+      <pubDate>Thu, 28 Apr 2016 10:38:26 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/divvyapp/</guid>
+      <description>
+        
+        <p>Divvy is designed for busy homes. Lists and receipts are  instantly shared with the people you live with so everyone’s  always on the same page.</p>
+        <img src="http://lapa.ninja/assets/images/divvy.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>UNCOVER</title>
@@ -214,21 +229,6 @@
         
         <p>It’s the fastest way to rent a car. Say goodbye to long lines and paperwork. We deliver the car right to you.</p>
         <img src="http://lapa.ninja/assets/images/skurt.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rizon</title>
-      <link>http://lapa.ninja/post/rizonapp/</link>
-      <pubDate>Fri, 16 Oct 2015 23:19:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/rizonapp/</guid>
-      <description>
-        
-        <p>Rizon is a beautiful Golden Hour calculator for your iPhone that helps you easily find the best time to shoot outdoors in natural light. Set reminders, save offline locations, and see data for any date in the future.</p>
-        <img src="http://lapa.ninja/assets/images/rizon.jpg" />
 
 
       </description>

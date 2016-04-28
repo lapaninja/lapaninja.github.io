@@ -6,8 +6,53 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 11:02:41 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 28 Apr 2016 10:38:52 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GoHero.ai</title>
+      <link>http://lapa.ninja/post/gohero-ai/</link>
+      <pubDate>Thu, 28 Apr 2016 10:38:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/gohero-ai/</guid>
+      <description>
+        
+        <p>Go Hero is a personal travel concierge app via chat available on iOS, Android</p>
+        <img src="http://lapa.ninja/assets/images/gohero-ai.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Divvy</title>
+      <link>http://lapa.ninja/post/divvyapp/</link>
+      <pubDate>Thu, 28 Apr 2016 10:38:26 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/divvyapp/</guid>
+      <description>
+        
+        <p>Divvy is designed for busy homes. Lists and receipts are  instantly shared with the people you live with so everyone’s  always on the same page.</p>
+        <img src="http://lapa.ninja/assets/images/divvy.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Cassette</title>
+      <link>http://lapa.ninja/post/cassette/</link>
+      <pubDate>Thu, 28 Apr 2016 10:37:51 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/cassette/</guid>
+      <description>
+        
+        <p>The best way for designers to record, transcribe, and bookmark key moments in user interviews – and share it all with your team.</p>
+        <img src="http://lapa.ninja/assets/images/cassette.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Airbnb - Live There</title>
@@ -184,51 +229,6 @@
         
         <p>Quiver offers unlimited storage and allows you to share files and collaborate with complete control over who sees them, how and when</p>
         <img src="http://lapa.ninja/assets/images/quiver.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Mapbox</title>
-      <link>http://lapa.ninja/post/mapbox/</link>
-      <pubDate>Thu, 03 Mar 2016 14:35:31 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/mapbox/</guid>
-      <description>
-        
-        <p>An open source mapping platform for custom designed maps. Our APIs and SDKs are the building blocks to integrate location into any mobile or web app.</p>
-        <img src="http://lapa.ninja/assets/images/mapbox.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>ClassDojo</title>
-      <link>http://lapa.ninja/post/class-dojo/</link>
-      <pubDate>Mon, 29 Feb 2016 11:03:37 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/class-dojo/</guid>
-      <description>
-        
-        <p>Simple, positive classroom management, and parent engagement. Loved by over 35 million teachers, parents, and students.</p>
-        <img src="http://lapa.ninja/assets/images/classdojo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Webflow</title>
-      <link>http://lapa.ninja/post/webflow/</link>
-      <pubDate>Thu, 18 Feb 2016 10:32:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/webflow/</guid>
-      <description>
-        
-        <p>Build responsive websites in your browser. Launch with a click. Or export your code to host wherever. Discover the professional website builder made for designers.</p>
-        <img src="http://lapa.ninja/assets/images/webflow.jpg" />
 
 
       </description>
