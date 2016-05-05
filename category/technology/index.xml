@@ -6,8 +6,23 @@
     <description>Recent content in Technology on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2016 10:38:26 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 May 2016 13:56:12 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>US Mobile</title>
+      <link>http://lapa.ninja/post/us-mobile/</link>
+      <pubDate>Thu, 05 May 2016 13:56:12 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/us-mobile/</guid>
+      <description>
+        
+        <p>US Mobile is all about freedom. Create your personalized cell phone plan, and only pay for what you use.</p>
+        <img src="http://lapa.ninja/assets/images/us-mobile.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Divvy</title>
@@ -214,21 +229,6 @@
         
         <p>Square Register is a simple, powerful and free POS system. Simplify business, inventory, analytics, digital receipts and more. Download the free app today.</p>
         <img src="http://lapa.ninja/assets/images/squareup.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Skurt</title>
-      <link>http://lapa.ninja/post/skurtapp/</link>
-      <pubDate>Fri, 16 Oct 2015 23:36:35 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/skurtapp/</guid>
-      <description>
-        
-        <p>It’s the fastest way to rent a car. Say goodbye to long lines and paperwork. We deliver the car right to you.</p>
-        <img src="http://lapa.ninja/assets/images/skurt.jpg" />
 
 
       </description>

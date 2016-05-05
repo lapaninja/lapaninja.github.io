@@ -6,8 +6,23 @@
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2016 14:19:02 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 May 2016 13:55:40 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Innovatemap</title>
+      <link>http://lapa.ninja/post/innovatemap/</link>
+      <pubDate>Thu, 05 May 2016 13:55:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/innovatemap/</guid>
+      <description>
+        
+        <p>Innovatemap is a product agency. We help companies of all sizes dream, design, and scale digital products and services.</p>
+        <img src="http://lapa.ninja/assets/images/innovatemap.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Chart.js</title>
@@ -214,21 +229,6 @@
         
         <p>Tilt Brush lets you paint in 3D space with virtual reality. Your room is your canvas. Your palette is your imagination. The possibilities are endless.</p>
         <img src="http://lapa.ninja/assets/images/tilt-brush.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Cubes Digital</title>
-      <link>http://lapa.ninja/post/cubes-digital/</link>
-      <pubDate>Tue, 15 Mar 2016 17:09:29 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/cubes-digital/</guid>
-      <description>
-        
-        <p>We combine design and technologies to create a complex of functions and beauty in every product we deliver to startups and companies. We are specialists in UX, graphic design, web, and mobile.</p>
-        <img src="http://lapa.ninja/assets/images/cubes-digital.jpg" />
 
 
       </description>

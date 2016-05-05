@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quip on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/quip/</link>
+    <description>Recent content in Quip on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2016 13:55:54 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/quip/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Quip</title>
+      <link>http://lapa.ninja/post/quip/</link>
+      <pubDate>Thu, 05 May 2016 13:55:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/quip/</guid>
+      <description>
+        
+        <p>Quip is where you create, document, discuss, and organize the stuff that your team works on.</p>
+        <img src="http://lapa.ninja/assets/images/quip.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

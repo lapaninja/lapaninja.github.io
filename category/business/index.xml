@@ -6,8 +6,38 @@
     <description>Recent content in Business on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 11:02:25 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 May 2016 13:56:12 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>US Mobile</title>
+      <link>http://lapa.ninja/post/us-mobile/</link>
+      <pubDate>Thu, 05 May 2016 13:56:12 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/us-mobile/</guid>
+      <description>
+        
+        <p>US Mobile is all about freedom. Create your personalized cell phone plan, and only pay for what you use.</p>
+        <img src="http://lapa.ninja/assets/images/us-mobile.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Innovatemap</title>
+      <link>http://lapa.ninja/post/innovatemap/</link>
+      <pubDate>Thu, 05 May 2016 13:55:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/innovatemap/</guid>
+      <description>
+        
+        <p>Innovatemap is a product agency. We help companies of all sizes dream, design, and scale digital products and services.</p>
+        <img src="http://lapa.ninja/assets/images/innovatemap.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Simple</title>
@@ -199,36 +229,6 @@
         
         <p>Be inspired by our super talented mentors - It’s time to kick it up a gear</p>
         <img src="http://lapa.ninja/assets/images/re-create.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>DebugMe</title>
-      <link>http://lapa.ninja/post/debug-me/</link>
-      <pubDate>Wed, 16 Mar 2016 11:55:44 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/debug-me/</guid>
-      <description>
-        
-        <p>DebugMe is a simple bug tracker for web designers and developers. Bug tracking, browser testing and giving visual feedback was never easier. Try it for FREE</p>
-        <img src="http://lapa.ninja/assets/images/debug-me.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Quiver</title>
-      <link>http://lapa.ninja/post/quiver/</link>
-      <pubDate>Thu, 03 Mar 2016 14:35:40 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/quiver/</guid>
-      <description>
-        
-        <p>Quiver offers unlimited storage and allows you to share files and collaborate with complete control over who sees them, how and when</p>
-        <img src="http://lapa.ninja/assets/images/quiver.jpg" />
 
 
       </description>

@@ -6,8 +6,38 @@
     <description>Recent content in Corporate on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Apr 2016 10:31:58 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 May 2016 13:55:54 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/corporate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Quip</title>
+      <link>http://lapa.ninja/post/quip/</link>
+      <pubDate>Thu, 05 May 2016 13:55:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/quip/</guid>
+      <description>
+        
+        <p>Quip is where you create, document, discuss, and organize the stuff that your team works on.</p>
+        <img src="http://lapa.ninja/assets/images/quip.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Innovatemap</title>
+      <link>http://lapa.ninja/post/innovatemap/</link>
+      <pubDate>Thu, 05 May 2016 13:55:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/innovatemap/</guid>
+      <description>
+        
+        <p>Innovatemap is a product agency. We help companies of all sizes dream, design, and scale digital products and services.</p>
+        <img src="http://lapa.ninja/assets/images/innovatemap.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>IDEO</title>
@@ -199,36 +229,6 @@
         
         <p>Lift is a full-service user experience design agency. Oh, and we do cool stuff with WordPress.</p>
         <img src="http://lapa.ninja/assets/images/lift-ux.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Squarespace</title>
-      <link>http://lapa.ninja/post/square-space/</link>
-      <pubDate>Thu, 25 Feb 2016 14:16:46 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/square-space/</guid>
-      <description>
-        
-        <p>Squarespace is the easiest way for anyone to create an exceptional website. Pages, galleries, blogs, e-commerce, domains, hosting, analytics, 24/7 support - all included.</p>
-        <img src="http://lapa.ninja/assets/images/squarespace.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Theme Designer</title>
-      <link>http://lapa.ninja/post/theme-designer/</link>
-      <pubDate>Thu, 25 Feb 2016 14:15:59 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/theme-designer/</guid>
-      <description>
-        
-        <p>Having hands on experience in creating innovative designs, ThemeDesigner offer website designs, wordpress themes, landing page design and homepage design.</p>
-        <img src="http://lapa.ninja/assets/images/themedesigner.jpg" />
 
 
       </description>

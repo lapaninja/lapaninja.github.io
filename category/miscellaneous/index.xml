@@ -6,8 +6,38 @@
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2016 10:38:52 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 May 2016 13:56:12 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>US Mobile</title>
+      <link>http://lapa.ninja/post/us-mobile/</link>
+      <pubDate>Thu, 05 May 2016 13:56:12 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/us-mobile/</guid>
+      <description>
+        
+        <p>US Mobile is all about freedom. Create your personalized cell phone plan, and only pay for what you use.</p>
+        <img src="http://lapa.ninja/assets/images/us-mobile.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Quip</title>
+      <link>http://lapa.ninja/post/quip/</link>
+      <pubDate>Thu, 05 May 2016 13:55:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/quip/</guid>
+      <description>
+        
+        <p>Quip is where you create, document, discuss, and organize the stuff that your team works on.</p>
+        <img src="http://lapa.ninja/assets/images/quip.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>GoHero.ai</title>
@@ -199,36 +229,6 @@
         
         <p>Be inspired by our super talented mentors - It’s time to kick it up a gear</p>
         <img src="http://lapa.ninja/assets/images/re-create.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Tilt Brush by Google</title>
-      <link>http://lapa.ninja/post/tilt-brush/</link>
-      <pubDate>Wed, 16 Mar 2016 11:55:57 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/tilt-brush/</guid>
-      <description>
-        
-        <p>Tilt Brush lets you paint in 3D space with virtual reality. Your room is your canvas. Your palette is your imagination. The possibilities are endless.</p>
-        <img src="http://lapa.ninja/assets/images/tilt-brush.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>DebugMe</title>
-      <link>http://lapa.ninja/post/debug-me/</link>
-      <pubDate>Wed, 16 Mar 2016 11:55:44 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/debug-me/</guid>
-      <description>
-        
-        <p>DebugMe is a simple bug tracker for web designers and developers. Bug tracking, browser testing and giving visual feedback was never easier. Try it for FREE</p>
-        <img src="http://lapa.ninja/assets/images/debug-me.jpg" />
 
 
       </description>
