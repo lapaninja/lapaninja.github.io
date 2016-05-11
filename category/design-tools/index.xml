@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2016 14:19:02 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 May 2016 08:36:05 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SlashPixels</title>
+      <link>http://lapa.ninja/post/slashpixels/</link>
+      <pubDate>Wed, 11 May 2016 08:36:05 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/slashpixels/</guid>
+      <description>
+        
+        <p>Smart Artificial Intelligence Image Search Engine and aggregator for Dribbble, Behance, Pinterest, Cargo, Awwwards, Pttrns and other top Design sources.</p>
+        <img src="http://lapa.ninja/assets/images/slashpixels.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Chart.js</title>
@@ -214,21 +229,6 @@
         
         <p>Design interactive high-fidelity prototypes for iOS, Android, desktop or the web. Invent new animations and interactions. Integrates with Sketch and Photoshop.</p>
         <img src="http://lapa.ninja/assets/images/framerjs.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Atomic</title>
-      <link>http://lapa.ninja/post/atomic-2/</link>
-      <pubDate>Thu, 26 Nov 2015 08:58:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/atomic-2/</guid>
-      <description>
-        
-        <p>Atomic is professional software for digital designers, featuring tools for interface design, prototyping, version control and collaboration.</p>
-        <img src="http://lapa.ninja/assets/images/atomic-2.jpg" />
 
 
       </description>

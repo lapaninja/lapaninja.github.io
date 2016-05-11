@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slashpixels on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/slashpixels/</link>
+    <description>Recent content in Slashpixels on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 May 2016 08:36:05 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/slashpixels/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SlashPixels</title>
+      <link>http://lapa.ninja/post/slashpixels/</link>
+      <pubDate>Wed, 11 May 2016 08:36:05 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/slashpixels/</guid>
+      <description>
+        
+        <p>Smart Artificial Intelligence Image Search Engine and aggregator for Dribbble, Behance, Pinterest, Cargo, Awwwards, Pttrns and other top Design sources.</p>
+        <img src="http://lapa.ninja/assets/images/slashpixels.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,8 +6,23 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2016 13:56:12 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 May 2016 08:36:05 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SlashPixels</title>
+      <link>http://lapa.ninja/post/slashpixels/</link>
+      <pubDate>Wed, 11 May 2016 08:36:05 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/slashpixels/</guid>
+      <description>
+        
+        <p>Smart Artificial Intelligence Image Search Engine and aggregator for Dribbble, Behance, Pinterest, Cargo, Awwwards, Pttrns and other top Design sources.</p>
+        <img src="http://lapa.ninja/assets/images/slashpixels.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>US Mobile</title>
@@ -214,21 +229,6 @@
         
         <p>Lunar Way is digital banking for the millennial generation. We believe in banking that is easy, personal and driven by mobile technology.</p>
         <img src="http://lapa.ninja/assets/images/lunar-way.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Degordian</title>
-      <link>http://lapa.ninja/post/degordian/</link>
-      <pubDate>Tue, 12 Apr 2016 15:48:40 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/degordian/</guid>
-      <description>
-        
-        <p>Curious about digital marketing? We´re specialized in creating social media and performance based campaigns for the world´s leading brands.</p>
-        <img src="http://lapa.ninja/assets/images/degordian.jpg" />
 
 
       </description>

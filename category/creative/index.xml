@@ -6,8 +6,23 @@
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2016 13:55:40 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 May 2016 08:36:05 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SlashPixels</title>
+      <link>http://lapa.ninja/post/slashpixels/</link>
+      <pubDate>Wed, 11 May 2016 08:36:05 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/slashpixels/</guid>
+      <description>
+        
+        <p>Smart Artificial Intelligence Image Search Engine and aggregator for Dribbble, Behance, Pinterest, Cargo, Awwwards, Pttrns and other top Design sources.</p>
+        <img src="http://lapa.ninja/assets/images/slashpixels.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Innovatemap</title>
@@ -214,21 +229,6 @@
         
         <p>Be inspired by our super talented mentors - It’s time to kick it up a gear</p>
         <img src="http://lapa.ninja/assets/images/re-create.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Tilt Brush by Google</title>
-      <link>http://lapa.ninja/post/tilt-brush/</link>
-      <pubDate>Wed, 16 Mar 2016 11:55:57 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/tilt-brush/</guid>
-      <description>
-        
-        <p>Tilt Brush lets you paint in 3D space with virtual reality. Your room is your canvas. Your palette is your imagination. The possibilities are endless.</p>
-        <img src="http://lapa.ninja/assets/images/tilt-brush.jpg" />
 
 
       </description>
