@@ -6,8 +6,23 @@
     <description>Recent content in Corporate on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2016 13:55:54 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 May 2016 12:15:23 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/corporate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spaces</title>
+      <link>http://lapa.ninja/post/spaces/</link>
+      <pubDate>Tue, 17 May 2016 12:15:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/spaces/</guid>
+      <description>
+        
+        <p>Get the right people in each Space with a quick link via messaging, email, or whatever.</p>
+        <img src="http://lapa.ninja/assets/images/spaces-google.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Quip</title>
@@ -214,21 +229,6 @@
         
         <p>A new way to start an internet business anywhere.</p>
         <img src="http://lapa.ninja/assets/images/stripe-atlas.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lift</title>
-      <link>http://lapa.ninja/post/liftux/</link>
-      <pubDate>Mon, 29 Feb 2016 11:02:55 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/liftux/</guid>
-      <description>
-        
-        <p>Lift is a full-service user experience design agency. Oh, and we do cool stuff with WordPress.</p>
-        <img src="http://lapa.ninja/assets/images/lift-ux.jpg" />
 
 
       </description>

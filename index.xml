@@ -6,8 +6,23 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 May 2016 10:31:15 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 May 2016 12:15:23 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spaces</title>
+      <link>http://lapa.ninja/post/spaces/</link>
+      <pubDate>Tue, 17 May 2016 12:15:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/spaces/</guid>
+      <description>
+        
+        <p>Get the right people in each Space with a quick link via messaging, email, or whatever.</p>
+        <img src="http://lapa.ninja/assets/images/spaces-google.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Blocs</title>
@@ -214,21 +229,6 @@
         
         <p>IDEO is a global design company. We create positive impact through design.</p>
         <img src="http://lapa.ninja/assets/images/ideo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Thankbot</title>
-      <link>http://lapa.ninja/post/thankbot/</link>
-      <pubDate>Fri, 15 Apr 2016 10:18:39 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/thankbot/</guid>
-      <description>
-        
-        <p>Drive more business with handwritten notes.</p>
-        <img src="http://lapa.ninja/assets/images/thankbot.jpg" />
 
 
       </description>
