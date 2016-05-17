@@ -6,8 +6,38 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2016 13:55:54 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 May 2016 10:31:15 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blocs</title>
+      <link>http://lapa.ninja/post/blocsapp-2/</link>
+      <pubDate>Tue, 17 May 2016 10:31:15 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/blocsapp-2/</guid>
+      <description>
+        
+        <p>Blocs for Mac is a fast, easy to use and powerful visual web design tool that lets you create beautiful and modern websites without the need to write code. </p>
+        <img src="http://lapa.ninja/assets/images/blocs-17-05-2016.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Smooch</title>
+      <link>http://lapa.ninja/post/smooch/</link>
+      <pubDate>Tue, 17 May 2016 09:39:02 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/smooch/</guid>
+      <description>
+        
+        <p>Start messaging your customers today. Everything you need to chat with customer wherever they are and grow your business</p>
+        <img src="http://lapa.ninja/assets/images/smooch.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Quip</title>
@@ -199,36 +229,6 @@
         
         <p>Webydo is a professional online website design software for designers. With Webydo, designers can create multiple responsive websites with custom tailored design from scratch without writing one line of code.</p>
         <img src="http://lapa.ninja/assets/images/webydo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Flex.ly</title>
-      <link>http://lapa.ninja/post/flex/</link>
-      <pubDate>Thu, 03 Mar 2016 14:34:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/flex/</guid>
-      <description>
-        
-        <p>Discover an effortless way to design beautiful websites that can be managed independently.</p>
-        <img src="http://lapa.ninja/assets/images/flex.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>ClassDojo</title>
-      <link>http://lapa.ninja/post/class-dojo/</link>
-      <pubDate>Mon, 29 Feb 2016 11:03:37 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/class-dojo/</guid>
-      <description>
-        
-        <p>Simple, positive classroom management, and parent engagement. Loved by over 35 million teachers, parents, and students.</p>
-        <img src="http://lapa.ninja/assets/images/classdojo.jpg" />
 
 
       </description>

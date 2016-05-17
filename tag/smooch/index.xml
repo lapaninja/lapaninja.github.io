@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smooch on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/smooch/</link>
+    <description>Recent content in Smooch on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 May 2016 09:39:02 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/smooch/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Smooch</title>
+      <link>http://lapa.ninja/post/smooch/</link>
+      <pubDate>Tue, 17 May 2016 09:39:02 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/smooch/</guid>
+      <description>
+        
+        <p>Start messaging your customers today. Everything you need to chat with customer wherever they are and grow your business</p>
+        <img src="http://lapa.ninja/assets/images/smooch.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

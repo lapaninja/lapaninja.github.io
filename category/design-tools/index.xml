@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 May 2016 08:36:05 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 May 2016 10:31:15 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blocs</title>
+      <link>http://lapa.ninja/post/blocsapp-2/</link>
+      <pubDate>Tue, 17 May 2016 10:31:15 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/blocsapp-2/</guid>
+      <description>
+        
+        <p>Blocs for Mac is a fast, easy to use and powerful visual web design tool that lets you create beautiful and modern websites without the need to write code. </p>
+        <img src="http://lapa.ninja/assets/images/blocs-17-05-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>SlashPixels</title>
@@ -214,21 +229,6 @@
         
         <p>Iconjar gives you the ability to store all your icons in one place, just one click away</p>
         <img src="http://lapa.ninja/assets/images/iconjar.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Framer</title>
-      <link>http://lapa.ninja/post/framerjs/</link>
-      <pubDate>Tue, 01 Dec 2015 11:03:44 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/framerjs/</guid>
-      <description>
-        
-        <p>Design interactive high-fidelity prototypes for iOS, Android, desktop or the web. Invent new animations and interactions. Integrates with Sketch and Photoshop.</p>
-        <img src="http://lapa.ninja/assets/images/framerjs.jpg" />
 
 
       </description>
