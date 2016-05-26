@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 May 2016 12:15:23 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 May 2016 09:23:24 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kickpush</title>
+      <link>http://lapa.ninja/post/kickpush/</link>
+      <pubDate>Thu, 26 May 2016 09:23:24 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/kickpush/</guid>
+      <description>
+        
+        <p>We work with innovators and entrepreneurs to turn ideas into viable products. We love what you do.</p>
+        <img src="http://lapa.ninja/assets/images/kickpush.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>MEAT</title>
+      <link>http://lapa.ninja/post/makemeat/</link>
+      <pubDate>Thu, 26 May 2016 09:22:49 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/makemeat/</guid>
+      <description>
+        
+        <p>Product design for applications and web. From ideas to front end</p>
+        <img src="http://lapa.ninja/assets/images/MEAT.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Latte Design</title>
+      <link>http://lapa.ninja/post/latte/</link>
+      <pubDate>Thu, 26 May 2016 09:22:02 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/latte/</guid>
+      <description>
+        
+        <p>We are a branding agency, graphic design and digital composed of a multidisciplinary team, passionate about creating and based challenges.</p>
+        <img src="http://lapa.ninja/assets/images/latte.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Spaces</title>
@@ -184,51 +229,6 @@
         
         <p>Don’t go there. Live there. Even if it’s just for a night. Travel with Airbnb and experience a place like you live there.</p>
         <img src="http://lapa.ninja/assets/images/airbnb-live-there.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Simple</title>
-      <link>http://lapa.ninja/post/simple/</link>
-      <pubDate>Wed, 20 Apr 2016 11:02:25 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/simple/</guid>
-      <description>
-        
-        <p>Simple is reinventing online banking with modern web and mobile experiences, no surprise fees, and great customer service. Simplify your finances.</p>
-        <img src="http://lapa.ninja/assets/images/simple.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Framer</title>
-      <link>http://lapa.ninja/post/framerjs-2/</link>
-      <pubDate>Wed, 20 Apr 2016 11:02:10 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/framerjs-2/</guid>
-      <description>
-        
-        <p>Design interactive high-fidelity prototypes for iOS, Android, desktop or the web. Invent new animations and interactions. Integrates with Sketch and Photoshop.</p>
-        <img src="http://lapa.ninja/assets/images/framer-20-04-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>IDEO</title>
-      <link>http://lapa.ninja/post/ideo/</link>
-      <pubDate>Fri, 15 Apr 2016 10:31:58 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ideo/</guid>
-      <description>
-        
-        <p>IDEO is a global design company. We create positive impact through design.</p>
-        <img src="http://lapa.ninja/assets/images/ideo.jpg" />
 
 
       </description>
