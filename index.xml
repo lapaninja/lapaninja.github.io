@@ -6,8 +6,53 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 May 2016 09:23:24 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2016 12:41:54 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cushion</title>
+      <link>http://lapa.ninja/post/cushion-app/</link>
+      <pubDate>Mon, 30 May 2016 12:41:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/cushion-app/</guid>
+      <description>
+        
+        <p>Simple project scheduling, budgeting, and invoice tracking</p>
+        <img src="http://lapa.ninja/assets/images/cushion-app.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Harvest</title>
+      <link>http://lapa.ninja/post/harvest/</link>
+      <pubDate>Mon, 30 May 2016 12:41:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/harvest/</guid>
+      <description>
+        
+        <p>Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing.</p>
+        <img src="http://lapa.ninja/assets/images/harvest.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Penny</title>
+      <link>http://lapa.ninja/post/pennyapp/</link>
+      <pubDate>Mon, 30 May 2016 12:41:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pennyapp/</guid>
+      <description>
+        
+        <p>Meet Penny, your personal finance coach. Spend smarter, save more, live happier.</p>
+        <img src="http://lapa.ninja/assets/images/penny-app.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Kickpush</title>
@@ -184,51 +229,6 @@
         
         <p>Go Hero is a personal travel concierge app via chat available on iOS, Android</p>
         <img src="http://lapa.ninja/assets/images/gohero-ai.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Divvy</title>
-      <link>http://lapa.ninja/post/divvyapp/</link>
-      <pubDate>Thu, 28 Apr 2016 10:38:26 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/divvyapp/</guid>
-      <description>
-        
-        <p>Divvy is designed for busy homes. Lists and receipts are  instantly shared with the people you live with so everyone’s  always on the same page.</p>
-        <img src="http://lapa.ninja/assets/images/divvy.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Cassette</title>
-      <link>http://lapa.ninja/post/cassette/</link>
-      <pubDate>Thu, 28 Apr 2016 10:37:51 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/cassette/</guid>
-      <description>
-        
-        <p>The best way for designers to record, transcribe, and bookmark key moments in user interviews – and share it all with your team.</p>
-        <img src="http://lapa.ninja/assets/images/cassette.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Airbnb - Live There</title>
-      <link>http://lapa.ninja/post/airbnb-live-there/</link>
-      <pubDate>Wed, 20 Apr 2016 11:02:41 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/airbnb-live-there/</guid>
-      <description>
-        
-        <p>Don’t go there. Live there. Even if it’s just for a night. Travel with Airbnb and experience a place like you live there.</p>
-        <img src="http://lapa.ninja/assets/images/airbnb-live-there.jpg" />
 
 
       </description>

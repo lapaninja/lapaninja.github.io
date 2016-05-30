@@ -6,8 +6,53 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 May 2016 12:15:23 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2016 12:41:54 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cushion</title>
+      <link>http://lapa.ninja/post/cushion-app/</link>
+      <pubDate>Mon, 30 May 2016 12:41:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/cushion-app/</guid>
+      <description>
+        
+        <p>Simple project scheduling, budgeting, and invoice tracking</p>
+        <img src="http://lapa.ninja/assets/images/cushion-app.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Harvest</title>
+      <link>http://lapa.ninja/post/harvest/</link>
+      <pubDate>Mon, 30 May 2016 12:41:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/harvest/</guid>
+      <description>
+        
+        <p>Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing.</p>
+        <img src="http://lapa.ninja/assets/images/harvest.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Penny</title>
+      <link>http://lapa.ninja/post/pennyapp/</link>
+      <pubDate>Mon, 30 May 2016 12:41:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pennyapp/</guid>
+      <description>
+        
+        <p>Meet Penny, your personal finance coach. Spend smarter, save more, live happier.</p>
+        <img src="http://lapa.ninja/assets/images/penny-app.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Spaces</title>
@@ -184,51 +229,6 @@
         
         <p>Thington&#39;s concierge helps you get the most from your smart devices</p>
         <img src="http://lapa.ninja/assets/images/thington.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Oculus</title>
-      <link>http://lapa.ninja/post/oculus/</link>
-      <pubDate>Mon, 04 Apr 2016 15:50:11 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/oculus/</guid>
-      <description>
-        
-        <p>Oculus is making it possible to experience anything, anywhere, through the power of virtual reality. Visit to learn more about Gear VR and Oculus Rift.</p>
-        <img src="http://lapa.ninja/assets/images/oculus.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lingo</title>
-      <link>http://lapa.ninja/post/lingo/</link>
-      <pubDate>Fri, 25 Mar 2016 11:05:10 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/lingo/</guid>
-      <description>
-        
-        <p>Lingo is the best way to organize, share and use all your visual assets in one place - all on your desktop.</p>
-        <img src="http://lapa.ninja/assets/images/lingo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Day One</title>
-      <link>http://lapa.ninja/post/dayone-me/</link>
-      <pubDate>Tue, 22 Mar 2016 10:41:26 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dayone-me/</guid>
-      <description>
-        
-        <p>Day One is a simple and elegant journaling app for Mac, iOS, and Apple Watch.</p>
-        <img src="http://lapa.ninja/assets/images/day-one-me.jpg" />
 
 
       </description>

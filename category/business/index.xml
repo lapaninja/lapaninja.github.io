@@ -6,8 +6,38 @@
     <description>Recent content in Business on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2016 13:56:12 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2016 12:41:54 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cushion</title>
+      <link>http://lapa.ninja/post/cushion-app/</link>
+      <pubDate>Mon, 30 May 2016 12:41:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/cushion-app/</guid>
+      <description>
+        
+        <p>Simple project scheduling, budgeting, and invoice tracking</p>
+        <img src="http://lapa.ninja/assets/images/cushion-app.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Harvest</title>
+      <link>http://lapa.ninja/post/harvest/</link>
+      <pubDate>Mon, 30 May 2016 12:41:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/harvest/</guid>
+      <description>
+        
+        <p>Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing.</p>
+        <img src="http://lapa.ninja/assets/images/harvest.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>US Mobile</title>
@@ -199,36 +229,6 @@
         
         <p>Everything to gain. Introducing Robin, the first Android phone that makes running out of space history. With the cloud integrated into Android OS, your onboard storage is merged with the cloud, so you always have the space you need.</p>
         <img src="http://lapa.ninja/assets/images/nextbit.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>TwoCards</title>
-      <link>http://lapa.ninja/post/twocards/</link>
-      <pubDate>Mon, 21 Mar 2016 10:42:05 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/twocards/</guid>
-      <description>
-        
-        <p>Your invoicing made easy. TwoCards is a simple way to send invoices and get paid on time.</p>
-        <img src="http://lapa.ninja/assets/images/two-cards.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>re:create</title>
-      <link>http://lapa.ninja/post/re-create/</link>
-      <pubDate>Wed, 16 Mar 2016 11:56:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/re-create/</guid>
-      <description>
-        
-        <p>Be inspired by our super talented mentors - It’s time to kick it up a gear</p>
-        <img src="http://lapa.ninja/assets/images/re-create.jpg" />
 
 
       </description>

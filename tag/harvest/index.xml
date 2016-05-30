@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harvest on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/harvest/</link>
+    <description>Recent content in Harvest on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 May 2016 12:41:38 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/harvest/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Harvest</title>
+      <link>http://lapa.ninja/post/harvest/</link>
+      <pubDate>Mon, 30 May 2016 12:41:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/harvest/</guid>
+      <description>
+        
+        <p>Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing.</p>
+        <img src="http://lapa.ninja/assets/images/harvest.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

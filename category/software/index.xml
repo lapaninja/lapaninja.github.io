@@ -6,8 +6,38 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 May 2016 10:31:15 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2016 12:41:54 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cushion</title>
+      <link>http://lapa.ninja/post/cushion-app/</link>
+      <pubDate>Mon, 30 May 2016 12:41:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/cushion-app/</guid>
+      <description>
+        
+        <p>Simple project scheduling, budgeting, and invoice tracking</p>
+        <img src="http://lapa.ninja/assets/images/cushion-app.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Harvest</title>
+      <link>http://lapa.ninja/post/harvest/</link>
+      <pubDate>Mon, 30 May 2016 12:41:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/harvest/</guid>
+      <description>
+        
+        <p>Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing.</p>
+        <img src="http://lapa.ninja/assets/images/harvest.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Blocs</title>
@@ -199,36 +229,6 @@
         
         <p>Quiver offers unlimited storage and allows you to share files and collaborate with complete control over who sees them, how and when</p>
         <img src="http://lapa.ninja/assets/images/quiver.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Mapbox</title>
-      <link>http://lapa.ninja/post/mapbox/</link>
-      <pubDate>Thu, 03 Mar 2016 14:35:31 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/mapbox/</guid>
-      <description>
-        
-        <p>An open source mapping platform for custom designed maps. Our APIs and SDKs are the building blocks to integrate location into any mobile or web app.</p>
-        <img src="http://lapa.ninja/assets/images/mapbox.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Webydo</title>
-      <link>http://lapa.ninja/post/webydo/</link>
-      <pubDate>Thu, 03 Mar 2016 14:35:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/webydo/</guid>
-      <description>
-        
-        <p>Webydo is a professional online website design software for designers. With Webydo, designers can create multiple responsive websites with custom tailored design from scratch without writing one line of code.</p>
-        <img src="http://lapa.ninja/assets/images/webydo.jpg" />
 
 
       </description>
