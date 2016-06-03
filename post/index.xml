@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 May 2016 12:41:54 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jun 2016 10:34:28 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DESIGN DISRUPTORS</title>
+      <link>http://lapa.ninja/post/design-disruptors/</link>
+      <pubDate>Fri, 03 Jun 2016 10:34:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/design-disruptors/</guid>
+      <description>
+        
+        <p>DESIGN DISRUPTORS is a new documentary about the rising importance of design as a competitive advantage in disruptive technologies. Learn about the design process and product designers at the world&#39;s most disruptive products, like Google, Twitter, Airbnb, Spotify, and more.</p>
+        <img src="http://lapa.ninja/assets/images/design-disruptors.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Workstack 2.0</title>
+      <link>http://lapa.ninja/post/workstack/</link>
+      <pubDate>Fri, 03 Jun 2016 10:34:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/workstack/</guid>
+      <description>
+        
+        <p>Workstack is the powerful and simple way to plan anything. Project plans, team calendars, task lists and time tracking all in one easy to use tool.</p>
+        <img src="http://lapa.ninja/assets/images/workstack.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>VSCO</title>
+      <link>http://lapa.ninja/post/vsco/</link>
+      <pubDate>Fri, 03 Jun 2016 10:34:02 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/vsco/</guid>
+      <description>
+        
+        <p>VSCO® is an art and technology company empowering people everywhere to create, discover, and connect.</p>
+        <img src="http://lapa.ninja/assets/images/VSCO.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Cushion</title>
@@ -184,51 +229,6 @@
         
         <p>Quip is where you create, document, discuss, and organize the stuff that your team works on.</p>
         <img src="http://lapa.ninja/assets/images/quip.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Innovatemap</title>
-      <link>http://lapa.ninja/post/innovatemap/</link>
-      <pubDate>Thu, 05 May 2016 13:55:40 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/innovatemap/</guid>
-      <description>
-        
-        <p>Innovatemap is a product agency. We help companies of all sizes dream, design, and scale digital products and services.</p>
-        <img src="http://lapa.ninja/assets/images/innovatemap.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Chart.js</title>
-      <link>http://lapa.ninja/post/chartjs/</link>
-      <pubDate>Thu, 28 Apr 2016 14:19:02 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/chartjs/</guid>
-      <description>
-        
-        <p>Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy way to include animated, interactive graphs on your website for free.</p>
-        <img src="http://lapa.ninja/assets/images/chartjs.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>GoHero.ai</title>
-      <link>http://lapa.ninja/post/gohero-ai/</link>
-      <pubDate>Thu, 28 Apr 2016 10:38:52 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/gohero-ai/</guid>
-      <description>
-        
-        <p>Go Hero is a personal travel concierge app via chat available on iOS, Android</p>
-        <img src="http://lapa.ninja/assets/images/gohero-ai.jpg" />
 
 
       </description>

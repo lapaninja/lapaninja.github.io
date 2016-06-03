@@ -6,8 +6,38 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 May 2016 12:41:54 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jun 2016 10:34:14 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Workstack 2.0</title>
+      <link>http://lapa.ninja/post/workstack/</link>
+      <pubDate>Fri, 03 Jun 2016 10:34:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/workstack/</guid>
+      <description>
+        
+        <p>Workstack is the powerful and simple way to plan anything. Project plans, team calendars, task lists and time tracking all in one easy to use tool.</p>
+        <img src="http://lapa.ninja/assets/images/workstack.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>VSCO</title>
+      <link>http://lapa.ninja/post/vsco/</link>
+      <pubDate>Fri, 03 Jun 2016 10:34:02 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/vsco/</guid>
+      <description>
+        
+        <p>VSCO® is an art and technology company empowering people everywhere to create, discover, and connect.</p>
+        <img src="http://lapa.ninja/assets/images/VSCO.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Cushion</title>
@@ -199,36 +229,6 @@
         
         <p>Share unlimited files, screenshots, screencasts, and more with your team and clients. Collaborate in real-time, preview 200&#43; file formats online - all for free!</p>
         <img src="http://lapa.ninja/assets/images/jumpshare.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Asana</title>
-      <link>http://lapa.ninja/post/asana-2/</link>
-      <pubDate>Sat, 09 Apr 2016 10:19:54 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/asana-2/</guid>
-      <description>
-        
-        <p>Asana is the easiest way for teams to track their work—and get results.</p>
-        <img src="http://lapa.ninja/assets/images/asana-09-04-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Thington</title>
-      <link>http://lapa.ninja/post/thington/</link>
-      <pubDate>Thu, 07 Apr 2016 15:35:59 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/thington/</guid>
-      <description>
-        
-        <p>Thington&#39;s concierge helps you get the most from your smart devices</p>
-        <img src="http://lapa.ninja/assets/images/thington.jpg" />
 
 
       </description>

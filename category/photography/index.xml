@@ -6,8 +6,23 @@
     <description>Recent content in Photography on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Apr 2016 10:18:39 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jun 2016 10:34:02 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VSCO</title>
+      <link>http://lapa.ninja/post/vsco/</link>
+      <pubDate>Fri, 03 Jun 2016 10:34:02 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/vsco/</guid>
+      <description>
+        
+        <p>VSCO® is an art and technology company empowering people everywhere to create, discover, and connect.</p>
+        <img src="http://lapa.ninja/assets/images/VSCO.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Thankbot</title>
@@ -214,21 +229,6 @@
         
         <p>Beautiful high-resolution mockups to present your designs and prototypes. Loved by designers worldwide and compatible with Photoshop &amp; Sketch.</p>
         <img src="http://lapa.ninja/assets/images/Mockuuups.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Jackie Tran Anh</title>
-      <link>http://lapa.ninja/post/jackie-tran-anh/</link>
-      <pubDate>Thu, 15 Oct 2015 21:23:35 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/jackie-tran-anh/</guid>
-      <description>
-        
-        <p>Jackie Tran is a Czech - Viet Visual Designer &amp; Photographer based in Prague.</p>
-        <img src="http://lapa.ninja/assets/images/jackie.jpg" />
 
 
       </description>
