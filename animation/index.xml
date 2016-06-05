@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animations on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/animation/</link>
+    <description>Recent content in Animations on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jun 2016 18:59:56 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ginventory</title>
+      <link>http://lapa.ninja/animation/ginventory/</link>
+      <pubDate>Sun, 05 Jun 2016 18:59:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/animation/ginventory/</guid>
+      <description>
+        
+        <p>Find the Perfect Serve for every gin in the world. Just search for a gin, tonic or botanical and find the best Gin &amp; Tonic combinations according to distillers and connoisseurs.</p>
+        <img src="http://lapa.ninja[ginventory-1.gif%20ginventory-2.gif]" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,8 +6,23 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jun 2016 10:34:28 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jun 2016 18:59:56 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ginventory</title>
+      <link>http://lapa.ninja/animation/ginventory/</link>
+      <pubDate>Sun, 05 Jun 2016 18:59:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/animation/ginventory/</guid>
+      <description>
+        
+        <p>Find the Perfect Serve for every gin in the world. Just search for a gin, tonic or botanical and find the best Gin &amp; Tonic combinations according to distillers and connoisseurs.</p>
+        <img src="http://lapa.ninja[ginventory-1.gif%20ginventory-2.gif]" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>DESIGN DISRUPTORS</title>
@@ -214,21 +229,6 @@
         
         <p>US Mobile is all about freedom. Create your personalized cell phone plan, and only pay for what you use.</p>
         <img src="http://lapa.ninja/assets/images/us-mobile.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Quip</title>
-      <link>http://lapa.ninja/post/quip/</link>
-      <pubDate>Thu, 05 May 2016 13:55:54 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/quip/</guid>
-      <description>
-        
-        <p>Quip is where you create, document, discuss, and organize the stuff that your team works on.</p>
-        <img src="http://lapa.ninja/assets/images/quip.jpg" />
 
 
       </description>
