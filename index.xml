@@ -6,8 +6,38 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jun 2016 22:09:45 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jun 2016 11:01:29 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Statsbot</title>
+      <link>http://lapa.ninja/post/statsbot/</link>
+      <pubDate>Thu, 09 Jun 2016 11:01:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/statsbot/</guid>
+      <description>
+        
+        <p>Analytical companion for your Slack team. You can query data from Google Analytics or Mixpanel right into your Slack. Try it for free.</p>
+        <img src="http://lapa.ninja/assets/images/statsbot.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Plasso</title>
+      <link>http://lapa.ninja/post/plasso/</link>
+      <pubDate>Thu, 09 Jun 2016 10:01:44 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/plasso/</guid>
+      <description>
+        
+        <p>Plasso makes accepting and making payments quick &amp; easy. Pay for things. Get paid for things. Buy things. Sell things.</p>
+        <img src="http://lapa.ninja/assets/images/plasso.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Pixudio</title>
@@ -199,36 +229,6 @@
         
         <p>Get the right people in each Space with a quick link via messaging, email, or whatever.</p>
         <img src="http://lapa.ninja/assets/images/spaces-google.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Blocs</title>
-      <link>http://lapa.ninja/post/blocsapp-2/</link>
-      <pubDate>Tue, 17 May 2016 10:31:15 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/blocsapp-2/</guid>
-      <description>
-        
-        <p>Blocs for Mac is a fast, easy to use and powerful visual web design tool that lets you create beautiful and modern websites without the need to write code. </p>
-        <img src="http://lapa.ninja/assets/images/blocs-17-05-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Smooch</title>
-      <link>http://lapa.ninja/post/smooch/</link>
-      <pubDate>Tue, 17 May 2016 09:39:02 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/smooch/</guid>
-      <description>
-        
-        <p>Start messaging your customers today. Everything you need to chat with customer wherever they are and grow your business</p>
-        <img src="http://lapa.ninja/assets/images/smooch.jpg" />
 
 
       </description>
