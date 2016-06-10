@@ -6,8 +6,38 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jun 2016 11:01:29 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jun 2016 10:49:12 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ugmonk</title>
+      <link>http://lapa.ninja/post/ugmonk/</link>
+      <pubDate>Fri, 10 Jun 2016 10:49:12 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ugmonk/</guid>
+      <description>
+        
+        <p>It started with a simple idea &amp; our mission remains the same: Create high-quality, well-designed goods that I would want to buy myself.</p>
+        <img src="http://lapa.ninja/assets/images/ugmonk.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>UXPin</title>
+      <link>http://lapa.ninja/post/uxpin/</link>
+      <pubDate>Fri, 10 Jun 2016 10:49:01 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/uxpin/</guid>
+      <description>
+        
+        <p>We&#39;ve completely rethought how designers create and collaborate with non-designers.</p>
+        <img src="http://lapa.ninja/assets/images/uxpin.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Statsbot</title>
@@ -199,36 +229,6 @@
         
         <p>Product design for applications and web. From ideas to front end</p>
         <img src="http://lapa.ninja/assets/images/MEAT.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Latte Design</title>
-      <link>http://lapa.ninja/post/latte/</link>
-      <pubDate>Thu, 26 May 2016 09:22:02 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/latte/</guid>
-      <description>
-        
-        <p>We are a branding agency, graphic design and digital composed of a multidisciplinary team, passionate about creating and based challenges.</p>
-        <img src="http://lapa.ninja/assets/images/latte.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Spaces</title>
-      <link>http://lapa.ninja/post/spaces/</link>
-      <pubDate>Tue, 17 May 2016 12:15:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/spaces/</guid>
-      <description>
-        
-        <p>Get the right people in each Space with a quick link via messaging, email, or whatever.</p>
-        <img src="http://lapa.ninja/assets/images/spaces-google.jpg" />
 
 
       </description>
