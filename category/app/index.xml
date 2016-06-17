@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jun 2016 11:01:29 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jun 2016 09:36:59 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ionut Zamfir</title>
+      <link>http://lapa.ninja/post/ionut-zamfir/</link>
+      <pubDate>Fri, 17 Jun 2016 09:36:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ionut-zamfir/</guid>
+      <description>
+        
+        <p>I&#39;m your go-to guy for awesome interfaces.</p>
+        <img src="http://lapa.ninja/assets/images/ionut-zamfir.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Statsbot</title>
@@ -214,21 +229,6 @@
         
         <p>Simple is reinventing online banking with modern web and mobile experiences, no surprise fees, and great customer service. Simplify your finances.</p>
         <img src="http://lapa.ninja/assets/images/simple.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Framer</title>
-      <link>http://lapa.ninja/post/framerjs-2/</link>
-      <pubDate>Wed, 20 Apr 2016 11:02:10 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/framerjs-2/</guid>
-      <description>
-        
-        <p>Design interactive high-fidelity prototypes for iOS, Android, desktop or the web. Invent new animations and interactions. Integrates with Sketch and Photoshop.</p>
-        <img src="http://lapa.ninja/assets/images/framer-20-04-2016.jpg" />
 
 
       </description>

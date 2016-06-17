@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jun 2016 10:49:12 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jun 2016 09:37:36 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sketch Master</title>
+      <link>http://lapa.ninja/post/sketch-master/</link>
+      <pubDate>Fri, 17 Jun 2016 09:37:36 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sketch-master/</guid>
+      <description>
+        
+        <p>Sketch Master is a collection of video training courses for professionals learning Sketch. The courses are fast-paced and focused on real projects and practical workflows</p>
+        <img src="http://lapa.ninja/assets/images/sketch-master.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Peter Nowell Design</title>
+      <link>http://lapa.ninja/post/peter-nowell-design/</link>
+      <pubDate>Fri, 17 Jun 2016 09:37:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/peter-nowell-design/</guid>
+      <description>
+        
+        <p>Peter Nowell is a designer based in San Francisco. He works with companies big and small to inspire and delight customers. Clients include Apple, Flinto, Sprightly Books, and Juice Shop.</p>
+        <img src="http://lapa.ninja/assets/images/peter-nowell-design.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Ionut Zamfir</title>
+      <link>http://lapa.ninja/post/ionut-zamfir/</link>
+      <pubDate>Fri, 17 Jun 2016 09:36:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ionut-zamfir/</guid>
+      <description>
+        
+        <p>I&#39;m your go-to guy for awesome interfaces.</p>
+        <img src="http://lapa.ninja/assets/images/ionut-zamfir.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Ugmonk</title>
@@ -184,51 +229,6 @@
         
         <p>Product design for applications and web. From ideas to front end</p>
         <img src="http://lapa.ninja/assets/images/MEAT.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Latte Design</title>
-      <link>http://lapa.ninja/post/latte/</link>
-      <pubDate>Thu, 26 May 2016 09:22:02 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/latte/</guid>
-      <description>
-        
-        <p>We are a branding agency, graphic design and digital composed of a multidisciplinary team, passionate about creating and based challenges.</p>
-        <img src="http://lapa.ninja/assets/images/latte.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Spaces</title>
-      <link>http://lapa.ninja/post/spaces/</link>
-      <pubDate>Tue, 17 May 2016 12:15:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/spaces/</guid>
-      <description>
-        
-        <p>Get the right people in each Space with a quick link via messaging, email, or whatever.</p>
-        <img src="http://lapa.ninja/assets/images/spaces-google.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Blocs</title>
-      <link>http://lapa.ninja/post/blocsapp-2/</link>
-      <pubDate>Tue, 17 May 2016 10:31:15 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/blocsapp-2/</guid>
-      <description>
-        
-        <p>Blocs for Mac is a fast, easy to use and powerful visual web design tool that lets you create beautiful and modern websites without the need to write code. </p>
-        <img src="http://lapa.ninja/assets/images/blocs-17-05-2016.jpg" />
 
 
       </description>
