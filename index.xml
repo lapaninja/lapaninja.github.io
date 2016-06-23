@@ -6,8 +6,38 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jun 2016 09:37:36 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jun 2016 16:56:39 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Intercom on Jobs-to-be-Done</title>
+      <link>http://lapa.ninja/post/intercom-jobs-to-be-done/</link>
+      <pubDate>Thu, 23 Jun 2016 16:56:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/intercom-jobs-to-be-done/</guid>
+      <description>
+        
+        <p>Intercom on Jobs-to-be-Done helps you understand the real job customers are using your product for.</p>
+        <img src="http://lapa.ninja/assets/images/intercom-jobs-to-be-done.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Dropbox Productivity</title>
+      <link>http://lapa.ninja/post/dropbox-productivity/</link>
+      <pubDate>Thu, 23 Jun 2016 16:56:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dropbox-productivity/</guid>
+      <description>
+        
+        <p>Dropbox has new productivity features to simplify the way you create, collaborate, and keep work safe. Learn how to get more done and get started.</p>
+        <img src="http://lapa.ninja/assets/images/dropbox-productivity.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Sketch Master</title>
@@ -199,36 +229,6 @@
         
         <p>VSCO® is an art and technology company empowering people everywhere to create, discover, and connect.</p>
         <img src="http://lapa.ninja/assets/images/VSCO.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Cushion</title>
-      <link>http://lapa.ninja/post/cushion-app/</link>
-      <pubDate>Mon, 30 May 2016 12:41:54 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/cushion-app/</guid>
-      <description>
-        
-        <p>Simple project scheduling, budgeting, and invoice tracking</p>
-        <img src="http://lapa.ninja/assets/images/cushion-app.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Harvest</title>
-      <link>http://lapa.ninja/post/harvest/</link>
-      <pubDate>Mon, 30 May 2016 12:41:38 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/harvest/</guid>
-      <description>
-        
-        <p>Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing.</p>
-        <img src="http://lapa.ninja/assets/images/harvest.jpg" />
 
 
       </description>

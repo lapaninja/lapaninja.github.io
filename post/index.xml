@@ -6,8 +6,38 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jun 2016 09:37:36 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jun 2016 16:56:39 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Intercom on Jobs-to-be-Done</title>
+      <link>http://lapa.ninja/post/intercom-jobs-to-be-done/</link>
+      <pubDate>Thu, 23 Jun 2016 16:56:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/intercom-jobs-to-be-done/</guid>
+      <description>
+        
+        <p>Intercom on Jobs-to-be-Done helps you understand the real job customers are using your product for.</p>
+        <img src="http://lapa.ninja/assets/images/intercom-jobs-to-be-done.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Dropbox Productivity</title>
+      <link>http://lapa.ninja/post/dropbox-productivity/</link>
+      <pubDate>Thu, 23 Jun 2016 16:56:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dropbox-productivity/</guid>
+      <description>
+        
+        <p>Dropbox has new productivity features to simplify the way you create, collaborate, and keep work safe. Learn how to get more done and get started.</p>
+        <img src="http://lapa.ninja/assets/images/dropbox-productivity.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Sketch Master</title>
@@ -199,36 +229,6 @@
         
         <p>Meet Penny, your personal finance coach. Spend smarter, save more, live happier.</p>
         <img src="http://lapa.ninja/assets/images/penny-app.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Kickpush</title>
-      <link>http://lapa.ninja/post/kickpush/</link>
-      <pubDate>Thu, 26 May 2016 09:23:24 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/kickpush/</guid>
-      <description>
-        
-        <p>We work with innovators and entrepreneurs to turn ideas into viable products. We love what you do.</p>
-        <img src="http://lapa.ninja/assets/images/kickpush.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MEAT</title>
-      <link>http://lapa.ninja/post/makemeat/</link>
-      <pubDate>Thu, 26 May 2016 09:22:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/makemeat/</guid>
-      <description>
-        
-        <p>Product design for applications and web. From ideas to front end</p>
-        <img src="http://lapa.ninja/assets/images/MEAT.jpg" />
 
 
       </description>

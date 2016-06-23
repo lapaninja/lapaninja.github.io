@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jun 2016 09:36:59 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jun 2016 16:56:18 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dropbox Productivity</title>
+      <link>http://lapa.ninja/post/dropbox-productivity/</link>
+      <pubDate>Thu, 23 Jun 2016 16:56:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dropbox-productivity/</guid>
+      <description>
+        
+        <p>Dropbox has new productivity features to simplify the way you create, collaborate, and keep work safe. Learn how to get more done and get started.</p>
+        <img src="http://lapa.ninja/assets/images/dropbox-productivity.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Ionut Zamfir</title>
@@ -214,21 +229,6 @@
         
         <p>Don’t go there. Live there. Even if it’s just for a night. Travel with Airbnb and experience a place like you live there.</p>
         <img src="http://lapa.ninja/assets/images/airbnb-live-there.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Simple</title>
-      <link>http://lapa.ninja/post/simple/</link>
-      <pubDate>Wed, 20 Apr 2016 11:02:25 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/simple/</guid>
-      <description>
-        
-        <p>Simple is reinventing online banking with modern web and mobile experiences, no surprise fees, and great customer service. Simplify your finances.</p>
-        <img src="http://lapa.ninja/assets/images/simple.jpg" />
 
 
       </description>

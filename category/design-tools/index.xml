@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jun 2016 09:37:36 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jun 2016 16:56:18 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dropbox Productivity</title>
+      <link>http://lapa.ninja/post/dropbox-productivity/</link>
+      <pubDate>Thu, 23 Jun 2016 16:56:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dropbox-productivity/</guid>
+      <description>
+        
+        <p>Dropbox has new productivity features to simplify the way you create, collaborate, and keep work safe. Learn how to get more done and get started.</p>
+        <img src="http://lapa.ninja/assets/images/dropbox-productivity.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Sketch Master</title>
@@ -214,21 +229,6 @@
         
         <p>Craft is a plugin suite for Sketch and Photoshop that lets you design with real data in mind. Best of all, they integrate directly into both Photoshop and Sketch via a panel interface.</p>
         <img src="http://lapa.ninja/assets/images/craft.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Marvel</title>
-      <link>http://lapa.ninja/post/marvelapp-2/</link>
-      <pubDate>Fri, 29 Jan 2016 11:18:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/marvelapp-2/</guid>
-      <description>
-        
-        <p>Turn sketches, mockups and designs into web, iPhone, iOS, Android and Apple Watch app prototypes.</p>
-        <img src="http://lapa.ninja/assets/images/marvelapp-2016.jpg" />
 
 
       </description>
