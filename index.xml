@@ -6,8 +6,23 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2016 16:56:39 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jun 2016 15:45:46 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Marvel for iOS</title>
+      <link>http://lapa.ninja/post/marvelapp-ios/</link>
+      <pubDate>Fri, 24 Jun 2016 15:45:46 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/marvelapp-ios/</guid>
+      <description>
+        
+        <p>Sketch and build your app idea with our powerful iPhone and Android apps. Build iPhone prototypes</p>
+        <img src="http://lapa.ninja/assets/images/marvel-for-ios.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Intercom on Jobs-to-be-Done</title>
@@ -214,21 +229,6 @@
         
         <p>Workstack is the powerful and simple way to plan anything. Project plans, team calendars, task lists and time tracking all in one easy to use tool.</p>
         <img src="http://lapa.ninja/assets/images/workstack.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>VSCO</title>
-      <link>http://lapa.ninja/post/vsco/</link>
-      <pubDate>Fri, 03 Jun 2016 10:34:02 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/vsco/</guid>
-      <description>
-        
-        <p>VSCO® is an art and technology company empowering people everywhere to create, discover, and connect.</p>
-        <img src="http://lapa.ninja/assets/images/VSCO.jpg" />
 
 
       </description>

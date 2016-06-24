@@ -6,8 +6,23 @@
     <description>Recent content in Prototype on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jun 2016 10:49:01 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jun 2016 15:45:46 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/prototype/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Marvel for iOS</title>
+      <link>http://lapa.ninja/post/marvelapp-ios/</link>
+      <pubDate>Fri, 24 Jun 2016 15:45:46 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/marvelapp-ios/</guid>
+      <description>
+        
+        <p>Sketch and build your app idea with our powerful iPhone and Android apps. Build iPhone prototypes</p>
+        <img src="http://lapa.ninja/assets/images/marvel-for-ios.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>UXPin</title>
@@ -214,21 +229,6 @@
         
         <p>Change the way you design with the most powerful prototyping platform on the planet.</p>
         <img src="http://lapa.ninja/assets/images/pixate.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Marvel Prototyping</title>
-      <link>http://lapa.ninja/post/marvelapp/</link>
-      <pubDate>Thu, 15 Oct 2015 17:06:13 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/marvelapp/</guid>
-      <description>
-        
-        <p>Turn sketches, mockups and designs into web, iPhone, iOS, Android and Apple Watch app prototypes.</p>
-        <img src="http://lapa.ninja/assets/images/marvelapp.jpg" />
 
 
       </description>
