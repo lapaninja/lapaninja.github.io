@@ -6,8 +6,23 @@
     <description>Recent content in Portfolio on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jun 2016 09:37:18 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jun 2016 16:30:31 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Jonathan Z. White</title>
+      <link>http://lapa.ninja/post/jonathan-z-white/</link>
+      <pubDate>Wed, 29 Jun 2016 16:30:31 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/jonathan-z-white/</guid>
+      <description>
+        
+        <p>Designer and full-stack developer raised in Hawaii, currently living in Atlanta</p>
+        <img src="http://lapa.ninja/assets/images/jonathan-z-white.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Peter Nowell Design</title>

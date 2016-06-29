@@ -6,8 +6,38 @@
     <description>Recent content in Business on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2016 16:56:39 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jun 2016 16:30:49 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rodesk</title>
+      <link>http://lapa.ninja/post/rodesk/</link>
+      <pubDate>Wed, 29 Jun 2016 16:30:49 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/rodesk/</guid>
+      <description>
+        
+        <p>Rodesk UX design agency Rotterdam | Experts in creative strategy, user experience design, front-end development and WordPress development</p>
+        <img src="http://lapa.ninja/assets/images/rodesk.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pixel Union</title>
+      <link>http://lapa.ninja/post/pixel-union-2/</link>
+      <pubDate>Wed, 29 Jun 2016 16:30:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pixel-union-2/</guid>
+      <description>
+        
+        <p>Shopify and BigCommerce themes, plus custom ecommerce solutions by leading theme creators Pixel Union. Check out the themes that power over 10,000 stores.</p>
+        <img src="http://lapa.ninja/assets/images/pixel-union-06-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Intercom on Jobs-to-be-Done</title>
@@ -199,36 +229,6 @@
         
         <p>ViewFlux allows you to create clickable prototypes from your designs, easily get feedback &amp; collaborate with your clients or team mates.</p>
         <img src="http://lapa.ninja/assets/images/view-flux.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>UNCOVER</title>
-      <link>http://lapa.ninja/post/uncovermac/</link>
-      <pubDate>Sat, 09 Apr 2016 10:20:11 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/uncovermac/</guid>
-      <description>
-        
-        <p>We lasercut MacBooks and let their innate light shine through.</p>
-        <img src="http://lapa.ninja/assets/images/uncovermac.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Asana</title>
-      <link>http://lapa.ninja/post/asana-2/</link>
-      <pubDate>Sat, 09 Apr 2016 10:19:54 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/asana-2/</guid>
-      <description>
-        
-        <p>Asana is the easiest way for teams to track their work—and get results.</p>
-        <img src="http://lapa.ninja/assets/images/asana-09-04-2016.jpg" />
 
 
       </description>

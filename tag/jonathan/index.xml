@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/jonathan/</link>
+    <description>Recent content in Jonathan on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jun 2016 16:30:31 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/jonathan/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Jonathan Z. White</title>
+      <link>http://lapa.ninja/post/jonathan-z-white/</link>
+      <pubDate>Wed, 29 Jun 2016 16:30:31 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/jonathan-z-white/</guid>
+      <description>
+        
+        <p>Designer and full-stack developer raised in Hawaii, currently living in Atlanta</p>
+        <img src="http://lapa.ninja/assets/images/jonathan-z-white.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
