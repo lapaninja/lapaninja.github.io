@@ -6,8 +6,23 @@
     <description>Recent content in Android on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Mar 2016 11:04:49 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jul 2016 17:04:33 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/tag/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Android</title>
+      <link>http://lapa.ninja/post/android/</link>
+      <pubDate>Thu, 07 Jul 2016 17:04:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/android/</guid>
+      <description>
+        
+        <p>The world’s most popular mobile OS. From phones and watches to cars and TVs, customize your digital life with Android.</p>
+        <img src="http://lapa.ninja/assets/images/android.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Nextbit</title>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>School on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/school/</link>
+    <description>Recent content in School on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jul 2016 17:04:07 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/school/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The New Digital School</title>
+      <link>http://lapa.ninja/post/the-new-digital-school/</link>
+      <pubDate>Thu, 07 Jul 2016 17:04:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/the-new-digital-school/</guid>
+      <description>
+        
+        <p>The New Digital School is a new approach to higher education.  One where the student is free to choose what to learn, with direct industry contact and real-life projects. Based in sunny Porto, Portugal.</p>
+        <img src="http://lapa.ninja/assets/images/the-new-digital-school.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

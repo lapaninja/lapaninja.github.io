@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2016 16:56:18 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jul 2016 17:04:33 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Android</title>
+      <link>http://lapa.ninja/post/android/</link>
+      <pubDate>Thu, 07 Jul 2016 17:04:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/android/</guid>
+      <description>
+        
+        <p>The world’s most popular mobile OS. From phones and watches to cars and TVs, customize your digital life with Android.</p>
+        <img src="http://lapa.ninja/assets/images/android.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Dropbox Productivity</title>
@@ -214,21 +229,6 @@
         
         <p>The best way for designers to record, transcribe, and bookmark key moments in user interviews – and share it all with your team.</p>
         <img src="http://lapa.ninja/assets/images/cassette.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Airbnb - Live There</title>
-      <link>http://lapa.ninja/post/airbnb-live-there/</link>
-      <pubDate>Wed, 20 Apr 2016 11:02:41 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/airbnb-live-there/</guid>
-      <description>
-        
-        <p>Don’t go there. Live there. Even if it’s just for a night. Travel with Airbnb and experience a place like you live there.</p>
-        <img src="http://lapa.ninja/assets/images/airbnb-live-there.jpg" />
 
 
       </description>

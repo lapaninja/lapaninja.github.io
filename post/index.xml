@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2016 16:30:49 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jul 2016 17:04:33 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Android</title>
+      <link>http://lapa.ninja/post/android/</link>
+      <pubDate>Thu, 07 Jul 2016 17:04:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/android/</guid>
+      <description>
+        
+        <p>The world’s most popular mobile OS. From phones and watches to cars and TVs, customize your digital life with Android.</p>
+        <img src="http://lapa.ninja/assets/images/android.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Scale</title>
+      <link>http://lapa.ninja/post/scale-api/</link>
+      <pubDate>Thu, 07 Jul 2016 17:04:22 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/scale-api/</guid>
+      <description>
+        
+        <p>API for Human Labor. Get human tasks done with just one line of code.</p>
+        <img src="http://lapa.ninja/assets/images/scale-api.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>The New Digital School</title>
+      <link>http://lapa.ninja/post/the-new-digital-school/</link>
+      <pubDate>Thu, 07 Jul 2016 17:04:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/the-new-digital-school/</guid>
+      <description>
+        
+        <p>The New Digital School is a new approach to higher education.  One where the student is free to choose what to learn, with direct industry contact and real-life projects. Based in sunny Porto, Portugal.</p>
+        <img src="http://lapa.ninja/assets/images/the-new-digital-school.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Rodesk</title>
@@ -184,51 +229,6 @@
         
         <p>Analytical companion for your Slack team. You can query data from Google Analytics or Mixpanel right into your Slack. Try it for free.</p>
         <img src="http://lapa.ninja/assets/images/statsbot.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Plasso</title>
-      <link>http://lapa.ninja/post/plasso/</link>
-      <pubDate>Thu, 09 Jun 2016 10:01:44 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/plasso/</guid>
-      <description>
-        
-        <p>Plasso makes accepting and making payments quick &amp; easy. Pay for things. Get paid for things. Buy things. Sell things.</p>
-        <img src="http://lapa.ninja/assets/images/plasso.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>DESIGN DISRUPTORS</title>
-      <link>http://lapa.ninja/post/design-disruptors/</link>
-      <pubDate>Fri, 03 Jun 2016 10:34:28 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/design-disruptors/</guid>
-      <description>
-        
-        <p>DESIGN DISRUPTORS is a new documentary about the rising importance of design as a competitive advantage in disruptive technologies. Learn about the design process and product designers at the world&#39;s most disruptive products, like Google, Twitter, Airbnb, Spotify, and more.</p>
-        <img src="http://lapa.ninja/assets/images/design-disruptors.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Workstack 2.0</title>
-      <link>http://lapa.ninja/post/workstack/</link>
-      <pubDate>Fri, 03 Jun 2016 10:34:14 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/workstack/</guid>
-      <description>
-        
-        <p>Workstack is the powerful and simple way to plan anything. Project plans, team calendars, task lists and time tracking all in one easy to use tool.</p>
-        <img src="http://lapa.ninja/assets/images/workstack.jpg" />
 
 
       </description>

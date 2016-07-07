@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scaleapi on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/scaleapi/</link>
+    <description>Recent content in Scaleapi on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jul 2016 17:04:22 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/scaleapi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Scale</title>
+      <link>http://lapa.ninja/post/scale-api/</link>
+      <pubDate>Thu, 07 Jul 2016 17:04:22 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/scale-api/</guid>
+      <description>
+        
+        <p>API for Human Labor. Get human tasks done with just one line of code.</p>
+        <img src="http://lapa.ninja/assets/images/scale-api.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
