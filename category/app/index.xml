@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jul 2016 17:04:33 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jul 2016 17:23:30 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pillow</title>
+      <link>http://lapa.ninja/post/pillow-app/</link>
+      <pubDate>Mon, 18 Jul 2016 17:23:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pillow-app/</guid>
+      <description>
+        
+        <p>Pillow for iOS is the most advanced sleep app that helps you sleep easier, wake up happier, understand how you sleep and learn what you can do to improve it.</p>
+        <img src="http://lapa.ninja/assets/images/pillow-app.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Android</title>
@@ -214,21 +229,6 @@
         
         <p>Divvy is designed for busy homes. Lists and receipts are  instantly shared with the people you live with so everyone’s  always on the same page.</p>
         <img src="http://lapa.ninja/assets/images/divvy.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Cassette</title>
-      <link>http://lapa.ninja/post/cassette/</link>
-      <pubDate>Thu, 28 Apr 2016 10:37:51 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/cassette/</guid>
-      <description>
-        
-        <p>The best way for designers to record, transcribe, and bookmark key moments in user interviews – and share it all with your team.</p>
-        <img src="http://lapa.ninja/assets/images/cassette.jpg" />
 
 
       </description>

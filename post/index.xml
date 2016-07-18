@@ -6,8 +6,23 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Jul 2016 12:02:57 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jul 2016 17:23:30 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pillow</title>
+      <link>http://lapa.ninja/post/pillow-app/</link>
+      <pubDate>Mon, 18 Jul 2016 17:23:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pillow-app/</guid>
+      <description>
+        
+        <p>Pillow for iOS is the most advanced sleep app that helps you sleep easier, wake up happier, understand how you sleep and learn what you can do to improve it.</p>
+        <img src="http://lapa.ninja/assets/images/pillow-app.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Jonathan Dion</title>
@@ -214,21 +229,6 @@
         
         <p>It started with a simple idea &amp; our mission remains the same: Create high-quality, well-designed goods that I would want to buy myself.</p>
         <img src="http://lapa.ninja/assets/images/ugmonk.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>UXPin</title>
-      <link>http://lapa.ninja/post/uxpin/</link>
-      <pubDate>Fri, 10 Jun 2016 10:49:01 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/uxpin/</guid>
-      <description>
-        
-        <p>We&#39;ve completely rethought how designers create and collaborate with non-designers.</p>
-        <img src="http://lapa.ninja/assets/images/uxpin.jpg" />
 
 
       </description>
