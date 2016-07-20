@@ -6,8 +6,23 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2016 17:23:30 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jul 2016 11:34:36 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tinycards</title>
+      <link>http://lapa.ninja/post/tinycards-duolingo/</link>
+      <pubDate>Wed, 20 Jul 2016 11:34:36 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tinycards-duolingo/</guid>
+      <description>
+        
+        <p>The future of flashcards, by Duolingo. Millions of people use flashcards every day to memorize things. We turned the experience into a game where you have fun unlocking new levels and keeping your memory strength bar full!</p>
+        <img src="http://lapa.ninja/assets/images/tinycards.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Pillow</title>
@@ -214,21 +229,6 @@
         
         <p>I&#39;m your go-to guy for awesome interfaces.</p>
         <img src="http://lapa.ninja/assets/images/ionut-zamfir.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ugmonk</title>
-      <link>http://lapa.ninja/post/ugmonk/</link>
-      <pubDate>Fri, 10 Jun 2016 10:49:12 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ugmonk/</guid>
-      <description>
-        
-        <p>It started with a simple idea &amp; our mission remains the same: Create high-quality, well-designed goods that I would want to buy myself.</p>
-        <img src="http://lapa.ninja/assets/images/ugmonk.jpg" />
 
 
       </description>

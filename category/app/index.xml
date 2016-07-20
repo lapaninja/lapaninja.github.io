@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2016 17:23:30 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jul 2016 11:34:36 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tinycards</title>
+      <link>http://lapa.ninja/post/tinycards-duolingo/</link>
+      <pubDate>Wed, 20 Jul 2016 11:34:36 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tinycards-duolingo/</guid>
+      <description>
+        
+        <p>The future of flashcards, by Duolingo. Millions of people use flashcards every day to memorize things. We turned the experience into a game where you have fun unlocking new levels and keeping your memory strength bar full!</p>
+        <img src="http://lapa.ninja/assets/images/tinycards.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Pillow</title>
@@ -214,21 +229,6 @@
         
         <p>Go Hero is a personal travel concierge app via chat available on iOS, Android</p>
         <img src="http://lapa.ninja/assets/images/gohero-ai.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Divvy</title>
-      <link>http://lapa.ninja/post/divvyapp/</link>
-      <pubDate>Thu, 28 Apr 2016 10:38:26 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/divvyapp/</guid>
-      <description>
-        
-        <p>Divvy is designed for busy homes. Lists and receipts are  instantly shared with the people you live with so everyone’s  always on the same page.</p>
-        <img src="http://lapa.ninja/assets/images/divvy.jpg" />
 
 
       </description>
