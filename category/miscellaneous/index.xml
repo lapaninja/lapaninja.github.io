@@ -6,8 +6,23 @@
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jul 2016 17:04:33 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jul 2016 15:49:07 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Work at Square - Careers</title>
+      <link>http://lapa.ninja/post/work-at-square/</link>
+      <pubDate>Tue, 26 Jul 2016 15:49:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/work-at-square/</guid>
+      <description>
+        
+        <p>Square creates products and services that push boundaries and innovate business.</p>
+        <img src="http://lapa.ninja/assets/images/work-at-square.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Android</title>
@@ -214,21 +229,6 @@
         
         <p>Drive more business with handwritten notes.</p>
         <img src="http://lapa.ninja/assets/images/thankbot.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Jumpshare</title>
-      <link>http://lapa.ninja/post/jumpshare/</link>
-      <pubDate>Fri, 15 Apr 2016 10:18:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/jumpshare/</guid>
-      <description>
-        
-        <p>Share unlimited files, screenshots, screencasts, and more with your team and clients. Collaborate in real-time, preview 200&#43; file formats online - all for free!</p>
-        <img src="http://lapa.ninja/assets/images/jumpshare.jpg" />
 
 
       </description>

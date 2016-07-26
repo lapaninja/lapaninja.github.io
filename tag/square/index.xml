@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Square on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/square/</link>
+    <description>Recent content in Square on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Jul 2016 15:49:07 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/square/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Work at Square - Careers</title>
+      <link>http://lapa.ninja/post/work-at-square/</link>
+      <pubDate>Tue, 26 Jul 2016 15:49:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/work-at-square/</guid>
+      <description>
+        
+        <p>Square creates products and services that push boundaries and innovate business.</p>
+        <img src="http://lapa.ninja/assets/images/work-at-square.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
