@@ -6,8 +6,38 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jul 2016 15:49:11 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jul 2016 00:16:07 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Drift</title>
+      <link>http://lapa.ninja/post/drift/</link>
+      <pubDate>Sun, 31 Jul 2016 00:16:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/drift/</guid>
+      <description>
+        
+        <p>Talk to your website visitors, convert more leads, and keep your customers happy.</p>
+        <img src="http://lapa.ninja/assets/images/Drift.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Author</title>
+      <link>http://lapa.ninja/post/author-app/</link>
+      <pubDate>Sun, 31 Jul 2016 00:14:43 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/author-app/</guid>
+      <description>
+        
+        <p>Mac app that changes how you can create and publish documents to the web.</p>
+        <img src="http://lapa.ninja/assets/images/author-app.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Zoho Notebook</title>
@@ -199,36 +229,6 @@
         
         <p>Get the right people in each Space with a quick link via messaging, email, or whatever.</p>
         <img src="http://lapa.ninja/assets/images/spaces-google.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Smooch</title>
-      <link>http://lapa.ninja/post/smooch/</link>
-      <pubDate>Tue, 17 May 2016 09:39:02 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/smooch/</guid>
-      <description>
-        
-        <p>Start messaging your customers today. Everything you need to chat with customer wherever they are and grow your business</p>
-        <img src="http://lapa.ninja/assets/images/smooch.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>SlashPixels</title>
-      <link>http://lapa.ninja/post/slashpixels/</link>
-      <pubDate>Wed, 11 May 2016 08:36:05 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/slashpixels/</guid>
-      <description>
-        
-        <p>Smart Artificial Intelligence Image Search Engine and aggregator for Dribbble, Behance, Pinterest, Cargo, Awwwards, Pttrns and other top Design sources.</p>
-        <img src="http://lapa.ninja/assets/images/slashpixels.jpg" />
 
 
       </description>

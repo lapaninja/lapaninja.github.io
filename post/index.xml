@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jul 2016 15:49:11 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jul 2016 00:19:30 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sift Science</title>
+      <link>http://lapa.ninja/post/sift-science/</link>
+      <pubDate>Sun, 31 Jul 2016 00:19:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sift-science/</guid>
+      <description>
+        
+        <p>Achieve world-class results with real-time automated fraud prevention.</p>
+        <img src="http://lapa.ninja/assets/images/Sift-Science.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Drift</title>
+      <link>http://lapa.ninja/post/drift/</link>
+      <pubDate>Sun, 31 Jul 2016 00:16:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/drift/</guid>
+      <description>
+        
+        <p>Talk to your website visitors, convert more leads, and keep your customers happy.</p>
+        <img src="http://lapa.ninja/assets/images/Drift.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Author</title>
+      <link>http://lapa.ninja/post/author-app/</link>
+      <pubDate>Sun, 31 Jul 2016 00:14:43 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/author-app/</guid>
+      <description>
+        
+        <p>Mac app that changes how you can create and publish documents to the web.</p>
+        <img src="http://lapa.ninja/assets/images/author-app.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Zoho Notebook</title>
@@ -184,51 +229,6 @@
         
         <p>Sketch and build your app idea with our powerful iPhone and Android apps. Build iPhone prototypes</p>
         <img src="http://lapa.ninja/assets/images/marvel-for-ios.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Intercom on Jobs-to-be-Done</title>
-      <link>http://lapa.ninja/post/intercom-jobs-to-be-done/</link>
-      <pubDate>Thu, 23 Jun 2016 16:56:39 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/intercom-jobs-to-be-done/</guid>
-      <description>
-        
-        <p>Intercom on Jobs-to-be-Done helps you understand the real job customers are using your product for.</p>
-        <img src="http://lapa.ninja/assets/images/intercom-jobs-to-be-done.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dropbox Productivity</title>
-      <link>http://lapa.ninja/post/dropbox-productivity/</link>
-      <pubDate>Thu, 23 Jun 2016 16:56:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dropbox-productivity/</guid>
-      <description>
-        
-        <p>Dropbox has new productivity features to simplify the way you create, collaborate, and keep work safe. Learn how to get more done and get started.</p>
-        <img src="http://lapa.ninja/assets/images/dropbox-productivity.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sketch Master</title>
-      <link>http://lapa.ninja/post/sketch-master/</link>
-      <pubDate>Fri, 17 Jun 2016 09:37:36 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/sketch-master/</guid>
-      <description>
-        
-        <p>Sketch Master is a collection of video training courses for professionals learning Sketch. The courses are fast-paced and focused on real projects and practical workflows</p>
-        <img src="http://lapa.ninja/assets/images/sketch-master.jpg" />
 
 
       </description>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sift on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/sift/</link>
+    <description>Recent content in Sift on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jul 2016 00:19:30 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/sift/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sift Science</title>
+      <link>http://lapa.ninja/post/sift-science/</link>
+      <pubDate>Sun, 31 Jul 2016 00:19:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sift-science/</guid>
+      <description>
+        
+        <p>Achieve world-class results with real-time automated fraud prevention.</p>
+        <img src="http://lapa.ninja/assets/images/Sift-Science.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
