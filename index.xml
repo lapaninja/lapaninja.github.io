@@ -6,8 +6,53 @@
     <description>Recent content on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jul 2016 00:19:30 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Aug 2016 10:22:10 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dropbox Paper</title>
+      <link>http://lapa.ninja/post/dropbox-paper/</link>
+      <pubDate>Sat, 06 Aug 2016 10:22:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dropbox-paper/</guid>
+      <description>
+        
+        <p>Paper is a clean, smart surface that lets you and your team work together the way you want.</p>
+        <img src="http://lapa.ninja/assets/images/dropbox-paper.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Unroll</title>
+      <link>http://lapa.ninja/post/unroll-me/</link>
+      <pubDate>Sat, 06 Aug 2016 10:21:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/unroll-me/</guid>
+      <description>
+        
+        <p>Unsubscribe with one click. After you sign up, see a list of all your subscription emails. Unsubscribe instantly from whatever you don’t want.</p>
+        <img src="http://lapa.ninja/assets/images/unroll-me.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Ripple</title>
+      <link>http://lapa.ninja/post/ripple/</link>
+      <pubDate>Sat, 06 Aug 2016 10:21:47 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ripple/</guid>
+      <description>
+        
+        <p>Ripple’s distributed financial technology allows for banks around the world to directly transact with each other without the need for a central counterparty or correspondent.</p>
+        <img src="http://lapa.ninja/assets/images/ripple.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Sift Science</title>
@@ -184,51 +229,6 @@
         
         <p>Rodesk UX design agency Rotterdam | Experts in creative strategy, user experience design, front-end development and WordPress development</p>
         <img src="http://lapa.ninja/assets/images/rodesk.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Jonathan Z. White</title>
-      <link>http://lapa.ninja/post/jonathan-z-white/</link>
-      <pubDate>Wed, 29 Jun 2016 16:30:31 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/jonathan-z-white/</guid>
-      <description>
-        
-        <p>Designer and full-stack developer raised in Hawaii, currently living in Atlanta</p>
-        <img src="http://lapa.ninja/assets/images/jonathan-z-white.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Pixel Union</title>
-      <link>http://lapa.ninja/post/pixel-union-2/</link>
-      <pubDate>Wed, 29 Jun 2016 16:30:14 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/pixel-union-2/</guid>
-      <description>
-        
-        <p>Shopify and BigCommerce themes, plus custom ecommerce solutions by leading theme creators Pixel Union. Check out the themes that power over 10,000 stores.</p>
-        <img src="http://lapa.ninja/assets/images/pixel-union-06-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Marvel for iOS</title>
-      <link>http://lapa.ninja/post/marvelapp-ios/</link>
-      <pubDate>Fri, 24 Jun 2016 15:45:46 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/marvelapp-ios/</guid>
-      <description>
-        
-        <p>Sketch and build your app idea with our powerful iPhone and Android apps. Build iPhone prototypes</p>
-        <img src="http://lapa.ninja/assets/images/marvel-for-ios.jpg" />
 
 
       </description>

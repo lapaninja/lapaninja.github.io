@@ -6,8 +6,23 @@
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jul 2016 00:19:30 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Aug 2016 10:21:47 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ripple</title>
+      <link>http://lapa.ninja/post/ripple/</link>
+      <pubDate>Sat, 06 Aug 2016 10:21:47 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ripple/</guid>
+      <description>
+        
+        <p>Ripple’s distributed financial technology allows for banks around the world to directly transact with each other without the need for a central counterparty or correspondent.</p>
+        <img src="http://lapa.ninja/assets/images/ripple.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Sift Science</title>
@@ -214,21 +229,6 @@
         
         <p>Go Hero is a personal travel concierge app via chat available on iOS, Android</p>
         <img src="http://lapa.ninja/assets/images/gohero-ai.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Airbnb - Live There</title>
-      <link>http://lapa.ninja/post/airbnb-live-there/</link>
-      <pubDate>Wed, 20 Apr 2016 11:02:41 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/airbnb-live-there/</guid>
-      <description>
-        
-        <p>Don’t go there. Live there. Even if it’s just for a night. Travel with Airbnb and experience a place like you live there.</p>
-        <img src="http://lapa.ninja/assets/images/airbnb-live-there.jpg" />
 
 
       </description>

@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jun 2016 15:45:46 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Aug 2016 10:22:10 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dropbox Paper</title>
+      <link>http://lapa.ninja/post/dropbox-paper/</link>
+      <pubDate>Sat, 06 Aug 2016 10:22:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dropbox-paper/</guid>
+      <description>
+        
+        <p>Paper is a clean, smart surface that lets you and your team work together the way you want.</p>
+        <img src="http://lapa.ninja/assets/images/dropbox-paper.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Marvel for iOS</title>
@@ -214,21 +229,6 @@
         
         <p>Discover an effortless way to design beautiful websites that can be managed independently.</p>
         <img src="http://lapa.ninja/assets/images/flex.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Webflow</title>
-      <link>http://lapa.ninja/post/webflow/</link>
-      <pubDate>Thu, 18 Feb 2016 10:32:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/webflow/</guid>
-      <description>
-        
-        <p>Build responsive websites in your browser. Launch with a click. Or export your code to host wherever. Discover the professional website builder made for designers.</p>
-        <img src="http://lapa.ninja/assets/images/webflow.jpg" />
 
 
       </description>

@@ -6,8 +6,38 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jul 2016 00:16:07 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Aug 2016 10:22:10 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dropbox Paper</title>
+      <link>http://lapa.ninja/post/dropbox-paper/</link>
+      <pubDate>Sat, 06 Aug 2016 10:22:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dropbox-paper/</guid>
+      <description>
+        
+        <p>Paper is a clean, smart surface that lets you and your team work together the way you want.</p>
+        <img src="http://lapa.ninja/assets/images/dropbox-paper.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Unroll</title>
+      <link>http://lapa.ninja/post/unroll-me/</link>
+      <pubDate>Sat, 06 Aug 2016 10:21:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/unroll-me/</guid>
+      <description>
+        
+        <p>Unsubscribe with one click. After you sign up, see a list of all your subscription emails. Unsubscribe instantly from whatever you don’t want.</p>
+        <img src="http://lapa.ninja/assets/images/unroll-me.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Drift</title>
@@ -199,36 +229,6 @@
         
         <p>Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing.</p>
         <img src="http://lapa.ninja/assets/images/harvest.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Penny</title>
-      <link>http://lapa.ninja/post/pennyapp/</link>
-      <pubDate>Mon, 30 May 2016 12:41:20 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/pennyapp/</guid>
-      <description>
-        
-        <p>Meet Penny, your personal finance coach. Spend smarter, save more, live happier.</p>
-        <img src="http://lapa.ninja/assets/images/penny-app.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Spaces</title>
-      <link>http://lapa.ninja/post/spaces/</link>
-      <pubDate>Tue, 17 May 2016 12:15:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/spaces/</guid>
-      <description>
-        
-        <p>Get the right people in each Space with a quick link via messaging, email, or whatever.</p>
-        <img src="http://lapa.ninja/assets/images/spaces-google.jpg" />
 
 
       </description>

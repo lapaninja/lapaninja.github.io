@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ripple on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/ripple/</link>
+    <description>Recent content in Ripple on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2016 10:21:47 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/ripple/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ripple</title>
+      <link>http://lapa.ninja/post/ripple/</link>
+      <pubDate>Sat, 06 Aug 2016 10:21:47 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ripple/</guid>
+      <description>
+        
+        <p>Ripple’s distributed financial technology allows for banks around the world to directly transact with each other without the need for a central counterparty or correspondent.</p>
+        <img src="http://lapa.ninja/assets/images/ripple.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

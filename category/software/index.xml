@@ -6,8 +6,23 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jul 2016 00:19:30 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Aug 2016 10:21:59 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Unroll</title>
+      <link>http://lapa.ninja/post/unroll-me/</link>
+      <pubDate>Sat, 06 Aug 2016 10:21:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/unroll-me/</guid>
+      <description>
+        
+        <p>Unsubscribe with one click. After you sign up, see a list of all your subscription emails. Unsubscribe instantly from whatever you don’t want.</p>
+        <img src="http://lapa.ninja/assets/images/unroll-me.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Sift Science</title>
@@ -214,21 +229,6 @@
         
         <p>Oculus is making it possible to experience anything, anywhere, through the power of virtual reality. Visit to learn more about Gear VR and Oculus Rift.</p>
         <img src="http://lapa.ninja/assets/images/oculus.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Gear VR Powered by Oculus</title>
-      <link>http://lapa.ninja/post/gear-vr-oculus/</link>
-      <pubDate>Sat, 19 Mar 2016 09:46:07 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/gear-vr-oculus/</guid>
-      <description>
-        
-        <p>The Gear VR is groundbreaking VR technology that combines a lightweight, wireless headset with the convenience of the full 2015 line of Samsung GALAXY smartphones.</p>
-        <img src="http://lapa.ninja/assets/images/gear-vr-oculus.jpg" />
 
 
       </description>
