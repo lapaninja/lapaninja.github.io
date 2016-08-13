@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Aug 2016 10:22:10 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 13 Aug 2016 16:10:58 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Simple</title>
+      <link>http://lapa.ninja/post/simple-2/</link>
+      <pubDate>Sat, 13 Aug 2016 16:10:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/simple-2/</guid>
+      <description>
+        
+        <p>Simple is reinventing online banking with modern web and mobile experiences, no surprise fees, and great customer service. Simplify your finances.</p>
+        <img src="http://lapa.ninja/assets/images/simple-13-08-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Dropbox Paper</title>
@@ -214,21 +229,6 @@
         
         <p>Simple project scheduling, budgeting, and invoice tracking</p>
         <img src="http://lapa.ninja/assets/images/cushion-app.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Harvest</title>
-      <link>http://lapa.ninja/post/harvest/</link>
-      <pubDate>Mon, 30 May 2016 12:41:38 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/harvest/</guid>
-      <description>
-        
-        <p>Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing.</p>
-        <img src="http://lapa.ninja/assets/images/harvest.jpg" />
 
 
       </description>

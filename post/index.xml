@@ -6,8 +6,38 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Aug 2016 10:22:10 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 13 Aug 2016 16:11:21 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wealthsimple</title>
+      <link>http://lapa.ninja/post/wealth-simple/</link>
+      <pubDate>Sat, 13 Aug 2016 16:11:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wealth-simple/</guid>
+      <description>
+        
+        <p>The smart and simple way to invest in Future You. We use a Nobel Prize-winning approach to build you a diversified portfolio of low-fee funds in minutes.</p>
+        <img src="http://lapa.ninja/assets/images/wealthsimple.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Simple</title>
+      <link>http://lapa.ninja/post/simple-2/</link>
+      <pubDate>Sat, 13 Aug 2016 16:10:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/simple-2/</guid>
+      <description>
+        
+        <p>Simple is reinventing online banking with modern web and mobile experiences, no surprise fees, and great customer service. Simplify your finances.</p>
+        <img src="http://lapa.ninja/assets/images/simple-13-08-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Dropbox Paper</title>
@@ -199,36 +229,6 @@
         
         <p>API for Human Labor. Get human tasks done with just one line of code.</p>
         <img src="http://lapa.ninja/assets/images/scale-api.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>The New Digital School</title>
-      <link>http://lapa.ninja/post/the-new-digital-school/</link>
-      <pubDate>Thu, 07 Jul 2016 17:04:07 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/the-new-digital-school/</guid>
-      <description>
-        
-        <p>The New Digital School is a new approach to higher education.  One where the student is free to choose what to learn, with direct industry contact and real-life projects. Based in sunny Porto, Portugal.</p>
-        <img src="http://lapa.ninja/assets/images/the-new-digital-school.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rodesk</title>
-      <link>http://lapa.ninja/post/rodesk/</link>
-      <pubDate>Wed, 29 Jun 2016 16:30:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/rodesk/</guid>
-      <description>
-        
-        <p>Rodesk UX design agency Rotterdam | Experts in creative strategy, user experience design, front-end development and WordPress development</p>
-        <img src="http://lapa.ninja/assets/images/rodesk.jpg" />
 
 
       </description>

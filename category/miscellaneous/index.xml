@@ -6,8 +6,23 @@
     <description>Recent content in Miscellaneous on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Aug 2016 10:21:47 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 13 Aug 2016 16:11:21 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wealthsimple</title>
+      <link>http://lapa.ninja/post/wealth-simple/</link>
+      <pubDate>Sat, 13 Aug 2016 16:11:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wealth-simple/</guid>
+      <description>
+        
+        <p>The smart and simple way to invest in Future You. We use a Nobel Prize-winning approach to build you a diversified portfolio of low-fee funds in minutes.</p>
+        <img src="http://lapa.ninja/assets/images/wealthsimple.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Ripple</title>
@@ -214,21 +229,6 @@
         
         <p>Quip is where you create, document, discuss, and organize the stuff that your team works on.</p>
         <img src="http://lapa.ninja/assets/images/quip.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>GoHero.ai</title>
-      <link>http://lapa.ninja/post/gohero-ai/</link>
-      <pubDate>Thu, 28 Apr 2016 10:38:52 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/gohero-ai/</guid>
-      <description>
-        
-        <p>Go Hero is a personal travel concierge app via chat available on iOS, Android</p>
-        <img src="http://lapa.ninja/assets/images/gohero-ai.jpg" />
 
 
       </description>
