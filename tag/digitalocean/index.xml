@@ -6,8 +6,23 @@
     <description>Recent content in Digitalocean on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2015 21:40:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Aug 2016 08:58:36 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/tag/digitalocean/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Digital Ocean</title>
+      <link>http://lapa.ninja/post/digital-ocean-2/</link>
+      <pubDate>Wed, 24 Aug 2016 08:58:36 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/digital-ocean-2/</guid>
+      <description>
+        
+        <p>DigitalOcean is a simple and robust cloud computing platform, designed for developers. The first and only all-SSD cloud.</p>
+        <img src="http://lapa.ninja/assets/images/digital-ocean-24-08-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>DigitalOcean</title>

@@ -6,8 +6,23 @@
     <description>Recent content in Software on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Aug 2016 10:21:59 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Aug 2016 08:58:44 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mimo</title>
+      <link>http://lapa.ninja/post/mimo/</link>
+      <pubDate>Wed, 24 Aug 2016 08:58:44 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mimo/</guid>
+      <description>
+        
+        <p>Mimo is a platform for gamified and interactive lesson bites on Computer Science that give commutes, waits and other moments of idle time a meaning.</p>
+        <img src="http://lapa.ninja/assets/images/mimo.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Unroll</title>
@@ -214,21 +229,6 @@
         
         <p>Asana is the easiest way for teams to track their work—and get results.</p>
         <img src="http://lapa.ninja/assets/images/asana-09-04-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Oculus</title>
-      <link>http://lapa.ninja/post/oculus/</link>
-      <pubDate>Mon, 04 Apr 2016 15:50:11 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/oculus/</guid>
-      <description>
-        
-        <p>Oculus is making it possible to experience anything, anywhere, through the power of virtual reality. Visit to learn more about Gear VR and Oculus Rift.</p>
-        <img src="http://lapa.ninja/assets/images/oculus.jpg" />
 
 
       </description>

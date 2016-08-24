@@ -6,8 +6,23 @@
     <description>Recent content in Technology on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2016 13:56:12 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Aug 2016 08:58:36 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Digital Ocean</title>
+      <link>http://lapa.ninja/post/digital-ocean-2/</link>
+      <pubDate>Wed, 24 Aug 2016 08:58:36 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/digital-ocean-2/</guid>
+      <description>
+        
+        <p>DigitalOcean is a simple and robust cloud computing platform, designed for developers. The first and only all-SSD cloud.</p>
+        <img src="http://lapa.ninja/assets/images/digital-ocean-24-08-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>US Mobile</title>
@@ -214,21 +229,6 @@
         
         <p>Chat with visitors to your website in real-time, capture them as leads, and convert them to customers.</p>
         <img src="http://lapa.ninja/assets/images/intercom-acquire.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Square</title>
-      <link>http://lapa.ninja/post/squareup/</link>
-      <pubDate>Sun, 25 Oct 2015 22:13:26 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/squareup/</guid>
-      <description>
-        
-        <p>Square Register is a simple, powerful and free POS system. Simplify business, inventory, analytics, digital receipts and more. Download the free app today.</p>
-        <img src="http://lapa.ninja/assets/images/squareup.jpg" />
 
 
       </description>
