@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Aug 2016 16:16:40 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Aug 2016 21:36:12 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Atomic</title>
+      <link>http://lapa.ninja/post/atomic-3/</link>
+      <pubDate>Thu, 25 Aug 2016 21:36:12 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/atomic-3/</guid>
+      <description>
+        
+        <p>Atomic helps you quickly create realistic prototypes of everything from simple interactions to entire products.</p>
+        <img src="http://lapa.ninja/assets/images/atomic-25-08-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Svgsus</title>
@@ -214,21 +229,6 @@
         
         <p>Quiver offers unlimited storage and allows you to share files and collaborate with complete control over who sees them, how and when</p>
         <img src="http://lapa.ninja/assets/images/quiver.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Webydo</title>
-      <link>http://lapa.ninja/post/webydo/</link>
-      <pubDate>Thu, 03 Mar 2016 14:35:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/webydo/</guid>
-      <description>
-        
-        <p>Webydo is a professional online website design software for designers. With Webydo, designers can create multiple responsive websites with custom tailored design from scratch without writing one line of code.</p>
-        <img src="http://lapa.ninja/assets/images/webydo.jpg" />
 
 
       </description>
