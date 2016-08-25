@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Svgsus on Landing Pages Collection | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/svgsus/</link>
+    <description>Recent content in Svgsus on Landing Pages Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Aug 2016 16:16:40 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/svgsus/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Svgsus</title>
+      <link>http://lapa.ninja/post/svgsus/</link>
+      <pubDate>Thu, 25 Aug 2016 16:16:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/svgsus/</guid>
+      <description>
+        
+        <p>Svgsus is the perfect tool to organize, clean and transform svgs into code. Let&#39;s make SVGs great again.</p>
+        <img src="http://lapa.ninja/assets/images/svgsus.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

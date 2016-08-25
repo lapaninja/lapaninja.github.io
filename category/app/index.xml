@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Aug 2016 14:33:52 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Aug 2016 16:16:40 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Svgsus</title>
+      <link>http://lapa.ninja/post/svgsus/</link>
+      <pubDate>Thu, 25 Aug 2016 16:16:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/svgsus/</guid>
+      <description>
+        
+        <p>Svgsus is the perfect tool to organize, clean and transform svgs into code. Let&#39;s make SVGs great again.</p>
+        <img src="http://lapa.ninja/assets/images/svgsus.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Android 7.0 Nougat</title>
@@ -18,7 +33,7 @@
       <description>
         
         <p>With more ways to make Android your own, Android Nougat is our sweetest release yet.</p>
-        <img src="http://lapa.ninja/assets/images/android%e2%80%93nougat.png" />
+        <img src="http://lapa.ninja/assets/images/android%e2%80%93nougat.jpg" />
 
 
       </description>
@@ -214,21 +229,6 @@
         
         <p>Analytical companion for your Slack team. You can query data from Google Analytics or Mixpanel right into your Slack. Try it for free.</p>
         <img src="http://lapa.ninja/assets/images/statsbot.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Workstack 2.0</title>
-      <link>http://lapa.ninja/post/workstack/</link>
-      <pubDate>Fri, 03 Jun 2016 10:34:14 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/workstack/</guid>
-      <description>
-        
-        <p>Workstack is the powerful and simple way to plan anything. Project plans, team calendars, task lists and time tracking all in one easy to use tool.</p>
-        <img src="http://lapa.ninja/assets/images/workstack.jpg" />
 
 
       </description>

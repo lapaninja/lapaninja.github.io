@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Aug 2016 10:22:10 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Aug 2016 16:16:40 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Svgsus</title>
+      <link>http://lapa.ninja/post/svgsus/</link>
+      <pubDate>Thu, 25 Aug 2016 16:16:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/svgsus/</guid>
+      <description>
+        
+        <p>Svgsus is the perfect tool to organize, clean and transform svgs into code. Let&#39;s make SVGs great again.</p>
+        <img src="http://lapa.ninja/assets/images/svgsus.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Dropbox Paper</title>
@@ -214,21 +229,6 @@
         
         <p>Webydo is a professional online website design software for designers. With Webydo, designers can create multiple responsive websites with custom tailored design from scratch without writing one line of code.</p>
         <img src="http://lapa.ninja/assets/images/webydo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Flex.ly</title>
-      <link>http://lapa.ninja/post/flex/</link>
-      <pubDate>Thu, 03 Mar 2016 14:34:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/flex/</guid>
-      <description>
-        
-        <p>Discover an effortless way to design beautiful websites that can be managed independently.</p>
-        <img src="http://lapa.ninja/assets/images/flex.jpg" />
 
 
       </description>
