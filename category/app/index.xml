@@ -6,8 +6,23 @@
     <description>Recent content in App on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Aug 2016 08:58:44 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Aug 2016 14:33:52 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Android 7.0 Nougat</title>
+      <link>http://lapa.ninja/post/android%E2%80%93nougat/</link>
+      <pubDate>Thu, 25 Aug 2016 14:33:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/android%E2%80%93nougat/</guid>
+      <description>
+        
+        <p>With more ways to make Android your own, Android Nougat is our sweetest release yet.</p>
+        <img src="http://lapa.ninja/assets/images/android%e2%80%93nougat.png" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Mimo</title>
@@ -214,21 +229,6 @@
         
         <p>Workstack is the powerful and simple way to plan anything. Project plans, team calendars, task lists and time tracking all in one easy to use tool.</p>
         <img src="http://lapa.ninja/assets/images/workstack.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>VSCO</title>
-      <link>http://lapa.ninja/post/vsco/</link>
-      <pubDate>Fri, 03 Jun 2016 10:34:02 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/vsco/</guid>
-      <description>
-        
-        <p>VSCO® is an art and technology company empowering people everywhere to create, discover, and connect.</p>
-        <img src="http://lapa.ninja/assets/images/VSCO.jpg" />
 
 
       </description>

@@ -6,8 +6,53 @@
     <description>Recent content in Posts on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Aug 2016 08:58:44 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Aug 2016 14:40:03 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Playing Arts</title>
+      <link>http://lapa.ninja/post/playing-arts/</link>
+      <pubDate>Thu, 25 Aug 2016 14:40:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/playing-arts/</guid>
+      <description>
+        
+        <p>Playing Arts is a collaborative art project that gathers the best designers and illustrators from all over the world with an idea to express their vision of an ordinary playing card using personal styles, techniques and imagination.</p>
+        <img src="http://lapa.ninja/assets/images/playing-arts.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Playing Arts store</title>
+      <link>http://lapa.ninja/post/playing-arts-store/</link>
+      <pubDate>Thu, 25 Aug 2016 14:34:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/playing-arts-store/</guid>
+      <description>
+        
+        <p>Playing Arts is a collaborative art project that gathers the best designers and illustrators from all over the world with an idea to express their vision of an ordinary playing card using personal styles, techniques and imagination.</p>
+        <img src="http://lapa.ninja/assets/images/playing-arts-store.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Android 7.0 Nougat</title>
+      <link>http://lapa.ninja/post/android%E2%80%93nougat/</link>
+      <pubDate>Thu, 25 Aug 2016 14:33:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/android%E2%80%93nougat/</guid>
+      <description>
+        
+        <p>With more ways to make Android your own, Android Nougat is our sweetest release yet.</p>
+        <img src="http://lapa.ninja/assets/images/android%e2%80%93nougat.png" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Mimo</title>
@@ -184,51 +229,6 @@
         
         <p>Square creates products and services that push boundaries and innovate business.</p>
         <img src="http://lapa.ninja/assets/images/work-at-square.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Tinycards</title>
-      <link>http://lapa.ninja/post/tinycards-duolingo/</link>
-      <pubDate>Wed, 20 Jul 2016 11:34:36 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/tinycards-duolingo/</guid>
-      <description>
-        
-        <p>The future of flashcards, by Duolingo. Millions of people use flashcards every day to memorize things. We turned the experience into a game where you have fun unlocking new levels and keeping your memory strength bar full!</p>
-        <img src="http://lapa.ninja/assets/images/tinycards.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Pillow</title>
-      <link>http://lapa.ninja/post/pillow-app/</link>
-      <pubDate>Mon, 18 Jul 2016 17:23:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/pillow-app/</guid>
-      <description>
-        
-        <p>Pillow for iOS is the most advanced sleep app that helps you sleep easier, wake up happier, understand how you sleep and learn what you can do to improve it.</p>
-        <img src="http://lapa.ninja/assets/images/pillow-app.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Jonathan Dion</title>
-      <link>http://lapa.ninja/post/jonathan-dion/</link>
-      <pubDate>Fri, 08 Jul 2016 12:02:57 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/jonathan-dion/</guid>
-      <description>
-        
-        <p>Jonathan Dion is a self-taught developer and designer from Montreal.</p>
-        <img src="http://lapa.ninja/assets/images/jonathan-dion.jpg" />
 
 
       </description>

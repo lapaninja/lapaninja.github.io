@@ -6,8 +6,38 @@
     <description>Recent content in Creative on Landing Pages Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Aug 2016 10:22:10 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 25 Aug 2016 14:40:03 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Playing Arts</title>
+      <link>http://lapa.ninja/post/playing-arts/</link>
+      <pubDate>Thu, 25 Aug 2016 14:40:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/playing-arts/</guid>
+      <description>
+        
+        <p>Playing Arts is a collaborative art project that gathers the best designers and illustrators from all over the world with an idea to express their vision of an ordinary playing card using personal styles, techniques and imagination.</p>
+        <img src="http://lapa.ninja/assets/images/playing-arts.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Playing Arts store</title>
+      <link>http://lapa.ninja/post/playing-arts-store/</link>
+      <pubDate>Thu, 25 Aug 2016 14:34:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/playing-arts-store/</guid>
+      <description>
+        
+        <p>Playing Arts is a collaborative art project that gathers the best designers and illustrators from all over the world with an idea to express their vision of an ordinary playing card using personal styles, techniques and imagination.</p>
+        <img src="http://lapa.ninja/assets/images/playing-arts-store.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Dropbox Paper</title>
@@ -199,36 +229,6 @@
         
         <p>We are a branding agency, graphic design and digital composed of a multidisciplinary team, passionate about creating and based challenges.</p>
         <img src="http://lapa.ninja/assets/images/latte.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>SlashPixels</title>
-      <link>http://lapa.ninja/post/slashpixels/</link>
-      <pubDate>Wed, 11 May 2016 08:36:05 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/slashpixels/</guid>
-      <description>
-        
-        <p>Smart Artificial Intelligence Image Search Engine and aggregator for Dribbble, Behance, Pinterest, Cargo, Awwwards, Pttrns and other top Design sources.</p>
-        <img src="http://lapa.ninja/assets/images/slashpixels.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Innovatemap</title>
-      <link>http://lapa.ninja/post/innovatemap/</link>
-      <pubDate>Thu, 05 May 2016 13:55:40 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/innovatemap/</guid>
-      <description>
-        
-        <p>Innovatemap is a product agency. We help companies of all sizes dream, design, and scale digital products and services.</p>
-        <img src="http://lapa.ninja/assets/images/innovatemap.jpg" />
 
 
       </description>
