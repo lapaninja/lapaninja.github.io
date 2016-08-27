@@ -6,8 +6,23 @@
     <description>Recent content in Creative on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Aug 2016 14:40:03 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 27 Aug 2016 11:35:54 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Department</title>
+      <link>http://lapa.ninja/post/department/</link>
+      <pubDate>Sat, 27 Aug 2016 11:35:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/department/</guid>
+      <description>
+        
+        <p>A creative digital studio located in Stockholm. Born in the land of making, with user experience and modern technology at heart.</p>
+        <img src="http://lapa.ninja/assets/images/department.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Playing Arts</title>
@@ -214,21 +229,6 @@
         
         <p>Product design for applications and web. From ideas to front end</p>
         <img src="http://lapa.ninja/assets/images/MEAT.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Latte Design</title>
-      <link>http://lapa.ninja/post/latte/</link>
-      <pubDate>Thu, 26 May 2016 09:22:02 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/latte/</guid>
-      <description>
-        
-        <p>We are a branding agency, graphic design and digital composed of a multidisciplinary team, passionate about creating and based challenges.</p>
-        <img src="http://lapa.ninja/assets/images/latte.jpg" />
 
 
       </description>

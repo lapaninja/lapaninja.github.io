@@ -6,8 +6,23 @@
     <description>Recent content in Business on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Aug 2016 08:58:36 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 27 Aug 2016 11:38:42 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ramotion Busines</title>
+      <link>http://lapa.ninja/post/ramotion-business/</link>
+      <pubDate>Sat, 27 Aug 2016 11:38:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ramotion-business/</guid>
+      <description>
+        
+        <p>Ramotion Business provides access to hundreds of vetted software developers from Eastern Europe under our end-to-end management.</p>
+        <img src="http://lapa.ninja/assets/images/ramotion-business.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Digital Ocean</title>
@@ -214,21 +229,6 @@
         
         <p>Simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee timesheets and billing.</p>
         <img src="http://lapa.ninja/assets/images/harvest.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>US Mobile</title>
-      <link>http://lapa.ninja/post/us-mobile/</link>
-      <pubDate>Thu, 05 May 2016 13:56:12 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/us-mobile/</guid>
-      <description>
-        
-        <p>US Mobile is all about freedom. Create your personalized cell phone plan, and only pay for what you use.</p>
-        <img src="http://lapa.ninja/assets/images/us-mobile.jpg" />
 
 
       </description>

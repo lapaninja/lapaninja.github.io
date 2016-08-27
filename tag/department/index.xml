@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Department on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/department/</link>
+    <description>Recent content in Department on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Aug 2016 11:35:54 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/department/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Department</title>
+      <link>http://lapa.ninja/post/department/</link>
+      <pubDate>Sat, 27 Aug 2016 11:35:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/department/</guid>
+      <description>
+        
+        <p>A creative digital studio located in Stockholm. Born in the land of making, with user experience and modern technology at heart.</p>
+        <img src="http://lapa.ninja/assets/images/department.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
