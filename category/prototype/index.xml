@@ -6,8 +6,23 @@
     <description>Recent content in Prototype on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Aug 2016 21:36:12 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 31 Aug 2016 16:35:42 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/prototype/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Webflow Interactions 2.0</title>
+      <link>http://lapa.ninja/post/webflow-interactions/</link>
+      <pubDate>Wed, 31 Aug 2016 16:35:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow-interactions/</guid>
+      <description>
+        
+        <p>Parallax scrolling, mouse tracking, timeline animations, and more. A whole new way to craft interactions and animations — and you still don&#39;t have to write any code.</p>
+        <img src="http://lapa.ninja/assets/images/webflow-Interactions-2-0.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Atomic</title>
@@ -214,21 +229,6 @@
         
         <p>Transform your Web &amp; Mobile (iOS, Android) designs into clickable, interactive Prototypes and Mockups. Share and Collaborate on them with others. Get it FREE forever!</p>
         <img src="http://lapa.ninja/assets/images/invisionapp.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Origami</title>
-      <link>http://lapa.ninja/post/origami/</link>
-      <pubDate>Thu, 15 Oct 2015 17:19:35 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/origami/</guid>
-      <description>
-        
-        <p>Origami is a free tool for designing modern user interfaces.</p>
-        <img src="http://lapa.ninja/assets/images/Origami.jpg" />
 
 
       </description>

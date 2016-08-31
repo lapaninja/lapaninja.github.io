@@ -6,8 +6,23 @@
     <description>Recent content on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Aug 2016 11:38:42 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 31 Aug 2016 16:35:42 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Webflow Interactions 2.0</title>
+      <link>http://lapa.ninja/post/webflow-interactions/</link>
+      <pubDate>Wed, 31 Aug 2016 16:35:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow-interactions/</guid>
+      <description>
+        
+        <p>Parallax scrolling, mouse tracking, timeline animations, and more. A whole new way to craft interactions and animations — and you still don&#39;t have to write any code.</p>
+        <img src="http://lapa.ninja/assets/images/webflow-Interactions-2-0.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Ramotion Busines</title>
@@ -214,21 +229,6 @@
         
         <p>Ripple’s distributed financial technology allows for banks around the world to directly transact with each other without the need for a central counterparty or correspondent.</p>
         <img src="http://lapa.ninja/assets/images/ripple.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sift Science</title>
-      <link>http://lapa.ninja/post/sift-science/</link>
-      <pubDate>Sun, 31 Jul 2016 00:19:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/sift-science/</guid>
-      <description>
-        
-        <p>Achieve world-class results with real-time automated fraud prevention.</p>
-        <img src="http://lapa.ninja/assets/images/Sift-Science.jpg" />
 
 
       </description>

@@ -6,8 +6,23 @@
     <description>Recent content in App on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Aug 2016 21:36:12 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 31 Aug 2016 16:35:42 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Webflow Interactions 2.0</title>
+      <link>http://lapa.ninja/post/webflow-interactions/</link>
+      <pubDate>Wed, 31 Aug 2016 16:35:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow-interactions/</guid>
+      <description>
+        
+        <p>Parallax scrolling, mouse tracking, timeline animations, and more. A whole new way to craft interactions and animations — and you still don&#39;t have to write any code.</p>
+        <img src="http://lapa.ninja/assets/images/webflow-Interactions-2-0.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Atomic</title>
@@ -214,21 +229,6 @@
         
         <p>Dropbox has new productivity features to simplify the way you create, collaborate, and keep work safe. Learn how to get more done and get started.</p>
         <img src="http://lapa.ninja/assets/images/dropbox-productivity.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ionut Zamfir</title>
-      <link>http://lapa.ninja/post/ionut-zamfir/</link>
-      <pubDate>Fri, 17 Jun 2016 09:36:59 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ionut-zamfir/</guid>
-      <description>
-        
-        <p>I&#39;m your go-to guy for awesome interfaces.</p>
-        <img src="http://lapa.ninja/assets/images/ionut-zamfir.jpg" />
 
 
       </description>
