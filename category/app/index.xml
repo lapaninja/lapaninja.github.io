@@ -6,8 +6,23 @@
     <description>Recent content in App on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Aug 2016 16:35:42 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2016 10:49:29 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sentry</title>
+      <link>http://lapa.ninja/post/sentry/</link>
+      <pubDate>Thu, 01 Sep 2016 10:49:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sentry/</guid>
+      <description>
+        
+        <p>Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.</p>
+        <img src="http://lapa.ninja/assets/images/sentry.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Webflow Interactions 2.0</title>
@@ -214,21 +229,6 @@
         
         <p>The world’s most popular mobile OS. From phones and watches to cars and TVs, customize your digital life with Android.</p>
         <img src="http://lapa.ninja/assets/images/android.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dropbox Productivity</title>
-      <link>http://lapa.ninja/post/dropbox-productivity/</link>
-      <pubDate>Thu, 23 Jun 2016 16:56:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dropbox-productivity/</guid>
-      <description>
-        
-        <p>Dropbox has new productivity features to simplify the way you create, collaborate, and keep work safe. Learn how to get more done and get started.</p>
-        <img src="http://lapa.ninja/assets/images/dropbox-productivity.jpg" />
 
 
       </description>

@@ -6,8 +6,38 @@
     <description>Recent content in Miscellaneous on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Aug 2016 16:11:21 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2016 10:49:29 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sentry</title>
+      <link>http://lapa.ninja/post/sentry/</link>
+      <pubDate>Thu, 01 Sep 2016 10:49:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sentry/</guid>
+      <description>
+        
+        <p>Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.</p>
+        <img src="http://lapa.ninja/assets/images/sentry.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Crew</title>
+      <link>http://lapa.ninja/post/crew-2/</link>
+      <pubDate>Thu, 01 Sep 2016 10:49:12 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/crew-2/</guid>
+      <description>
+        
+        <p>Create an app, website, or logo with one of Crew&#39;s acclaimed designers and developers.</p>
+        <img src="http://lapa.ninja/assets/images/crew-01-09-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Wealthsimple</title>
@@ -199,36 +229,6 @@
         
         <p>Start messaging your customers today. Everything you need to chat with customer wherever they are and grow your business</p>
         <img src="http://lapa.ninja/assets/images/smooch.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>US Mobile</title>
-      <link>http://lapa.ninja/post/us-mobile/</link>
-      <pubDate>Thu, 05 May 2016 13:56:12 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/us-mobile/</guid>
-      <description>
-        
-        <p>US Mobile is all about freedom. Create your personalized cell phone plan, and only pay for what you use.</p>
-        <img src="http://lapa.ninja/assets/images/us-mobile.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Quip</title>
-      <link>http://lapa.ninja/post/quip/</link>
-      <pubDate>Thu, 05 May 2016 13:55:54 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/quip/</guid>
-      <description>
-        
-        <p>Quip is where you create, document, discuss, and organize the stuff that your team works on.</p>
-        <img src="http://lapa.ninja/assets/images/quip.jpg" />
 
 
       </description>

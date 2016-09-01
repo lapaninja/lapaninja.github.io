@@ -6,8 +6,53 @@
     <description>Recent content in Posts on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Aug 2016 16:35:42 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2016 10:55:03 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Segment</title>
+      <link>http://lapa.ninja/post/segment-2/</link>
+      <pubDate>Thu, 01 Sep 2016 10:55:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/segment-2/</guid>
+      <description>
+        
+        <p>Segment is trusted by thousands of companies as their Customer Data Platform. Collect user data with one API and send it to hundreds of tools or a data warehouse.</p>
+        <img src="http://lapa.ninja/assets/images/segment-01-09-2016.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sentry</title>
+      <link>http://lapa.ninja/post/sentry/</link>
+      <pubDate>Thu, 01 Sep 2016 10:49:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sentry/</guid>
+      <description>
+        
+        <p>Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.</p>
+        <img src="http://lapa.ninja/assets/images/sentry.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Crew</title>
+      <link>http://lapa.ninja/post/crew-2/</link>
+      <pubDate>Thu, 01 Sep 2016 10:49:12 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/crew-2/</guid>
+      <description>
+        
+        <p>Create an app, website, or logo with one of Crew&#39;s acclaimed designers and developers.</p>
+        <img src="http://lapa.ninja/assets/images/crew-01-09-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Webflow Interactions 2.0</title>
@@ -184,51 +229,6 @@
         
         <p>Simple is reinventing online banking with modern web and mobile experiences, no surprise fees, and great customer service. Simplify your finances.</p>
         <img src="http://lapa.ninja/assets/images/simple-13-08-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dropbox Paper</title>
-      <link>http://lapa.ninja/post/dropbox-paper/</link>
-      <pubDate>Sat, 06 Aug 2016 10:22:10 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dropbox-paper/</guid>
-      <description>
-        
-        <p>Paper is a clean, smart surface that lets you and your team work together the way you want.</p>
-        <img src="http://lapa.ninja/assets/images/dropbox-paper.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Unroll</title>
-      <link>http://lapa.ninja/post/unroll-me/</link>
-      <pubDate>Sat, 06 Aug 2016 10:21:59 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/unroll-me/</guid>
-      <description>
-        
-        <p>Unsubscribe with one click. After you sign up, see a list of all your subscription emails. Unsubscribe instantly from whatever you don’t want.</p>
-        <img src="http://lapa.ninja/assets/images/unroll-me.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ripple</title>
-      <link>http://lapa.ninja/post/ripple/</link>
-      <pubDate>Sat, 06 Aug 2016 10:21:47 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ripple/</guid>
-      <description>
-        
-        <p>Ripple’s distributed financial technology allows for banks around the world to directly transact with each other without the need for a central counterparty or correspondent.</p>
-        <img src="http://lapa.ninja/assets/images/ripple.jpg" />
 
 
       </description>
