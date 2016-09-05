@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hellomind on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/hellomind/</link>
+    <description>Recent content in Hellomind on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Sep 2016 16:26:34 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/hellomind/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HelloMind</title>
+      <link>http://lapa.ninja/post/hello-mind/</link>
+      <pubDate>Mon, 05 Sep 2016 16:26:34 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/hello-mind/</guid>
+      <description>
+        
+        <p>Low self-esteem, stress, fear, bad sleep and unhealthy habits sometimes hold us back from enjoying life to the fullest.</p>
+        <img src="http://lapa.ninja/assets/images/hello-mind.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

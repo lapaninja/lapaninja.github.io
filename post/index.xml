@@ -6,8 +6,38 @@
     <description>Recent content in Posts on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Sep 2016 10:55:03 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Sep 2016 16:26:34 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HelloMind</title>
+      <link>http://lapa.ninja/post/hello-mind/</link>
+      <pubDate>Mon, 05 Sep 2016 16:26:34 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/hello-mind/</guid>
+      <description>
+        
+        <p>Low self-esteem, stress, fear, bad sleep and unhealthy habits sometimes hold us back from enjoying life to the fullest.</p>
+        <img src="http://lapa.ninja/assets/images/hello-mind.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Jack</title>
+      <link>http://lapa.ninja/post/with-jack/</link>
+      <pubDate>Mon, 05 Sep 2016 16:26:25 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/with-jack/</guid>
+      <description>
+        
+        <p>Bespoke business insurance for freelance creatives, from Jack.</p>
+        <img src="http://lapa.ninja/assets/images/jack.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Segment</title>
@@ -199,36 +229,6 @@
         
         <p>DigitalOcean is a simple and robust cloud computing platform, designed for developers. The first and only all-SSD cloud.</p>
         <img src="http://lapa.ninja/assets/images/digital-ocean-24-08-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Wealthsimple</title>
-      <link>http://lapa.ninja/post/wealth-simple/</link>
-      <pubDate>Sat, 13 Aug 2016 16:11:21 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/wealth-simple/</guid>
-      <description>
-        
-        <p>The smart and simple way to invest in Future You. We use a Nobel Prize-winning approach to build you a diversified portfolio of low-fee funds in minutes.</p>
-        <img src="http://lapa.ninja/assets/images/wealthsimple.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Simple</title>
-      <link>http://lapa.ninja/post/simple-2/</link>
-      <pubDate>Sat, 13 Aug 2016 16:10:58 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/simple-2/</guid>
-      <description>
-        
-        <p>Simple is reinventing online banking with modern web and mobile experiences, no surprise fees, and great customer service. Simplify your finances.</p>
-        <img src="http://lapa.ninja/assets/images/simple-13-08-2016.jpg" />
 
 
       </description>

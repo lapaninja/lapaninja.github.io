@@ -6,8 +6,23 @@
     <description>Recent content in App on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Sep 2016 10:49:29 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Sep 2016 16:26:34 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HelloMind</title>
+      <link>http://lapa.ninja/post/hello-mind/</link>
+      <pubDate>Mon, 05 Sep 2016 16:26:34 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/hello-mind/</guid>
+      <description>
+        
+        <p>Low self-esteem, stress, fear, bad sleep and unhealthy habits sometimes hold us back from enjoying life to the fullest.</p>
+        <img src="http://lapa.ninja/assets/images/hello-mind.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Sentry</title>
@@ -214,21 +229,6 @@
         
         <p>Pillow for iOS is the most advanced sleep app that helps you sleep easier, wake up happier, understand how you sleep and learn what you can do to improve it.</p>
         <img src="http://lapa.ninja/assets/images/pillow-app.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Android</title>
-      <link>http://lapa.ninja/post/android/</link>
-      <pubDate>Thu, 07 Jul 2016 17:04:33 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/android/</guid>
-      <description>
-        
-        <p>The world’s most popular mobile OS. From phones and watches to cars and TVs, customize your digital life with Android.</p>
-        <img src="http://lapa.ninja/assets/images/android.jpg" />
 
 
       </description>
