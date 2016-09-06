@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fashion on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/category/fashion/</link>
+    <description>Recent content in Fashion on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Sep 2016 21:20:25 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/fashion/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stylisto</title>
+      <link>http://lapa.ninja/post/stylisto/</link>
+      <pubDate>Tue, 06 Sep 2016 21:20:25 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/stylisto/</guid>
+      <description>
+        
+        <p>Stylisto is the community for all fashion fans. Show off your best outfit, share brand, price, store location and let others follow your style.</p>
+        <img src="http://lapa.ninja/assets/images/stylisto.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

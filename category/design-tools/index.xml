@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Aug 2016 16:35:42 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Sep 2016 21:20:39 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ceros</title>
+      <link>http://lapa.ninja/post/ceros/</link>
+      <pubDate>Tue, 06 Sep 2016 21:20:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ceros/</guid>
+      <description>
+        
+        <p>The most powerful interactive content creation software for marketers &amp; designers</p>
+        <img src="http://lapa.ninja/assets/images/ceros.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Webflow Interactions 2.0</title>
@@ -214,21 +229,6 @@
         
         <p>ViewFlux allows you to create clickable prototypes from your designs, easily get feedback &amp; collaborate with your clients or team mates.</p>
         <img src="http://lapa.ninja/assets/images/view-flux.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lingo</title>
-      <link>http://lapa.ninja/post/lingo/</link>
-      <pubDate>Fri, 25 Mar 2016 11:05:10 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/lingo/</guid>
-      <description>
-        
-        <p>Lingo is the best way to organize, share and use all your visual assets in one place - all on your desktop.</p>
-        <img src="http://lapa.ninja/assets/images/lingo.jpg" />
 
 
       </description>
