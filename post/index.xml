@@ -6,8 +6,53 @@
     <description>Recent content in Posts on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Sep 2016 21:20:52 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2016 11:10:51 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vectr</title>
+      <link>http://lapa.ninja/post/vectr/</link>
+      <pubDate>Tue, 13 Sep 2016 11:10:51 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/vectr/</guid>
+      <description>
+        
+        <p>Free vector graphics editor. A simple yet powerful web and desktop cross-platform tool for everyone.</p>
+        <img src="http://lapa.ninja/assets/images/vectr.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>HashiConf 2016</title>
+      <link>http://lapa.ninja/post/hashicorp/</link>
+      <pubDate>Tue, 13 Sep 2016 11:10:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/hashicorp/</guid>
+      <description>
+        
+        <p>One day of training and two days of talks to define the future of infrastructure and how to get there.</p>
+        <img src="http://lapa.ninja/assets/images/hashi-corp.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Statsbot</title>
+      <link>http://lapa.ninja/post/statsbot-2/</link>
+      <pubDate>Tue, 13 Sep 2016 11:10:26 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/statsbot-2/</guid>
+      <description>
+        
+        <p>Statsbot is an analytics bot that works inside Slack and helps you track your metrics. Most popular bot featured by Slack!</p>
+        <img src="http://lapa.ninja/assets/images/statsbot-13-09-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Deliveroo</title>
@@ -184,51 +229,6 @@
         
         <p>Atomic helps you quickly create realistic prototypes of everything from simple interactions to entire products.</p>
         <img src="http://lapa.ninja/assets/images/atomic-25-08-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Svgsus</title>
-      <link>http://lapa.ninja/post/svgsus/</link>
-      <pubDate>Thu, 25 Aug 2016 16:16:40 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/svgsus/</guid>
-      <description>
-        
-        <p>Svgsus is the perfect tool to organize, clean and transform svgs into code. Let&#39;s make SVGs great again.</p>
-        <img src="http://lapa.ninja/assets/images/svgsus.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Playing Arts</title>
-      <link>http://lapa.ninja/post/playing-arts/</link>
-      <pubDate>Thu, 25 Aug 2016 14:40:03 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/playing-arts/</guid>
-      <description>
-        
-        <p>Playing Arts is a collaborative art project that gathers the best designers and illustrators from all over the world with an idea to express their vision of an ordinary playing card using personal styles, techniques and imagination.</p>
-        <img src="http://lapa.ninja/assets/images/playing-arts.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Playing Arts store</title>
-      <link>http://lapa.ninja/post/playing-arts-store/</link>
-      <pubDate>Thu, 25 Aug 2016 14:34:11 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/playing-arts-store/</guid>
-      <description>
-        
-        <p>Playing Arts is a collaborative art project that gathers the best designers and illustrators from all over the world with an idea to express their vision of an ordinary playing card using personal styles, techniques and imagination.</p>
-        <img src="http://lapa.ninja/assets/images/playing-arts-store.jpg" />
 
 
       </description>

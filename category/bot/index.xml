@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bot on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/category/bot/</link>
+    <description>Recent content in Bot on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Sep 2016 11:10:26 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/category/bot/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Statsbot</title>
+      <link>http://lapa.ninja/post/statsbot-2/</link>
+      <pubDate>Tue, 13 Sep 2016 11:10:26 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/statsbot-2/</guid>
+      <description>
+        
+        <p>Statsbot is an analytics bot that works inside Slack and helps you track your metrics. Most popular bot featured by Slack!</p>
+        <img src="http://lapa.ninja/assets/images/statsbot-13-09-2016.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Statsbot</title>
+      <link>http://lapa.ninja/post/statsbot/</link>
+      <pubDate>Thu, 09 Jun 2016 11:01:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/statsbot/</guid>
+      <description>
+        
+        <p>Analytical companion for your Slack team. You can query data from Google Analytics or Mixpanel right into your Slack. Try it for free.</p>
+        <img src="http://lapa.ninja/assets/images/statsbot.png" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

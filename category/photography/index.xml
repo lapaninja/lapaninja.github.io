@@ -6,8 +6,23 @@
     <description>Recent content in Photography on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Aug 2016 14:40:03 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2016 11:10:51 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vectr</title>
+      <link>http://lapa.ninja/post/vectr/</link>
+      <pubDate>Tue, 13 Sep 2016 11:10:51 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/vectr/</guid>
+      <description>
+        
+        <p>Free vector graphics editor. A simple yet powerful web and desktop cross-platform tool for everyone.</p>
+        <img src="http://lapa.ninja/assets/images/vectr.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Playing Arts</title>
@@ -214,21 +229,6 @@
         
         <p>The smartest way to share designs, export assets and collaborate with your team.</p>
         <img src="http://lapa.ninja/assets/images/avocode.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Affinity Photo</title>
-      <link>http://lapa.ninja/post/affinity-photo/</link>
-      <pubDate>Fri, 16 Oct 2015 19:34:58 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/affinity-photo/</guid>
-      <description>
-        
-        <p>Affinity Photo - the fastest, smoothest, most precise professional image editing software, exclusively for Mac.</p>
-        <img src="http://lapa.ninja/assets/images/affinity-photo.jpg" />
 
 
       </description>
