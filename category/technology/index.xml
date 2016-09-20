@@ -6,8 +6,23 @@
     <description>Recent content in Technology on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Aug 2016 08:58:36 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Sep 2016 14:35:36 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Omnisense</title>
+      <link>http://lapa.ninja/post/omnisense/</link>
+      <pubDate>Tue, 20 Sep 2016 14:35:36 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/omnisense/</guid>
+      <description>
+        
+        <p>We want to have you see the world like you never have before. Enhance humankind to finally perceive life as beautiful as it really is.</p>
+        <img src="http://lapa.ninja/assets/images/omnisense.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Digital Ocean</title>
@@ -214,21 +229,6 @@
         
         <p>uHoo is a beautiful indoor air quality sensor that understands how the air you breathe affects your health to provide you with personalized alerts.</p>
         <img src="http://lapa.ninja/assets/images/uhoo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Intercom Acquire</title>
-      <link>http://lapa.ninja/post/intercom-acquire/</link>
-      <pubDate>Tue, 03 Nov 2015 18:04:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/intercom-acquire/</guid>
-      <description>
-        
-        <p>Chat with visitors to your website in real-time, capture them as leads, and convert them to customers.</p>
-        <img src="http://lapa.ninja/assets/images/intercom-acquire.jpg" />
 
 
       </description>
