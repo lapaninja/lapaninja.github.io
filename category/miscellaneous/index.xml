@@ -6,8 +6,23 @@
     <description>Recent content in Miscellaneous on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Sep 2016 15:25:27 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 24 Sep 2016 11:27:07 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reech</title>
+      <link>http://lapa.ninja/post/reech/</link>
+      <pubDate>Sat, 24 Sep 2016 11:27:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/reech/</guid>
+      <description>
+        
+        <p>Reech helps brands to work intelligently with influencers.</p>
+        <img src="http://lapa.ninja/assets/images/reech.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Google Trips</title>
@@ -214,21 +229,6 @@
         
         <p>The world’s most popular mobile OS. From phones and watches to cars and TVs, customize your digital life with Android.</p>
         <img src="http://lapa.ninja/assets/images/android.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Scale</title>
-      <link>http://lapa.ninja/post/scale-api/</link>
-      <pubDate>Thu, 07 Jul 2016 17:04:22 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/scale-api/</guid>
-      <description>
-        
-        <p>API for Human Labor. Get human tasks done with just one line of code.</p>
-        <img src="http://lapa.ninja/assets/images/scale-api.jpg" />
 
 
       </description>

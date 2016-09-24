@@ -6,8 +6,53 @@
     <description>Recent content on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Sep 2016 15:25:27 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 24 Sep 2016 11:27:28 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stripe</title>
+      <link>http://lapa.ninja/post/stripe/</link>
+      <pubDate>Sat, 24 Sep 2016 11:27:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/stripe/</guid>
+      <description>
+        
+        <p>Stripe is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.</p>
+        <img src="http://lapa.ninja/assets/images/stripe.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Google Allo</title>
+      <link>http://lapa.ninja/post/google-allo/</link>
+      <pubDate>Sat, 24 Sep 2016 11:27:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/google-allo/</guid>
+      <description>
+        
+        <p>Introducing Google Allo, a smart messaging app that helps you say more and do more. Express yourself better with stickers, doodles, and HUGE emojis &amp; text. Allo also brings you the Google Assistant, preview edition.</p>
+        <img src="http://lapa.ninja/assets/images/google-allo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Reech</title>
+      <link>http://lapa.ninja/post/reech/</link>
+      <pubDate>Sat, 24 Sep 2016 11:27:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/reech/</guid>
+      <description>
+        
+        <p>Reech helps brands to work intelligently with influencers.</p>
+        <img src="http://lapa.ninja/assets/images/reech.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Google Trips</title>
@@ -184,51 +229,6 @@
         
         <p>Segment is trusted by thousands of companies as their Customer Data Platform. Collect user data with one API and send it to hundreds of tools or a data warehouse.</p>
         <img src="http://lapa.ninja/assets/images/segment-01-09-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sentry</title>
-      <link>http://lapa.ninja/post/sentry/</link>
-      <pubDate>Thu, 01 Sep 2016 10:49:29 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/sentry/</guid>
-      <description>
-        
-        <p>Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.</p>
-        <img src="http://lapa.ninja/assets/images/sentry.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Crew</title>
-      <link>http://lapa.ninja/post/crew-2/</link>
-      <pubDate>Thu, 01 Sep 2016 10:49:12 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/crew-2/</guid>
-      <description>
-        
-        <p>Create an app, website, or logo with one of Crew&#39;s acclaimed designers and developers.</p>
-        <img src="http://lapa.ninja/assets/images/crew-01-09-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Webflow Interactions 2.0</title>
-      <link>http://lapa.ninja/post/webflow-interactions/</link>
-      <pubDate>Wed, 31 Aug 2016 16:35:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/webflow-interactions/</guid>
-      <description>
-        
-        <p>Parallax scrolling, mouse tracking, timeline animations, and more. A whole new way to craft interactions and animations — and you still don&#39;t have to write any code.</p>
-        <img src="http://lapa.ninja/assets/images/webflow-Interactions-2-0.jpg" />
 
 
       </description>
