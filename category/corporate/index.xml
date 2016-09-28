@@ -6,8 +6,23 @@
     <description>Recent content in Corporate on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Sep 2016 14:38:23 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Sep 2016 17:00:06 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/corporate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Riyo</title>
+      <link>http://lapa.ninja/post/riyo/</link>
+      <pubDate>Wed, 28 Sep 2016 17:00:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/riyo/</guid>
+      <description>
+        
+        <p>Our fully-automated platform helps mobile services maximise availability, increase productivity and explore new markets. Give your customers exactly what they want, whenever they need it.</p>
+        <img src="http://lapa.ninja/assets/images/riyo.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Republic</title>
@@ -214,21 +229,6 @@
         
         <p>Your project is in good hands with the web developers who care. Xfive will code your website or application with the highest standards</p>
         <img src="http://lapa.ninja/assets/images/xfive.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Huge</title>
-      <link>http://lapa.ninja/post/hugeinc/</link>
-      <pubDate>Thu, 07 Apr 2016 15:35:47 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/hugeinc/</guid>
-      <description>
-        
-        <p>Huge is a full service digital agency headquartered in Brooklyn with offices worldwide. We transform brands and build businesses.</p>
-        <img src="http://lapa.ninja/assets/images/huge.jpg" />
 
 
       </description>

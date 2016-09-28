@@ -6,8 +6,38 @@
     <description>Recent content in Business on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Sep 2016 11:27:28 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Sep 2016 17:00:06 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Riyo</title>
+      <link>http://lapa.ninja/post/riyo/</link>
+      <pubDate>Wed, 28 Sep 2016 17:00:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/riyo/</guid>
+      <description>
+        
+        <p>Our fully-automated platform helps mobile services maximise availability, increase productivity and explore new markets. Give your customers exactly what they want, whenever they need it.</p>
+        <img src="http://lapa.ninja/assets/images/riyo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Design Inc</title>
+      <link>http://lapa.ninja/post/design-inc/</link>
+      <pubDate>Wed, 28 Sep 2016 16:59:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/design-inc/</guid>
+      <description>
+        
+        <p>World class designers ready to help.</p>
+        <img src="http://lapa.ninja/assets/images/design-inc.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Stripe</title>
@@ -199,36 +229,6 @@
         
         <p>Square creates products and services that push boundaries and innovate business.</p>
         <img src="http://lapa.ninja/assets/images/work-at-square.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>The New Digital School</title>
-      <link>http://lapa.ninja/post/the-new-digital-school/</link>
-      <pubDate>Thu, 07 Jul 2016 17:04:07 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/the-new-digital-school/</guid>
-      <description>
-        
-        <p>The New Digital School is a new approach to higher education.  One where the student is free to choose what to learn, with direct industry contact and real-life projects. Based in sunny Porto, Portugal.</p>
-        <img src="http://lapa.ninja/assets/images/the-new-digital-school.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Rodesk</title>
-      <link>http://lapa.ninja/post/rodesk/</link>
-      <pubDate>Wed, 29 Jun 2016 16:30:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/rodesk/</guid>
-      <description>
-        
-        <p>Rodesk UX design agency Rotterdam | Experts in creative strategy, user experience design, front-end development and WordPress development</p>
-        <img src="http://lapa.ninja/assets/images/rodesk.jpg" />
 
 
       </description>
