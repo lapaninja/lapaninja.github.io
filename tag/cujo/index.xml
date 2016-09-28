@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cujo on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/cujo/</link>
+    <description>Recent content in Cujo on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Sep 2016 17:17:21 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/cujo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CUJO</title>
+      <link>http://lapa.ninja/post/cujo/</link>
+      <pubDate>Wed, 28 Sep 2016 17:17:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/cujo/</guid>
+      <description>
+        
+        <p>CUJO is a smart firewall that keeps your connected home and business safe from cyber threats  so that you can stay secure and private online.</p>
+        <img src="http://lapa.ninja/assets/images/cujo.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
