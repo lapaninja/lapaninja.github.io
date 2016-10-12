@@ -6,8 +6,23 @@
     <description>Recent content in Software on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Sep 2016 17:00:06 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Oct 2016 20:20:18 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Usabili.Me</title>
+      <link>http://lapa.ninja/post/usabili-me/</link>
+      <pubDate>Wed, 12 Oct 2016 20:20:18 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/usabili-me/</guid>
+      <description>
+        
+        <p>Stop wasting time and start learning from your customers. Whether you’re a startup founder, a UX team of one, or a massive design team at a Fortune 100, Usabili.me reduces the friction of finding and talking to your users.</p>
+        <img src="http://lapa.ninja/assets/images/usabili-me.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Riyo</title>
@@ -214,21 +229,6 @@
         
         <p>Talk to your website visitors, convert more leads, and keep your customers happy.</p>
         <img src="http://lapa.ninja/assets/images/Drift.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Scale</title>
-      <link>http://lapa.ninja/post/scale-api/</link>
-      <pubDate>Thu, 07 Jul 2016 17:04:22 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/scale-api/</guid>
-      <description>
-        
-        <p>API for Human Labor. Get human tasks done with just one line of code.</p>
-        <img src="http://lapa.ninja/assets/images/scale-api.jpg" />
 
 
       </description>

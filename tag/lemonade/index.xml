@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lemonade on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/lemonade/</link>
+    <description>Recent content in Lemonade on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Oct 2016 20:20:35 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/lemonade/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lemonade</title>
+      <link>http://lapa.ninja/post/lemonaders/</link>
+      <pubDate>Wed, 12 Oct 2016 20:20:35 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lemonaders/</guid>
+      <description>
+        
+        <p>Lemonade&#39;s amazing coverage protects the stuff you own at home and everywhere else.</p>
+        <img src="http://lapa.ninja/assets/images/lemonaders.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
