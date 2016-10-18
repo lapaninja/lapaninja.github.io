@@ -6,8 +6,38 @@
     <description>Recent content in App on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Oct 2016 20:20:44 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 Oct 2016 20:42:23 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Front</title>
+      <link>http://lapa.ninja/post/frontapp-2/</link>
+      <pubDate>Tue, 18 Oct 2016 20:42:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/frontapp-2/</guid>
+      <description>
+        
+        <p>Everything in one place Front isn’t just for email. It brings all of your external messages -- emails to support@ or sales@, plus Twitter, Facebook Messenger, chat, and SMS -- into one unified inbox.</p>
+        <img src="http://lapa.ninja/assets/images/frontapp.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Feedline</title>
+      <link>http://lapa.ninja/post/feedline/</link>
+      <pubDate>Tue, 18 Oct 2016 20:42:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/feedline/</guid>
+      <description>
+        
+        <p>Feedline is a simple tool for adding a feedback form to your website in less than 5 minutes.</p>
+        <img src="http://lapa.ninja/assets/images/feedline.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Flow</title>
@@ -199,36 +229,6 @@
         
         <p>Parallax scrolling, mouse tracking, timeline animations, and more. A whole new way to craft interactions and animations — and you still don&#39;t have to write any code.</p>
         <img src="http://lapa.ninja/assets/images/webflow-Interactions-2-0.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Atomic</title>
-      <link>http://lapa.ninja/post/atomic-3/</link>
-      <pubDate>Thu, 25 Aug 2016 21:36:12 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/atomic-3/</guid>
-      <description>
-        
-        <p>Atomic helps you quickly create realistic prototypes of everything from simple interactions to entire products.</p>
-        <img src="http://lapa.ninja/assets/images/atomic-25-08-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Svgsus</title>
-      <link>http://lapa.ninja/post/svgsus/</link>
-      <pubDate>Thu, 25 Aug 2016 16:16:40 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/svgsus/</guid>
-      <description>
-        
-        <p>Svgsus is the perfect tool to organize, clean and transform svgs into code. Let&#39;s make SVGs great again.</p>
-        <img src="http://lapa.ninja/assets/images/svgsus.jpg" />
 
 
       </description>

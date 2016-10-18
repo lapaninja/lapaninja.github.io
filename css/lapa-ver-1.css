@@ -678,8 +678,8 @@ ul, ol {
    Header
    ========================================================================== */
 body {
-  background: #f5f5f5;
-  font-family: 'Open Sans', Helvetica Neue, Helvetica, Arial, sans-serif;
+  background: #fcfcfc;
+  font-family: 'Lato', Helvetica Neue, Helvetica, Arial, sans-serif;
   color: #444;
 }
 
@@ -727,6 +727,7 @@ body {
 @media (max-width: 767px) {
   .lapa-logo img {
     width: 110px;
+    margin-top: -8px;
   }
 }
 @media (max-width: 767px) {
@@ -801,6 +802,7 @@ body {
   text-decoration: none;
   cursor: pointer;
   text-transform: uppercase;
+  font-weight: 300;
 }
 .lapa-nav .lapa-nav__link:hover {
   color: #6869D1;
@@ -1075,17 +1077,18 @@ body {
   }
 }
 .lapa-post__home li .lapa-post__item {
-  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.08);
   border-radius: 2px;
   position: relative;
+  -webkit-transition: all 250ms cubic-bezier(0.02, 0.01, 0.47, 1);
+  -moz-transition: all 250ms cubic-bezier(0.02, 0.01, 0.47, 1);
+  transition: all 250ms cubic-bezier(0.02, 0.01, 0.47, 1);
 }
 .lapa-post__home li .lapa-post__item:hover {
-  webkit-transform: translateY(-4px);
-  -ms-transform: translateY(-4px);
-  transform: translateY(-4px);
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+  webkit-transform: translateY(-6px);
+  -ms-transform: translateY(-6px);
+  transform: translateY(-6px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
 }
 .lapa-post__home li .lapa-post__item:hover .lapa-post__share {
   opacity: 1;
@@ -1155,6 +1158,7 @@ body {
 .lapa-post__home .lapa-post__name-link {
   color: #444;
   text-decoration: none;
+  letter-spacing: 0.7px;
 }
 .lapa-post__home .lapa-post__name-link:hover {
   color: #6869D1;
@@ -1432,11 +1436,11 @@ body {
   margin-right: 1.38889%;
 }
 .detail-post .detail-post__info h1 {
-  font-size: 1.3em;
+  font-size: 1.8em;
 }
 .detail-post .detail-post__info p {
   color: #666;
-  font-size: 0.9em;
+  font-size: 1em;
 }
 @media (min-width: 768px) {
   .detail-post .detail-post__info {
@@ -1480,14 +1484,14 @@ body {
 .detail-post .detail-post__site {
   display: inline-block;
   float: right;
-  padding: 8px 15px;
+  padding: 12px 20px;
   width: 100%;
   text-align: center;
   border-radius: 4px;
   background: #6869D1;
   text-decoration: none;
   color: #fff;
-  margin-top: 15px;
+  margin-top: 20px;
 }
 @media (min-width: 768px) {
   .detail-post .detail-post__site {
@@ -1504,9 +1508,11 @@ body {
   float: right;
   margin-left: 1.38889%;
   margin-right: 1.38889%;
+  padding-bottom: 1.38889%;
 }
 .detail-post .detai-post__img img {
   max-width: 100%;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
 .detail-post .lapa-disqus {
   width: 97.22222%;
@@ -1524,10 +1530,14 @@ body {
   float: left;
   margin-left: 1.38889%;
   margin-right: 1.38889%;
+  padding-top: 1.38889%;
   float: none;
 }
 .detail-post .lapa__latest .lapa-post--latest {
   padding-top: 2.77778%;
+}
+.detail-post .lapa__latest .lapa-post--late {
+  padding-top: 1.38889% !important;
 }
 
 .lapa-404 {
@@ -2194,7 +2204,6 @@ body {
   transition: all 0.3s ease-in-out;
   border-radius: 5px;
   overflow: hidden;
-  max-height: 300px;
 }
 .animation__browser .browser__bar {
   height: 26px;

@@ -6,8 +6,23 @@
     <description>Recent content in Software on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Oct 2016 20:20:44 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 Oct 2016 20:42:07 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feedline</title>
+      <link>http://lapa.ninja/post/feedline/</link>
+      <pubDate>Tue, 18 Oct 2016 20:42:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/feedline/</guid>
+      <description>
+        
+        <p>Feedline is a simple tool for adding a feedback form to your website in less than 5 minutes.</p>
+        <img src="http://lapa.ninja/assets/images/feedline.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Flow</title>
@@ -214,21 +229,6 @@
         
         <p>With more ways to make Android your own, Android Nougat is our sweetest release yet.</p>
         <img src="http://lapa.ninja/assets/images/android%e2%80%93nougat.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Mimo</title>
-      <link>http://lapa.ninja/post/mimo/</link>
-      <pubDate>Wed, 24 Aug 2016 08:58:44 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/mimo/</guid>
-      <description>
-        
-        <p>Mimo is a platform for gamified and interactive lesson bites on Computer Science that give commutes, waits and other moments of idle time a meaning.</p>
-        <img src="http://lapa.ninja/assets/images/mimo.jpg" />
 
 
       </description>

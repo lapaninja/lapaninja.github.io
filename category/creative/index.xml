@@ -6,8 +6,23 @@
     <description>Recent content in Creative on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Oct 2016 20:20:24 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 Oct 2016 20:41:50 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nuage</title>
+      <link>http://lapa.ninja/post/nuage/</link>
+      <pubDate>Tue, 18 Oct 2016 20:41:50 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/nuage/</guid>
+      <description>
+        
+        <p>Managing domains has never been so cool.</p>
+        <img src="http://lapa.ninja/assets/images/nuage.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Monograph</title>
@@ -214,21 +229,6 @@
         
         <p>Peter Nowell is a designer based in San Francisco. He works with companies big and small to inspire and delight customers. Clients include Apple, Flinto, Sprightly Books, and Juice Shop.</p>
         <img src="http://lapa.ninja/assets/images/peter-nowell-design.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ionut Zamfir</title>
-      <link>http://lapa.ninja/post/ionut-zamfir/</link>
-      <pubDate>Fri, 17 Jun 2016 09:36:59 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ionut-zamfir/</guid>
-      <description>
-        
-        <p>I&#39;m your go-to guy for awesome interfaces.</p>
-        <img src="http://lapa.ninja/assets/images/ionut-zamfir.jpg" />
 
 
       </description>

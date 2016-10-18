@@ -6,8 +6,23 @@
     <description>Recent content in Technology on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Oct 2016 21:15:02 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 Oct 2016 20:42:23 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Front</title>
+      <link>http://lapa.ninja/post/frontapp-2/</link>
+      <pubDate>Tue, 18 Oct 2016 20:42:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/frontapp-2/</guid>
+      <description>
+        
+        <p>Everything in one place Front isn’t just for email. It brings all of your external messages -- emails to support@ or sales@, plus Twitter, Facebook Messenger, chat, and SMS -- into one unified inbox.</p>
+        <img src="http://lapa.ninja/assets/images/frontapp.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Made by Google</title>
@@ -214,21 +229,6 @@
         
         <p>Index turns public data and content from across the web into structured data on private tech companies, industries and locations across the globe.</p>
         <img src="http://lapa.ninja/assets/images/indexco.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Riiot Labs</title>
-      <link>http://lapa.ninja/post/riiot-labs/</link>
-      <pubDate>Mon, 15 Feb 2016 14:06:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/riiot-labs/</guid>
-      <description>
-        
-        <p>Get instant data on your pool water quality and temperature. Blue will tell you in real-time via an app if your pool is fine for a dip or otherwise suggest customized solutions for you.</p>
-        <img src="http://lapa.ninja/assets/images/riiot-labs.jpg" />
 
 
       </description>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feedline on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/feedline/</link>
+    <description>Recent content in Feedline on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Oct 2016 20:42:07 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/feedline/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Feedline</title>
+      <link>http://lapa.ninja/post/feedline/</link>
+      <pubDate>Tue, 18 Oct 2016 20:42:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/feedline/</guid>
+      <description>
+        
+        <p>Feedline is a simple tool for adding a feedback form to your website in less than 5 minutes.</p>
+        <img src="http://lapa.ninja/assets/images/feedline.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
