@@ -6,8 +6,23 @@
     <description>Recent content in Software on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Oct 2016 20:42:07 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 21 Oct 2016 21:00:38 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stripe: Radar</title>
+      <link>http://lapa.ninja/post/stripe-radar/</link>
+      <pubDate>Fri, 21 Oct 2016 21:00:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/stripe-radar/</guid>
+      <description>
+        
+        <p>Modern tools to prevent fraud, fully integrated with your payments.</p>
+        <img src="http://lapa.ninja/assets/images/stripe-radar.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Feedline</title>
@@ -214,21 +229,6 @@
         
         <p>Svgsus is the perfect tool to organize, clean and transform svgs into code. Let&#39;s make SVGs great again.</p>
         <img src="http://lapa.ninja/assets/images/svgsus.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Android 7.0 Nougat</title>
-      <link>http://lapa.ninja/post/android%E2%80%93nougat/</link>
-      <pubDate>Thu, 25 Aug 2016 14:33:52 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/android%E2%80%93nougat/</guid>
-      <description>
-        
-        <p>With more ways to make Android your own, Android Nougat is our sweetest release yet.</p>
-        <img src="http://lapa.ninja/assets/images/android%e2%80%93nougat.jpg" />
 
 
       </description>

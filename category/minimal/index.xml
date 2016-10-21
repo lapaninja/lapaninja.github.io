@@ -6,8 +6,23 @@
     <description>Recent content in Minimal on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Oct 2016 20:41:50 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 21 Oct 2016 20:59:59 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/minimal/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MinimalStuff Mag</title>
+      <link>http://lapa.ninja/post/minimal-stuff/</link>
+      <pubDate>Fri, 21 Oct 2016 20:59:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/minimal-stuff/</guid>
+      <description>
+        
+        <p>High Quality Design Inspiration</p>
+        <img src="http://lapa.ninja/assets/images/minimal-stuff.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Nuage</title>
@@ -214,21 +229,6 @@
         
         <p>Teach music to your students - Flat for Education</p>
         <img src="http://lapa.ninja/assets/images/flatio-edu.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>IFTTT</title>
-      <link>http://lapa.ninja/post/ifttt/</link>
-      <pubDate>Tue, 01 Dec 2015 10:40:28 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ifttt/</guid>
-      <description>
-        
-        <p>IFTTT puts the internet to work for you. Create simple connections between the products you use every day.</p>
-        <img src="http://lapa.ninja/assets/images/ifttt.jpg" />
 
 
       </description>
