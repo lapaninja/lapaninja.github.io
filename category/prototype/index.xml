@@ -6,8 +6,23 @@
     <description>Recent content in Prototype on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Sep 2016 11:10:51 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 28 Oct 2016 21:47:25 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/prototype/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Origami Studio</title>
+      <link>http://lapa.ninja/post/origami-studio/</link>
+      <pubDate>Fri, 28 Oct 2016 21:47:25 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/origami-studio/</guid>
+      <description>
+        
+        <p>Explore, iterate, and test your ideas. A new tool for designing modern interfaces, built and used by designers at Facebook. Get started today for free.</p>
+        <img src="http://lapa.ninja/assets/images/origami-studio.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Vectr</title>
@@ -214,21 +229,6 @@
         
         <p>UX design tool for creating interactive animations &amp; multiscreen app flows</p>
         <img src="http://lapa.ninja/assets/images/floid.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>prottapp</title>
-      <link>http://lapa.ninja/post/prottapp/</link>
-      <pubDate>Thu, 15 Oct 2015 21:34:08 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/prottapp/</guid>
-      <description>
-        
-        <p>Prott is a free rapid prototyping and radical collaboration tool. Share your ideas and get feedback through easy-to-make interactive prototypes with Prott.</p>
-        <img src="http://lapa.ninja/assets/images/prott.png" />
 
 
       </description>
