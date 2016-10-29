@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quadro on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/quadro/</link>
+    <description>Recent content in Quadro on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Oct 2016 09:31:42 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/quadro/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Quadro</title>
+      <link>http://lapa.ninja/post/quadro/</link>
+      <pubDate>Sat, 29 Oct 2016 09:31:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/quadro/</guid>
+      <description>
+        
+        <p>Control desktop applications and automate your workflow with a personalised interface</p>
+        <img src="http://lapa.ninja/assets/images/quadro.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

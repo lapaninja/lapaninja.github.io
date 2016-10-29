@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sudo on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/sudo/</link>
+    <description>Recent content in Sudo on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Oct 2016 09:31:23 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/sudo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sudo</title>
+      <link>http://lapa.ninja/post/sudoapp/</link>
+      <pubDate>Sat, 29 Oct 2016 09:31:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sudoapp/</guid>
+      <description>
+        
+        <p>Call anyone, anywhere, for free, with unlimited local and global phone numbers.</p>
+        <img src="http://lapa.ninja/assets/images/sudoapp.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

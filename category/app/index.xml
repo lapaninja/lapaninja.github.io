@@ -6,8 +6,38 @@
     <description>Recent content in App on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Oct 2016 21:47:25 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 29 Oct 2016 09:31:42 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Quadro</title>
+      <link>http://lapa.ninja/post/quadro/</link>
+      <pubDate>Sat, 29 Oct 2016 09:31:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/quadro/</guid>
+      <description>
+        
+        <p>Control desktop applications and automate your workflow with a personalised interface</p>
+        <img src="http://lapa.ninja/assets/images/quadro.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sudo</title>
+      <link>http://lapa.ninja/post/sudoapp/</link>
+      <pubDate>Sat, 29 Oct 2016 09:31:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sudoapp/</guid>
+      <description>
+        
+        <p>Call anyone, anywhere, for free, with unlimited local and global phone numbers.</p>
+        <img src="http://lapa.ninja/assets/images/sudoapp.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Origami Studio</title>
@@ -199,36 +229,6 @@
         
         <p>Lemonade&#39;s amazing coverage protects the stuff you own at home and everywhere else.</p>
         <img src="http://lapa.ninja/assets/images/lemonaders.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>CUJO</title>
-      <link>http://lapa.ninja/post/cujo/</link>
-      <pubDate>Wed, 28 Sep 2016 17:17:21 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/cujo/</guid>
-      <description>
-        
-        <p>CUJO is a smart firewall that keeps your connected home and business safe from cyber threats  so that you can stay secure and private online.</p>
-        <img src="http://lapa.ninja/assets/images/cujo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Google Allo</title>
-      <link>http://lapa.ninja/post/google-allo/</link>
-      <pubDate>Sat, 24 Sep 2016 11:27:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/google-allo/</guid>
-      <description>
-        
-        <p>Introducing Google Allo, a smart messaging app that helps you say more and do more. Express yourself better with stickers, doodles, and HUGE emojis &amp; text. Allo also brings you the Google Assistant, preview edition.</p>
-        <img src="http://lapa.ninja/assets/images/google-allo.jpg" />
 
 
       </description>
