@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Oct 2016 21:47:25 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 04 Nov 2016 10:10:59 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PaintCode 3</title>
+      <link>http://lapa.ninja/post/paintcode-3/</link>
+      <pubDate>Fri, 04 Nov 2016 10:10:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/paintcode-3/</guid>
+      <description>
+        
+        <p>PaintCode is a unique vector drawing app that generates Objective-C or Swift code in real time, acting as a bridge between developers and graphic designers.</p>
+        <img src="http://lapa.ninja/assets/images/paint-code-3.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Origami Studio</title>
@@ -214,21 +229,6 @@
         
         <p>Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy way to include animated, interactive graphs on your website for free.</p>
         <img src="http://lapa.ninja/assets/images/chartjs.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Cassette</title>
-      <link>http://lapa.ninja/post/cassette/</link>
-      <pubDate>Thu, 28 Apr 2016 10:37:51 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/cassette/</guid>
-      <description>
-        
-        <p>The best way for designers to record, transcribe, and bookmark key moments in user interviews – and share it all with your team.</p>
-        <img src="http://lapa.ninja/assets/images/cassette.jpg" />
 
 
       </description>

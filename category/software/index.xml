@@ -6,8 +6,23 @@
     <description>Recent content in Software on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Oct 2016 13:42:21 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 04 Nov 2016 10:10:59 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PaintCode 3</title>
+      <link>http://lapa.ninja/post/paintcode-3/</link>
+      <pubDate>Fri, 04 Nov 2016 10:10:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/paintcode-3/</guid>
+      <description>
+        
+        <p>PaintCode is a unique vector drawing app that generates Objective-C or Swift code in real time, acting as a bridge between developers and graphic designers.</p>
+        <img src="http://lapa.ninja/assets/images/paint-code-3.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Milanote</title>
@@ -214,21 +229,6 @@
         
         <p>The most powerful interactive content creation software for marketers &amp; designers</p>
         <img src="http://lapa.ninja/assets/images/ceros.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Segment</title>
-      <link>http://lapa.ninja/post/segment-2/</link>
-      <pubDate>Thu, 01 Sep 2016 10:55:03 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/segment-2/</guid>
-      <description>
-        
-        <p>Segment is trusted by thousands of companies as their Customer Data Platform. Collect user data with one API and send it to hundreds of tools or a data warehouse.</p>
-        <img src="http://lapa.ninja/assets/images/segment-01-09-2016.jpg" />
 
 
       </description>

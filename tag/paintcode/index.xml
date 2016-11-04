@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paintcode on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/paintcode/</link>
+    <description>Recent content in Paintcode on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Nov 2016 10:10:59 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/paintcode/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PaintCode 3</title>
+      <link>http://lapa.ninja/post/paintcode-3/</link>
+      <pubDate>Fri, 04 Nov 2016 10:10:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/paintcode-3/</guid>
+      <description>
+        
+        <p>PaintCode is a unique vector drawing app that generates Objective-C or Swift code in real time, acting as a bridge between developers and graphic designers.</p>
+        <img src="http://lapa.ninja/assets/images/paint-code-3.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
