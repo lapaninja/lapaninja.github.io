@@ -6,8 +6,23 @@
     <description>Recent content in Software on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Nov 2016 10:10:59 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Nov 2016 21:09:35 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wake</title>
+      <link>http://lapa.ninja/post/wake/</link>
+      <pubDate>Tue, 08 Nov 2016 21:09:35 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wake/</guid>
+      <description>
+        
+        <p>Wake is the fastest and easiest way for designers to share work and collect feedback from their team.</p>
+        <img src="http://lapa.ninja/assets/images/wake-com.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>PaintCode 3</title>
@@ -214,21 +229,6 @@
         
         <p>Statsbot is an analytics bot that works inside Slack and helps you track your metrics. Most popular bot featured by Slack!</p>
         <img src="http://lapa.ninja/assets/images/statsbot-13-09-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ceros</title>
-      <link>http://lapa.ninja/post/ceros/</link>
-      <pubDate>Tue, 06 Sep 2016 21:20:39 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ceros/</guid>
-      <description>
-        
-        <p>The most powerful interactive content creation software for marketers &amp; designers</p>
-        <img src="http://lapa.ninja/assets/images/ceros.jpg" />
 
 
       </description>

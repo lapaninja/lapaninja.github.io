@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bear on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/bear/</link>
+    <description>Recent content in Bear on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2016 21:10:23 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/bear/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bear</title>
+      <link>http://lapa.ninja/post/bear/</link>
+      <pubDate>Tue, 08 Nov 2016 21:10:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bear/</guid>
+      <description>
+        
+        <p>Bear is a beautiful, flexible writing app for crafting notes and prose.</p>
+        <img src="http://lapa.ninja/assets/images/bear.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
