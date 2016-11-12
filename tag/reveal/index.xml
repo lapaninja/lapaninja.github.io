@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reveal on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/reveal/</link>
+    <description>Recent content in Reveal on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Nov 2016 09:59:09 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/reveal/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reveal Bot</title>
+      <link>http://lapa.ninja/post/revealbot/</link>
+      <pubDate>Sat, 12 Nov 2016 09:59:09 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/revealbot/</guid>
+      <description>
+        
+        <p>Your personal marketing assistant who warns you when you lose money on ads</p>
+        <img src="http://lapa.ninja/assets/images/reveal-bot.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,8 +6,38 @@
     <description>Recent content in App on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2016 21:10:23 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Nov 2016 09:59:09 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reveal Bot</title>
+      <link>http://lapa.ninja/post/revealbot/</link>
+      <pubDate>Sat, 12 Nov 2016 09:59:09 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/revealbot/</guid>
+      <description>
+        
+        <p>Your personal marketing assistant who warns you when you lose money on ads</p>
+        <img src="http://lapa.ninja/assets/images/reveal-bot.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>http://lapa.ninja/post/sketchapp/</link>
+      <pubDate>Sat, 12 Nov 2016 09:39:51 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sketchapp/</guid>
+      <description>
+        
+        <p>Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.</p>
+        <img src="http://lapa.ninja/assets/images/sketchapp.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Bear</title>
@@ -199,36 +229,6 @@
         
         <p>For the research, thinking and planning behind your next great piece of work.</p>
         <img src="http://lapa.ninja/assets/images/milanote.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Airtable</title>
-      <link>http://lapa.ninja/post/airtable-2/</link>
-      <pubDate>Thu, 27 Oct 2016 13:42:05 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/airtable-2/</guid>
-      <description>
-        
-        <p>Organize anything you can imagine. Airtable works like a spreadsheet but gives you the power of a database to organize anything.</p>
-        <img src="http://lapa.ninja/assets/images/airtable-27-10-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>C.A.F</title>
-      <link>http://lapa.ninja/post/contextual-app-folder/</link>
-      <pubDate>Fri, 21 Oct 2016 21:00:25 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/contextual-app-folder/</guid>
-      <description>
-        
-        <p>Create contextual app folder on your Android homescreen with C.A.F</p>
-        <img src="http://lapa.ninja/assets/images/contextual-app-folder.jpg" />
 
 
       </description>

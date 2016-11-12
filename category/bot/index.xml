@@ -6,8 +6,23 @@
     <description>Recent content in Bot on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Sep 2016 11:10:26 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Nov 2016 09:59:09 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/bot/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reveal Bot</title>
+      <link>http://lapa.ninja/post/revealbot/</link>
+      <pubDate>Sat, 12 Nov 2016 09:59:09 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/revealbot/</guid>
+      <description>
+        
+        <p>Your personal marketing assistant who warns you when you lose money on ads</p>
+        <img src="http://lapa.ninja/assets/images/reveal-bot.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Statsbot</title>

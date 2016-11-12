@@ -6,8 +6,23 @@
     <description>Recent content in Design Tools on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Nov 2016 10:10:59 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Nov 2016 09:39:51 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sketch</title>
+      <link>http://lapa.ninja/post/sketchapp/</link>
+      <pubDate>Sat, 12 Nov 2016 09:39:51 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sketchapp/</guid>
+      <description>
+        
+        <p>Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.</p>
+        <img src="http://lapa.ninja/assets/images/sketchapp.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>PaintCode 3</title>
@@ -214,21 +229,6 @@
         
         <p>Smart Artificial Intelligence Image Search Engine and aggregator for Dribbble, Behance, Pinterest, Cargo, Awwwards, Pttrns and other top Design sources.</p>
         <img src="http://lapa.ninja/assets/images/slashpixels.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Chart.js</title>
-      <link>http://lapa.ninja/post/chartjs/</link>
-      <pubDate>Thu, 28 Apr 2016 14:19:02 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/chartjs/</guid>
-      <description>
-        
-        <p>Simple, clean and engaging HTML5 based JavaScript charts. Chart.js is an easy way to include animated, interactive graphs on your website for free.</p>
-        <img src="http://lapa.ninja/assets/images/chartjs.jpg" />
 
 
       </description>

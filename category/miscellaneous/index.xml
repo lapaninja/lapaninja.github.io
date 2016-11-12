@@ -6,8 +6,38 @@
     <description>Recent content in Miscellaneous on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2016 21:10:17 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Nov 2016 09:59:09 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reveal Bot</title>
+      <link>http://lapa.ninja/post/revealbot/</link>
+      <pubDate>Sat, 12 Nov 2016 09:59:09 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/revealbot/</guid>
+      <description>
+        
+        <p>Your personal marketing assistant who warns you when you lose money on ads</p>
+        <img src="http://lapa.ninja/assets/images/reveal-bot.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>http://lapa.ninja/post/process-masterclass/</link>
+      <pubDate>Sat, 12 Nov 2016 09:59:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/process-masterclass/</guid>
+      <description>
+        
+        <p>A course made to increase your value as an interactive designer. From design thinking to design execution.</p>
+        <img src="http://lapa.ninja/assets/images/process-masterclass.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Carv</title>
@@ -199,36 +229,6 @@
         
         <p>Friends—A collaborative design company. We partner with organizations of all sizes in public, private, and social sectors to build innovation into their culture and move forward in brave new ways.</p>
         <img src="http://lapa.ninja/assets/images/bff-co.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Design Inc</title>
-      <link>http://lapa.ninja/post/design-inc/</link>
-      <pubDate>Wed, 28 Sep 2016 16:59:56 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/design-inc/</guid>
-      <description>
-        
-        <p>World class designers ready to help.</p>
-        <img src="http://lapa.ninja/assets/images/design-inc.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Github Universe 2016</title>
-      <link>http://lapa.ninja/post/github-universe-2016/</link>
-      <pubDate>Wed, 28 Sep 2016 16:59:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/github-universe-2016/</guid>
-      <description>
-        
-        <p>Learn about the exciting features and announcements revealed at this year’s annual GitHub Universe conference at historic Pier 70 in San Francisco.</p>
-        <img src="http://lapa.ninja/assets/images/universe%20-github.jpg" />
 
 
       </description>
