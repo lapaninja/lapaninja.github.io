@@ -6,8 +6,38 @@
     <description>Recent content in Software on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2016 21:09:35 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2016 11:03:01 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Winds RSS Reader</title>
+      <link>http://lapa.ninja/post/winds/</link>
+      <pubDate>Tue, 15 Nov 2016 11:03:01 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/winds/</guid>
+      <description>
+        
+        <p>Winds offers personalized news feeds and RSS Reader for free. Enjoy RSS Feeds again.</p>
+        <img src="http://lapa.ninja/assets/images/winds.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lookback</title>
+      <link>http://lapa.ninja/post/lookback-2/</link>
+      <pubDate>Tue, 15 Nov 2016 11:01:12 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lookback-2/</guid>
+      <description>
+        
+        <p>Remove the guesswork. Easily capture your users&#39; experiences and make your product better.</p>
+        <img src="http://lapa.ninja/assets/images/lookback.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Wake</title>
@@ -199,36 +229,6 @@
         
         <p>Our fully-automated platform helps mobile services maximise availability, increase productivity and explore new markets. Give your customers exactly what they want, whenever they need it.</p>
         <img src="http://lapa.ninja/assets/images/riyo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Github Universe 2016</title>
-      <link>http://lapa.ninja/post/github-universe-2016/</link>
-      <pubDate>Wed, 28 Sep 2016 16:59:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/github-universe-2016/</guid>
-      <description>
-        
-        <p>Learn about the exciting features and announcements revealed at this year’s annual GitHub Universe conference at historic Pier 70 in San Francisco.</p>
-        <img src="http://lapa.ninja/assets/images/universe%20-github.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Statsbot</title>
-      <link>http://lapa.ninja/post/statsbot-2/</link>
-      <pubDate>Tue, 13 Sep 2016 11:10:26 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/statsbot-2/</guid>
-      <description>
-        
-        <p>Statsbot is an analytics bot that works inside Slack and helps you track your metrics. Most popular bot featured by Slack!</p>
-        <img src="http://lapa.ninja/assets/images/statsbot-13-09-2016.jpg" />
 
 
       </description>

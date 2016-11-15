@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Netguru on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/netguru/</link>
+    <description>Recent content in Netguru on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Nov 2016 11:02:30 +0700</lastBuildDate>
+    <atom:link href="http://lapa.ninja/tag/netguru/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Netguru</title>
+      <link>http://lapa.ninja/post/netguru/</link>
+      <pubDate>Tue, 15 Nov 2016 11:02:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/netguru/</guid>
+      <description>
+        
+        <p>Ruby on Rails and mobile development team</p>
+        <img src="http://lapa.ninja/assets/images/netguru.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

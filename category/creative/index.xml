@@ -6,8 +6,38 @@
     <description>Recent content in Creative on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Nov 2016 09:59:53 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2016 11:29:01 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Circles Conference</title>
+      <link>http://lapa.ninja/post/circles-conference/</link>
+      <pubDate>Tue, 15 Nov 2016 11:29:01 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/circles-conference/</guid>
+      <description>
+        
+        <p>Circles is a creative design conference where designers can learn from world-changing thinkers and innovators for the creative community.</p>
+        <img src="http://lapa.ninja/assets/images/circles-conference.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>hellojebus</title>
+      <link>http://lapa.ninja/post/hellojeb/</link>
+      <pubDate>Tue, 15 Nov 2016 11:02:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/hellojeb/</guid>
+      <description>
+        
+        <p>Using the latest tools and technologies, I will guide you through the ups and downs of product development.</p>
+        <img src="http://lapa.ninja/assets/images/hellojebus.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Vedad Siljak</title>
@@ -199,36 +229,6 @@
         
         <p>Managing domains has never been so cool.</p>
         <img src="http://lapa.ninja/assets/images/nuage.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Monograph</title>
-      <link>http://lapa.ninja/post/monograph/</link>
-      <pubDate>Mon, 17 Oct 2016 20:20:24 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/monograph/</guid>
-      <description>
-        
-        <p>Showcase your work beautifully with an architecture website designed by architects for architects.</p>
-        <img src="http://lapa.ninja/assets/images/monograph.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Friends</title>
-      <link>http://lapa.ninja/post/bff-co/</link>
-      <pubDate>Thu, 06 Oct 2016 21:14:20 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bff-co/</guid>
-      <description>
-        
-        <p>Friends—A collaborative design company. We partner with organizations of all sizes in public, private, and social sectors to build innovation into their culture and move forward in brave new ways.</p>
-        <img src="http://lapa.ninja/assets/images/bff-co.jpg" />
 
 
       </description>

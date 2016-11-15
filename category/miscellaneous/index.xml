@@ -6,8 +6,23 @@
     <description>Recent content in Miscellaneous on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Nov 2016 09:59:09 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2016 11:02:30 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Netguru</title>
+      <link>http://lapa.ninja/post/netguru/</link>
+      <pubDate>Tue, 15 Nov 2016 11:02:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/netguru/</guid>
+      <description>
+        
+        <p>Ruby on Rails and mobile development team</p>
+        <img src="http://lapa.ninja/assets/images/netguru.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Reveal Bot</title>
@@ -214,21 +229,6 @@
         
         <p>Meet the newest members of the Google family.</p>
         <img src="http://lapa.ninja/assets/images/made-by-google.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Friends</title>
-      <link>http://lapa.ninja/post/bff-co/</link>
-      <pubDate>Thu, 06 Oct 2016 21:14:20 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bff-co/</guid>
-      <description>
-        
-        <p>Friends—A collaborative design company. We partner with organizations of all sizes in public, private, and social sectors to build innovation into their culture and move forward in brave new ways.</p>
-        <img src="http://lapa.ninja/assets/images/bff-co.jpg" />
 
 
       </description>
