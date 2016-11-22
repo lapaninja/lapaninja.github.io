@@ -6,8 +6,23 @@
     <description>Recent content in App on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Nov 2016 11:03:01 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Nov 2016 21:38:03 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Airbnb</title>
+      <link>http://lapa.ninja/post/airbnb-2/</link>
+      <pubDate>Tue, 22 Nov 2016 21:38:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/airbnb-2/</guid>
+      <description>
+        
+        <p>With our new app, you can embrace the unexpected. Add experiences and local spots to your trip while you’re on the go.</p>
+        <img src="http://lapa.ninja/assets/images/airbnb-22-11-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Winds RSS Reader</title>
@@ -214,21 +229,6 @@
         
         <p>Call anyone, anywhere, for free, with unlimited local and global phone numbers.</p>
         <img src="http://lapa.ninja/assets/images/sudoapp.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Origami Studio</title>
-      <link>http://lapa.ninja/post/origami-studio/</link>
-      <pubDate>Fri, 28 Oct 2016 21:47:25 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/origami-studio/</guid>
-      <description>
-        
-        <p>Explore, iterate, and test your ideas. A new tool for designing modern interfaces, built and used by designers at Facebook. Get started today for free.</p>
-        <img src="http://lapa.ninja/assets/images/origami-studio.jpg" />
 
 
       </description>

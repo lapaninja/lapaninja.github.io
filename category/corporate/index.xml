@@ -6,8 +6,23 @@
     <description>Recent content in Corporate on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Nov 2016 11:29:01 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Nov 2016 21:36:06 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/corporate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Designer Fund</title>
+      <link>http://lapa.ninja/post/designer-fund/</link>
+      <pubDate>Tue, 22 Nov 2016 21:36:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/designer-fund/</guid>
+      <description>
+        
+        <p>We invest in startups co-founded by designers, build and educate design teams through Bridge and share best practices with our community</p>
+        <img src="http://lapa.ninja/assets/images/designer-fund.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Circles Conference</title>
@@ -214,21 +229,6 @@
         
         <p>A creative digital studio located in Stockholm. Born in the land of making, with user experience and modern technology at heart.</p>
         <img src="http://lapa.ninja/assets/images/department.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ripple</title>
-      <link>http://lapa.ninja/post/ripple/</link>
-      <pubDate>Sat, 06 Aug 2016 10:21:47 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ripple/</guid>
-      <description>
-        
-        <p>Ripple’s distributed financial technology allows for banks around the world to directly transact with each other without the need for a central counterparty or correspondent.</p>
-        <img src="http://lapa.ninja/assets/images/ripple.jpg" />
 
 
       </description>

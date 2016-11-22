@@ -6,8 +6,38 @@
     <description>Recent content in Software on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Nov 2016 11:03:01 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Nov 2016 21:37:15 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Testmate</title>
+      <link>http://lapa.ninja/post/testmate/</link>
+      <pubDate>Tue, 22 Nov 2016 21:37:15 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/testmate/</guid>
+      <description>
+        
+        <p>Testmate is smart software that saves you and your team time by automating the logistics of user research interviews. Get Early Access</p>
+        <img src="http://lapa.ninja/assets/images/testmate.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Flow XO</title>
+      <link>http://lapa.ninja/post/flow-xo/</link>
+      <pubDate>Tue, 22 Nov 2016 21:36:30 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/flow-xo/</guid>
+      <description>
+        
+        <p>Bot platform for cross-platform business messaging apps</p>
+        <img src="http://lapa.ninja/assets/images/flow-xo.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Winds RSS Reader</title>
@@ -199,36 +229,6 @@
         
         <p>The online notary service that’s valid in all 50 states.</p>
         <img src="http://lapa.ninja/assets/images/notarize.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Usabili.Me</title>
-      <link>http://lapa.ninja/post/usabili-me/</link>
-      <pubDate>Wed, 12 Oct 2016 20:20:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/usabili-me/</guid>
-      <description>
-        
-        <p>Stop wasting time and start learning from your customers. Whether you’re a startup founder, a UX team of one, or a massive design team at a Fortune 100, Usabili.me reduces the friction of finding and talking to your users.</p>
-        <img src="http://lapa.ninja/assets/images/usabili-me.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Riyo</title>
-      <link>http://lapa.ninja/post/riyo/</link>
-      <pubDate>Wed, 28 Sep 2016 17:00:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/riyo/</guid>
-      <description>
-        
-        <p>Our fully-automated platform helps mobile services maximise availability, increase productivity and explore new markets. Give your customers exactly what they want, whenever they need it.</p>
-        <img src="http://lapa.ninja/assets/images/riyo.jpg" />
 
 
       </description>
