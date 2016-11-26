@@ -6,8 +6,38 @@
     <description>Recent content on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2016 22:40:01 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 26 Nov 2016 11:24:20 +0700</lastBuildDate>
     <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>iFixit</title>
+      <link>http://lapa.ninja/post/black-friday-ifixit/</link>
+      <pubDate>Sat, 26 Nov 2016 11:24:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/black-friday-ifixit/</guid>
+      <description>
+        
+        <p>Professional Kits for Everyday Repair</p>
+        <img src="http://lapa.ninja/assets/images/black-friday-ifixit.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Inturn</title>
+      <link>http://lapa.ninja/post/inturn/</link>
+      <pubDate>Sat, 26 Nov 2016 11:15:37 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/inturn/</guid>
+      <description>
+        
+        <p>Our technology solution empowers brands and retailers to use automated workflow tools, a powerful pricing optimization engine, and business intelligence to gain visibility of their businesses</p>
+        <img src="http://lapa.ninja/assets/images/inturn.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Plasso</title>
@@ -199,36 +229,6 @@
         
         <p>Ruby on Rails and mobile development team</p>
         <img src="http://lapa.ninja/assets/images/netguru.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>hellojebus</title>
-      <link>http://lapa.ninja/post/hellojeb/</link>
-      <pubDate>Tue, 15 Nov 2016 11:02:14 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/hellojeb/</guid>
-      <description>
-        
-        <p>Using the latest tools and technologies, I will guide you through the ups and downs of product development.</p>
-        <img src="http://lapa.ninja/assets/images/hellojebus.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lookback</title>
-      <link>http://lapa.ninja/post/lookback-2/</link>
-      <pubDate>Tue, 15 Nov 2016 11:01:12 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/lookback-2/</guid>
-      <description>
-        
-        <p>Remove the guesswork. Easily capture your users&#39; experiences and make your product better.</p>
-        <img src="http://lapa.ninja/assets/images/lookback.jpg" />
 
 
       </description>
