@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bot on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/bot/</link>
-    <description>Recent content in Bot on The Best Landing Page Inspiration</description>
+    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/category/bot/index.xml</link>
+    <description>Recent content on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2016 21:36:30 +0700</lastBuildDate>
-    <atom:link href="http://lapa.ninja/category/bot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/category/bot/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Abe</title>
+      <link>http://lapa.ninja/post/abe/</link>
+      <pubDate>Mon, 05 Dec 2016 12:07:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/abe/</guid>
+      <description>
+        
+        <p>A Financial Chatbot for Your Money</p>
+        <img src="http://lapa.ninja/assets/images/abe.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Flow XO</title>

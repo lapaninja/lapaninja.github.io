@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Illustration on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/illustration/</link>
-    <description>Recent content in Illustration on The Best Landing Page Inspiration</description>
+    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/category/illustration/index.xml</link>
+    <description>Recent content on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2016 21:37:46 +0700</lastBuildDate>
-    <atom:link href="http://lapa.ninja/category/illustration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/category/illustration/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Icon54</title>
+      <link>http://lapa.ninja/post/icon54/</link>
+      <pubDate>Mon, 05 Dec 2016 11:46:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/icon54/</guid>
+      <description>
+        
+        <p>Vector line and solid Icons collection pack  for iOS, Android, Websites &amp; Apps</p>
+        <img src="http://lapa.ninja/assets/images/icon54.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Ueno</title>

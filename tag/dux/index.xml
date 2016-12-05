@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/dux/index.xml</link>
+    <description>Recent content on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tag/dux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DUX</title>
+      <link>http://lapa.ninja/post/dux/</link>
+      <pubDate>Mon, 05 Dec 2016 11:46:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dux/</guid>
+      <description>
+        
+        <p>We design interfaces.</p>
+        <img src="http://lapa.ninja/assets/images/dux.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

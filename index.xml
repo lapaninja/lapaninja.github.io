@@ -2,12 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/</link>
+    <link>http://lapa.ninja/index.xml</link>
     <description>Recent content on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Nov 2016 11:24:20 +0700</lastBuildDate>
-    <atom:link href="http://lapa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2016 12:07:06 +0700</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Abe</title>
+      <link>http://lapa.ninja/post/abe/</link>
+      <pubDate>Mon, 05 Dec 2016 12:07:06 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/abe/</guid>
+      <description>
+        
+        <p>A Financial Chatbot for Your Money</p>
+        <img src="http://lapa.ninja/assets/images/abe.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Steffen Studio</title>
+      <link>http://lapa.ninja/post/steffen-studio/</link>
+      <pubDate>Mon, 05 Dec 2016 11:46:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/steffen-studio/</guid>
+      <description>
+        
+        <p>An award-winning creative director and photographer, Lee Steffen strives to find the beating heart of every creative venture and inspire others to do the same.</p>
+        <img src="http://lapa.ninja/assets/images/steffen-studio.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Taproot</title>
+      <link>http://lapa.ninja/post/taproot/</link>
+      <pubDate>Mon, 05 Dec 2016 11:46:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/taproot/</guid>
+      <description>
+        
+        <p>The Taproot Agency</p>
+        <img src="http://lapa.ninja/assets/images/taproot.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>DUX</title>
+      <link>http://lapa.ninja/post/dux/</link>
+      <pubDate>Mon, 05 Dec 2016 11:46:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dux/</guid>
+      <description>
+        
+        <p>We design interfaces.</p>
+        <img src="http://lapa.ninja/assets/images/dux.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Icon54</title>
+      <link>http://lapa.ninja/post/icon54/</link>
+      <pubDate>Mon, 05 Dec 2016 11:46:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/icon54/</guid>
+      <description>
+        
+        <p>Vector line and solid Icons collection pack  for iOS, Android, Websites &amp; Apps</p>
+        <img src="http://lapa.ninja/assets/images/icon54.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Nomad</title>
+      <link>http://lapa.ninja/post/nomadspace/</link>
+      <pubDate>Mon, 05 Dec 2016 11:44:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/nomadspace/</guid>
+      <description>
+        
+        <p>Large, small, long-term or short – find the right space for you, or your company</p>
+        <img src="http://lapa.ninja/assets/images/nomad.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>iFixit</title>
@@ -139,96 +229,6 @@
         
         <p>Bookmark’s powerful yet simple drag and drop website builder gives you full control to create your stunning website or e-commerce store with just a few clicks.</p>
         <img src="http://lapa.ninja/assets/images/bookmark.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Flow XO</title>
-      <link>http://lapa.ninja/post/flow-xo/</link>
-      <pubDate>Tue, 22 Nov 2016 21:36:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/flow-xo/</guid>
-      <description>
-        
-        <p>Bot platform for cross-platform business messaging apps</p>
-        <img src="http://lapa.ninja/assets/images/flow-xo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Bots.co</title>
-      <link>http://lapa.ninja/post/bots-co/</link>
-      <pubDate>Tue, 22 Nov 2016 21:36:21 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bots-co/</guid>
-      <description>
-        
-        <p>Easiest Way to Create Chat Bots for CometChat, Facebook and more - Bots.co by CometChat</p>
-        <img src="http://lapa.ninja/assets/images/bots-co.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Designer Fund</title>
-      <link>http://lapa.ninja/post/designer-fund/</link>
-      <pubDate>Tue, 22 Nov 2016 21:36:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/designer-fund/</guid>
-      <description>
-        
-        <p>We invest in startups co-founded by designers, build and educate design teams through Bridge and share best practices with our community</p>
-        <img src="http://lapa.ninja/assets/images/designer-fund.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Circles Conference</title>
-      <link>http://lapa.ninja/post/circles-conference/</link>
-      <pubDate>Tue, 15 Nov 2016 11:29:01 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/circles-conference/</guid>
-      <description>
-        
-        <p>Circles is a creative design conference where designers can learn from world-changing thinkers and innovators for the creative community.</p>
-        <img src="http://lapa.ninja/assets/images/circles-conference.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Winds RSS Reader</title>
-      <link>http://lapa.ninja/post/winds/</link>
-      <pubDate>Tue, 15 Nov 2016 11:03:01 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/winds/</guid>
-      <description>
-        
-        <p>Winds offers personalized news feeds and RSS Reader for free. Enjoy RSS Feeds again.</p>
-        <img src="http://lapa.ninja/assets/images/winds.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Netguru</title>
-      <link>http://lapa.ninja/post/netguru/</link>
-      <pubDate>Tue, 15 Nov 2016 11:02:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/netguru/</guid>
-      <description>
-        
-        <p>Ruby on Rails and mobile development team</p>
-        <img src="http://lapa.ninja/assets/images/netguru.jpg" />
 
 
       </description>

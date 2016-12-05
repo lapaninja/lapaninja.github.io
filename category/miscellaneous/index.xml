@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Miscellaneous on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/miscellaneous/</link>
-    <description>Recent content in Miscellaneous on The Best Landing Page Inspiration</description>
+    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/category/miscellaneous/index.xml</link>
+    <description>Recent content on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2016 21:38:03 +0700</lastBuildDate>
-    <atom:link href="http://lapa.ninja/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DUX</title>
+      <link>http://lapa.ninja/post/dux/</link>
+      <pubDate>Mon, 05 Dec 2016 11:46:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dux/</guid>
+      <description>
+        
+        <p>We design interfaces.</p>
+        <img src="http://lapa.ninja/assets/images/dux.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Airbnb</title>
@@ -214,21 +228,6 @@
         
         <p>Circle gives you everything you need to find a roommate you already know. Join the first social network for roommate finding, and avoid living with a stranger.</p>
         <img src="http://lapa.ninja/assets/images/circle-app.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lemonade</title>
-      <link>http://lapa.ninja/post/lemonaders/</link>
-      <pubDate>Wed, 12 Oct 2016 20:20:35 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/lemonaders/</guid>
-      <description>
-        
-        <p>Lemonade&#39;s amazing coverage protects the stuff you own at home and everywhere else.</p>
-        <img src="http://lapa.ninja/assets/images/lemonaders.jpg" />
 
 
       </description>

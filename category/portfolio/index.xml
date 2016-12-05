@@ -1,13 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/portfolio/</link>
-    <description>Recent content in Portfolio on The Best Landing Page Inspiration</description>
+    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/category/portfolio/index.xml</link>
+    <description>Recent content on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Nov 2016 11:02:14 +0700</lastBuildDate>
-    <atom:link href="http://lapa.ninja/category/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/category/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Steffen Studio</title>
+      <link>http://lapa.ninja/post/steffen-studio/</link>
+      <pubDate>Mon, 05 Dec 2016 11:46:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/steffen-studio/</guid>
+      <description>
+        
+        <p>An award-winning creative director and photographer, Lee Steffen strives to find the beating heart of every creative venture and inspire others to do the same.</p>
+        <img src="http://lapa.ninja/assets/images/steffen-studio.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>DUX</title>
+      <link>http://lapa.ninja/post/dux/</link>
+      <pubDate>Mon, 05 Dec 2016 11:46:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dux/</guid>
+      <description>
+        
+        <p>We design interfaces.</p>
+        <img src="http://lapa.ninja/assets/images/dux.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>hellojebus</title>
@@ -199,36 +228,6 @@
         
         <p>Checkland Kindleysides is a global design agency specialising in the art of brand storytelling. We craft digital, graphic and 3 dimensional thinking to create category leading brand experiences.</p>
         <img src="http://lapa.ninja/assets/images/checkland-kindleysides.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Evan Kosowski</title>
-      <link>http://lapa.ninja/post/evan-kosowski/</link>
-      <pubDate>Mon, 14 Mar 2016 14:20:53 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/evan-kosowski/</guid>
-      <description>
-        
-        <p>I design thoughtful digital experiences &amp; beautiful brand aesthetics.</p>
-        <img src="http://lapa.ninja/assets/images/evan-kosowski.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ariel Beninca</title>
-      <link>http://lapa.ninja/post/ariel-beninca/</link>
-      <pubDate>Mon, 14 Mar 2016 14:20:29 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ariel-beninca/</guid>
-      <description>
-        
-        <p>Graphic and Web designer on the gold coast</p>
-        <img src="http://lapa.ninja/assets/images/ariel-beninca.jpg" />
 
 
       </description>

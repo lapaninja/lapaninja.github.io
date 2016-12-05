@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prototype on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/prototype/</link>
-    <description>Recent content in Prototype on The Best Landing Page Inspiration</description>
+    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/category/prototype/index.xml</link>
+    <description>Recent content on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Oct 2016 21:47:25 +0700</lastBuildDate>
-    <atom:link href="http://lapa.ninja/category/prototype/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/category/prototype/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Origami Studio</title>

@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Business on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/business/</link>
-    <description>Recent content in Business on The Best Landing Page Inspiration</description>
+    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/category/business/index.xml</link>
+    <description>Recent content on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Nov 2016 11:24:20 +0700</lastBuildDate>
-    <atom:link href="http://lapa.ninja/category/business/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Taproot</title>
+      <link>http://lapa.ninja/post/taproot/</link>
+      <pubDate>Mon, 05 Dec 2016 11:46:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/taproot/</guid>
+      <description>
+        
+        <p>The Taproot Agency</p>
+        <img src="http://lapa.ninja/assets/images/taproot.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>iFixit</title>
@@ -214,21 +228,6 @@
         
         <p>The online notary service that’s valid in all 50 states.</p>
         <img src="http://lapa.ninja/assets/images/notarize.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Collaborative Fund</title>
-      <link>http://lapa.ninja/post/collaborativefund/</link>
-      <pubDate>Thu, 06 Oct 2016 21:14:50 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/collaborativefund/</guid>
-      <description>
-        
-        <p>Collaborative Fund is a leading source of capital for entrepreneurs pushing the world forward.</p>
-        <img src="http://lapa.ninja/assets/images/collaborative-fund.jpg" />
 
 
       </description>

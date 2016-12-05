@@ -1,13 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creative on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/creative/</link>
-    <description>Recent content in Creative on The Best Landing Page Inspiration</description>
+    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/category/creative/index.xml</link>
+    <description>Recent content on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2016 21:37:46 +0700</lastBuildDate>
-    <atom:link href="http://lapa.ninja/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Steffen Studio</title>
+      <link>http://lapa.ninja/post/steffen-studio/</link>
+      <pubDate>Mon, 05 Dec 2016 11:46:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/steffen-studio/</guid>
+      <description>
+        
+        <p>An award-winning creative director and photographer, Lee Steffen strives to find the beating heart of every creative venture and inspire others to do the same.</p>
+        <img src="http://lapa.ninja/assets/images/steffen-studio.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>DUX</title>
+      <link>http://lapa.ninja/post/dux/</link>
+      <pubDate>Mon, 05 Dec 2016 11:46:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dux/</guid>
+      <description>
+        
+        <p>We design interfaces.</p>
+        <img src="http://lapa.ninja/assets/images/dux.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Icon54</title>
+      <link>http://lapa.ninja/post/icon54/</link>
+      <pubDate>Mon, 05 Dec 2016 11:46:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/icon54/</guid>
+      <description>
+        
+        <p>Vector line and solid Icons collection pack  for iOS, Android, Websites &amp; Apps</p>
+        <img src="http://lapa.ninja/assets/images/icon54.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Nomad</title>
+      <link>http://lapa.ninja/post/nomadspace/</link>
+      <pubDate>Mon, 05 Dec 2016 11:44:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/nomadspace/</guid>
+      <description>
+        
+        <p>Large, small, long-term or short – find the right space for you, or your company</p>
+        <img src="http://lapa.ninja/assets/images/nomad.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Ueno</title>
@@ -169,66 +228,6 @@
         
         <p>Control desktop applications and automate your workflow with a personalised interface</p>
         <img src="http://lapa.ninja/assets/images/quadro.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Nebia Shower</title>
-      <link>http://lapa.ninja/post/nebia-shower/</link>
-      <pubDate>Sat, 29 Oct 2016 09:31:26 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/nebia-shower/</guid>
-      <description>
-        
-        <p>You’ve taken thousands of showers, but never one like this.</p>
-        <img src="http://lapa.ninja/assets/images/nebia-shower.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MacBook Pro 2016</title>
-      <link>http://lapa.ninja/post/macbook-pro-2016/</link>
-      <pubDate>Fri, 28 Oct 2016 21:47:03 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/macbook-pro-2016/</guid>
-      <description>
-        
-        <p>The new MacBook Pro is thinner, lighter, and more powerful than ever, and introduces the revolutionary Touch Bar, a completely new way to use your Mac.</p>
-        <img src="http://lapa.ninja/assets/images/macbook-pro-apple.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Surface Studio</title>
-      <link>http://lapa.ninja/post/microsoft-surface-studio/</link>
-      <pubDate>Fri, 28 Oct 2016 21:46:29 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/microsoft-surface-studio/</guid>
-      <description>
-        
-        <p>Surface Studio is designed for the creative process. The 28” PixelSense™ Display gives you a huge canvas for all kinds of work. Use it upright, or draw on it like a drafting table.</p>
-        <img src="http://lapa.ninja/assets/images/microsoft-surface-studio.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Transmogrify</title>
-      <link>http://lapa.ninja/post/xmog/</link>
-      <pubDate>Thu, 27 Oct 2016 13:42:13 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/xmog/</guid>
-      <description>
-        
-        <p>Transmogrify partners with startups and industry leaders to create innovative apps.</p>
-        <img src="http://lapa.ninja/assets/images/xmog.jpg" />
 
 
       </description>
