@@ -9,6 +9,21 @@
     <atom:link href="/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Opteo</title>
+      <link>http://lapa.ninja/post/opteo/</link>
+      <pubDate>Mon, 19 Dec 2016 22:21:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/opteo/</guid>
+      <description>
+        
+        <p>The smarter way to manage your Adwords clients</p>
+        <img src="http://lapa.ninja/assets/images/opteo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>DUX</title>
       <link>http://lapa.ninja/post/dux/</link>
       <pubDate>Mon, 05 Dec 2016 11:46:29 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Flow is simple project management software that helps creative teams move faster and ship great work.</p>
         <img src="http://lapa.ninja/assets/images/getflow-17-10-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Circle</title>
-      <link>http://lapa.ninja/post/circle-app/</link>
-      <pubDate>Wed, 12 Oct 2016 20:20:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/circle-app/</guid>
-      <description>
-        
-        <p>Circle gives you everything you need to find a roommate you already know. Join the first social network for roommate finding, and avoid living with a stranger.</p>
-        <img src="http://lapa.ninja/assets/images/circle-app.jpg" />
 
 
       </description>

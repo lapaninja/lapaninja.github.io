@@ -9,6 +9,21 @@
     <atom:link href="/category/cms/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>bold</title>
+      <link>http://lapa.ninja/post/bold/</link>
+      <pubDate>Mon, 19 Dec 2016 22:22:24 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bold/</guid>
+      <description>
+        
+        <p>An internal blog for your team&#39;s knowledge and big ideas.</p>
+        <img src="http://lapa.ninja/assets/images/bold.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Siteleaf</title>
       <link>http://lapa.ninja/post/siteleaf/</link>
       <pubDate>Tue, 22 Nov 2016 21:37:35 +0700</pubDate>

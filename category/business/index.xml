@@ -9,6 +9,36 @@
     <atom:link href="/category/business/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>stinkdigital</title>
+      <link>http://lapa.ninja/post/stinkdigital/</link>
+      <pubDate>Mon, 19 Dec 2016 22:21:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/stinkdigital/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja/assets/images/stinkdigital.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Bounceless</title>
+      <link>http://lapa.ninja/post/bounceless/</link>
+      <pubDate>Mon, 19 Dec 2016 22:21:01 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bounceless/</guid>
+      <description>
+        
+        <p>Get the highest ROI on your email marketing campaign.</p>
+        <img src="http://lapa.ninja/assets/images/bounceless.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Taproot</title>
       <link>http://lapa.ninja/post/taproot/</link>
       <pubDate>Mon, 05 Dec 2016 11:46:40 +0700</pubDate>
@@ -198,36 +228,6 @@
         
         <p>Everything in one place Front isn’t just for email. It brings all of your external messages -- emails to support@ or sales@, plus Twitter, Facebook Messenger, chat, and SMS -- into one unified inbox.</p>
         <img src="http://lapa.ninja/assets/images/frontapp.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Feedline</title>
-      <link>http://lapa.ninja/post/feedline/</link>
-      <pubDate>Tue, 18 Oct 2016 20:42:07 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/feedline/</guid>
-      <description>
-        
-        <p>Feedline is a simple tool for adding a feedback form to your website in less than 5 minutes.</p>
-        <img src="http://lapa.ninja/assets/images/feedline.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Notarize</title>
-      <link>http://lapa.ninja/post/notarize/</link>
-      <pubDate>Mon, 17 Oct 2016 20:19:55 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/notarize/</guid>
-      <description>
-        
-        <p>The online notary service that’s valid in all 50 states.</p>
-        <img src="http://lapa.ninja/assets/images/notarize.jpg" />
 
 
       </description>

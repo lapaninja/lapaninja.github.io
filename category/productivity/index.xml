@@ -9,6 +9,21 @@
     <atom:link href="/category/productivity/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>bold</title>
+      <link>http://lapa.ninja/post/bold/</link>
+      <pubDate>Mon, 19 Dec 2016 22:22:24 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bold/</guid>
+      <description>
+        
+        <p>An internal blog for your team&#39;s knowledge and big ideas.</p>
+        <img src="http://lapa.ninja/assets/images/bold.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Nomad</title>
       <link>http://lapa.ninja/post/nomadspace/</link>
       <pubDate>Mon, 05 Dec 2016 11:44:23 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>For the research, thinking and planning behind your next great piece of work.</p>
         <img src="http://lapa.ninja/assets/images/milanote.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Airtable</title>
-      <link>http://lapa.ninja/post/airtable-2/</link>
-      <pubDate>Thu, 27 Oct 2016 13:42:05 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/airtable-2/</guid>
-      <description>
-        
-        <p>Organize anything you can imagine. Airtable works like a spreadsheet but gives you the power of a database to organize anything.</p>
-        <img src="http://lapa.ninja/assets/images/airtable-27-10-2016.jpg" />
 
 
       </description>

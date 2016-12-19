@@ -9,6 +9,51 @@
     <atom:link href="/category/software/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>bold</title>
+      <link>http://lapa.ninja/post/bold/</link>
+      <pubDate>Mon, 19 Dec 2016 22:22:24 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bold/</guid>
+      <description>
+        
+        <p>An internal blog for your team&#39;s knowledge and big ideas.</p>
+        <img src="http://lapa.ninja/assets/images/bold.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Opteo</title>
+      <link>http://lapa.ninja/post/opteo/</link>
+      <pubDate>Mon, 19 Dec 2016 22:21:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/opteo/</guid>
+      <description>
+        
+        <p>The smarter way to manage your Adwords clients</p>
+        <img src="http://lapa.ninja/assets/images/opteo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Bounceless</title>
+      <link>http://lapa.ninja/post/bounceless/</link>
+      <pubDate>Mon, 19 Dec 2016 22:21:01 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bounceless/</guid>
+      <description>
+        
+        <p>Get the highest ROI on your email marketing campaign.</p>
+        <img src="http://lapa.ninja/assets/images/bounceless.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Testmate</title>
       <link>http://lapa.ninja/post/testmate/</link>
       <pubDate>Tue, 22 Nov 2016 21:37:15 +0700</pubDate>
@@ -183,51 +228,6 @@
         
         <p>Feedline is a simple tool for adding a feedback form to your website in less than 5 minutes.</p>
         <img src="http://lapa.ninja/assets/images/feedline.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Flow</title>
-      <link>http://lapa.ninja/post/getflow-2/</link>
-      <pubDate>Mon, 17 Oct 2016 20:20:44 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/getflow-2/</guid>
-      <description>
-        
-        <p>Flow is simple project management software that helps creative teams move faster and ship great work.</p>
-        <img src="http://lapa.ninja/assets/images/getflow-17-10-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Monograph</title>
-      <link>http://lapa.ninja/post/monograph/</link>
-      <pubDate>Mon, 17 Oct 2016 20:20:24 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/monograph/</guid>
-      <description>
-        
-        <p>Showcase your work beautifully with an architecture website designed by architects for architects.</p>
-        <img src="http://lapa.ninja/assets/images/monograph.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Notarize</title>
-      <link>http://lapa.ninja/post/notarize/</link>
-      <pubDate>Mon, 17 Oct 2016 20:19:55 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/notarize/</guid>
-      <description>
-        
-        <p>The online notary service that’s valid in all 50 states.</p>
-        <img src="http://lapa.ninja/assets/images/notarize.jpg" />
 
 
       </description>

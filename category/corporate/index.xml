@@ -9,6 +9,21 @@
     <atom:link href="/category/corporate/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Emperor</title>
+      <link>http://lapa.ninja/post/emperor/</link>
+      <pubDate>Mon, 19 Dec 2016 22:41:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/emperor/</guid>
+      <description>
+        
+        <p>An independently owned creative consultancy specialising in creative reporting, digital, engagement and brand communications.</p>
+        <img src="http://lapa.ninja/assets/images/emperor.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Taproot</title>
       <link>http://lapa.ninja/post/taproot/</link>
       <pubDate>Mon, 05 Dec 2016 11:46:40 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Create an app, website, or logo with one of Crew&#39;s acclaimed designers and developers.</p>
         <img src="http://lapa.ninja/assets/images/crew-01-09-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ramotion Busines</title>
-      <link>http://lapa.ninja/post/ramotion-business/</link>
-      <pubDate>Sat, 27 Aug 2016 11:38:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ramotion-business/</guid>
-      <description>
-        
-        <p>Ramotion Business provides access to hundreds of vetted software developers from Eastern Europe under our end-to-end management.</p>
-        <img src="http://lapa.ninja/assets/images/ramotion-business.jpg" />
 
 
       </description>

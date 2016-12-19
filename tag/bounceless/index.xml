@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/bounceless/index.xml</link>
+    <description>Recent content on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tag/bounceless/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bounceless</title>
+      <link>http://lapa.ninja/post/bounceless/</link>
+      <pubDate>Mon, 19 Dec 2016 22:21:01 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bounceless/</guid>
+      <description>
+        
+        <p>Get the highest ROI on your email marketing campaign.</p>
+        <img src="http://lapa.ninja/assets/images/bounceless.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

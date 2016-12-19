@@ -9,6 +9,51 @@
     <atom:link href="/category/creative/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Emperor</title>
+      <link>http://lapa.ninja/post/emperor/</link>
+      <pubDate>Mon, 19 Dec 2016 22:41:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/emperor/</guid>
+      <description>
+        
+        <p>An independently owned creative consultancy specialising in creative reporting, digital, engagement and brand communications.</p>
+        <img src="http://lapa.ninja/assets/images/emperor.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>stinkdigital</title>
+      <link>http://lapa.ninja/post/stinkdigital/</link>
+      <pubDate>Mon, 19 Dec 2016 22:21:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/stinkdigital/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja/assets/images/stinkdigital.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Details</title>
+      <link>http://lapa.ninja/post/details-ch/</link>
+      <pubDate>Mon, 19 Dec 2016 22:19:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/details-ch/</guid>
+      <description>
+        
+        <p>Digital communication agency</p>
+        <img src="http://lapa.ninja/assets/images/details-ch.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Steffen Studio</title>
       <link>http://lapa.ninja/post/steffen-studio/</link>
       <pubDate>Mon, 05 Dec 2016 11:46:58 +0700</pubDate>
@@ -183,51 +228,6 @@
         
         <p>Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.</p>
         <img src="http://lapa.ninja/assets/images/sketchapp.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Bear</title>
-      <link>http://lapa.ninja/post/bear/</link>
-      <pubDate>Tue, 08 Nov 2016 21:10:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bear/</guid>
-      <description>
-        
-        <p>Bear is a beautiful, flexible writing app for crafting notes and prose.</p>
-        <img src="http://lapa.ninja/assets/images/bear.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Workplace by Facebook</title>
-      <link>http://lapa.ninja/post/workplace-by-facebook/</link>
-      <pubDate>Fri, 04 Nov 2016 09:57:32 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/workplace-by-facebook/</guid>
-      <description>
-        
-        <p>For companies who get things done. Collaborate and get more done.</p>
-        <img src="http://lapa.ninja/assets/images/workplace-by-facebook.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Quadro</title>
-      <link>http://lapa.ninja/post/quadro/</link>
-      <pubDate>Sat, 29 Oct 2016 09:31:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/quadro/</guid>
-      <description>
-        
-        <p>Control desktop applications and automate your workflow with a personalised interface</p>
-        <img src="http://lapa.ninja/assets/images/quadro.jpg" />
 
 
       </description>

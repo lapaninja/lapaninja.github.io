@@ -9,6 +9,21 @@
     <atom:link href="/category/minimal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>bold</title>
+      <link>http://lapa.ninja/post/bold/</link>
+      <pubDate>Mon, 19 Dec 2016 22:22:24 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bold/</guid>
+      <description>
+        
+        <p>An internal blog for your team&#39;s knowledge and big ideas.</p>
+        <img src="http://lapa.ninja/assets/images/bold.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Plasso</title>
       <link>http://lapa.ninja/post/plasso-2/</link>
       <pubDate>Tue, 22 Nov 2016 22:40:01 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Your invoicing made easy. TwoCards is a simple way to send invoices and get paid on time.</p>
         <img src="http://lapa.ninja/assets/images/two-cards.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>re:create</title>
-      <link>http://lapa.ninja/post/re-create/</link>
-      <pubDate>Wed, 16 Mar 2016 11:56:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/re-create/</guid>
-      <description>
-        
-        <p>Be inspired by our super talented mentors - It’s time to kick it up a gear</p>
-        <img src="http://lapa.ninja/assets/images/re-create.jpg" />
 
 
       </description>
