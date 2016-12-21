@@ -9,6 +9,21 @@
     <atom:link href="/tag/webflow/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Webflow</title>
+      <link>http://lapa.ninja/post/webflow-2/</link>
+      <pubDate>Wed, 21 Dec 2016 22:26:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow-2/</guid>
+      <description>
+        
+        <p>A completely visual way to build for the web</p>
+        <img src="http://lapa.ninja/assets/images/webflow-21-12-2016.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Webflow Interactions 2.0</title>
       <link>http://lapa.ninja/post/webflow-interactions/</link>
       <pubDate>Wed, 31 Aug 2016 16:35:42 +0700</pubDate>

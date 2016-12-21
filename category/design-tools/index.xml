@@ -9,6 +9,21 @@
     <atom:link href="/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Webflow</title>
+      <link>http://lapa.ninja/post/webflow-2/</link>
+      <pubDate>Wed, 21 Dec 2016 22:26:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow-2/</guid>
+      <description>
+        
+        <p>A completely visual way to build for the web</p>
+        <img src="http://lapa.ninja/assets/images/webflow-21-12-2016.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Sketch</title>
       <link>http://lapa.ninja/post/sketchapp/</link>
       <pubDate>Sat, 12 Nov 2016 09:39:51 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Blocs for Mac is a fast, easy to use and powerful visual web design tool that lets you create beautiful and modern websites without the need to write code. </p>
         <img src="http://lapa.ninja/assets/images/blocs-17-05-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>SlashPixels</title>
-      <link>http://lapa.ninja/post/slashpixels/</link>
-      <pubDate>Wed, 11 May 2016 08:36:05 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/slashpixels/</guid>
-      <description>
-        
-        <p>Smart Artificial Intelligence Image Search Engine and aggregator for Dribbble, Behance, Pinterest, Cargo, Awwwards, Pttrns and other top Design sources.</p>
-        <img src="http://lapa.ninja/assets/images/slashpixels.jpg" />
 
 
       </description>

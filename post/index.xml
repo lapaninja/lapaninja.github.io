@@ -6,8 +6,38 @@
     <description>Recent content in Post-rsses on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Dec 2016 16:27:08 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 Dec 2016 22:26:32 +0700</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Shift</title>
+      <link>http://lapa.ninja/post/tryshift/</link>
+      <pubDate>Wed, 21 Dec 2016 22:26:32 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tryshift/</guid>
+      <description>
+        
+        <p>Tired of Switching between Gmail Accounts? Get Shift.</p>
+        <img src="http://lapa.ninja/assets/images/shift.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Webflow</title>
+      <link>http://lapa.ninja/post/webflow-2/</link>
+      <pubDate>Wed, 21 Dec 2016 22:26:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow-2/</guid>
+      <description>
+        
+        <p>A completely visual way to build for the web</p>
+        <img src="http://lapa.ninja/assets/images/webflow-21-12-2016.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Mixpanel</title>
@@ -199,36 +229,6 @@
         
         <p>We design interfaces.</p>
         <img src="http://lapa.ninja/assets/images/dux.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Icon54</title>
-      <link>http://lapa.ninja/post/icon54/</link>
-      <pubDate>Mon, 05 Dec 2016 11:46:21 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/icon54/</guid>
-      <description>
-        
-        <p>Vector line and solid Icons collection pack  for iOS, Android, Websites &amp; Apps</p>
-        <img src="http://lapa.ninja/assets/images/icon54.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Nomad</title>
-      <link>http://lapa.ninja/post/nomadspace/</link>
-      <pubDate>Mon, 05 Dec 2016 11:44:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/nomadspace/</guid>
-      <description>
-        
-        <p>Large, small, long-term or short – find the right space for you, or your company</p>
-        <img src="http://lapa.ninja/assets/images/nomad.jpg" />
 
 
       </description>
