@@ -9,6 +9,36 @@
     <atom:link href="/category/creative/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Mixpanel</title>
+      <link>http://lapa.ninja/post/mixpanel-2/</link>
+      <pubDate>Wed, 21 Dec 2016 16:27:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mixpanel-2/</guid>
+      <description>
+        
+        <p>Deeply understand every user&#39;s journey with instant insights for everyone on mobile and web.</p>
+        <img src="http://lapa.ninja/assets/images/mixpanel-2.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>About Mixpanel</title>
+      <link>http://lapa.ninja/post/mixpanel-about/</link>
+      <pubDate>Wed, 21 Dec 2016 16:26:27 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mixpanel-about/</guid>
+      <description>
+        
+        <p>Our mission is to help the world learn from its data</p>
+        <img src="http://lapa.ninja/assets/images/mixpanel-2-about.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Emperor</title>
       <link>http://lapa.ninja/post/emperor/</link>
       <pubDate>Mon, 19 Dec 2016 22:41:20 +0700</pubDate>
@@ -198,36 +228,6 @@
         
         <p>The Design Portfolio of Vedad Siljak</p>
         <img src="http://lapa.ninja/assets/images/vedad-siljak.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Process</title>
-      <link>http://lapa.ninja/post/process-masterclass/</link>
-      <pubDate>Sat, 12 Nov 2016 09:59:03 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/process-masterclass/</guid>
-      <description>
-        
-        <p>A course made to increase your value as an interactive designer. From design thinking to design execution.</p>
-        <img src="http://lapa.ninja/assets/images/process-masterclass.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sketch</title>
-      <link>http://lapa.ninja/post/sketchapp/</link>
-      <pubDate>Sat, 12 Nov 2016 09:39:51 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/sketchapp/</guid>
-      <description>
-        
-        <p>Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.</p>
-        <img src="http://lapa.ninja/assets/images/sketchapp.jpg" />
 
 
       </description>
