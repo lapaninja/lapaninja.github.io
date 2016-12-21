@@ -9,6 +9,51 @@
     <atom:link href="/category/coming-soon/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Status</title>
+      <link>http://lapa.ninja/post/statusim/</link>
+      <pubDate>Wed, 21 Dec 2016 16:26:25 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/statusim/</guid>
+      <description>
+        
+        <p>Status is a browser, messenger, and gateway to a decentralised world.</p>
+        <img src="http://lapa.ninja/assets/images/status-im.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Testmate</title>
+      <link>http://lapa.ninja/post/testmate/</link>
+      <pubDate>Tue, 22 Nov 2016 21:37:15 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/testmate/</guid>
+      <description>
+        
+        <p>Testmate is smart software that saves you and your team time by automating the logistics of user research interviews. Get Early Access</p>
+        <img src="http://lapa.ninja/assets/images/testmate.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Milanote</title>
+      <link>http://lapa.ninja/post/milanote/</link>
+      <pubDate>Thu, 27 Oct 2016 13:42:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/milanote/</guid>
+      <description>
+        
+        <p>For the research, thinking and planning behind your next great piece of work.</p>
+        <img src="http://lapa.ninja/assets/images/milanote.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>C.A.F</title>
       <link>http://lapa.ninja/post/contextual-app-folder/</link>
       <pubDate>Fri, 21 Oct 2016 21:00:25 +0700</pubDate>
