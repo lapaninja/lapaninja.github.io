@@ -9,6 +9,21 @@
     <atom:link href="/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bootstrap Studio</title>
+      <link>http://lapa.ninja/post/bootstrap-studio/</link>
+      <pubDate>Wed, 04 Jan 2017 14:19:05 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bootstrap-studio/</guid>
+      <description>
+        
+        <p>A powerful desktop app for creating responsive websites using the Bootstrap framework.</p>
+        <img src="http://lapa.ninja/assets/images/bootstrap-studio.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Webflow</title>
       <link>http://lapa.ninja/post/webflow-2/</link>
       <pubDate>Wed, 21 Dec 2016 22:26:11 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>We&#39;ve completely rethought how designers create and collaborate with non-designers.</p>
         <img src="http://lapa.ninja/assets/images/uxpin.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Blocs</title>
-      <link>http://lapa.ninja/post/blocsapp-2/</link>
-      <pubDate>Tue, 17 May 2016 10:31:15 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/blocsapp-2/</guid>
-      <description>
-        
-        <p>Blocs for Mac is a fast, easy to use and powerful visual web design tool that lets you create beautiful and modern websites without the need to write code. </p>
-        <img src="http://lapa.ninja/assets/images/blocs-17-05-2016.jpg" />
 
 
       </description>

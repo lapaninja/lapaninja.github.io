@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/aerolab/index.xml</link>
+    <description>Recent content on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tag/aerolab/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aerolab</title>
+      <link>http://lapa.ninja/post/aerolab/</link>
+      <pubDate>Wed, 04 Jan 2017 14:19:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/aerolab/</guid>
+      <description>
+        
+        <p>We design and develop digital_products for mobile and web, that people love to use.</p>
+        <img src="http://lapa.ninja/assets/images/aerolab.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
