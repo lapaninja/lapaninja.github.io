@@ -1,13 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <title>The Best Landing Page Inspiration on The Best Landing Page Inspiration | Lapa.Ninja</title>
     <link>http://lapa.ninja/index.xml</link>
-    <description>Recent content on The Best Landing Page Inspiration</description>
+    <description>Recent content in The Best Landing Page Inspiration on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jan 2017 14:20:04 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jan 2017 21:55:37 +0700</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Froont</title>
+      <link>http://lapa.ninja/post/froont/</link>
+      <pubDate>Tue, 17 Jan 2017 21:55:37 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/froont/</guid>
+      <description>
+        
+        <p>Design responsive landing pages and publications, export them as static pages or host them yourself</p>
+        <img src="http://lapa.ninja/assets/images/froont.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Ekko</title>
+      <link>http://lapa.ninja/post/ekko/</link>
+      <pubDate>Tue, 17 Jan 2017 21:45:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ekko/</guid>
+      <description>
+        
+        <p>Create your business website in seconds, using your Facebook page</p>
+        <img src="http://lapa.ninja/assets/images/ekko.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Ionic Creator</title>
+      <link>http://lapa.ninja/post/ionic-creator/</link>
+      <pubDate>Tue, 17 Jan 2017 21:00:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ionic-creator/</guid>
+      <description>
+        
+        <p>Creator is a simple drag-&amp;-drop tool for going from idea to App Store, with just the drag of a mouse. Start building now</p>
+        <img src="http://lapa.ninja/assets/images/ionic-creator.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Gasket</title>
+      <link>http://lapa.ninja/post/gasket/</link>
+      <pubDate>Tue, 17 Jan 2017 20:55:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/gasket/</guid>
+      <description>
+        
+        <p>With Gasket it&#39;s a snap to sync live data directly from Sheets.</p>
+        <img src="http://lapa.ninja/assets/images/gasket.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>STRV</title>
+      <link>http://lapa.ninja/post/strv/</link>
+      <pubDate>Tue, 17 Jan 2017 20:55:19 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/strv/</guid>
+      <description>
+        
+        <p>The Fastest Way To Build Software</p>
+        <img src="http://lapa.ninja/assets/images/strv.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>We Craft Apps</title>
@@ -154,81 +229,6 @@
         
         <p>An independently owned creative consultancy specialising in creative reporting, digital, engagement and brand communications.</p>
         <img src="http://lapa.ninja/assets/images/emperor.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>bold</title>
-      <link>http://lapa.ninja/post/bold/</link>
-      <pubDate>Mon, 19 Dec 2016 22:22:24 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bold/</guid>
-      <description>
-        
-        <p>An internal blog for your team&#39;s knowledge and big ideas.</p>
-        <img src="http://lapa.ninja/assets/images/bold.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>stinkdigital</title>
-      <link>http://lapa.ninja/post/stinkdigital/</link>
-      <pubDate>Mon, 19 Dec 2016 22:21:52 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/stinkdigital/</guid>
-      <description>
-        
-        <p></p>
-        <img src="http://lapa.ninja/assets/images/stinkdigital.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Opteo</title>
-      <link>http://lapa.ninja/post/opteo/</link>
-      <pubDate>Mon, 19 Dec 2016 22:21:08 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/opteo/</guid>
-      <description>
-        
-        <p>The smarter way to manage your Adwords clients</p>
-        <img src="http://lapa.ninja/assets/images/opteo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Bounceless</title>
-      <link>http://lapa.ninja/post/bounceless/</link>
-      <pubDate>Mon, 19 Dec 2016 22:21:01 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bounceless/</guid>
-      <description>
-        
-        <p>Get the highest ROI on your email marketing campaign.</p>
-        <img src="http://lapa.ninja/assets/images/bounceless.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Details</title>
-      <link>http://lapa.ninja/post/details-ch/</link>
-      <pubDate>Mon, 19 Dec 2016 22:19:11 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/details-ch/</guid>
-      <description>
-        
-        <p>Digital communication agency</p>
-        <img src="http://lapa.ninja/assets/images/details-ch.png" />
 
 
       </description>

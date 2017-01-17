@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <title>Software on The Best Landing Page Inspiration | Lapa.Ninja</title>
     <link>http://lapa.ninja/category/software/index.xml</link>
-    <description>Recent content on The Best Landing Page Inspiration</description>
+    <description>Recent content in Software on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/category/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gasket</title>
+      <link>http://lapa.ninja/post/gasket/</link>
+      <pubDate>Tue, 17 Jan 2017 20:55:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/gasket/</guid>
+      <description>
+        
+        <p>With Gasket it&#39;s a snap to sync live data directly from Sheets.</p>
+        <img src="http://lapa.ninja/assets/images/gasket.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Shift</title>
@@ -213,21 +228,6 @@
         
         <p>Organize anything you can imagine. Airtable works like a spreadsheet but gives you the power of a database to organize anything.</p>
         <img src="http://lapa.ninja/assets/images/airtable-27-10-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Gusto</title>
-      <link>http://lapa.ninja/post/gusto-2/</link>
-      <pubDate>Thu, 27 Oct 2016 13:41:52 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/gusto-2/</guid>
-      <description>
-        
-        <p>Online HR Services: Payroll, Benefits and everything else</p>
-        <img src="http://lapa.ninja/assets/images/gusto-27-10-2016.jpg" />
 
 
       </description>

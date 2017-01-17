@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <title>Business on The Best Landing Page Inspiration | Lapa.Ninja</title>
     <link>http://lapa.ninja/category/business/index.xml</link>
-    <description>Recent content on The Best Landing Page Inspiration</description>
+    <description>Recent content in Business on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/category/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ekko</title>
+      <link>http://lapa.ninja/post/ekko/</link>
+      <pubDate>Tue, 17 Jan 2017 21:45:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ekko/</guid>
+      <description>
+        
+        <p>Create your business website in seconds, using your Facebook page</p>
+        <img src="http://lapa.ninja/assets/images/ekko.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Aerolab</title>
@@ -213,21 +228,6 @@
         
         <p>Online HR Services: Payroll, Benefits and everything else</p>
         <img src="http://lapa.ninja/assets/images/gusto-27-10-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Stripe: Radar</title>
-      <link>http://lapa.ninja/post/stripe-radar/</link>
-      <pubDate>Fri, 21 Oct 2016 21:00:38 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/stripe-radar/</guid>
-      <description>
-        
-        <p>Modern tools to prevent fraud, fully integrated with your payments.</p>
-        <img src="http://lapa.ninja/assets/images/stripe-radar.jpg" />
 
 
       </description>

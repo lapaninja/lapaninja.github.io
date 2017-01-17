@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <title>Ecommerce on The Best Landing Page Inspiration | Lapa.Ninja</title>
     <link>http://lapa.ninja/category/ecommerce/index.xml</link>
-    <description>Recent content on The Best Landing Page Inspiration</description>
+    <description>Recent content in Ecommerce on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/category/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ekko</title>
+      <link>http://lapa.ninja/post/ekko/</link>
+      <pubDate>Tue, 17 Jan 2017 21:45:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ekko/</guid>
+      <description>
+        
+        <p>Create your business website in seconds, using your Facebook page</p>
+        <img src="http://lapa.ninja/assets/images/ekko.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>HiveBoxx</title>
@@ -213,21 +228,6 @@
         
         <p>Everything to gain. Introducing Robin, the first Android phone that makes running out of space history. With the cloud integrated into Android OS, your onboard storage is merged with the cloud, so you always have the space you need.</p>
         <img src="http://lapa.ninja/assets/images/nextbit.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>TwoCards</title>
-      <link>http://lapa.ninja/post/twocards/</link>
-      <pubDate>Mon, 21 Mar 2016 10:42:05 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/twocards/</guid>
-      <description>
-        
-        <p>Your invoicing made easy. TwoCards is a simple way to send invoices and get paid on time.</p>
-        <img src="http://lapa.ninja/assets/images/two-cards.jpg" />
 
 
       </description>

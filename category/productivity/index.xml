@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <title>Productivity on The Best Landing Page Inspiration | Lapa.Ninja</title>
     <link>http://lapa.ninja/category/productivity/index.xml</link>
-    <description>Recent content on The Best Landing Page Inspiration</description>
+    <description>Recent content in Productivity on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/category/productivity/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gasket</title>
+      <link>http://lapa.ninja/post/gasket/</link>
+      <pubDate>Tue, 17 Jan 2017 20:55:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/gasket/</guid>
+      <description>
+        
+        <p>With Gasket it&#39;s a snap to sync live data directly from Sheets.</p>
+        <img src="http://lapa.ninja/assets/images/gasket.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Shift</title>
@@ -213,21 +228,6 @@
         
         <p>Quick and Easy Decision Making for Questions, Polls, and Opinions</p>
         <img src="http://lapa.ninja/assets/images/owlie.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Notion AI</title>
-      <link>http://lapa.ninja/post/notion-ai/</link>
-      <pubDate>Thu, 27 Oct 2016 13:42:34 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/notion-ai/</guid>
-      <description>
-        
-        <p>Notion is an artificial intelligence designed to improve how we communicate.</p>
-        <img src="http://lapa.ninja/assets/images/notion-ai.jpg" />
 
 
       </description>

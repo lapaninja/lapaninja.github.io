@@ -1,12 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <title>Design Tools on The Best Landing Page Inspiration | Lapa.Ninja</title>
     <link>http://lapa.ninja/category/design-tools/index.xml</link>
-    <description>Recent content on The Best Landing Page Inspiration</description>
+    <description>Recent content in Design Tools on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Froont</title>
+      <link>http://lapa.ninja/post/froont/</link>
+      <pubDate>Tue, 17 Jan 2017 21:55:37 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/froont/</guid>
+      <description>
+        
+        <p>Design responsive landing pages and publications, export them as static pages or host them yourself</p>
+        <img src="http://lapa.ninja/assets/images/froont.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Ionic Creator</title>
+      <link>http://lapa.ninja/post/ionic-creator/</link>
+      <pubDate>Tue, 17 Jan 2017 21:00:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ionic-creator/</guid>
+      <description>
+        
+        <p>Creator is a simple drag-&amp;-drop tool for going from idea to App Store, with just the drag of a mouse. Start building now</p>
+        <img src="http://lapa.ninja/assets/images/ionic-creator.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Bootstrap Studio</title>
@@ -198,36 +228,6 @@
         
         <p>Dropbox has new productivity features to simplify the way you create, collaborate, and keep work safe. Learn how to get more done and get started.</p>
         <img src="http://lapa.ninja/assets/images/dropbox-productivity.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sketch Master</title>
-      <link>http://lapa.ninja/post/sketch-master/</link>
-      <pubDate>Fri, 17 Jun 2016 09:37:36 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/sketch-master/</guid>
-      <description>
-        
-        <p>Sketch Master is a collection of video training courses for professionals learning Sketch. The courses are fast-paced and focused on real projects and practical workflows</p>
-        <img src="http://lapa.ninja/assets/images/sketch-master.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>UXPin</title>
-      <link>http://lapa.ninja/post/uxpin/</link>
-      <pubDate>Fri, 10 Jun 2016 10:49:01 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/uxpin/</guid>
-      <description>
-        
-        <p>We&#39;ve completely rethought how designers create and collaborate with non-designers.</p>
-        <img src="http://lapa.ninja/assets/images/uxpin.jpg" />
 
 
       </description>

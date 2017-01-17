@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <title>Creative on The Best Landing Page Inspiration | Lapa.Ninja</title>
     <link>http://lapa.ninja/category/creative/index.xml</link>
-    <description>Recent content on The Best Landing Page Inspiration</description>
+    <description>Recent content in Creative on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>STRV</title>
+      <link>http://lapa.ninja/post/strv/</link>
+      <pubDate>Tue, 17 Jan 2017 20:55:19 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/strv/</guid>
+      <description>
+        
+        <p>The Fastest Way To Build Software</p>
+        <img src="http://lapa.ninja/assets/images/strv.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>We Craft Apps</title>
@@ -213,21 +228,6 @@
         
         <p>Circles is a creative design conference where designers can learn from world-changing thinkers and innovators for the creative community.</p>
         <img src="http://lapa.ninja/assets/images/circles-conference.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>hellojebus</title>
-      <link>http://lapa.ninja/post/hellojeb/</link>
-      <pubDate>Tue, 15 Nov 2016 11:02:14 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/hellojeb/</guid>
-      <description>
-        
-        <p>Using the latest tools and technologies, I will guide you through the ups and downs of product development.</p>
-        <img src="http://lapa.ninja/assets/images/hellojebus.jpg" />
 
 
       </description>

@@ -1,12 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <title>Prototype on The Best Landing Page Inspiration | Lapa.Ninja</title>
     <link>http://lapa.ninja/category/prototype/index.xml</link>
-    <description>Recent content on The Best Landing Page Inspiration</description>
+    <description>Recent content in Prototype on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/category/prototype/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Froont</title>
+      <link>http://lapa.ninja/post/froont/</link>
+      <pubDate>Tue, 17 Jan 2017 21:55:37 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/froont/</guid>
+      <description>
+        
+        <p>Design responsive landing pages and publications, export them as static pages or host them yourself</p>
+        <img src="http://lapa.ninja/assets/images/froont.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Ionic Creator</title>
+      <link>http://lapa.ninja/post/ionic-creator/</link>
+      <pubDate>Tue, 17 Jan 2017 21:00:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ionic-creator/</guid>
+      <description>
+        
+        <p>Creator is a simple drag-&amp;-drop tool for going from idea to App Store, with just the drag of a mouse. Start building now</p>
+        <img src="http://lapa.ninja/assets/images/ionic-creator.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Bootstrap Studio</title>
@@ -198,36 +228,6 @@
         
         <p>Webydo is a professional online website design software for designers. With Webydo, designers can create multiple responsive websites with custom tailored design from scratch without writing one line of code.</p>
         <img src="http://lapa.ninja/assets/images/webydo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Webflow</title>
-      <link>http://lapa.ninja/post/webflow/</link>
-      <pubDate>Thu, 18 Feb 2016 10:32:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/webflow/</guid>
-      <description>
-        
-        <p>Build responsive websites in your browser. Launch with a click. Or export your code to host wherever. Discover the professional website builder made for designers.</p>
-        <img src="http://lapa.ninja/assets/images/webflow.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Marvel</title>
-      <link>http://lapa.ninja/post/marvelapp-2/</link>
-      <pubDate>Fri, 29 Jan 2016 11:18:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/marvelapp-2/</guid>
-      <description>
-        
-        <p>Turn sketches, mockups and designs into web, iPhone, iOS, Android and Apple Watch app prototypes.</p>
-        <img src="http://lapa.ninja/assets/images/marvelapp-2016.jpg" />
 
 
       </description>

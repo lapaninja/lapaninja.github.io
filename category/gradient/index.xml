@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <title>Gradient on The Best Landing Page Inspiration | Lapa.Ninja</title>
     <link>http://lapa.ninja/category/gradient/index.xml</link>
-    <description>Recent content on The Best Landing Page Inspiration</description>
+    <description>Recent content in Gradient on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/category/gradient/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gasket</title>
+      <link>http://lapa.ninja/post/gasket/</link>
+      <pubDate>Tue, 17 Jan 2017 20:55:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/gasket/</guid>
+      <description>
+        
+        <p>With Gasket it&#39;s a snap to sync live data directly from Sheets.</p>
+        <img src="http://lapa.ninja/assets/images/gasket.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Mixpanel</title>

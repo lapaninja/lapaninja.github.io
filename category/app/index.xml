@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <title>App on The Best Landing Page Inspiration | Lapa.Ninja</title>
     <link>http://lapa.ninja/category/app/index.xml</link>
-    <description>Recent content on The Best Landing Page Inspiration</description>
+    <description>Recent content in App on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/category/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ionic Creator</title>
+      <link>http://lapa.ninja/post/ionic-creator/</link>
+      <pubDate>Tue, 17 Jan 2017 21:00:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ionic-creator/</guid>
+      <description>
+        
+        <p>Creator is a simple drag-&amp;-drop tool for going from idea to App Store, with just the drag of a mouse. Start building now</p>
+        <img src="http://lapa.ninja/assets/images/ionic-creator.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Mixpanel</title>
@@ -213,21 +228,6 @@
         
         <p>Wake is the fastest and easiest way for designers to share work and collect feedback from their team.</p>
         <img src="http://lapa.ninja/assets/images/wake-com.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>PaintCode 3</title>
-      <link>http://lapa.ninja/post/paintcode-3/</link>
-      <pubDate>Fri, 04 Nov 2016 10:10:59 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/paintcode-3/</guid>
-      <description>
-        
-        <p>PaintCode is a unique vector drawing app that generates Objective-C or Swift code in real time, acting as a bridge between developers and graphic designers.</p>
-        <img src="http://lapa.ninja/assets/images/paint-code-3.jpg" />
 
 
       </description>
