@@ -9,6 +9,21 @@
     <atom:link href="/category/corporate/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bakken &amp; Bæck</title>
+      <link>http://lapa.ninja/post/bakkenbaeck/</link>
+      <pubDate>Tue, 31 Jan 2017 22:07:16 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bakkenbaeck/</guid>
+      <description>
+        
+        <p>A digital studio that transforms big ideas into great products and ventures.</p>
+        <img src="http://lapa.ninja/assets/images/bakkenbaeck.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Aerolab</title>
       <link>http://lapa.ninja/post/aerolab/</link>
       <pubDate>Wed, 04 Jan 2017 14:19:28 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Invest in impactful startups raising money via equity crowdfunding</p>
         <img src="http://lapa.ninja/assets/images/republic.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Segment</title>
-      <link>http://lapa.ninja/post/segment-2/</link>
-      <pubDate>Thu, 01 Sep 2016 10:55:03 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/segment-2/</guid>
-      <description>
-        
-        <p>Segment is trusted by thousands of companies as their Customer Data Platform. Collect user data with one API and send it to hundreds of tools or a data warehouse.</p>
-        <img src="http://lapa.ninja/assets/images/segment-01-09-2016.jpg" />
 
 
       </description>

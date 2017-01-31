@@ -9,6 +9,21 @@
     <atom:link href="/category/prototype/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Avocode</title>
+      <link>http://lapa.ninja/post/avocode-2/</link>
+      <pubDate>Tue, 31 Jan 2017 22:07:32 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/avocode-2/</guid>
+      <description>
+        
+        <p>Build web, iOS &amp; Android apps exactly as they were designed</p>
+        <img src="http://lapa.ninja/assets/images/avocode-31-01-17.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Froont</title>
       <link>http://lapa.ninja/post/froont/</link>
       <pubDate>Tue, 17 Jan 2017 21:55:37 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>ViewFlux allows you to create clickable prototypes from your designs, easily get feedback &amp; collaborate with your clients or team mates.</p>
         <img src="http://lapa.ninja/assets/images/view-flux.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Webydo</title>
-      <link>http://lapa.ninja/post/webydo/</link>
-      <pubDate>Thu, 03 Mar 2016 14:35:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/webydo/</guid>
-      <description>
-        
-        <p>Webydo is a professional online website design software for designers. With Webydo, designers can create multiple responsive websites with custom tailored design from scratch without writing one line of code.</p>
-        <img src="http://lapa.ninja/assets/images/webydo.jpg" />
 
 
       </description>

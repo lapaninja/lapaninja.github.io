@@ -9,6 +9,21 @@
     <atom:link href="/category/app/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Clerkie</title>
+      <link>http://lapa.ninja/post/clerkie/</link>
+      <pubDate>Tue, 31 Jan 2017 22:06:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/clerkie/</guid>
+      <description>
+        
+        <p>Clerkie is your personal assistant for all things money related!</p>
+        <img src="http://lapa.ninja/assets/images/clerkie.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Ionic Creator</title>
       <link>http://lapa.ninja/post/ionic-creator/</link>
       <pubDate>Tue, 17 Jan 2017 21:00:59 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Quick Reminders. Later is a productivity app for your iPhone and Mac to set reminders quickly using preset. </p>
         <img src="http://lapa.ninja/assets/images/laterapp.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Wake</title>
-      <link>http://lapa.ninja/post/wake/</link>
-      <pubDate>Tue, 08 Nov 2016 21:09:35 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/wake/</guid>
-      <description>
-        
-        <p>Wake is the fastest and easiest way for designers to share work and collect feedback from their team.</p>
-        <img src="http://lapa.ninja/assets/images/wake-com.jpg" />
 
 
       </description>
