@@ -9,6 +9,36 @@
     <atom:link href="/category/app/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Dropbox Paper</title>
+      <link>http://lapa.ninja/post/dropbox-paper-2/</link>
+      <pubDate>Tue, 31 Jan 2017 23:18:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dropbox-paper-2/</guid>
+      <description>
+        
+        <p>Grow bigger, brighter ideas. More than a doc, Dropbox Paper is a flexible workspace that brings people and ideas together.</p>
+        <img src="http://lapa.ninja/assets/images/dropbox-paper-31-01-17.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Dropbox</title>
+      <link>http://lapa.ninja/post/dropbox/</link>
+      <pubDate>Tue, 31 Jan 2017 23:10:44 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dropbox/</guid>
+      <description>
+        
+        <p>Introducing Dropbox Paper and Smart Sync — a simpler way to work together.</p>
+        <img src="http://lapa.ninja/assets/images/dropbox.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Clerkie</title>
       <link>http://lapa.ninja/post/clerkie/</link>
       <pubDate>Tue, 31 Jan 2017 22:06:54 +0700</pubDate>
@@ -198,36 +228,6 @@
         
         <p>Bear is a beautiful, flexible writing app for crafting notes and prose.</p>
         <img src="http://lapa.ninja/assets/images/bear.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Carv</title>
-      <link>http://lapa.ninja/post/carv/</link>
-      <pubDate>Tue, 08 Nov 2016 21:10:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/carv/</guid>
-      <description>
-        
-        <p>Carv is the first wearable technology dedicated to skiing that speaks to you as you ski - it&#39;s your digital ski coach.</p>
-        <img src="http://lapa.ninja/assets/images/carv-ai.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Later</title>
-      <link>http://lapa.ninja/post/laterapp/</link>
-      <pubDate>Tue, 08 Nov 2016 21:09:48 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/laterapp/</guid>
-      <description>
-        
-        <p>Quick Reminders. Later is a productivity app for your iPhone and Mac to set reminders quickly using preset. </p>
-        <img src="http://lapa.ninja/assets/images/laterapp.jpg" />
 
 
       </description>

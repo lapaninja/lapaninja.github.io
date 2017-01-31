@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lapa.ninja/post/dropbox-paper-2/</loc>
+    <lastmod>2017-01-31T23:18:17+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/post/dropbox/</loc>
+    <lastmod>2017-01-31T23:10:44+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lapa.ninja/post/avocode-2/</loc>
     <lastmod>2017-01-31T22:07:32+07:00</lastmod>
   </url>
@@ -2144,7 +2154,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/app/</loc>
-    <lastmod>2017-01-31T22:06:54+07:00</lastmod>
+    <lastmod>2017-01-31T23:18:17+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2449,7 +2459,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/creative/</loc>
-    <lastmod>2017-01-17T20:55:19+07:00</lastmod>
+    <lastmod>2017-01-31T23:18:17+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2533,7 +2543,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/design-tools/</loc>
-    <lastmod>2017-01-31T22:07:32+07:00</lastmod>
+    <lastmod>2017-01-31T23:18:17+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2593,7 +2603,7 @@
   
   <url>
     <loc>http://lapa.ninja/tag/dropbox/</loc>
-    <lastmod>2016-08-06T10:22:10+07:00</lastmod>
+    <lastmod>2017-01-31T23:18:17+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2983,7 +2993,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/illustration/</loc>
-    <lastmod>2017-01-31T22:07:32+07:00</lastmod>
+    <lastmod>2017-01-31T23:10:44+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3613,7 +3623,7 @@
   
   <url>
     <loc>http://lapa.ninja/post/</loc>
-    <lastmod>2017-01-31T22:07:32+07:00</lastmod>
+    <lastmod>2017-01-31T23:18:17+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3637,7 +3647,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/productivity/</loc>
-    <lastmod>2017-01-17T20:55:45+07:00</lastmod>
+    <lastmod>2017-01-31T23:10:44+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4122,7 +4132,7 @@
   
   <url>
     <loc>http://lapa.ninja/</loc>
-    <lastmod>2017-01-31T22:07:32+07:00</lastmod>
+    <lastmod>2017-01-31T23:18:17+07:00</lastmod>
     <priority>0</priority>
   </url>
   

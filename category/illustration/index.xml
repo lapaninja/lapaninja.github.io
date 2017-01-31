@@ -9,6 +9,21 @@
     <atom:link href="/category/illustration/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Dropbox</title>
+      <link>http://lapa.ninja/post/dropbox/</link>
+      <pubDate>Tue, 31 Jan 2017 23:10:44 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dropbox/</guid>
+      <description>
+        
+        <p>Introducing Dropbox Paper and Smart Sync — a simpler way to work together.</p>
+        <img src="http://lapa.ninja/assets/images/dropbox.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Avocode</title>
       <link>http://lapa.ninja/post/avocode-2/</link>
       <pubDate>Tue, 31 Jan 2017 22:07:32 +0700</pubDate>
