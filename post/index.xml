@@ -6,8 +6,38 @@
     <description>Recent content in Posts on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Jan 2017 23:18:17 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 16:03:41 +0700</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Yummygum</title>
+      <link>http://lapa.ninja/post/yummygum/</link>
+      <pubDate>Mon, 06 Feb 2017 16:03:41 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/yummygum/</guid>
+      <description>
+        
+        <p>We’re a design studio from Amsterdam. We help startups and other businesses to refine, design and launch their digital products.</p>
+        <img src="http://lapa.ninja/assets/images/yummygum.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Making Waves</title>
+      <link>http://lapa.ninja/post/makingwaves/</link>
+      <pubDate>Mon, 06 Feb 2017 16:03:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/makingwaves/</guid>
+      <description>
+        
+        <p>Moving together</p>
+        <img src="http://lapa.ninja/assets/images/makingwaves.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Dropbox Paper</title>
@@ -199,36 +229,6 @@
         
         <p>We design and develop digital_products for mobile and web, that people love to use.</p>
         <img src="http://lapa.ninja/assets/images/aerolab.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Bootstrap Studio</title>
-      <link>http://lapa.ninja/post/bootstrap-studio/</link>
-      <pubDate>Wed, 04 Jan 2017 14:19:05 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bootstrap-studio/</guid>
-      <description>
-        
-        <p>A powerful desktop app for creating responsive websites using the Bootstrap framework.</p>
-        <img src="http://lapa.ninja/assets/images/bootstrap-studio.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Shift</title>
-      <link>http://lapa.ninja/post/tryshift/</link>
-      <pubDate>Wed, 21 Dec 2016 22:26:32 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/tryshift/</guid>
-      <description>
-        
-        <p>Tired of Switching between Gmail Accounts? Get Shift.</p>
-        <img src="http://lapa.ninja/assets/images/shift.jpg" />
 
 
       </description>

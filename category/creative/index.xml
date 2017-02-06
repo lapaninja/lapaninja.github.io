@@ -9,6 +9,36 @@
     <atom:link href="/category/creative/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Yummygum</title>
+      <link>http://lapa.ninja/post/yummygum/</link>
+      <pubDate>Mon, 06 Feb 2017 16:03:41 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/yummygum/</guid>
+      <description>
+        
+        <p>We’re a design studio from Amsterdam. We help startups and other businesses to refine, design and launch their digital products.</p>
+        <img src="http://lapa.ninja/assets/images/yummygum.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Making Waves</title>
+      <link>http://lapa.ninja/post/makingwaves/</link>
+      <pubDate>Mon, 06 Feb 2017 16:03:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/makingwaves/</guid>
+      <description>
+        
+        <p>Moving together</p>
+        <img src="http://lapa.ninja/assets/images/makingwaves.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Dropbox Paper</title>
       <link>http://lapa.ninja/post/dropbox-paper-2/</link>
       <pubDate>Tue, 31 Jan 2017 23:18:17 +0700</pubDate>
@@ -198,36 +228,6 @@
         
         <p>Ueno is a full-service digital agency, busy designing and building beautiful digital products, brands, and experiences.</p>
         <img src="http://lapa.ninja/assets/images/ueno-22-11-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Siteleaf</title>
-      <link>http://lapa.ninja/post/siteleaf/</link>
-      <pubDate>Tue, 22 Nov 2016 21:37:35 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/siteleaf/</guid>
-      <description>
-        
-        <p>Content management system designed for a better web.</p>
-        <img src="http://lapa.ninja/assets/images/siteleaf.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Designer Fund</title>
-      <link>http://lapa.ninja/post/designer-fund/</link>
-      <pubDate>Tue, 22 Nov 2016 21:36:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/designer-fund/</guid>
-      <description>
-        
-        <p>We invest in startups co-founded by designers, build and educate design teams through Bridge and share best practices with our community</p>
-        <img src="http://lapa.ninja/assets/images/designer-fund.jpg" />
 
 
       </description>

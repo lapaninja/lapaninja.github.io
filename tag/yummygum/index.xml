@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yummygum on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/yummygum/index.xml</link>
+    <description>Recent content in Yummygum on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tag/yummygum/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Yummygum</title>
+      <link>http://lapa.ninja/post/yummygum/</link>
+      <pubDate>Mon, 06 Feb 2017 16:03:41 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/yummygum/</guid>
+      <description>
+        
+        <p>We’re a design studio from Amsterdam. We help startups and other businesses to refine, design and launch their digital products.</p>
+        <img src="http://lapa.ninja/assets/images/yummygum.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

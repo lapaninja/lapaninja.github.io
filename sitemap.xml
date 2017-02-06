@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lapa.ninja/post/yummygum/</loc>
+    <lastmod>2017-02-06T16:03:41+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/post/makingwaves/</loc>
+    <lastmod>2017-02-06T16:03:23+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lapa.ninja/post/dropbox-paper-2/</loc>
     <lastmod>2017-01-31T23:18:17+07:00</lastmod>
   </url>
@@ -2447,7 +2457,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/corporate/</loc>
-    <lastmod>2017-01-31T22:07:16+07:00</lastmod>
+    <lastmod>2017-02-06T16:03:41+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2459,7 +2469,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/creative/</loc>
-    <lastmod>2017-01-31T23:18:17+07:00</lastmod>
+    <lastmod>2017-02-06T16:03:41+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3202,6 +3212,12 @@
   </url>
   
   <url>
+    <loc>http://lapa.ninja/tag/makingwaves/</loc>
+    <lastmod>2017-02-06T16:03:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://lapa.ninja/tag/mapbox/</loc>
     <lastmod>2016-03-03T14:35:31+07:00</lastmod>
     <priority>0</priority>
@@ -3257,7 +3273,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/minimal/</loc>
-    <lastmod>2017-01-31T22:07:16+07:00</lastmod>
+    <lastmod>2017-02-06T16:03:41+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3281,7 +3297,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/miscellaneous/</loc>
-    <lastmod>2017-01-17T21:45:28+07:00</lastmod>
+    <lastmod>2017-02-06T16:03:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3623,7 +3639,7 @@
   
   <url>
     <loc>http://lapa.ninja/post/</loc>
-    <lastmod>2017-01-31T23:18:17+07:00</lastmod>
+    <lastmod>2017-02-06T16:03:41+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4132,7 +4148,7 @@
   
   <url>
     <loc>http://lapa.ninja/</loc>
-    <lastmod>2017-01-31T23:18:17+07:00</lastmod>
+    <lastmod>2017-02-06T16:03:41+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4421,6 +4437,12 @@
   <url>
     <loc>http://lapa.ninja/tag/yoga/</loc>
     <lastmod>2016-03-19T09:46:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/tag/yummygum/</loc>
+    <lastmod>2017-02-06T16:03:41+07:00</lastmod>
     <priority>0</priority>
   </url>
   
