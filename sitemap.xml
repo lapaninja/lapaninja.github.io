@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lapa.ninja/post/framer/</loc>
+    <lastmod>2017-02-07T21:50:54+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/post/framer-cloud/</loc>
+    <lastmod>2017-02-07T21:45:38+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/post/framer-flow/</loc>
+    <lastmod>2017-02-07T21:42:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/post/designers-how/</loc>
+    <lastmod>2017-02-07T21:31:38+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lapa.ninja/post/yummygum/</loc>
     <lastmod>2017-02-06T16:03:41+07:00</lastmod>
   </url>
@@ -2164,7 +2184,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/app/</loc>
-    <lastmod>2017-01-31T23:18:17+07:00</lastmod>
+    <lastmod>2017-02-07T21:50:54+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2553,13 +2573,19 @@
   
   <url>
     <loc>http://lapa.ninja/category/design-tools/</loc>
-    <lastmod>2017-01-31T23:18:17+07:00</lastmod>
+    <lastmod>2017-02-07T21:50:54+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://lapa.ninja/tag/designerfund/</loc>
     <lastmod>2016-11-22T21:36:06+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/tag/designers-how/</loc>
+    <lastmod>2017-02-07T21:31:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2643,7 +2669,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/education/</loc>
-    <lastmod>2016-11-22T21:37:35+07:00</lastmod>
+    <lastmod>2017-02-07T21:31:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2780,6 +2806,12 @@
   </url>
   
   <url>
+    <loc>http://lapa.ninja/tag/framer/</loc>
+    <lastmod>2017-02-07T21:50:54+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://lapa.ninja/tag/framerjs/</loc>
     <lastmod>2016-04-20T11:02:10+07:00</lastmod>
     <priority>0</priority>
@@ -2883,7 +2915,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/gradient/</loc>
-    <lastmod>2017-01-31T22:07:32+07:00</lastmod>
+    <lastmod>2017-02-07T21:31:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3639,7 +3671,7 @@
   
   <url>
     <loc>http://lapa.ninja/post/</loc>
-    <lastmod>2017-02-06T16:03:41+07:00</lastmod>
+    <lastmod>2017-02-07T21:50:54+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3669,7 +3701,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/prototype/</loc>
-    <lastmod>2017-01-31T22:07:32+07:00</lastmod>
+    <lastmod>2017-02-07T21:50:54+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4148,7 +4180,7 @@
   
   <url>
     <loc>http://lapa.ninja/</loc>
-    <lastmod>2017-02-06T16:03:41+07:00</lastmod>
+    <lastmod>2017-02-07T21:50:54+07:00</lastmod>
     <priority>0</priority>
   </url>
   

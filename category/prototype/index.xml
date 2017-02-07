@@ -9,6 +9,51 @@
     <atom:link href="/category/prototype/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Framer</title>
+      <link>http://lapa.ninja/post/framer/</link>
+      <pubDate>Tue, 07 Feb 2017 21:50:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/framer/</guid>
+      <description>
+        
+        <p>Framer combines the power of code with the ease of visual editing. Prototype beautiful microinteractions or realistic apps. It’s time to design with development in mind.</p>
+        <img src="http://lapa.ninja/assets/images/framer.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Framer Cloud</title>
+      <link>http://lapa.ninja/post/framer-cloud/</link>
+      <pubDate>Tue, 07 Feb 2017 21:45:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/framer-cloud/</guid>
+      <description>
+        
+        <p>A modern design workflow</p>
+        <img src="http://lapa.ninja/assets/images/framer-cloud.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Framer Flows</title>
+      <link>http://lapa.ninja/post/framer-flow/</link>
+      <pubDate>Tue, 07 Feb 2017 21:42:57 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/framer-flow/</guid>
+      <description>
+        
+        <p>App design made simple</p>
+        <img src="http://lapa.ninja/assets/images/framer-flows.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Avocode</title>
       <link>http://lapa.ninja/post/avocode-2/</link>
       <pubDate>Tue, 31 Jan 2017 22:07:32 +0700</pubDate>
@@ -183,51 +228,6 @@
         
         <p>We&#39;ve completely rethought how designers create and collaborate with non-designers.</p>
         <img src="http://lapa.ninja/assets/images/uxpin.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Blocs</title>
-      <link>http://lapa.ninja/post/blocsapp-2/</link>
-      <pubDate>Tue, 17 May 2016 10:31:15 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/blocsapp-2/</guid>
-      <description>
-        
-        <p>Blocs for Mac is a fast, easy to use and powerful visual web design tool that lets you create beautiful and modern websites without the need to write code. </p>
-        <img src="http://lapa.ninja/assets/images/blocs-17-05-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Framer</title>
-      <link>http://lapa.ninja/post/framerjs-2/</link>
-      <pubDate>Wed, 20 Apr 2016 11:02:10 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/framerjs-2/</guid>
-      <description>
-        
-        <p>Design interactive high-fidelity prototypes for iOS, Android, desktop or the web. Invent new animations and interactions. Integrates with Sketch and Photoshop.</p>
-        <img src="http://lapa.ninja/assets/images/framer-20-04-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>ViewFlux</title>
-      <link>http://lapa.ninja/post/viewflux/</link>
-      <pubDate>Sat, 09 Apr 2016 10:20:21 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/viewflux/</guid>
-      <description>
-        
-        <p>ViewFlux allows you to create clickable prototypes from your designs, easily get feedback &amp; collaborate with your clients or team mates.</p>
-        <img src="http://lapa.ninja/assets/images/view-flux.jpg" />
 
 
       </description>

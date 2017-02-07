@@ -9,6 +9,51 @@
     <atom:link href="/category/app/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Framer</title>
+      <link>http://lapa.ninja/post/framer/</link>
+      <pubDate>Tue, 07 Feb 2017 21:50:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/framer/</guid>
+      <description>
+        
+        <p>Framer combines the power of code with the ease of visual editing. Prototype beautiful microinteractions or realistic apps. It’s time to design with development in mind.</p>
+        <img src="http://lapa.ninja/assets/images/framer.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Framer Cloud</title>
+      <link>http://lapa.ninja/post/framer-cloud/</link>
+      <pubDate>Tue, 07 Feb 2017 21:45:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/framer-cloud/</guid>
+      <description>
+        
+        <p>A modern design workflow</p>
+        <img src="http://lapa.ninja/assets/images/framer-cloud.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Framer Flows</title>
+      <link>http://lapa.ninja/post/framer-flow/</link>
+      <pubDate>Tue, 07 Feb 2017 21:42:57 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/framer-flow/</guid>
+      <description>
+        
+        <p>App design made simple</p>
+        <img src="http://lapa.ninja/assets/images/framer-flows.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Dropbox Paper</title>
       <link>http://lapa.ninja/post/dropbox-paper-2/</link>
       <pubDate>Tue, 31 Jan 2017 23:18:17 +0700</pubDate>
@@ -183,51 +228,6 @@
         
         <p>Spotify Business is a subscription-based streaming platform, licensed for commercial and public spaces. It supports businesses of all sizes.</p>
         <img src="http://lapa.ninja/assets/images/spotify-business.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Reveal Bot</title>
-      <link>http://lapa.ninja/post/revealbot/</link>
-      <pubDate>Sat, 12 Nov 2016 09:59:09 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/revealbot/</guid>
-      <description>
-        
-        <p>Your personal marketing assistant who warns you when you lose money on ads</p>
-        <img src="http://lapa.ninja/assets/images/reveal-bot.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sketch</title>
-      <link>http://lapa.ninja/post/sketchapp/</link>
-      <pubDate>Sat, 12 Nov 2016 09:39:51 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/sketchapp/</guid>
-      <description>
-        
-        <p>Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.</p>
-        <img src="http://lapa.ninja/assets/images/sketchapp.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Bear</title>
-      <link>http://lapa.ninja/post/bear/</link>
-      <pubDate>Tue, 08 Nov 2016 21:10:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bear/</guid>
-      <description>
-        
-        <p>Bear is a beautiful, flexible writing app for crafting notes and prose.</p>
-        <img src="http://lapa.ninja/assets/images/bear.jpg" />
 
 
       </description>

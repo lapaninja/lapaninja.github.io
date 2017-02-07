@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Framer on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/framer/index.xml</link>
+    <description>Recent content in Framer on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tag/framer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Framer</title>
+      <link>http://lapa.ninja/post/framer/</link>
+      <pubDate>Tue, 07 Feb 2017 21:50:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/framer/</guid>
+      <description>
+        
+        <p>Framer combines the power of code with the ease of visual editing. Prototype beautiful microinteractions or realistic apps. It’s time to design with development in mind.</p>
+        <img src="http://lapa.ninja/assets/images/framer.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Framer Cloud</title>
+      <link>http://lapa.ninja/post/framer-cloud/</link>
+      <pubDate>Tue, 07 Feb 2017 21:45:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/framer-cloud/</guid>
+      <description>
+        
+        <p>A modern design workflow</p>
+        <img src="http://lapa.ninja/assets/images/framer-cloud.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Framer Flows</title>
+      <link>http://lapa.ninja/post/framer-flow/</link>
+      <pubDate>Tue, 07 Feb 2017 21:42:57 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/framer-flow/</guid>
+      <description>
+        
+        <p>App design made simple</p>
+        <img src="http://lapa.ninja/assets/images/framer-flows.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
