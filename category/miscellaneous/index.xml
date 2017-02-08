@@ -9,6 +9,21 @@
     <atom:link href="/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bantamu</title>
+      <link>http://lapa.ninja/post/bantamu/</link>
+      <pubDate>Wed, 08 Feb 2017 15:01:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bantamu/</guid>
+      <description>
+        
+        <p>Bantamu is a unique matchmaking platform where you can find the perfect Recording Studios, Mixing &amp; Mastering Engineers, or Producers to collaborate with on your next album.</p>
+        <img src="http://lapa.ninja/assets/images/bantamu.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Making Waves</title>
       <link>http://lapa.ninja/post/makingwaves/</link>
       <pubDate>Mon, 06 Feb 2017 16:03:23 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Surface Studio is designed for the creative process. The 28” PixelSense™ Display gives you a huge canvas for all kinds of work. Use it upright, or draw on it like a drafting table.</p>
         <img src="http://lapa.ninja/assets/images/microsoft-surface-studio.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Airtable</title>
-      <link>http://lapa.ninja/post/airtable-2/</link>
-      <pubDate>Thu, 27 Oct 2016 13:42:05 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/airtable-2/</guid>
-      <description>
-        
-        <p>Organize anything you can imagine. Airtable works like a spreadsheet but gives you the power of a database to organize anything.</p>
-        <img src="http://lapa.ninja/assets/images/airtable-27-10-2016.jpg" />
 
 
       </description>
