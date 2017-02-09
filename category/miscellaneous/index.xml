@@ -9,6 +9,21 @@
     <atom:link href="/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Ode Goods</title>
+      <link>http://lapa.ninja/post/ode-goods/</link>
+      <pubDate>Thu, 09 Feb 2017 14:37:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ode-goods/</guid>
+      <description>
+        
+        <p>A transparent journey, mapped from waste to raw material.</p>
+        <img src="http://lapa.ninja/assets/images/ode-goods.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Bantamu</title>
       <link>http://lapa.ninja/post/bantamu/</link>
       <pubDate>Wed, 08 Feb 2017 15:01:17 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>The new MacBook Pro is thinner, lighter, and more powerful than ever, and introduces the revolutionary Touch Bar, a completely new way to use your Mac.</p>
         <img src="http://lapa.ninja/assets/images/macbook-pro-apple.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Surface Studio</title>
-      <link>http://lapa.ninja/post/microsoft-surface-studio/</link>
-      <pubDate>Fri, 28 Oct 2016 21:46:29 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/microsoft-surface-studio/</guid>
-      <description>
-        
-        <p>Surface Studio is designed for the creative process. The 28” PixelSense™ Display gives you a huge canvas for all kinds of work. Use it upright, or draw on it like a drafting table.</p>
-        <img src="http://lapa.ninja/assets/images/microsoft-surface-studio.jpg" />
 
 
       </description>

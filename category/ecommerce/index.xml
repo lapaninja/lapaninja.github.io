@@ -9,6 +9,21 @@
     <atom:link href="/category/ecommerce/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Ode Goods</title>
+      <link>http://lapa.ninja/post/ode-goods/</link>
+      <pubDate>Thu, 09 Feb 2017 14:37:56 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/ode-goods/</guid>
+      <description>
+        
+        <p>A transparent journey, mapped from waste to raw material.</p>
+        <img src="http://lapa.ninja/assets/images/ode-goods.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Ekko</title>
       <link>http://lapa.ninja/post/ekko/</link>
       <pubDate>Tue, 17 Jan 2017 21:45:28 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Design your own website, powered by your Etsy shop</p>
         <img src="http://lapa.ninja/assets/images/pattern-by-etsy.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Nextbit</title>
-      <link>http://lapa.ninja/post/nextbit/</link>
-      <pubDate>Fri, 25 Mar 2016 11:04:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/nextbit/</guid>
-      <description>
-        
-        <p>Everything to gain. Introducing Robin, the first Android phone that makes running out of space history. With the cloud integrated into Android OS, your onboard storage is merged with the cloud, so you always have the space you need.</p>
-        <img src="http://lapa.ninja/assets/images/nextbit.jpg" />
 
 
       </description>

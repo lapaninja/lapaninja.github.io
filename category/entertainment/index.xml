@@ -9,6 +9,21 @@
     <atom:link href="/category/entertainment/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Nota Dist</title>
+      <link>http://lapa.ninja/post/nota-dist/</link>
+      <pubDate>Thu, 09 Feb 2017 14:47:47 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/nota-dist/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja/assets/images/nota-dist.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Bantamu</title>
       <link>http://lapa.ninja/post/bantamu/</link>
       <pubDate>Wed, 08 Feb 2017 15:01:17 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Catch up with the news, watch a quick video, and get music that matches the beat of your run.</p>
         <img src="http://lapa.ninja/assets/images/now.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Triip</title>
-      <link>http://lapa.ninja/post/triip-me/</link>
-      <pubDate>Thu, 15 Oct 2015 21:57:05 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/triip-me/</guid>
-      <description>
-        
-        <p>Triip is the travel platform that enables travelers to enjoy the best private tours passionately crafted by handpicked local tour guides</p>
-        <img src="http://lapa.ninja/assets/images/triipme.jpg" />
 
 
       </description>

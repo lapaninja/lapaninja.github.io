@@ -9,6 +9,21 @@
     <atom:link href="/category/illustration/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Nota Dist</title>
+      <link>http://lapa.ninja/post/nota-dist/</link>
+      <pubDate>Thu, 09 Feb 2017 14:47:47 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/nota-dist/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja/assets/images/nota-dist.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Dropbox</title>
       <link>http://lapa.ninja/post/dropbox/</link>
       <pubDate>Tue, 31 Jan 2017 23:10:44 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Reech helps brands to work intelligently with influencers.</p>
         <img src="http://lapa.ninja/assets/images/reech.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Zarget</title>
-      <link>http://lapa.ninja/post/zarget/</link>
-      <pubDate>Thu, 26 Nov 2015 08:55:50 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/zarget/</guid>
-      <description>
-        
-        <p>Zarget is new age AB testing and Heatmap software that lets you optimize your website with just a few clicks thereby increasing sales.</p>
-        <img src="http://lapa.ninja/assets/images/zarget.jpg" />
 
 
       </description>
