@@ -9,6 +9,21 @@
     <atom:link href="/category/app/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Skurt</title>
+      <link>http://lapa.ninja/post/skurt/</link>
+      <pubDate>Fri, 10 Feb 2017 15:20:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/skurt/</guid>
+      <description>
+        
+        <p>Skurt is the fastest and easiest way to rent a car. Say goodbye to long lines and paperwork. We&#39;ll deliver the car right to you.</p>
+        <img src="http://lapa.ninja/assets/images/skurt-10-2-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>App Publisher by App Radar</title>
       <link>http://lapa.ninja/post/app-publisher/</link>
       <pubDate>Wed, 08 Feb 2017 15:00:58 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Winds offers personalized news feeds and RSS Reader for free. Enjoy RSS Feeds again.</p>
         <img src="http://lapa.ninja/assets/images/winds.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lookback</title>
-      <link>http://lapa.ninja/post/lookback-2/</link>
-      <pubDate>Tue, 15 Nov 2016 11:01:12 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/lookback-2/</guid>
-      <description>
-        
-        <p>Remove the guesswork. Easily capture your users&#39; experiences and make your product better.</p>
-        <img src="http://lapa.ninja/assets/images/lookback.jpg" />
 
 
       </description>

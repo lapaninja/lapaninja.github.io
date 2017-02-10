@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prospero on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/prospero/index.xml</link>
+    <description>Recent content in Prospero on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tag/prospero/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Prospero</title>
+      <link>http://lapa.ninja/post/prospero/</link>
+      <pubDate>Fri, 10 Feb 2017 15:25:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/prospero/</guid>
+      <description>
+        
+        <p>Prospero will make creating proposals fast and painless, so that you can go back to working on what matters most.</p>
+        <img src="http://lapa.ninja/assets/images/prospero.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

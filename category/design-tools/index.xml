@@ -9,6 +9,21 @@
     <atom:link href="/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Prospero</title>
+      <link>http://lapa.ninja/post/prospero/</link>
+      <pubDate>Fri, 10 Feb 2017 15:25:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/prospero/</guid>
+      <description>
+        
+        <p>Prospero will make creating proposals fast and painless, so that you can go back to working on what matters most.</p>
+        <img src="http://lapa.ninja/assets/images/prospero.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Framer</title>
       <link>http://lapa.ninja/post/framer/</link>
       <pubDate>Tue, 07 Feb 2017 21:50:54 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>The most powerful interactive content creation software for marketers &amp; designers</p>
         <img src="http://lapa.ninja/assets/images/ceros.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Webflow Interactions 2.0</title>
-      <link>http://lapa.ninja/post/webflow-interactions/</link>
-      <pubDate>Wed, 31 Aug 2016 16:35:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/webflow-interactions/</guid>
-      <description>
-        
-        <p>Parallax scrolling, mouse tracking, timeline animations, and more. A whole new way to craft interactions and animations — and you still don&#39;t have to write any code.</p>
-        <img src="http://lapa.ninja/assets/images/webflow-Interactions-2-0.jpg" />
 
 
       </description>
