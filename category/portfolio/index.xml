@@ -9,6 +9,21 @@
     <atom:link href="/category/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>PixelPink</title>
+      <link>http://lapa.ninja/post/pixelpink/</link>
+      <pubDate>Sun, 12 Feb 2017 11:31:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pixelpink/</guid>
+      <description>
+        
+        <p>Design Studio based in Berlin creating digital Products focusing on simplicity.</p>
+        <img src="http://lapa.ninja/assets/images/pixelpink.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Steffen Studio</title>
       <link>http://lapa.ninja/post/steffen-studio/</link>
       <pubDate>Mon, 05 Dec 2016 11:46:58 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Your project is in good hands with the web developers who care. Xfive will code your website or application with the highest standards</p>
         <img src="http://lapa.ninja/assets/images/xfive.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Checkland Kindleysides</title>
-      <link>http://lapa.ninja/post/checkland-kindleysides/</link>
-      <pubDate>Sat, 19 Mar 2016 09:46:38 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/checkland-kindleysides/</guid>
-      <description>
-        
-        <p>Checkland Kindleysides is a global design agency specialising in the art of brand storytelling. We craft digital, graphic and 3 dimensional thinking to create category leading brand experiences.</p>
-        <img src="http://lapa.ninja/assets/images/checkland-kindleysides.jpg" />
 
 
       </description>

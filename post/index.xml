@@ -6,8 +6,53 @@
     <description>Recent content in Posts on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Feb 2017 15:25:23 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Feb 2017 11:31:31 +0700</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CSV.ai</title>
+      <link>http://lapa.ninja/post/csv-ai/</link>
+      <pubDate>Sun, 12 Feb 2017 11:31:31 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/csv-ai/</guid>
+      <description>
+        
+        <p>Feed your CSV to the Data Bot for Google Sheets.</p>
+        <img src="http://lapa.ninja/assets/images/csv-ai.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>PixelPink</title>
+      <link>http://lapa.ninja/post/pixelpink/</link>
+      <pubDate>Sun, 12 Feb 2017 11:31:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pixelpink/</guid>
+      <description>
+        
+        <p>Design Studio based in Berlin creating digital Products focusing on simplicity.</p>
+        <img src="http://lapa.ninja/assets/images/pixelpink.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>http://lapa.ninja/post/firebase/</link>
+      <pubDate>Sun, 12 Feb 2017 11:31:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/firebase/</guid>
+      <description>
+        
+        <p>The tools and infrastructure you need to build better apps and grow successful businesses</p>
+        <img src="http://lapa.ninja/assets/images/firebase.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Prospero</title>
@@ -184,51 +229,6 @@
         
         <p>Moving together</p>
         <img src="http://lapa.ninja/assets/images/makingwaves.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dropbox Paper</title>
-      <link>http://lapa.ninja/post/dropbox-paper-2/</link>
-      <pubDate>Tue, 31 Jan 2017 23:18:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dropbox-paper-2/</guid>
-      <description>
-        
-        <p>Grow bigger, brighter ideas. More than a doc, Dropbox Paper is a flexible workspace that brings people and ideas together.</p>
-        <img src="http://lapa.ninja/assets/images/dropbox-paper-31-01-17.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dropbox</title>
-      <link>http://lapa.ninja/post/dropbox/</link>
-      <pubDate>Tue, 31 Jan 2017 23:10:44 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dropbox/</guid>
-      <description>
-        
-        <p>Introducing Dropbox Paper and Smart Sync — a simpler way to work together.</p>
-        <img src="http://lapa.ninja/assets/images/dropbox.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Avocode</title>
-      <link>http://lapa.ninja/post/avocode-2/</link>
-      <pubDate>Tue, 31 Jan 2017 22:07:32 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/avocode-2/</guid>
-      <description>
-        
-        <p>Build web, iOS &amp; Android apps exactly as they were designed</p>
-        <img src="http://lapa.ninja/assets/images/avocode-31-01-17.jpg" />
 
 
       </description>

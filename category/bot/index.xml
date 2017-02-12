@@ -9,6 +9,21 @@
     <atom:link href="/category/bot/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>CSV.ai</title>
+      <link>http://lapa.ninja/post/csv-ai/</link>
+      <pubDate>Sun, 12 Feb 2017 11:31:31 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/csv-ai/</guid>
+      <description>
+        
+        <p>Feed your CSV to the Data Bot for Google Sheets.</p>
+        <img src="http://lapa.ninja/assets/images/csv-ai.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Abe</title>
       <link>http://lapa.ninja/post/abe/</link>
       <pubDate>Mon, 05 Dec 2016 12:07:06 +0700</pubDate>

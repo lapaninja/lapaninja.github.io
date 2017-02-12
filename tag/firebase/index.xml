@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firebase on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/firebase/index.xml</link>
+    <description>Recent content in Firebase on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tag/firebase/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Firebase</title>
+      <link>http://lapa.ninja/post/firebase/</link>
+      <pubDate>Sun, 12 Feb 2017 11:31:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/firebase/</guid>
+      <description>
+        
+        <p>The tools and infrastructure you need to build better apps and grow successful businesses</p>
+        <img src="http://lapa.ninja/assets/images/firebase.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
