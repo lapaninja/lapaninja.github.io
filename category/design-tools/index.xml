@@ -9,6 +9,21 @@
     <atom:link href="/category/design-tools/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>DesignBold</title>
+      <link>http://lapa.ninja/post/designbold/</link>
+      <pubDate>Wed, 15 Feb 2017 12:42:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/designbold/</guid>
+      <description>
+        
+        <p>Amazing Photo Editor and Designer Studio at your fingertips</p>
+        <img src="http://lapa.ninja/assets/images/design-bold.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Prospero</title>
       <link>http://lapa.ninja/post/prospero/</link>
       <pubDate>Fri, 10 Feb 2017 15:25:23 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Free vector graphics editor. A simple yet powerful web and desktop cross-platform tool for everyone.</p>
         <img src="http://lapa.ninja/assets/images/vectr.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ceros</title>
-      <link>http://lapa.ninja/post/ceros/</link>
-      <pubDate>Tue, 06 Sep 2016 21:20:39 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ceros/</guid>
-      <description>
-        
-        <p>The most powerful interactive content creation software for marketers &amp; designers</p>
-        <img src="http://lapa.ninja/assets/images/ceros.jpg" />
 
 
       </description>

@@ -9,6 +9,21 @@
     <atom:link href="/category/creative/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>DesignBold</title>
+      <link>http://lapa.ninja/post/designbold/</link>
+      <pubDate>Wed, 15 Feb 2017 12:42:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/designbold/</guid>
+      <description>
+        
+        <p>Amazing Photo Editor and Designer Studio at your fingertips</p>
+        <img src="http://lapa.ninja/assets/images/design-bold.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>PixelPink</title>
       <link>http://lapa.ninja/post/pixelpink/</link>
       <pubDate>Sun, 12 Feb 2017 11:31:20 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>We design interfaces.</p>
         <img src="http://lapa.ninja/assets/images/dux.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Icon54</title>
-      <link>http://lapa.ninja/post/icon54/</link>
-      <pubDate>Mon, 05 Dec 2016 11:46:21 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/icon54/</guid>
-      <description>
-        
-        <p>Vector line and solid Icons collection pack  for iOS, Android, Websites &amp; Apps</p>
-        <img src="http://lapa.ninja/assets/images/icon54.jpg" />
 
 
       </description>

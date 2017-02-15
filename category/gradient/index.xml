@@ -9,6 +9,21 @@
     <atom:link href="/category/gradient/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>DesignBold</title>
+      <link>http://lapa.ninja/post/designbold/</link>
+      <pubDate>Wed, 15 Feb 2017 12:42:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/designbold/</guid>
+      <description>
+        
+        <p>Amazing Photo Editor and Designer Studio at your fingertips</p>
+        <img src="http://lapa.ninja/assets/images/design-bold.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>CSV.ai</title>
       <link>http://lapa.ninja/post/csv-ai/</link>
       <pubDate>Sun, 12 Feb 2017 11:31:31 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Quiver offers unlimited storage and allows you to share files and collaborate with complete control over who sees them, how and when</p>
         <img src="http://lapa.ninja/assets/images/quiver.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Lift</title>
-      <link>http://lapa.ninja/post/liftux/</link>
-      <pubDate>Mon, 29 Feb 2016 11:02:55 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/liftux/</guid>
-      <description>
-        
-        <p>Lift is a full-service user experience design agency. Oh, and we do cool stuff with WordPress.</p>
-        <img src="http://lapa.ninja/assets/images/lift-ux.jpg" />
 
 
       </description>
