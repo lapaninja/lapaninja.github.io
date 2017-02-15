@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Black on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/color/black/index.xml</link>
+    <description>Recent content in Black on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/color/black/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ZEIT</title>
+      <link>http://lapa.ninja/post/zeit/</link>
+      <pubDate>Wed, 15 Feb 2017 12:32:48 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/zeit/</guid>
+      <description>
+        
+        <p>Cloud deployment made Simple, Global and Realtime</p>
+        <img src="http://lapa.ninja/assets/images/zeit.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Prospero</title>
+      <link>http://lapa.ninja/post/prospero/</link>
+      <pubDate>Fri, 10 Feb 2017 15:25:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/prospero/</guid>
+      <description>
+        
+        <p>Prospero will make creating proposals fast and painless, so that you can go back to working on what matters most.</p>
+        <img src="http://lapa.ninja/assets/images/prospero.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Framer</title>
+      <link>http://lapa.ninja/post/framer/</link>
+      <pubDate>Tue, 07 Feb 2017 21:50:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/framer/</guid>
+      <description>
+        
+        <p>Framer combines the power of code with the ease of visual editing. Prototype beautiful microinteractions or realistic apps. It’s time to design with development in mind.</p>
+        <img src="http://lapa.ninja/assets/images/framer.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

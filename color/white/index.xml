@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>White on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/color/white/index.xml</link>
+    <description>Recent content in White on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/color/white/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ZEIT</title>
+      <link>http://lapa.ninja/post/zeit/</link>
+      <pubDate>Wed, 15 Feb 2017 12:32:48 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/zeit/</guid>
+      <description>
+        
+        <p>Cloud deployment made Simple, Global and Realtime</p>
+        <img src="http://lapa.ninja/assets/images/zeit.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>PixelPink</title>
+      <link>http://lapa.ninja/post/pixelpink/</link>
+      <pubDate>Sun, 12 Feb 2017 11:31:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pixelpink/</guid>
+      <description>
+        
+        <p>Design Studio based in Berlin creating digital Products focusing on simplicity.</p>
+        <img src="http://lapa.ninja/assets/images/pixelpink.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Framer Cloud</title>
+      <link>http://lapa.ninja/post/framer-cloud/</link>
+      <pubDate>Tue, 07 Feb 2017 21:45:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/framer-cloud/</guid>
+      <description>
+        
+        <p>A modern design workflow</p>
+        <img src="http://lapa.ninja/assets/images/framer-cloud.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

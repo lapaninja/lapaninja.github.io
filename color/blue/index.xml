@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blue on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/color/blue/index.xml</link>
+    <description>Recent content in Blue on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/color/blue/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DesignBold</title>
+      <link>http://lapa.ninja/post/designbold/</link>
+      <pubDate>Wed, 15 Feb 2017 12:42:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/designbold/</guid>
+      <description>
+        
+        <p>Amazing Photo Editor and Designer Studio at your fingertips</p>
+        <img src="http://lapa.ninja/assets/images/design-bold.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>http://lapa.ninja/post/firebase/</link>
+      <pubDate>Sun, 12 Feb 2017 11:31:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/firebase/</guid>
+      <description>
+        
+        <p>The tools and infrastructure you need to build better apps and grow successful businesses</p>
+        <img src="http://lapa.ninja/assets/images/firebase.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>App Publisher by App Radar</title>
+      <link>http://lapa.ninja/post/app-publisher/</link>
+      <pubDate>Wed, 08 Feb 2017 15:00:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/app-publisher/</guid>
+      <description>
+        
+        <p>Manage, Edit and Publish. For iOS and Android.</p>
+        <img src="http://lapa.ninja/assets/images/app-publisher.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Green on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/color/green/index.xml</link>
+    <description>Recent content in Green on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/color/green/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DesignBold</title>
+      <link>http://lapa.ninja/post/designbold/</link>
+      <pubDate>Wed, 15 Feb 2017 12:42:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/designbold/</guid>
+      <description>
+        
+        <p>Amazing Photo Editor and Designer Studio at your fingertips</p>
+        <img src="http://lapa.ninja/assets/images/design-bold.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Nota Dist</title>
+      <link>http://lapa.ninja/post/nota-dist/</link>
+      <pubDate>Thu, 09 Feb 2017 14:47:47 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/nota-dist/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja/assets/images/nota-dist.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Bantamu</title>
+      <link>http://lapa.ninja/post/bantamu/</link>
+      <pubDate>Wed, 08 Feb 2017 15:01:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bantamu/</guid>
+      <description>
+        
+        <p>Bantamu is a unique matchmaking platform where you can find the perfect Recording Studios, Mixing &amp; Mastering Engineers, or Producers to collaborate with on your next album.</p>
+        <img src="http://lapa.ninja/assets/images/bantamu.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
