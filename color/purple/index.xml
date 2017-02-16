@@ -9,6 +9,21 @@
     <atom:link href="/color/purple/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Plutio </title>
+      <link>http://lapa.ninja/post/plutio/</link>
+      <pubDate>Thu, 16 Feb 2017 20:25:32 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/plutio/</guid>
+      <description>
+        
+        <p>Everything you need to run your business and get work done, solely or with a team.</p>
+        <img src="http://lapa.ninja/assets/images/plutio.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Skurt</title>
       <link>http://lapa.ninja/post/skurt/</link>
       <pubDate>Fri, 10 Feb 2017 15:20:03 +0700</pubDate>

@@ -1,7 +1,4 @@
 
-
-
-
 <!doctype html>
 <html class="no-js" lang="en-us">
     <head>
@@ -365,80 +362,35 @@
 
        
 
+
+
 <section id="lapa-content">
-    <div class="lapa-post lapa-container">
-        
-        <section id="lapa-content">
-            <div class="lapa-post lapa-container ">
-            
-
-
-            
-        
-            
-            
-
-  
-                <ul class="lapa-post__home">
-
-                    
-                    <li>
-                        <div class="lapa-post__item">
-                        <div class="lapa-post__share">
-                        
-                        <a class="lapa-post__twitter" target="_blank" title="Share on Twitter" href="https://twitter.com/intent/tweet?text= -  http%3a%2f%2flapa.ninja%2fsearch%2f?ref=lapaninja via @LapaNinja"><span class="lapa-post__twitter-icon">Tweet</span></a>
-
-                         <a class="lapa-post__fb" target="_blank" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?display=popup&u=http%3a%2f%2flapa.ninja%2fsearch%2f"><span class="lapa-post__fb-icon">Facebook</span></a>
-
-                          <a class="lapa-post__pin" target="_blank" title="Pin It" href="https://www.pinterest.com/pin/create/button/?url=http%3a%2f%2flapa.ninja%2fsearch%2f&media=http://lapa.ninja/&description= - ">
-                              <span class="lapa-post__pin-icon">Pin It</span>
-                          </a>
-
-                      </div>
-                      
-                            <a href="http://lapa.ninja/search/" data-original="" class="lapa-post__link js-lazy"  title="" 
-                            style="background-image : url(http://lapa.ninja/img/grey.gif); background-repeat: repeat;">
-                            </a>
-
-                            <div class="lapa-post__info">
-                                <h2 class="lapa-post__name"><a href="http://lapa.ninja/search/" class="lapa-post__name-link"></a></h2>
-                                <p class="lapa-post__des"></p>
-                                <a href="?ref=lapaninja" class="lapa-post__visit" title="Visit " target="_blank">Visit </a>
-                            </div>
-                        </div>
-                    </li>
-                    
-
-
-                </ul>
-
-             
-
-            </div>
-
-             
-
-                
-    
-
-                <nav class="lapa-pagination lapa-container">
-    
-
-
-    
-    
-
-</nav>
-
-
- 
-
-              
-           
-        </section>
-
+    <div class="lapa-search-page">
+        <div class="lapa-cse-input">
+            <form>
+                <input type="search" placeholder="Search..." name="q" class="lapa-cse-input__keyword" id="inputSearch">
+                <input type="hidden" name="cx" value="002303082444362914793:vfln4v1oa94">
+                <input type="hidden" name="ie" value="UTF-8">
+            </form>
+        </div>
+        <div class="lapa-cse-result">
+            <script>
+            (function() {
+                var cx = '002303082444362914793:vfln4v1oa94';
+                var gcse = document.createElement('script');
+                gcse.type = 'text/javascript';
+                gcse.async = true;
+                gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                    '//cse.google.com/cse.js?cx=' + cx;
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(gcse, s);
+            })();
+            </script>
+            <gcse:searchresults-only></gcse:searchresults-only>
+        </div>
     </div>
 </section>
+
         
   
         <footer id="lapa-footer">
@@ -494,10 +446,24 @@
 
         </script>
 
-        
-
-       
-
 
     </body>
 </html>
+
+<script>
+	function gup( name, url ) {
+  if (!url) url = location.href;
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( url );
+  return results == null ? null : results[1];
+}
+
+var urlcur = window.location.href ;
+
+
+var valuetxt = gup('q', urlcur);
+$("#inputSearch").val(valuetxt);
+
+</script>

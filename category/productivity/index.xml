@@ -9,6 +9,21 @@
     <atom:link href="/category/productivity/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Plutio </title>
+      <link>http://lapa.ninja/post/plutio/</link>
+      <pubDate>Thu, 16 Feb 2017 20:25:32 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/plutio/</guid>
+      <description>
+        
+        <p>Everything you need to run your business and get work done, solely or with a team.</p>
+        <img src="http://lapa.ninja/assets/images/plutio.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Dropbox</title>
       <link>http://lapa.ninja/post/dropbox/</link>
       <pubDate>Tue, 31 Jan 2017 23:10:44 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>When you are serious about email, Postbox has the tools you need to power through mountains of messages.</p>
         <img src="http://lapa.ninja/assets/images/postbox-4-11-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Quadro</title>
-      <link>http://lapa.ninja/post/quadro/</link>
-      <pubDate>Sat, 29 Oct 2016 09:31:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/quadro/</guid>
-      <description>
-        
-        <p>Control desktop applications and automate your workflow with a personalised interface</p>
-        <img src="http://lapa.ninja/assets/images/quadro.jpg" />
 
 
       </description>
