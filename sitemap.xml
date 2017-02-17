@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lapa.ninja/post/mergie/</loc>
+    <lastmod>2017-02-17T16:38:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/post/poindexter/</loc>
+    <lastmod>2017-02-17T16:38:32+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/post/scaleapi/</loc>
+    <lastmod>2017-02-17T16:38:11+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lapa.ninja/post/tryforge/</loc>
     <lastmod>2017-02-16T20:31:32+07:00</lastmod>
   </url>
@@ -2249,7 +2264,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/app/</loc>
-    <lastmod>2017-02-16T20:31:32+07:00</lastmod>
+    <lastmod>2017-02-17T16:38:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2375,7 +2390,7 @@
   
   <url>
     <loc>http://lapa.ninja/color/blue/</loc>
-    <lastmod>2017-02-15T12:42:39+07:00</lastmod>
+    <lastmod>2017-02-17T16:38:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3033,7 +3048,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/gradient/</loc>
-    <lastmod>2017-02-16T20:31:32+07:00</lastmod>
+    <lastmod>2017-02-17T16:38:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3045,7 +3060,7 @@
   
   <url>
     <loc>http://lapa.ninja/color/green/</loc>
-    <lastmod>2017-02-15T12:42:39+07:00</lastmod>
+    <lastmod>2017-02-17T16:38:32+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3159,7 +3174,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/illustration/</loc>
-    <lastmod>2017-02-12T11:31:10+07:00</lastmod>
+    <lastmod>2017-02-17T16:38:32+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3410,6 +3425,12 @@
   </url>
   
   <url>
+    <loc>http://lapa.ninja/tag/mergie/</loc>
+    <lastmod>2017-02-17T16:38:47+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://lapa.ninja/tag/metalab/</loc>
     <lastmod>2015-11-26T09:26:33+07:00</lastmod>
     <priority>0</priority>
@@ -3453,7 +3474,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/miscellaneous/</loc>
-    <lastmod>2017-02-09T14:37:56+07:00</lastmod>
+    <lastmod>2017-02-17T16:38:11+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3651,7 +3672,7 @@
   
   <url>
     <loc>http://lapa.ninja/color/orange/</loc>
-    <lastmod>2017-02-16T20:31:32+07:00</lastmod>
+    <lastmod>2017-02-17T16:38:11+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3800,6 +3821,12 @@
   </url>
   
   <url>
+    <loc>http://lapa.ninja/tag/poindexter/</loc>
+    <lastmod>2017-02-17T16:38:32+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://lapa.ninja/tag/polymail/</loc>
     <lastmod>2015-12-12T11:39:38+07:00</lastmod>
     <priority>0</priority>
@@ -3825,7 +3852,7 @@
   
   <url>
     <loc>http://lapa.ninja/post/</loc>
-    <lastmod>2017-02-16T20:31:32+07:00</lastmod>
+    <lastmod>2017-02-17T16:38:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3849,7 +3876,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/productivity/</loc>
-    <lastmod>2017-02-16T20:25:32+07:00</lastmod>
+    <lastmod>2017-02-17T16:38:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3879,7 +3906,7 @@
   
   <url>
     <loc>http://lapa.ninja/color/purple/</loc>
-    <lastmod>2017-02-16T20:25:32+07:00</lastmod>
+    <lastmod>2017-02-17T16:38:11+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4017,7 +4044,7 @@
   
   <url>
     <loc>http://lapa.ninja/tag/scaleapi/</loc>
-    <lastmod>2016-07-07T17:04:22+07:00</lastmod>
+    <lastmod>2017-02-17T16:38:11+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4149,7 +4176,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/software/</loc>
-    <lastmod>2017-02-16T20:25:32+07:00</lastmod>
+    <lastmod>2017-02-17T16:38:32+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4346,7 +4373,7 @@
   
   <url>
     <loc>http://lapa.ninja/</loc>
-    <lastmod>2017-02-16T20:31:32+07:00</lastmod>
+    <lastmod>2017-02-17T16:38:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   

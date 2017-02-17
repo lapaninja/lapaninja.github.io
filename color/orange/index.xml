@@ -9,6 +9,21 @@
     <atom:link href="/color/orange/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Scale</title>
+      <link>http://lapa.ninja/post/scaleapi/</link>
+      <pubDate>Fri, 17 Feb 2017 16:38:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/scaleapi/</guid>
+      <description>
+        
+        <p>API For Human Intelligence</p>
+        <img src="http://lapa.ninja/assets/images/scale-17-02-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Forge</title>
       <link>http://lapa.ninja/post/tryforge/</link>
       <pubDate>Thu, 16 Feb 2017 20:31:32 +0700</pubDate>

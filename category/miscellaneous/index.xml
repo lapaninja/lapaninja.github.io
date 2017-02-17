@@ -9,6 +9,21 @@
     <atom:link href="/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Scale</title>
+      <link>http://lapa.ninja/post/scaleapi/</link>
+      <pubDate>Fri, 17 Feb 2017 16:38:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/scaleapi/</guid>
+      <description>
+        
+        <p>API For Human Intelligence</p>
+        <img src="http://lapa.ninja/assets/images/scale-17-02-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Ode Goods</title>
       <link>http://lapa.ninja/post/ode-goods/</link>
       <pubDate>Thu, 09 Feb 2017 14:37:56 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>You’ve taken thousands of showers, but never one like this.</p>
         <img src="http://lapa.ninja/assets/images/nebia-shower.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MacBook Pro 2016</title>
-      <link>http://lapa.ninja/post/macbook-pro-2016/</link>
-      <pubDate>Fri, 28 Oct 2016 21:47:03 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/macbook-pro-2016/</guid>
-      <description>
-        
-        <p>The new MacBook Pro is thinner, lighter, and more powerful than ever, and introduces the revolutionary Touch Bar, a completely new way to use your Mac.</p>
-        <img src="http://lapa.ninja/assets/images/macbook-pro-apple.png" />
 
 
       </description>

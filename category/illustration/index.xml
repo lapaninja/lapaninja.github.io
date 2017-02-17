@@ -9,6 +9,21 @@
     <atom:link href="/category/illustration/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Poindexter</title>
+      <link>http://lapa.ninja/post/poindexter/</link>
+      <pubDate>Fri, 17 Feb 2017 16:38:32 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/poindexter/</guid>
+      <description>
+        
+        <p>Automated Financial Projections for Startups</p>
+        <img src="http://lapa.ninja/assets/images/poindexter.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Firebase</title>
       <link>http://lapa.ninja/post/firebase/</link>
       <pubDate>Sun, 12 Feb 2017 11:31:10 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Easiest Way to Create Chat Bots for CometChat, Facebook and more - Bots.co by CometChat</p>
         <img src="http://lapa.ninja/assets/images/bots-co.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Collarbone</title>
-      <link>http://lapa.ninja/post/collarbone/</link>
-      <pubDate>Sat, 12 Nov 2016 09:40:19 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/collarbone/</guid>
-      <description>
-        
-        <p>The only people who understands your customers&#39; problems better than your customers, is no-one.</p>
-        <img src="http://lapa.ninja/assets/images/collarbone.jpg" />
 
 
       </description>

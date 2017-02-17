@@ -9,6 +9,21 @@
     <atom:link href="/category/app/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Mergie</title>
+      <link>http://lapa.ninja/post/mergie/</link>
+      <pubDate>Fri, 17 Feb 2017 16:38:47 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mergie/</guid>
+      <description>
+        
+        <p>Mergie is your virtual Salesforce CRM assistant for Slack, Skype, Telegram and Facebook Messenger. Create documents for your leads, contacts from templates, deliver documents via email or send to sign using natural language, wherever you are.</p>
+        <img src="http://lapa.ninja/assets/images/mergie.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Forge</title>
       <link>http://lapa.ninja/post/tryforge/</link>
       <pubDate>Thu, 16 Feb 2017 20:31:32 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Status is a browser, messenger, and gateway to a decentralised world.</p>
         <img src="http://lapa.ninja/assets/images/status-im.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Abe</title>
-      <link>http://lapa.ninja/post/abe/</link>
-      <pubDate>Mon, 05 Dec 2016 12:07:06 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/abe/</guid>
-      <description>
-        
-        <p>A Financial Chatbot for Your Money</p>
-        <img src="http://lapa.ninja/assets/images/abe.jpg" />
 
 
       </description>
