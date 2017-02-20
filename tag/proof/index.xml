@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proof on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/proof/index.xml</link>
+    <description>Recent content in Proof on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tag/proof/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Proof</title>
+      <link>http://lapa.ninja/post/proof/</link>
+      <pubDate>Mon, 20 Feb 2017 20:35:16 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/proof/</guid>
+      <description>
+        
+        <p>A system designed to help independent publishers punch way above their weight class.</p>
+        <img src="http://lapa.ninja/assets/images/proof.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

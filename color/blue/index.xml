@@ -9,6 +9,36 @@
     <atom:link href="/color/blue/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Johan Netzler</title>
+      <link>http://lapa.ninja/post/johannetzler/</link>
+      <pubDate>Mon, 20 Feb 2017 20:35:53 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/johannetzler/</guid>
+      <description>
+        
+        <p>I create simple and beautiful interfaces, combining design and engineering to shape meaningful experiences.</p>
+        <img src="http://lapa.ninja/assets/images/johan-netzler.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Floyd</title>
+      <link>http://lapa.ninja/post/floydhub/</link>
+      <pubDate>Mon, 20 Feb 2017 20:35:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/floydhub/</guid>
+      <description>
+        
+        <p>Eliminate engineering bottlenecks in Deep Learning</p>
+        <img src="http://lapa.ninja/assets/images/floyd.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Mergie</title>
       <link>http://lapa.ninja/post/mergie/</link>
       <pubDate>Fri, 17 Feb 2017 16:38:47 +0700</pubDate>

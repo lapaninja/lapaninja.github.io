@@ -9,6 +9,21 @@
     <atom:link href="/color/purple/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Johan Netzler</title>
+      <link>http://lapa.ninja/post/johannetzler/</link>
+      <pubDate>Mon, 20 Feb 2017 20:35:53 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/johannetzler/</guid>
+      <description>
+        
+        <p>I create simple and beautiful interfaces, combining design and engineering to shape meaningful experiences.</p>
+        <img src="http://lapa.ninja/assets/images/johan-netzler.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Scale</title>
       <link>http://lapa.ninja/post/scaleapi/</link>
       <pubDate>Fri, 17 Feb 2017 16:38:11 +0700</pubDate>

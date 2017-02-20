@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lapa.ninja/post/johannetzler/</loc>
+    <lastmod>2017-02-20T20:35:53+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/post/floydhub/</loc>
+    <lastmod>2017-02-20T20:35:38+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/post/proof/</loc>
+    <lastmod>2017-02-20T20:35:16+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lapa.ninja/post/mergie/</loc>
     <lastmod>2017-02-17T16:38:47+07:00</lastmod>
   </url>
@@ -2167,13 +2182,13 @@
   </url>
   
   <url>
-    <loc>http://lapa.ninja/tag/</loc>
+    <loc>http://lapa.ninja/category/</loc>
     <lastmod>2015-11-13T10:18:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://lapa.ninja/category/</loc>
+    <loc>http://lapa.ninja/tag/</loc>
     <lastmod>2015-11-13T10:18:59+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2257,14 +2272,14 @@
   </url>
   
   <url>
-    <loc>http://lapa.ninja/tag/app/</loc>
-    <lastmod>2015-11-13T11:39:38+07:00</lastmod>
+    <loc>http://lapa.ninja/category/app/</loc>
+    <lastmod>2017-02-17T16:38:47+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://lapa.ninja/category/app/</loc>
-    <lastmod>2017-02-17T16:38:47+07:00</lastmod>
+    <loc>http://lapa.ninja/tag/app/</loc>
+    <lastmod>2015-11-13T11:39:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2377,20 +2392,20 @@
   </url>
   
   <url>
-    <loc>http://lapa.ninja/tag/blog/</loc>
-    <lastmod>2015-12-08T15:24:57+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://lapa.ninja/category/blog/</loc>
     <lastmod>2016-06-29T16:30:14+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://lapa.ninja/tag/blog/</loc>
+    <lastmod>2015-12-08T15:24:57+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://lapa.ninja/color/blue/</loc>
-    <lastmod>2017-02-17T16:38:47+07:00</lastmod>
+    <lastmod>2017-02-20T20:35:53+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2557,7 +2572,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/cms/</loc>
-    <lastmod>2017-01-17T21:55:37+07:00</lastmod>
+    <lastmod>2017-02-20T20:35:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2580,7 +2595,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/coming-soon/</loc>
-    <lastmod>2016-12-21T16:26:25+07:00</lastmod>
+    <lastmod>2017-02-20T20:35:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2598,7 +2613,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/creative/</loc>
-    <lastmod>2017-02-15T12:42:39+07:00</lastmod>
+    <lastmod>2017-02-20T20:35:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2921,6 +2936,12 @@
   </url>
   
   <url>
+    <loc>http://lapa.ninja/tag/floyd/</loc>
+    <lastmod>2017-02-20T20:35:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://lapa.ninja/category/food-drinks/</loc>
     <lastmod>2016-09-06T21:20:52+07:00</lastmod>
     <priority>0</priority>
@@ -3053,8 +3074,20 @@
   </url>
   
   <url>
+    <loc>http://lapa.ninja/color/gradient/</loc>
+    <lastmod>2017-02-20T20:35:53+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://lapa.ninja/tag/grav/</loc>
     <lastmod>2015-10-27T10:15:54+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/color/gray/</loc>
+    <lastmod>2017-02-20T20:35:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3174,7 +3207,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/illustration/</loc>
-    <lastmod>2017-02-17T16:38:32+07:00</lastmod>
+    <lastmod>2017-02-20T20:35:53+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3253,6 +3286,12 @@
   <url>
     <loc>http://lapa.ninja/tag/jmd/</loc>
     <lastmod>2016-10-27T13:41:41+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/tag/johan/</loc>
+    <lastmod>2017-02-20T20:35:53+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3450,7 +3489,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/minimal/</loc>
-    <lastmod>2017-02-15T12:32:48+07:00</lastmod>
+    <lastmod>2017-02-20T20:35:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3467,14 +3506,14 @@
   </url>
   
   <url>
-    <loc>http://lapa.ninja/tag/miscellaneous/</loc>
-    <lastmod>2017-01-04T14:19:50+07:00</lastmod>
+    <loc>http://lapa.ninja/category/miscellaneous/</loc>
+    <lastmod>2017-02-17T16:38:11+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://lapa.ninja/category/miscellaneous/</loc>
-    <lastmod>2017-02-17T16:38:11+07:00</lastmod>
+    <loc>http://lapa.ninja/tag/miscellaneous/</loc>
+    <lastmod>2017-01-04T14:19:50+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3833,14 +3872,14 @@
   </url>
   
   <url>
-    <loc>http://lapa.ninja/tag/portfolio/</loc>
-    <lastmod>2016-03-14T14:20:53+07:00</lastmod>
+    <loc>http://lapa.ninja/category/portfolio/</loc>
+    <lastmod>2017-02-20T20:35:53+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://lapa.ninja/category/portfolio/</loc>
-    <lastmod>2017-02-12T11:31:20+07:00</lastmod>
+    <loc>http://lapa.ninja/tag/portfolio/</loc>
+    <lastmod>2016-03-14T14:20:53+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3852,7 +3891,7 @@
   
   <url>
     <loc>http://lapa.ninja/post/</loc>
-    <lastmod>2017-02-17T16:38:47+07:00</lastmod>
+    <lastmod>2017-02-20T20:35:53+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3877,6 +3916,12 @@
   <url>
     <loc>http://lapa.ninja/category/productivity/</loc>
     <lastmod>2017-02-17T16:38:47+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lapa.ninja/tag/proof/</loc>
+    <lastmod>2017-02-20T20:35:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3906,7 +3951,7 @@
   
   <url>
     <loc>http://lapa.ninja/color/purple/</loc>
-    <lastmod>2017-02-17T16:38:11+07:00</lastmod>
+    <lastmod>2017-02-20T20:35:53+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4176,7 +4221,7 @@
   
   <url>
     <loc>http://lapa.ninja/category/software/</loc>
-    <lastmod>2017-02-17T16:38:32+07:00</lastmod>
+    <lastmod>2017-02-20T20:35:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4373,7 +4418,7 @@
   
   <url>
     <loc>http://lapa.ninja/</loc>
-    <lastmod>2017-02-17T16:38:47+07:00</lastmod>
+    <lastmod>2017-02-20T20:35:53+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4619,7 +4664,7 @@
   
   <url>
     <loc>http://lapa.ninja/color/white/</loc>
-    <lastmod>2017-02-15T12:32:48+07:00</lastmod>
+    <lastmod>2017-02-20T20:35:38+07:00</lastmod>
     <priority>0</priority>
   </url>
   

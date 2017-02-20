@@ -9,6 +9,21 @@
     <atom:link href="/category/software/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Floyd</title>
+      <link>http://lapa.ninja/post/floydhub/</link>
+      <pubDate>Mon, 20 Feb 2017 20:35:38 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/floydhub/</guid>
+      <description>
+        
+        <p>Eliminate engineering bottlenecks in Deep Learning</p>
+        <img src="http://lapa.ninja/assets/images/floyd.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Poindexter</title>
       <link>http://lapa.ninja/post/poindexter/</link>
       <pubDate>Fri, 17 Feb 2017 16:38:32 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Wake is the fastest and easiest way for designers to share work and collect feedback from their team.</p>
         <img src="http://lapa.ninja/assets/images/wake-com.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>PaintCode 3</title>
-      <link>http://lapa.ninja/post/paintcode-3/</link>
-      <pubDate>Fri, 04 Nov 2016 10:10:59 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/paintcode-3/</guid>
-      <description>
-        
-        <p>PaintCode is a unique vector drawing app that generates Objective-C or Swift code in real time, acting as a bridge between developers and graphic designers.</p>
-        <img src="http://lapa.ninja/assets/images/paint-code-3.jpg" />
 
 
       </description>
