@@ -9,6 +9,21 @@
     <atom:link href="/category/gradient/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Create Upstate</title>
+      <link>http://lapa.ninja/post/create-upstate/</link>
+      <pubDate>Wed, 22 Feb 2017 13:58:48 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/create-upstate/</guid>
+      <description>
+        
+        <p>Create Upstate is a 3-day conference, celebrating design and creativity in Upstate NY.</p>
+        <img src="http://lapa.ninja/assets/images/create-upstate.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Mergie</title>
       <link>http://lapa.ninja/post/mergie/</link>
       <pubDate>Fri, 17 Feb 2017 16:38:47 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Modern tools to prevent fraud, fully integrated with your payments.</p>
         <img src="http://lapa.ninja/assets/images/stripe-radar.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Stripe</title>
-      <link>http://lapa.ninja/post/stripe/</link>
-      <pubDate>Sat, 24 Sep 2016 11:27:28 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/stripe/</guid>
-      <description>
-        
-        <p>Stripe is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.</p>
-        <img src="http://lapa.ninja/assets/images/stripe.jpg" />
 
 
       </description>

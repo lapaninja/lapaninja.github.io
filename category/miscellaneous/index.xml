@@ -9,6 +9,21 @@
     <atom:link href="/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Sigstr</title>
+      <link>http://lapa.ninja/post/sigstr-2/</link>
+      <pubDate>Wed, 22 Feb 2017 14:58:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/sigstr-2/</guid>
+      <description>
+        
+        <p>We are email signature marketing</p>
+        <img src="http://lapa.ninja/assets/images/sigstr-22-02-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Scale</title>
       <link>http://lapa.ninja/post/scaleapi/</link>
       <pubDate>Fri, 17 Feb 2017 16:38:11 +0700</pubDate>
@@ -213,21 +228,6 @@
         
         <p>Customer Experience Management Platform</p>
         <img src="http://lapa.ninja/assets/images/falcon-io.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Nebia Shower</title>
-      <link>http://lapa.ninja/post/nebia-shower/</link>
-      <pubDate>Sat, 29 Oct 2016 09:31:26 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/nebia-shower/</guid>
-      <description>
-        
-        <p>You’ve taken thousands of showers, but never one like this.</p>
-        <img src="http://lapa.ninja/assets/images/nebia-shower.jpg" />
 
 
       </description>
