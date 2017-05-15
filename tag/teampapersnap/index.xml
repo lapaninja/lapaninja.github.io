@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teampapersnap on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/teampapersnap/</link>
+    <description>Recent content in Teampapersnap on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Mar 2017 21:22:42 +0700</lastBuildDate>
+    <atom:link href="/tag/teampapersnap/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Teampaper Snap</title>
+      <link>http://lapa.ninja/post/teampaper-snap/</link>
+      <pubDate>Mon, 20 Mar 2017 21:22:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/teampaper-snap/</guid>
+      <description>
+        
+        <p>App to take screenshots and comment them for macOS</p>
+        <img src="http://lapa.ninja/assets/images/teampaper-snap.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,11 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ecommerce on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/ecommerce/index.xml</link>
+    <link>http://lapa.ninja/category/ecommerce/</link>
     <description>Recent content in Ecommerce on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2017 16:35:23 +0700</lastBuildDate>
+    <atom:link href="/category/ecommerce/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mollie</title>
+      <link>http://lapa.ninja/post/mollie/</link>
+      <pubDate>Fri, 21 Apr 2017 16:35:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mollie/</guid>
+      <description>
+        
+        <p>Clever payment products for great companies of all sizes.</p>
+        <img src="http://lapa.ninja/assets/images/mollie.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Stripe Atlas</title>
+      <link>http://lapa.ninja/post/stripe-atlas-2/</link>
+      <pubDate>Fri, 14 Apr 2017 17:25:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/stripe-atlas-2/</guid>
+      <description>
+        
+        <p>We built Atlas to make this easy: a tool to handle everything involved in establishing an internet business. It’s available to entrepreneurs everywhere.</p>
+        <img src="http://lapa.ninja/assets/images/stripe-atlas-14-04-2017.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Ode Goods</title>
@@ -198,36 +229,6 @@
         
         <p>Plasso makes accepting and making payments quick &amp; easy. Pay for things. Get paid for things. Buy things. Sell things.</p>
         <img src="http://lapa.ninja/assets/images/plasso.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Simple</title>
-      <link>http://lapa.ninja/post/simple/</link>
-      <pubDate>Wed, 20 Apr 2016 11:02:25 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/simple/</guid>
-      <description>
-        
-        <p>Simple is reinventing online banking with modern web and mobile experiences, no surprise fees, and great customer service. Simplify your finances.</p>
-        <img src="http://lapa.ninja/assets/images/simple.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Pattern by Etsy</title>
-      <link>http://lapa.ninja/post/pattern-by-etsy/</link>
-      <pubDate>Thu, 07 Apr 2016 15:36:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/pattern-by-etsy/</guid>
-      <description>
-        
-        <p>Design your own website, powered by your Etsy shop</p>
-        <img src="http://lapa.ninja/assets/images/pattern-by-etsy.jpg" />
 
 
       </description>

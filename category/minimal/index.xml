@@ -2,11 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minimal on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/minimal/index.xml</link>
+    <link>http://lapa.ninja/category/minimal/</link>
     <description>Recent content in Minimal on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/minimal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2017 17:34:52 +0700</lastBuildDate>
+    <atom:link href="/category/minimal/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Noun Project</title>
+      <link>http://lapa.ninja/post/the-noun-project/</link>
+      <pubDate>Fri, 21 Apr 2017 17:34:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/the-noun-project/</guid>
+      <description>
+        
+        <p>Nearly a million curated icons, created by a global community</p>
+        <img src="http://lapa.ninja/assets/images/the-noun-project.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Nikita Herasimenka</title>
+      <link>http://lapa.ninja/post/nickhh/</link>
+      <pubDate>Wed, 19 Apr 2017 16:21:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/nickhh/</guid>
+      <description>
+        
+        <p>I’m a Product designer from Belarus, currently living in San Francisco.</p>
+        <img src="http://lapa.ninja/assets/images/nickhh.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Muxu.Muxu</title>
+      <link>http://lapa.ninja/post/muxumuxu/</link>
+      <pubDate>Tue, 18 Apr 2017 14:49:44 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/muxumuxu/</guid>
+      <description>
+        
+        <p>We help startups and established companies to invent, build, and launch their next product or venture.</p>
+        <img src="http://lapa.ninja/assets/images/muxumuxu.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Headway</title>
+      <link>http://lapa.ninja/post/headwayapp/</link>
+      <pubDate>Sat, 01 Apr 2017 23:04:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/headwayapp/</guid>
+      <description>
+        
+        <p>Changelog for your web-app. In-app widget with your latest changes and a public page to keep your customers well informed.</p>
+        <img src="http://lapa.ninja/assets/images/headway.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tomáš Sebastián Steinhübel</title>
+      <link>http://lapa.ninja/post/tomassebastian/</link>
+      <pubDate>Mon, 20 Mar 2017 21:23:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tomassebastian/</guid>
+      <description>
+        
+        <p>Digital designer</p>
+        <img src="http://lapa.ninja/assets/images/tomassebastian.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Patrick David</title>
+      <link>http://lapa.ninja/post/bepatrickdavid/</link>
+      <pubDate>Thu, 09 Mar 2017 22:40:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bepatrickdavid/</guid>
+      <description>
+        
+        <p>Front-End Developer and Web Designer based in Italy</p>
+        <img src="http://lapa.ninja/assets/images/patrick-david.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Proof</title>
@@ -138,96 +229,6 @@
         
         <p>Ueno is a full-service digital agency, busy designing and building beautiful digital products, brands, and experiences.</p>
         <img src="http://lapa.ninja/assets/images/ueno-22-11-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Raul Perțe</title>
-      <link>http://lapa.ninja/post/perte/</link>
-      <pubDate>Sat, 12 Nov 2016 09:59:45 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/perte/</guid>
-      <description>
-        
-        <p>I work closely with top-notch companies to improve their design experience.</p>
-        <img src="http://lapa.ninja/assets/images/raul-perte.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Karolis Kosas</title>
-      <link>http://lapa.ninja/post/karolis-kosas/</link>
-      <pubDate>Sat, 12 Nov 2016 09:59:37 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/karolis-kosas/</guid>
-      <description>
-        
-        <p>Karolis Kosas specializes in UX research and design. </p>
-        <img src="http://lapa.ninja/assets/images/karolis-kosas.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Airtable</title>
-      <link>http://lapa.ninja/post/airtable-2/</link>
-      <pubDate>Thu, 27 Oct 2016 13:42:05 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/airtable-2/</guid>
-      <description>
-        
-        <p>Organize anything you can imagine. Airtable works like a spreadsheet but gives you the power of a database to organize anything.</p>
-        <img src="http://lapa.ninja/assets/images/airtable-27-10-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>MinimalStuff Mag</title>
-      <link>http://lapa.ninja/post/minimal-stuff/</link>
-      <pubDate>Fri, 21 Oct 2016 20:59:59 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/minimal-stuff/</guid>
-      <description>
-        
-        <p>High Quality Design Inspiration</p>
-        <img src="http://lapa.ninja/assets/images/minimal-stuff.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Nuage</title>
-      <link>http://lapa.ninja/post/nuage/</link>
-      <pubDate>Tue, 18 Oct 2016 20:41:50 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/nuage/</guid>
-      <description>
-        
-        <p>Managing domains has never been so cool.</p>
-        <img src="http://lapa.ninja/assets/images/nuage.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Svgsus</title>
-      <link>http://lapa.ninja/post/svgsus/</link>
-      <pubDate>Thu, 25 Aug 2016 16:16:40 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/svgsus/</guid>
-      <description>
-        
-        <p>Svgsus is the perfect tool to organize, clean and transform svgs into code. Let&#39;s make SVGs great again.</p>
-        <img src="http://lapa.ninja/assets/images/svgsus.jpg" />
 
 
       </description>

@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/google/index.xml</link>
+    <link>http://lapa.ninja/tag/google/</link>
     <description>Recent content in Google on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/google/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Oct 2016 21:15:02 +0700</lastBuildDate>
+    <atom:link href="/tag/google/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Made by Google</title>

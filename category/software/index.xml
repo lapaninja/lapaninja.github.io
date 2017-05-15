@@ -2,202 +2,113 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/software/index.xml</link>
+    <link>http://lapa.ninja/category/software/</link>
     <description>Recent content in Software on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2017 17:34:52 +0700</lastBuildDate>
+    <atom:link href="/category/software/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Floyd</title>
-      <link>http://lapa.ninja/post/floydhub/</link>
-      <pubDate>Mon, 20 Feb 2017 20:35:38 +0700</pubDate>
+      <title>Noun Project</title>
+      <link>http://lapa.ninja/post/the-noun-project/</link>
+      <pubDate>Fri, 21 Apr 2017 17:34:52 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/floydhub/</guid>
+      <guid>http://lapa.ninja/post/the-noun-project/</guid>
       <description>
         
-        <p>Eliminate engineering bottlenecks in Deep Learning</p>
-        <img src="http://lapa.ninja/assets/images/floyd.jpg" />
+        <p>Nearly a million curated icons, created by a global community</p>
+        <img src="http://lapa.ninja/assets/images/the-noun-project.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Poindexter</title>
-      <link>http://lapa.ninja/post/poindexter/</link>
-      <pubDate>Fri, 17 Feb 2017 16:38:32 +0700</pubDate>
+      <title>1Password</title>
+      <link>http://lapa.ninja/post/1password/</link>
+      <pubDate>Fri, 21 Apr 2017 16:36:03 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/poindexter/</guid>
+      <guid>http://lapa.ninja/post/1password/</guid>
       <description>
         
-        <p>Automated Financial Projections for Startups</p>
-        <img src="http://lapa.ninja/assets/images/poindexter.jpg" />
+        <p>1Password remembers them all for you. Save your passwords and log in to sites with a single click. It&#39;s that simple.</p>
+        <img src="http://lapa.ninja/assets/images/1Password.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Scale</title>
-      <link>http://lapa.ninja/post/scaleapi/</link>
-      <pubDate>Fri, 17 Feb 2017 16:38:11 +0700</pubDate>
+      <title>Smallchat</title>
+      <link>http://lapa.ninja/post/smallchat/</link>
+      <pubDate>Fri, 21 Apr 2017 16:34:07 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/scaleapi/</guid>
+      <guid>http://lapa.ninja/post/smallchat/</guid>
       <description>
         
-        <p>API For Human Intelligence</p>
-        <img src="http://lapa.ninja/assets/images/scale-17-02-2017.jpg" />
+        <p>A slack integration for web chat</p>
+        <img src="http://lapa.ninja/assets/images/smallchat.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Plutio </title>
-      <link>http://lapa.ninja/post/plutio/</link>
-      <pubDate>Thu, 16 Feb 2017 20:25:32 +0700</pubDate>
+      <title>Newton</title>
+      <link>http://lapa.ninja/post/newtonhq/</link>
+      <pubDate>Tue, 18 Apr 2017 14:59:27 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/plutio/</guid>
+      <guid>http://lapa.ninja/post/newtonhq/</guid>
       <description>
         
-        <p>Everything you need to run your business and get work done, solely or with a team.</p>
-        <img src="http://lapa.ninja/assets/images/plutio.jpg" />
+        <p>Rock-solid emailing built to delight, with push notifications for all your email accounts, on all your devices - iOS, Android &amp; macOS.</p>
+        <img src="http://lapa.ninja/assets/images/newton.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Gasket</title>
-      <link>http://lapa.ninja/post/gasket/</link>
-      <pubDate>Tue, 17 Jan 2017 20:55:45 +0700</pubDate>
+      <title>CSSPeeper</title>
+      <link>http://lapa.ninja/post/csspeeper/</link>
+      <pubDate>Tue, 18 Apr 2017 14:50:07 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/gasket/</guid>
+      <guid>http://lapa.ninja/post/csspeeper/</guid>
       <description>
         
-        <p>With Gasket it&#39;s a snap to sync live data directly from Sheets.</p>
-        <img src="http://lapa.ninja/assets/images/gasket.jpg" />
+        <p>Inspect styles in a simple, well-organized &amp; beautiful way with our Chrome extension.</p>
+        <img src="http://lapa.ninja/assets/images/csspeeper.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Shift</title>
-      <link>http://lapa.ninja/post/tryshift/</link>
-      <pubDate>Wed, 21 Dec 2016 22:26:32 +0700</pubDate>
+      <title>Stripe Atlas</title>
+      <link>http://lapa.ninja/post/stripe-atlas-2/</link>
+      <pubDate>Fri, 14 Apr 2017 17:25:14 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/tryshift/</guid>
+      <guid>http://lapa.ninja/post/stripe-atlas-2/</guid>
       <description>
         
-        <p>Tired of Switching between Gmail Accounts? Get Shift.</p>
-        <img src="http://lapa.ninja/assets/images/shift.jpg" />
+        <p>We built Atlas to make this easy: a tool to handle everything involved in establishing an internet business. It’s available to entrepreneurs everywhere.</p>
+        <img src="http://lapa.ninja/assets/images/stripe-atlas-14-04-2017.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Webflow</title>
-      <link>http://lapa.ninja/post/webflow-2/</link>
-      <pubDate>Wed, 21 Dec 2016 22:26:11 +0700</pubDate>
+      <title>Moqups</title>
+      <link>http://lapa.ninja/post/moqups/</link>
+      <pubDate>Thu, 06 Apr 2017 17:32:32 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/webflow-2/</guid>
+      <guid>http://lapa.ninja/post/moqups/</guid>
       <description>
         
-        <p>A completely visual way to build for the web</p>
-        <img src="http://lapa.ninja/assets/images/webflow-21-12-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>bold</title>
-      <link>http://lapa.ninja/post/bold/</link>
-      <pubDate>Mon, 19 Dec 2016 22:22:24 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bold/</guid>
-      <description>
-        
-        <p>An internal blog for your team&#39;s knowledge and big ideas.</p>
-        <img src="http://lapa.ninja/assets/images/bold.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Opteo</title>
-      <link>http://lapa.ninja/post/opteo/</link>
-      <pubDate>Mon, 19 Dec 2016 22:21:08 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/opteo/</guid>
-      <description>
-        
-        <p>The smarter way to manage your Adwords clients</p>
-        <img src="http://lapa.ninja/assets/images/opteo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Bounceless</title>
-      <link>http://lapa.ninja/post/bounceless/</link>
-      <pubDate>Mon, 19 Dec 2016 22:21:01 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bounceless/</guid>
-      <description>
-        
-        <p>Get the highest ROI on your email marketing campaign.</p>
-        <img src="http://lapa.ninja/assets/images/bounceless.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Testmate</title>
-      <link>http://lapa.ninja/post/testmate/</link>
-      <pubDate>Tue, 22 Nov 2016 21:37:15 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/testmate/</guid>
-      <description>
-        
-        <p>Testmate is smart software that saves you and your team time by automating the logistics of user research interviews. Get Early Access</p>
-        <img src="http://lapa.ninja/assets/images/testmate.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Flow XO</title>
-      <link>http://lapa.ninja/post/flow-xo/</link>
-      <pubDate>Tue, 22 Nov 2016 21:36:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/flow-xo/</guid>
-      <description>
-        
-        <p>Bot platform for cross-platform business messaging apps</p>
-        <img src="http://lapa.ninja/assets/images/flow-xo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Winds RSS Reader</title>
-      <link>http://lapa.ninja/post/winds/</link>
-      <pubDate>Tue, 15 Nov 2016 11:03:01 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/winds/</guid>
-      <description>
-        
-        <p>Winds offers personalized news feeds and RSS Reader for free. Enjoy RSS Feeds again.</p>
-        <img src="http://lapa.ninja/assets/images/winds.jpg" />
+        <p>A streamlined web app that helps you create and collaborate on wireframes, mockups, diagrams and prototypes.</p>
+        <img src="http://lapa.ninja/assets/images/moqups.png" />
 
 
       </description>
@@ -205,29 +116,119 @@
     
     <item>
       <title>Lookback</title>
-      <link>http://lapa.ninja/post/lookback-2/</link>
-      <pubDate>Tue, 15 Nov 2016 11:01:12 +0700</pubDate>
+      <link>http://lapa.ninja/post/lookback-3/</link>
+      <pubDate>Thu, 06 Apr 2017 17:31:29 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/lookback-2/</guid>
+      <guid>http://lapa.ninja/post/lookback-3/</guid>
       <description>
         
-        <p>Remove the guesswork. Easily capture your users&#39; experiences and make your product better.</p>
-        <img src="http://lapa.ninja/assets/images/lookback.jpg" />
+        <p>User experience recording made simple. See the screen, face, voice and touches of your users. Record in-house or remotely and without equipment.</p>
+        <img src="http://lapa.ninja/assets/images/lookback-6-04-2017.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Wake</title>
-      <link>http://lapa.ninja/post/wake/</link>
-      <pubDate>Tue, 08 Nov 2016 21:09:35 +0700</pubDate>
+      <title>Atomic</title>
+      <link>http://lapa.ninja/post/atomic-4/</link>
+      <pubDate>Sat, 01 Apr 2017 23:05:33 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/wake/</guid>
+      <guid>http://lapa.ninja/post/atomic-4/</guid>
       <description>
         
-        <p>Wake is the fastest and easiest way for designers to share work and collect feedback from their team.</p>
-        <img src="http://lapa.ninja/assets/images/wake-com.jpg" />
+        <p>Atomic has everything you need to create amazing prototypes and it comes with all the happiness of being 100% in the cloud.</p>
+        <img src="http://lapa.ninja/assets/images/atomic-1-04-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lattice</title>
+      <link>http://lapa.ninja/post/lattice/</link>
+      <pubDate>Sun, 26 Mar 2017 11:40:34 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lattice/</guid>
+      <description>
+        
+        <p>All-In-One Performance Management. Everything you need to understand employee performance</p>
+        <img src="http://lapa.ninja/assets/images/lattice.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Verst</title>
+      <link>http://lapa.ninja/post/verst/</link>
+      <pubDate>Thu, 09 Mar 2017 23:40:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/verst/</guid>
+      <description>
+        
+        <p>Graduate your website or blog to Verst, the all-in-one platform to publish content, discover key insights, and optimize for engagement.</p>
+        <img src="http://lapa.ninja/assets/images/verst.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>http://lapa.ninja/post/github/</link>
+      <pubDate>Sun, 05 Mar 2017 21:54:02 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/github/</guid>
+      <description>
+        
+        <p>GitHub is a development platform inspired by the way you work. Host code, manage projects, and build software alongside millions of other developers.</p>
+        <img src="http://lapa.ninja/assets/images/github.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>MailChimp</title>
+      <link>http://lapa.ninja/post/mailchimp-2/</link>
+      <pubDate>Sun, 05 Mar 2017 21:53:34 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mailchimp-2/</guid>
+      <description>
+        
+        <p>MailChimp is the world’s leading email marketing platform. </p>
+        <img src="http://lapa.ninja/assets/images/mailchimp-5-03-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>thoughtbot</title>
+      <link>http://lapa.ninja/post/thoughtbot/</link>
+      <pubDate>Thu, 02 Mar 2017 16:34:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/thoughtbot/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja/assets/images/thoughtbot.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Webflow</title>
+      <link>http://lapa.ninja/post/webflow-3/</link>
+      <pubDate>Thu, 02 Mar 2017 16:34:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow-3/</guid>
+      <description>
+        
+        <p>Responsive web design tool, CMS, and hosting platform</p>
+        <img src="http://lapa.ninja/assets/images/webflow-2-3-2017.jpg" />
 
 
       </description>

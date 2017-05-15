@@ -2,11 +2,177 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Black on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/color/black/index.xml</link>
+    <link>http://lapa.ninja/color/black/</link>
     <description>Recent content in Black on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/color/black/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Apr 2017 16:24:50 +0700</lastBuildDate>
+    <atom:link href="/color/black/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Earth</title>
+      <link>http://lapa.ninja/post/google-earth/</link>
+      <pubDate>Wed, 19 Apr 2017 16:24:50 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/google-earth/</guid>
+      <description>
+        
+        <p>Explore the far reaches of the world, right in your browser.</p>
+        <img src="http://lapa.ninja/assets/images/google-earth.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Andrey Grabelnikov</title>
+      <link>http://lapa.ninja/post/grabelnikov/</link>
+      <pubDate>Sun, 02 Apr 2017 00:02:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/grabelnikov/</guid>
+      <description>
+        
+        <p>A rigorous digital designer from Ukraine working and living in New York</p>
+        <img src="http://lapa.ninja/assets/images/grabelnikov.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Wanaka</title>
+      <link>http://lapa.ninja/post/wearewanaka/</link>
+      <pubDate>Sun, 26 Mar 2017 12:30:22 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wearewanaka/</guid>
+      <description>
+        
+        <p>Studio de création</p>
+        <img src="http://lapa.ninja/assets/images/wearewanaka.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Voltra</title>
+      <link>http://lapa.ninja/post/voltra/</link>
+      <pubDate>Sun, 26 Mar 2017 11:39:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/voltra/</guid>
+      <description>
+        
+        <p>Voltra is a digital music player and shop for people who want to own their music.</p>
+        <img src="http://lapa.ninja/assets/images/voltra.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pixpa</title>
+      <link>http://lapa.ninja/post/pixpa/</link>
+      <pubDate>Mon, 13 Mar 2017 22:04:27 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pixpa/</guid>
+      <description>
+        
+        <p>Portfolio Websites &amp; Client Proofing for Creatives</p>
+        <img src="http://lapa.ninja/assets/images/pixpa.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Patrick David</title>
+      <link>http://lapa.ninja/post/bepatrickdavid/</link>
+      <pubDate>Thu, 09 Mar 2017 22:40:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bepatrickdavid/</guid>
+      <description>
+        
+        <p>Front-End Developer and Web Designer based in Italy</p>
+        <img src="http://lapa.ninja/assets/images/patrick-david.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Thomas Egain</title>
+      <link>http://lapa.ninja/post/thomas-egain/</link>
+      <pubDate>Tue, 07 Mar 2017 22:56:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/thomas-egain/</guid>
+      <description>
+        
+        <p>Web designer &amp; frontend developer</p>
+        <img src="http://lapa.ninja/assets/images/thomas-egain.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>http://lapa.ninja/post/github/</link>
+      <pubDate>Sun, 05 Mar 2017 21:54:02 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/github/</guid>
+      <description>
+        
+        <p>GitHub is a development platform inspired by the way you work. Host code, manage projects, and build software alongside millions of other developers.</p>
+        <img src="http://lapa.ninja/assets/images/github.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Webflow</title>
+      <link>http://lapa.ninja/post/webflow-3/</link>
+      <pubDate>Thu, 02 Mar 2017 16:34:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow-3/</guid>
+      <description>
+        
+        <p>Responsive web design tool, CMS, and hosting platform</p>
+        <img src="http://lapa.ninja/assets/images/webflow-2-3-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Slack Enterprise Grid</title>
+      <link>http://lapa.ninja/post/slack-enterprise/</link>
+      <pubDate>Sun, 26 Feb 2017 10:56:13 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/slack-enterprise/</guid>
+      <description>
+        
+        <p>Power up every part of your business with Slack Enterprise Grid</p>
+        <img src="http://lapa.ninja/assets/images/slack-enterprise-grid.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Dagadam</title>
+      <link>http://lapa.ninja/post/dagadam/</link>
+      <pubDate>Sun, 26 Feb 2017 10:55:36 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dagadam/</guid>
+      <description>
+        
+        <p>Dagadam is a smartwatch that entwines perfectly the ultimate technology with a comfortable and ergonomic design</p>
+        <img src="http://lapa.ninja/assets/images/dagadam.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>ZEIT</title>
@@ -48,6 +214,21 @@
         
         <p>Framer combines the power of code with the ease of visual editing. Prototype beautiful microinteractions or realistic apps. It’s time to design with development in mind.</p>
         <img src="http://lapa.ninja/assets/images/framer.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Clerkie</title>
+      <link>http://lapa.ninja/post/clerkie/</link>
+      <pubDate>Tue, 31 Jan 2017 22:06:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/clerkie/</guid>
+      <description>
+        
+        <p>Clerkie is your personal assistant for all things money related!</p>
+        <img src="http://lapa.ninja/assets/images/clerkie.jpg" />
 
 
       </description>

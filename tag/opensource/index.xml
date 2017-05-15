@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opensource on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/opensource/</link>
+    <description>Recent content in Opensource on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Mar 2017 00:09:14 +0700</lastBuildDate>
+    <atom:link href="/tag/opensource/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open Source Guide</title>
+      <link>http://lapa.ninja/post/open-source-guide/</link>
+      <pubDate>Wed, 01 Mar 2017 00:09:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/open-source-guide/</guid>
+      <description>
+        
+        <p>A community guide for open source creators.</p>
+        <img src="http://lapa.ninja/assets/images/open-source-guide.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

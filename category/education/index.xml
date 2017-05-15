@@ -2,11 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/education/index.xml</link>
+    <link>http://lapa.ninja/category/education/</link>
     <description>Recent content in Education on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/education/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Apr 2017 17:43:19 +0700</lastBuildDate>
+    <atom:link href="/category/education/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Increment</title>
+      <link>http://lapa.ninja/post/increment/</link>
+      <pubDate>Sat, 15 Apr 2017 17:43:19 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/increment/</guid>
+      <description>
+        
+        <p>Increment is dedicated to covering how teams build and operate software systems at scale, one issue at a time. In this, our inaugural issue, we focus on industry best practices around on-call and incident response.</p>
+        <img src="http://lapa.ninja/assets/images/increment.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>aparto</title>
+      <link>http://lapa.ninja/post/aparto/</link>
+      <pubDate>Mon, 20 Mar 2017 21:23:25 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/aparto/</guid>
+      <description>
+        
+        <p>We are a new student housing group in Ireland and the UK creating student homes not student rooms.</p>
+        <img src="http://lapa.ninja/assets/images/aparto.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Forge</title>

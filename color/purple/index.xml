@@ -2,11 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Purple on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/color/purple/index.xml</link>
+    <link>http://lapa.ninja/color/purple/</link>
     <description>Recent content in Purple on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/color/purple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Apr 2017 16:15:29 +0700</lastBuildDate>
+    <atom:link href="/color/purple/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rezi</title>
+      <link>http://lapa.ninja/post/rentrezi/</link>
+      <pubDate>Wed, 19 Apr 2017 16:15:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/rentrezi/</guid>
+      <description>
+        
+        <p>With REZI as your tenant, lease your property and collect all of your rent — today</p>
+        <img src="http://lapa.ninja/assets/images/rentrezi.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Luke Jones</title>
+      <link>http://lapa.ninja/post/lukejones/</link>
+      <pubDate>Fri, 14 Apr 2017 17:57:49 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lukejones/</guid>
+      <description>
+        
+        <p>I’m Luke Jones, a product designer with a focus on user interfaces &amp; good copy.</p>
+        <img src="http://lapa.ninja/assets/images/luke-jones.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Colin Keany</title>
+      <link>http://lapa.ninja/post/colinkeany/</link>
+      <pubDate>Thu, 06 Apr 2017 17:32:02 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/colinkeany/</guid>
+      <description>
+        
+        <p>Software Designer based in New York City simplifying complex digital products for people like you, me and everyone we know.</p>
+        <img src="http://lapa.ninja/assets/images/colin-keany.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Atomic</title>
+      <link>http://lapa.ninja/post/atomic-4/</link>
+      <pubDate>Sat, 01 Apr 2017 23:05:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/atomic-4/</guid>
+      <description>
+        
+        <p>Atomic has everything you need to create amazing prototypes and it comes with all the happiness of being 100% in the cloud.</p>
+        <img src="http://lapa.ninja/assets/images/atomic-1-04-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Verst</title>
+      <link>http://lapa.ninja/post/verst/</link>
+      <pubDate>Thu, 09 Mar 2017 23:40:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/verst/</guid>
+      <description>
+        
+        <p>Graduate your website or blog to Verst, the all-in-one platform to publish content, discover key insights, and optimize for engagement.</p>
+        <img src="http://lapa.ninja/assets/images/verst.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Vossier</title>
+      <link>http://lapa.ninja/post/vossier/</link>
+      <pubDate>Thu, 02 Mar 2017 16:35:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/vossier/</guid>
+      <description>
+        
+        <p>Free fortnightly design briefs, source files and feedback (on your work) delivered straight to your inbox.</p>
+        <img src="http://lapa.ninja/assets/images/vossier.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Create Upstate</title>
@@ -78,6 +169,66 @@
         
         <p>Skurt is the fastest and easiest way to rent a car. Say goodbye to long lines and paperwork. We&#39;ll deliver the car right to you.</p>
         <img src="http://lapa.ninja/assets/images/skurt-10-2-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Mixpanel</title>
+      <link>http://lapa.ninja/post/mixpanel-2/</link>
+      <pubDate>Wed, 21 Dec 2016 16:27:08 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mixpanel-2/</guid>
+      <description>
+        
+        <p>Deeply understand every user&#39;s journey with instant insights for everyone on mobile and web.</p>
+        <img src="http://lapa.ninja/assets/images/mixpanel-2.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>About Mixpanel</title>
+      <link>http://lapa.ninja/post/mixpanel-about/</link>
+      <pubDate>Wed, 21 Dec 2016 16:26:27 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mixpanel-about/</guid>
+      <description>
+        
+        <p>Our mission is to help the world learn from its data</p>
+        <img src="http://lapa.ninja/assets/images/mixpanel-2-about.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Inturn</title>
+      <link>http://lapa.ninja/post/inturn/</link>
+      <pubDate>Sat, 26 Nov 2016 11:15:37 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/inturn/</guid>
+      <description>
+        
+        <p>Our technology solution empowers brands and retailers to use automated workflow tools, a powerful pricing optimization engine, and business intelligence to gain visibility of their businesses</p>
+        <img src="http://lapa.ninja/assets/images/inturn.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Notion AI</title>
+      <link>http://lapa.ninja/post/notion-ai/</link>
+      <pubDate>Thu, 27 Oct 2016 13:42:34 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/notion-ai/</guid>
+      <description>
+        
+        <p>Notion is an artificial intelligence designed to improve how we communicate.</p>
+        <img src="http://lapa.ninja/assets/images/notion-ai.jpg" />
 
 
       </description>

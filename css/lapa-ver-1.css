@@ -1074,6 +1074,8 @@ body {
     float: left;
     margin-left: 1.38889%;
     margin-right: 1.38889%;
+    max-width: 378px;
+    min-height: 500px;
   }
 }
 .lapa-post__home li .lapa-post__item {
@@ -1134,11 +1136,17 @@ body {
 }
 .lapa-post__home li .lapa-post__link {
   display: block;
-  height: 500px;
-  background-size: cover;
-  overflow: hidden;
-  text-indent: -99999px;
+  min-height: 400px;
   border-radius: 2px 2px 0 0;
+}
+@media (min-width: 1024px) {
+  .lapa-post__home li .lapa-post__link {
+    height: 500px;
+  }
+}
+.lapa-post__home li .lapa-post__link img {
+  max-width: 100%;
+  height: auto;
 }
 .lapa-post__home .lapa-post__info {
   background: #fff;

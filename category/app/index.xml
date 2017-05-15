@@ -2,11 +2,207 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>App on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/app/index.xml</link>
+    <link>http://lapa.ninja/category/app/</link>
     <description>Recent content in App on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2017 16:36:03 +0700</lastBuildDate>
+    <atom:link href="/category/app/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1Password</title>
+      <link>http://lapa.ninja/post/1password/</link>
+      <pubDate>Fri, 21 Apr 2017 16:36:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/1password/</guid>
+      <description>
+        
+        <p>1Password remembers them all for you. Save your passwords and log in to sites with a single click. It&#39;s that simple.</p>
+        <img src="http://lapa.ninja/assets/images/1Password.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Smallchat</title>
+      <link>http://lapa.ninja/post/smallchat/</link>
+      <pubDate>Fri, 21 Apr 2017 16:34:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/smallchat/</guid>
+      <description>
+        
+        <p>A slack integration for web chat</p>
+        <img src="http://lapa.ninja/assets/images/smallchat.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Google Earth</title>
+      <link>http://lapa.ninja/post/google-earth/</link>
+      <pubDate>Wed, 19 Apr 2017 16:24:50 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/google-earth/</guid>
+      <description>
+        
+        <p>Explore the far reaches of the world, right in your browser.</p>
+        <img src="http://lapa.ninja/assets/images/google-earth.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Newton</title>
+      <link>http://lapa.ninja/post/newtonhq/</link>
+      <pubDate>Tue, 18 Apr 2017 14:59:27 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/newtonhq/</guid>
+      <description>
+        
+        <p>Rock-solid emailing built to delight, with push notifications for all your email accounts, on all your devices - iOS, Android &amp; macOS.</p>
+        <img src="http://lapa.ninja/assets/images/newton.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lingo</title>
+      <link>http://lapa.ninja/post/lingo-2/</link>
+      <pubDate>Thu, 06 Apr 2017 18:30:32 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lingo-2/</guid>
+      <description>
+        
+        <p>Lingo is the cloud connected visual asset library that empowers creation and ensures visual consistency for entire teams.</p>
+        <img src="http://lapa.ninja/assets/images/lingo-6-04-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lookback</title>
+      <link>http://lapa.ninja/post/lookback-3/</link>
+      <pubDate>Thu, 06 Apr 2017 17:31:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lookback-3/</guid>
+      <description>
+        
+        <p>User experience recording made simple. See the screen, face, voice and touches of your users. Record in-house or remotely and without equipment.</p>
+        <img src="http://lapa.ninja/assets/images/lookback-6-04-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Atomic</title>
+      <link>http://lapa.ninja/post/atomic-4/</link>
+      <pubDate>Sat, 01 Apr 2017 23:05:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/atomic-4/</guid>
+      <description>
+        
+        <p>Atomic has everything you need to create amazing prototypes and it comes with all the happiness of being 100% in the cloud.</p>
+        <img src="http://lapa.ninja/assets/images/atomic-1-04-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Headway</title>
+      <link>http://lapa.ninja/post/headwayapp/</link>
+      <pubDate>Sat, 01 Apr 2017 23:04:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/headwayapp/</guid>
+      <description>
+        
+        <p>Changelog for your web-app. In-app widget with your latest changes and a public page to keep your customers well informed.</p>
+        <img src="http://lapa.ninja/assets/images/headway.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Voltra</title>
+      <link>http://lapa.ninja/post/voltra/</link>
+      <pubDate>Sun, 26 Mar 2017 11:39:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/voltra/</guid>
+      <description>
+        
+        <p>Voltra is a digital music player and shop for people who want to own their music.</p>
+        <img src="http://lapa.ninja/assets/images/voltra.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Astro</title>
+      <link>http://lapa.ninja/post/astro/</link>
+      <pubDate>Mon, 20 Mar 2017 21:22:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/astro/</guid>
+      <description>
+        
+        <p>Modern email apps for Mac and iOS, powered by artificial intelligence, built for people and teams.</p>
+        <img src="http://lapa.ninja/assets/images/astro.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Teampaper Snap</title>
+      <link>http://lapa.ninja/post/teampaper-snap/</link>
+      <pubDate>Mon, 20 Mar 2017 21:22:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/teampaper-snap/</guid>
+      <description>
+        
+        <p>App to take screenshots and comment them for macOS</p>
+        <img src="http://lapa.ninja/assets/images/teampaper-snap.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Fabric</title>
+      <link>http://lapa.ninja/post/fabric/</link>
+      <pubDate>Sun, 26 Feb 2017 10:55:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/fabric/</guid>
+      <description>
+        
+        <p>Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business.</p>
+        <img src="http://lapa.ninja/assets/images/fabric.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Dagadam</title>
+      <link>http://lapa.ninja/post/dagadam/</link>
+      <pubDate>Sun, 26 Feb 2017 10:55:36 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dagadam/</guid>
+      <description>
+        
+        <p>Dagadam is a smartwatch that entwines perfectly the ultimate technology with a comfortable and ergonomic design</p>
+        <img src="http://lapa.ninja/assets/images/dagadam.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Mergie</title>
@@ -33,201 +229,6 @@
         
         <p>Forge is the fastest and easiest way for your team to learn.</p>
         <img src="http://lapa.ninja/assets/images/forge.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Firebase</title>
-      <link>http://lapa.ninja/post/firebase/</link>
-      <pubDate>Sun, 12 Feb 2017 11:31:10 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/firebase/</guid>
-      <description>
-        
-        <p>The tools and infrastructure you need to build better apps and grow successful businesses</p>
-        <img src="http://lapa.ninja/assets/images/firebase.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Skurt</title>
-      <link>http://lapa.ninja/post/skurt/</link>
-      <pubDate>Fri, 10 Feb 2017 15:20:03 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/skurt/</guid>
-      <description>
-        
-        <p>Skurt is the fastest and easiest way to rent a car. Say goodbye to long lines and paperwork. We&#39;ll deliver the car right to you.</p>
-        <img src="http://lapa.ninja/assets/images/skurt-10-2-2017.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>App Publisher by App Radar</title>
-      <link>http://lapa.ninja/post/app-publisher/</link>
-      <pubDate>Wed, 08 Feb 2017 15:00:58 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/app-publisher/</guid>
-      <description>
-        
-        <p>Manage, Edit and Publish. For iOS and Android.</p>
-        <img src="http://lapa.ninja/assets/images/app-publisher.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Framer</title>
-      <link>http://lapa.ninja/post/framer/</link>
-      <pubDate>Tue, 07 Feb 2017 21:50:54 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/framer/</guid>
-      <description>
-        
-        <p>Framer combines the power of code with the ease of visual editing. Prototype beautiful microinteractions or realistic apps. It’s time to design with development in mind.</p>
-        <img src="http://lapa.ninja/assets/images/framer.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Framer Cloud</title>
-      <link>http://lapa.ninja/post/framer-cloud/</link>
-      <pubDate>Tue, 07 Feb 2017 21:45:38 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/framer-cloud/</guid>
-      <description>
-        
-        <p>A modern design workflow</p>
-        <img src="http://lapa.ninja/assets/images/framer-cloud.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Framer Flows</title>
-      <link>http://lapa.ninja/post/framer-flow/</link>
-      <pubDate>Tue, 07 Feb 2017 21:42:57 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/framer-flow/</guid>
-      <description>
-        
-        <p>App design made simple</p>
-        <img src="http://lapa.ninja/assets/images/framer-flows.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dropbox Paper</title>
-      <link>http://lapa.ninja/post/dropbox-paper-2/</link>
-      <pubDate>Tue, 31 Jan 2017 23:18:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dropbox-paper-2/</guid>
-      <description>
-        
-        <p>Grow bigger, brighter ideas. More than a doc, Dropbox Paper is a flexible workspace that brings people and ideas together.</p>
-        <img src="http://lapa.ninja/assets/images/dropbox-paper-31-01-17.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dropbox</title>
-      <link>http://lapa.ninja/post/dropbox/</link>
-      <pubDate>Tue, 31 Jan 2017 23:10:44 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dropbox/</guid>
-      <description>
-        
-        <p>Introducing Dropbox Paper and Smart Sync — a simpler way to work together.</p>
-        <img src="http://lapa.ninja/assets/images/dropbox.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Clerkie</title>
-      <link>http://lapa.ninja/post/clerkie/</link>
-      <pubDate>Tue, 31 Jan 2017 22:06:54 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/clerkie/</guid>
-      <description>
-        
-        <p>Clerkie is your personal assistant for all things money related!</p>
-        <img src="http://lapa.ninja/assets/images/clerkie.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ionic Creator</title>
-      <link>http://lapa.ninja/post/ionic-creator/</link>
-      <pubDate>Tue, 17 Jan 2017 21:00:59 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ionic-creator/</guid>
-      <description>
-        
-        <p>Creator is a simple drag-&amp;-drop tool for going from idea to App Store, with just the drag of a mouse. Start building now</p>
-        <img src="http://lapa.ninja/assets/images/ionic-creator.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Mixpanel</title>
-      <link>http://lapa.ninja/post/mixpanel-2/</link>
-      <pubDate>Wed, 21 Dec 2016 16:27:08 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/mixpanel-2/</guid>
-      <description>
-        
-        <p>Deeply understand every user&#39;s journey with instant insights for everyone on mobile and web.</p>
-        <img src="http://lapa.ninja/assets/images/mixpanel-2.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>About Mixpanel</title>
-      <link>http://lapa.ninja/post/mixpanel-about/</link>
-      <pubDate>Wed, 21 Dec 2016 16:26:27 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/mixpanel-about/</guid>
-      <description>
-        
-        <p>Our mission is to help the world learn from its data</p>
-        <img src="http://lapa.ninja/assets/images/mixpanel-2-about.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Status</title>
-      <link>http://lapa.ninja/post/statusim/</link>
-      <pubDate>Wed, 21 Dec 2016 16:26:25 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/statusim/</guid>
-      <description>
-        
-        <p>Status is a browser, messenger, and gateway to a decentralised world.</p>
-        <img src="http://lapa.ninja/assets/images/status-im.jpg" />
 
 
       </description>

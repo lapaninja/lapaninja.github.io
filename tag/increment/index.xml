@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Increment on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/increment/</link>
+    <description>Recent content in Increment on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Apr 2017 17:43:19 +0700</lastBuildDate>
+    <atom:link href="/tag/increment/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Increment</title>
+      <link>http://lapa.ninja/post/increment/</link>
+      <pubDate>Sat, 15 Apr 2017 17:43:19 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/increment/</guid>
+      <description>
+        
+        <p>Increment is dedicated to covering how teams build and operate software systems at scale, one issue at a time. In this, our inaugural issue, we focus on industry best practices around on-call and incident response.</p>
+        <img src="http://lapa.ninja/assets/images/increment.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

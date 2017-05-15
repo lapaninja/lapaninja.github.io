@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Searches on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/search/index.xml</link>
+    <link>http://lapa.ninja/search/</link>
     <description>Recent content in Searches on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Nov 2015 10:18:59 +0700</lastBuildDate>
-    <atom:link href="/search/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/search/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lapa Search</title>
-      <link>http://lapa.ninja/search/</link>
+      <link>http://lapa.ninja/search/index/</link>
       <pubDate>Fri, 13 Nov 2015 10:18:59 +0700</pubDate>
       
-      <guid>http://lapa.ninja/search/</guid>
+      <guid>http://lapa.ninja/search/index/</guid>
       <description>
         
         <p></p>

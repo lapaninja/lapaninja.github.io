@@ -2,11 +2,162 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miscellaneous on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/miscellaneous/index.xml</link>
+    <link>http://lapa.ninja/category/miscellaneous/</link>
     <description>Recent content in Miscellaneous on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2017 16:35:23 +0700</lastBuildDate>
+    <atom:link href="/category/miscellaneous/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mollie</title>
+      <link>http://lapa.ninja/post/mollie/</link>
+      <pubDate>Fri, 21 Apr 2017 16:35:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mollie/</guid>
+      <description>
+        
+        <p>Clever payment products for great companies of all sizes.</p>
+        <img src="http://lapa.ninja/assets/images/mollie.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Rezi</title>
+      <link>http://lapa.ninja/post/rentrezi/</link>
+      <pubDate>Wed, 19 Apr 2017 16:15:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/rentrezi/</guid>
+      <description>
+        
+        <p>With REZI as your tenant, lease your property and collect all of your rent — today</p>
+        <img src="http://lapa.ninja/assets/images/rentrezi.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Increment</title>
+      <link>http://lapa.ninja/post/increment/</link>
+      <pubDate>Sat, 15 Apr 2017 17:43:19 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/increment/</guid>
+      <description>
+        
+        <p>Increment is dedicated to covering how teams build and operate software systems at scale, one issue at a time. In this, our inaugural issue, we focus on industry best practices around on-call and incident response.</p>
+        <img src="http://lapa.ninja/assets/images/increment.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Dunked</title>
+      <link>http://lapa.ninja/post/dunked-2/</link>
+      <pubDate>Fri, 14 Apr 2017 17:24:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dunked-2/</guid>
+      <description>
+        
+        <p>The simple way to build your portfolio &amp; showcase your work in style</p>
+        <img src="http://lapa.ninja/assets/images/dunked-14-04-2017.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Wanaka</title>
+      <link>http://lapa.ninja/post/wearewanaka/</link>
+      <pubDate>Sun, 26 Mar 2017 12:30:22 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/wearewanaka/</guid>
+      <description>
+        
+        <p>Studio de création</p>
+        <img src="http://lapa.ninja/assets/images/wearewanaka.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>aparto</title>
+      <link>http://lapa.ninja/post/aparto/</link>
+      <pubDate>Mon, 20 Mar 2017 21:23:25 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/aparto/</guid>
+      <description>
+        
+        <p>We are a new student housing group in Ireland and the UK creating student homes not student rooms.</p>
+        <img src="http://lapa.ninja/assets/images/aparto.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Simvoly</title>
+      <link>http://lapa.ninja/post/simvoly/</link>
+      <pubDate>Mon, 13 Mar 2017 22:04:19 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/simvoly/</guid>
+      <description>
+        
+        <p>Make stunning websites, online stores, blogs and more</p>
+        <img src="http://lapa.ninja/assets/images/simvoly.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Emerson Stone</title>
+      <link>http://lapa.ninja/post/emerson-stone/</link>
+      <pubDate>Tue, 07 Mar 2017 22:55:57 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/emerson-stone/</guid>
+      <description>
+        
+        <p>We create beautiful brands and lasting digital applications used by millions of people around the world.</p>
+        <img src="http://lapa.ninja/assets/images/emerson-stone.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>MyClean</title>
+      <link>http://lapa.ninja/post/myclean/</link>
+      <pubDate>Sun, 05 Mar 2017 21:53:53 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/myclean/</guid>
+      <description>
+        
+        <p>NYC &amp; Chicago Cleaning Services</p>
+        <img src="http://lapa.ninja/assets/images/myclean.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Shopify</title>
+      <link>http://lapa.ninja/post/shopify-2016-year-in-review/</link>
+      <pubDate>Wed, 01 Mar 2017 00:09:47 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/shopify-2016-year-in-review/</guid>
+      <description>
+        
+        <p>A look back into industry trends and the growth of our merchants, products, and capabilities.</p>
+        <img src="http://lapa.ninja/assets/images/shopify-2016-year-in-review.png" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Sigstr</title>
@@ -78,156 +229,6 @@
         
         <p>Moving together</p>
         <img src="http://lapa.ninja/assets/images/makingwaves.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ekko</title>
-      <link>http://lapa.ninja/post/ekko/</link>
-      <pubDate>Tue, 17 Jan 2017 21:45:28 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ekko/</guid>
-      <description>
-        
-        <p>Create your business website in seconds, using your Facebook page</p>
-        <img src="http://lapa.ninja/assets/images/ekko.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Opteo</title>
-      <link>http://lapa.ninja/post/opteo/</link>
-      <pubDate>Mon, 19 Dec 2016 22:21:08 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/opteo/</guid>
-      <description>
-        
-        <p>The smarter way to manage your Adwords clients</p>
-        <img src="http://lapa.ninja/assets/images/opteo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>DUX</title>
-      <link>http://lapa.ninja/post/dux/</link>
-      <pubDate>Mon, 05 Dec 2016 11:46:29 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dux/</guid>
-      <description>
-        
-        <p>We design interfaces.</p>
-        <img src="http://lapa.ninja/assets/images/dux.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Airbnb</title>
-      <link>http://lapa.ninja/post/airbnb-2/</link>
-      <pubDate>Tue, 22 Nov 2016 21:38:03 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/airbnb-2/</guid>
-      <description>
-        
-        <p>With our new app, you can embrace the unexpected. Add experiences and local spots to your trip while you’re on the go.</p>
-        <img src="http://lapa.ninja/assets/images/airbnb-22-11-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Bookmark</title>
-      <link>http://lapa.ninja/post/bookmark/</link>
-      <pubDate>Tue, 22 Nov 2016 21:36:46 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bookmark/</guid>
-      <description>
-        
-        <p>Bookmark’s powerful yet simple drag and drop website builder gives you full control to create your stunning website or e-commerce store with just a few clicks.</p>
-        <img src="http://lapa.ninja/assets/images/bookmark.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Netguru</title>
-      <link>http://lapa.ninja/post/netguru/</link>
-      <pubDate>Tue, 15 Nov 2016 11:02:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/netguru/</guid>
-      <description>
-        
-        <p>Ruby on Rails and mobile development team</p>
-        <img src="http://lapa.ninja/assets/images/netguru.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Reveal Bot</title>
-      <link>http://lapa.ninja/post/revealbot/</link>
-      <pubDate>Sat, 12 Nov 2016 09:59:09 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/revealbot/</guid>
-      <description>
-        
-        <p>Your personal marketing assistant who warns you when you lose money on ads</p>
-        <img src="http://lapa.ninja/assets/images/reveal-bot.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Process</title>
-      <link>http://lapa.ninja/post/process-masterclass/</link>
-      <pubDate>Sat, 12 Nov 2016 09:59:03 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/process-masterclass/</guid>
-      <description>
-        
-        <p>A course made to increase your value as an interactive designer. From design thinking to design execution.</p>
-        <img src="http://lapa.ninja/assets/images/process-masterclass.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Carv</title>
-      <link>http://lapa.ninja/post/carv/</link>
-      <pubDate>Tue, 08 Nov 2016 21:10:17 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/carv/</guid>
-      <description>
-        
-        <p>Carv is the first wearable technology dedicated to skiing that speaks to you as you ski - it&#39;s your digital ski coach.</p>
-        <img src="http://lapa.ninja/assets/images/carv-ai.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Falcon</title>
-      <link>http://lapa.ninja/post/falcon-io/</link>
-      <pubDate>Fri, 04 Nov 2016 10:09:43 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/falcon-io/</guid>
-      <description>
-        
-        <p>Customer Experience Management Platform</p>
-        <img src="http://lapa.ninja/assets/images/falcon-io.jpg" />
 
 
       </description>

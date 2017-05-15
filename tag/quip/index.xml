@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quip on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/quip/index.xml</link>
+    <link>http://lapa.ninja/tag/quip/</link>
     <description>Recent content in Quip on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/quip/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2016 13:55:54 +0700</lastBuildDate>
+    <atom:link href="/tag/quip/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Quip</title>

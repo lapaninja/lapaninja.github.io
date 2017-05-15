@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aparto on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/aparto/</link>
+    <description>Recent content in Aparto on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Mar 2017 21:23:25 +0700</lastBuildDate>
+    <atom:link href="/tag/aparto/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>aparto</title>
+      <link>http://lapa.ninja/post/aparto/</link>
+      <pubDate>Mon, 20 Mar 2017 21:23:25 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/aparto/</guid>
+      <description>
+        
+        <p>We are a new student housing group in Ireland and the UK creating student homes not student rooms.</p>
+        <img src="http://lapa.ninja/assets/images/aparto.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

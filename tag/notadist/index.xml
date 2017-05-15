@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notadist on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/notadist/index.xml</link>
+    <link>http://lapa.ninja/tag/notadist/</link>
     <description>Recent content in Notadist on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/notadist/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Feb 2017 14:47:47 +0700</lastBuildDate>
+    <atom:link href="/tag/notadist/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nota Dist</title>

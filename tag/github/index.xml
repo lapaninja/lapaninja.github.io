@@ -2,11 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/github/index.xml</link>
+    <link>http://lapa.ninja/tag/github/</link>
     <description>Recent content in Github on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Mar 2017 21:54:02 +0700</lastBuildDate>
+    <atom:link href="/tag/github/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GitHub</title>
+      <link>http://lapa.ninja/post/github/</link>
+      <pubDate>Sun, 05 Mar 2017 21:54:02 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/github/</guid>
+      <description>
+        
+        <p>GitHub is a development platform inspired by the way you work. Host code, manage projects, and build software alongside millions of other developers.</p>
+        <img src="http://lapa.ninja/assets/images/github.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Github Universe 2016</title>

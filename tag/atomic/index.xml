@@ -2,11 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atomic on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/atomic/index.xml</link>
+    <link>http://lapa.ninja/tag/atomic/</link>
     <description>Recent content in Atomic on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/atomic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2017 23:05:33 +0700</lastBuildDate>
+    <atom:link href="/tag/atomic/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Atomic</title>
+      <link>http://lapa.ninja/post/atomic-4/</link>
+      <pubDate>Sat, 01 Apr 2017 23:05:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/atomic-4/</guid>
+      <description>
+        
+        <p>Atomic has everything you need to create amazing prototypes and it comes with all the happiness of being 100% in the cloud.</p>
+        <img src="http://lapa.ninja/assets/images/atomic-1-04-2017.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Atomic</title>

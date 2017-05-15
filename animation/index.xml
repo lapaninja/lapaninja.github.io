@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animations on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/animation/index.xml</link>
+    <link>http://lapa.ninja/animation/</link>
     <description>Recent content in Animations on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jun 2016 22:09:45 +0700</lastBuildDate>
-    <atom:link href="/animation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/animation/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pixudio</title>

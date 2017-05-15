@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steffen on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/steffen/index.xml</link>
+    <link>http://lapa.ninja/tag/steffen/</link>
     <description>Recent content in Steffen on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/steffen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2016 11:46:58 +0700</lastBuildDate>
+    <atom:link href="/tag/steffen/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Steffen Studio</title>

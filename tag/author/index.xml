@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/author/index.xml</link>
+    <link>http://lapa.ninja/tag/author/</link>
     <description>Recent content in Author on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jul 2016 00:14:43 +0700</lastBuildDate>
+    <atom:link href="/tag/author/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Author</title>

@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sentry on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/sentry/index.xml</link>
+    <link>http://lapa.ninja/tag/sentry/</link>
     <description>Recent content in Sentry on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/sentry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Sep 2016 10:49:29 +0700</lastBuildDate>
+    <atom:link href="/tag/sentry/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sentry</title>

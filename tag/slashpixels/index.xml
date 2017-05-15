@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slashpixels on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/slashpixels/index.xml</link>
+    <link>http://lapa.ninja/tag/slashpixels/</link>
     <description>Recent content in Slashpixels on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/slashpixels/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 May 2016 08:36:05 +0700</lastBuildDate>
+    <atom:link href="/tag/slashpixels/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SlashPixels</title>

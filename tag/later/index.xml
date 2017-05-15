@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Later on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/later/index.xml</link>
+    <link>http://lapa.ninja/tag/later/</link>
     <description>Recent content in Later on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/later/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2016 21:09:48 +0700</lastBuildDate>
+    <atom:link href="/tag/later/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Later</title>

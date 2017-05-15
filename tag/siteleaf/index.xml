@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Siteleaf on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/siteleaf/index.xml</link>
+    <link>http://lapa.ninja/tag/siteleaf/</link>
     <description>Recent content in Siteleaf on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/siteleaf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Nov 2016 21:37:35 +0700</lastBuildDate>
+    <atom:link href="/tag/siteleaf/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Siteleaf</title>

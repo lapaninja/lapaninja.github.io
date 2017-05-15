@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Red Pen on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/red-pen/index.xml</link>
+    <link>http://lapa.ninja/tag/red-pen/</link>
     <description>Recent content in Red Pen on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/red-pen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2015 20:27:56 +0700</lastBuildDate>
+    <atom:link href="/tag/red-pen/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Red Pen</title>

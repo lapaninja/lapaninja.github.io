@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/android/index.xml</link>
+    <link>http://lapa.ninja/tag/android/</link>
     <description>Recent content in Android on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2016 14:33:52 +0700</lastBuildDate>
+    <atom:link href="/tag/android/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Android 7.0 Nougat</title>
-      <link>http://lapa.ninja/post/android%E2%80%93nougat/</link>
+      <link>http://lapa.ninja/post/androidnougat/</link>
       <pubDate>Thu, 25 Aug 2016 14:33:52 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/android%E2%80%93nougat/</guid>
+      <guid>http://lapa.ninja/post/androidnougat/</guid>
       <description>
         
         <p>With more ways to make Android your own, Android Nougat is our sweetest release yet.</p>

@@ -2,11 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Orange on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/color/orange/index.xml</link>
+    <link>http://lapa.ninja/color/orange/</link>
     <description>Recent content in Orange on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/color/orange/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Apr 2017 17:44:05 +0700</lastBuildDate>
+    <atom:link href="/color/orange/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Studio Lovelock</title>
+      <link>http://lapa.ninja/post/studiolovelock/</link>
+      <pubDate>Sat, 15 Apr 2017 17:44:05 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/studiolovelock/</guid>
+      <description>
+        
+        <p>Considered Design for Creative Thinkers</p>
+        <img src="http://lapa.ninja/assets/images/studio-kovelock.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Increment</title>
+      <link>http://lapa.ninja/post/increment/</link>
+      <pubDate>Sat, 15 Apr 2017 17:43:19 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/increment/</guid>
+      <description>
+        
+        <p>Increment is dedicated to covering how teams build and operate software systems at scale, one issue at a time. In this, our inaugural issue, we focus on industry best practices around on-call and incident response.</p>
+        <img src="http://lapa.ninja/assets/images/increment.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Stripe Atlas</title>
+      <link>http://lapa.ninja/post/stripe-atlas-2/</link>
+      <pubDate>Fri, 14 Apr 2017 17:25:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/stripe-atlas-2/</guid>
+      <description>
+        
+        <p>We built Atlas to make this easy: a tool to handle everything involved in establishing an internet business. It’s available to entrepreneurs everywhere.</p>
+        <img src="http://lapa.ninja/assets/images/stripe-atlas-14-04-2017.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Create Upstate</title>
@@ -24,21 +70,6 @@
     </item>
     
     <item>
-      <title>Scale</title>
-      <link>http://lapa.ninja/post/scaleapi/</link>
-      <pubDate>Fri, 17 Feb 2017 16:38:11 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/scaleapi/</guid>
-      <description>
-        
-        <p>API For Human Intelligence</p>
-        <img src="http://lapa.ninja/assets/images/scale-17-02-2017.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
       <title>Forge</title>
       <link>http://lapa.ninja/post/tryforge/</link>
       <pubDate>Thu, 16 Feb 2017 20:31:32 +0700</pubDate>
@@ -48,6 +79,141 @@
         
         <p>Forge is the fastest and easiest way for your team to learn.</p>
         <img src="http://lapa.ninja/assets/images/forge.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Aerolab</title>
+      <link>http://lapa.ninja/post/aerolab/</link>
+      <pubDate>Wed, 04 Jan 2017 14:19:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/aerolab/</guid>
+      <description>
+        
+        <p>We design and develop digital_products for mobile and web, that people love to use.</p>
+        <img src="http://lapa.ninja/assets/images/aerolab.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Friends</title>
+      <link>http://lapa.ninja/post/bff-co/</link>
+      <pubDate>Thu, 06 Oct 2016 21:14:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bff-co/</guid>
+      <description>
+        
+        <p>Friends—A collaborative design company. We partner with organizations of all sizes in public, private, and social sectors to build innovation into their culture and move forward in brave new ways.</p>
+        <img src="http://lapa.ninja/assets/images/bff-co.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Deliveroo</title>
+      <link>http://lapa.ninja/post/deliveroo/</link>
+      <pubDate>Tue, 06 Sep 2016 21:20:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/deliveroo/</guid>
+      <description>
+        
+        <p>Order high-quality takeaway online from top Australian restaurants, fast delivery straight to your home or office</p>
+        <img src="http://lapa.ninja/assets/images/deliveroo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Degordian</title>
+      <link>http://lapa.ninja/post/degordian/</link>
+      <pubDate>Tue, 12 Apr 2016 15:48:40 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/degordian/</guid>
+      <description>
+        
+        <p>Curious about digital marketing? We´re specialized in creating social media and performance based campaigns for the world´s leading brands.</p>
+        <img src="http://lapa.ninja/assets/images/degordian.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Asana</title>
+      <link>http://lapa.ninja/post/asana-2/</link>
+      <pubDate>Sat, 09 Apr 2016 10:19:54 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/asana-2/</guid>
+      <description>
+        
+        <p>Asana is the easiest way for teams to track their work—and get results.</p>
+        <img src="http://lapa.ninja/assets/images/asana-09-04-2016.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lingo</title>
+      <link>http://lapa.ninja/post/lingo/</link>
+      <pubDate>Fri, 25 Mar 2016 11:05:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lingo/</guid>
+      <description>
+        
+        <p>Lingo is the best way to organize, share and use all your visual assets in one place - all on your desktop.</p>
+        <img src="http://lapa.ninja/assets/images/lingo.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lift</title>
+      <link>http://lapa.ninja/post/liftux/</link>
+      <pubDate>Mon, 29 Feb 2016 11:02:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/liftux/</guid>
+      <description>
+        
+        <p>Lift is a full-service user experience design agency. Oh, and we do cool stuff with WordPress.</p>
+        <img src="http://lapa.ninja/assets/images/lift-ux.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Frontify</title>
+      <link>http://lapa.ninja/post/frontify/</link>
+      <pubDate>Fri, 16 Oct 2015 22:38:16 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/frontify/</guid>
+      <description>
+        
+        <p>Frontify is a software company based somewhere between Switzerlands deepest blue lakes and highest snowy mountains. Their chocolate fueled craftsmen develop web based apps that help you master the entire web design-to-development workflow (Frontify Workspace), collaborate joyfully and create professional brand &amp; design style guides (Frontify Style Guide).</p>
+        <img src="http://lapa.ninja/assets/images/frontify.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Google Cardboard</title>
+      <link>http://lapa.ninja/post/google-cardboard/</link>
+      <pubDate>Fri, 16 Oct 2015 21:55:04 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/google-cardboard/</guid>
+      <description>
+        
+        <p>Turn your smartphone into a virtual reality viewer that’s simple, fun, and affordable.</p>
+        <img src="http://lapa.ninja/assets/images/google-cardboard.jpg" />
 
 
       </description>

@@ -43,12 +43,24 @@ $("a.js-lazy").lazyload({
 // 	}
 
 		//open submenu
-	$('.lapa-nav--children').children('a').on('click', function(event){
+	$('#js-category').children('a').on('click', function(event){
 
 		event.preventDefault();
 		$(this).toggleClass('selected');
 
 		$('.js-lapa-category').toggleClass('active');
+
+		$('.lapa-overlay').toggleClass('lapa-overlay--active');
+
+	});
+
+
+		$('#js-color').children('a').on('click', function(event){
+
+		event.preventDefault();
+		$(this).toggleClass('selected');
+
+		$('.js-lapa-color').toggleClass('active');
 
 		$('.lapa-overlay').toggleClass('lapa-overlay--active');
 

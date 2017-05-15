@@ -2,11 +2,147 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Productivity on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/productivity/index.xml</link>
+    <link>http://lapa.ninja/category/productivity/</link>
     <description>Recent content in Productivity on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2017 16:36:03 +0700</lastBuildDate>
+    <atom:link href="/category/productivity/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1Password</title>
+      <link>http://lapa.ninja/post/1password/</link>
+      <pubDate>Fri, 21 Apr 2017 16:36:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/1password/</guid>
+      <description>
+        
+        <p>1Password remembers them all for you. Save your passwords and log in to sites with a single click. It&#39;s that simple.</p>
+        <img src="http://lapa.ninja/assets/images/1Password.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Newton</title>
+      <link>http://lapa.ninja/post/newtonhq/</link>
+      <pubDate>Tue, 18 Apr 2017 14:59:27 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/newtonhq/</guid>
+      <description>
+        
+        <p>Rock-solid emailing built to delight, with push notifications for all your email accounts, on all your devices - iOS, Android &amp; macOS.</p>
+        <img src="http://lapa.ninja/assets/images/newton.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Snappa</title>
+      <link>http://lapa.ninja/post/snappa/</link>
+      <pubDate>Fri, 14 Apr 2017 17:24:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/snappa/</guid>
+      <description>
+        
+        <p>Snappa makes it easy to create any type of online graphic. Create &amp; publish images for social media, blogs, ads, and more!</p>
+        <img src="http://lapa.ninja/assets/images/snappa.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Astro</title>
+      <link>http://lapa.ninja/post/astro/</link>
+      <pubDate>Mon, 20 Mar 2017 21:22:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/astro/</guid>
+      <description>
+        
+        <p>Modern email apps for Mac and iOS, powered by artificial intelligence, built for people and teams.</p>
+        <img src="http://lapa.ninja/assets/images/astro.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Teampaper Snap</title>
+      <link>http://lapa.ninja/post/teampaper-snap/</link>
+      <pubDate>Mon, 20 Mar 2017 21:22:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/teampaper-snap/</guid>
+      <description>
+        
+        <p>App to take screenshots and comment them for macOS</p>
+        <img src="http://lapa.ninja/assets/images/teampaper-snap.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Coach</title>
+      <link>http://lapa.ninja/post/withcoach/</link>
+      <pubDate>Mon, 13 Mar 2017 22:04:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/withcoach/</guid>
+      <description>
+        
+        <p>Coach gives you the tools &amp; support needed to build your business, so you can create the life you want.</p>
+        <img src="http://lapa.ninja/assets/images/coach.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pixpa</title>
+      <link>http://lapa.ninja/post/pixpa/</link>
+      <pubDate>Mon, 13 Mar 2017 22:04:27 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/pixpa/</guid>
+      <description>
+        
+        <p>Portfolio Websites &amp; Client Proofing for Creatives</p>
+        <img src="http://lapa.ninja/assets/images/pixpa.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Glyph</title>
+      <link>http://lapa.ninja/post/glyph/</link>
+      <pubDate>Thu, 09 Mar 2017 22:40:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/glyph/</guid>
+      <description>
+        
+        <p>Glyph helps you build simple yet stunning resumes for web and print. No fuss.</p>
+        <img src="http://lapa.ninja/assets/images/glyph.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Slack Enterprise Grid</title>
+      <link>http://lapa.ninja/post/slack-enterprise/</link>
+      <pubDate>Sun, 26 Feb 2017 10:56:13 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/slack-enterprise/</guid>
+      <description>
+        
+        <p>Power up every part of your business with Slack Enterprise Grid</p>
+        <img src="http://lapa.ninja/assets/images/slack-enterprise-grid.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Mergie</title>
@@ -93,141 +229,6 @@
         
         <p>An internal blog for your team&#39;s knowledge and big ideas.</p>
         <img src="http://lapa.ninja/assets/images/bold.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Nomad</title>
-      <link>http://lapa.ninja/post/nomadspace/</link>
-      <pubDate>Mon, 05 Dec 2016 11:44:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/nomadspace/</guid>
-      <description>
-        
-        <p>Large, small, long-term or short – find the right space for you, or your company</p>
-        <img src="http://lapa.ninja/assets/images/nomad.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Flow XO</title>
-      <link>http://lapa.ninja/post/flow-xo/</link>
-      <pubDate>Tue, 22 Nov 2016 21:36:30 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/flow-xo/</guid>
-      <description>
-        
-        <p>Bot platform for cross-platform business messaging apps</p>
-        <img src="http://lapa.ninja/assets/images/flow-xo.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Winds RSS Reader</title>
-      <link>http://lapa.ninja/post/winds/</link>
-      <pubDate>Tue, 15 Nov 2016 11:03:01 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/winds/</guid>
-      <description>
-        
-        <p>Winds offers personalized news feeds and RSS Reader for free. Enjoy RSS Feeds again.</p>
-        <img src="http://lapa.ninja/assets/images/winds.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Process</title>
-      <link>http://lapa.ninja/post/process-masterclass/</link>
-      <pubDate>Sat, 12 Nov 2016 09:59:03 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/process-masterclass/</guid>
-      <description>
-        
-        <p>A course made to increase your value as an interactive designer. From design thinking to design execution.</p>
-        <img src="http://lapa.ninja/assets/images/process-masterclass.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Sketch</title>
-      <link>http://lapa.ninja/post/sketchapp/</link>
-      <pubDate>Sat, 12 Nov 2016 09:39:51 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/sketchapp/</guid>
-      <description>
-        
-        <p>Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.</p>
-        <img src="http://lapa.ninja/assets/images/sketchapp.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Bear</title>
-      <link>http://lapa.ninja/post/bear/</link>
-      <pubDate>Tue, 08 Nov 2016 21:10:23 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bear/</guid>
-      <description>
-        
-        <p>Bear is a beautiful, flexible writing app for crafting notes and prose.</p>
-        <img src="http://lapa.ninja/assets/images/bear.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Later</title>
-      <link>http://lapa.ninja/post/laterapp/</link>
-      <pubDate>Tue, 08 Nov 2016 21:09:48 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/laterapp/</guid>
-      <description>
-        
-        <p>Quick Reminders. Later is a productivity app for your iPhone and Mac to set reminders quickly using preset. </p>
-        <img src="http://lapa.ninja/assets/images/laterapp.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Wake</title>
-      <link>http://lapa.ninja/post/wake/</link>
-      <pubDate>Tue, 08 Nov 2016 21:09:35 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/wake/</guid>
-      <description>
-        
-        <p>Wake is the fastest and easiest way for designers to share work and collect feedback from their team.</p>
-        <img src="http://lapa.ninja/assets/images/wake-com.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Workplace by Facebook</title>
-      <link>http://lapa.ninja/post/workplace-by-facebook/</link>
-      <pubDate>Fri, 04 Nov 2016 09:57:32 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/workplace-by-facebook/</guid>
-      <description>
-        
-        <p>For companies who get things done. Collaborate and get more done.</p>
-        <img src="http://lapa.ninja/assets/images/workplace-by-facebook.jpg" />
 
 
       </description>

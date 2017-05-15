@@ -1,19 +1,230 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/index.xml</link>
-    <description>Recent content on The Best Landing Page Inspiration</description>
+    <title>Category on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/category/</link>
+    <description>Recent content in Category on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2015 10:18:59 +0700</lastBuildDate>
+    <atom:link href="/category/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Lapa Search</title>
-      <link>http://lapa.ninja/search/</link>
+      <title></title>
+      <link>http://lapa.ninja/category/</link>
       <pubDate>Fri, 13 Nov 2015 10:18:59 +0700</pubDate>
       
-      <guid>http://lapa.ninja/search/</guid>
+      <guid>http://lapa.ninja/category/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>App</title>
+      <link>http://lapa.ninja/category/app/</link>
+      <pubDate>Fri, 21 Apr 2017 16:36:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/app/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://lapa.ninja/category/blog/</link>
+      <pubDate>Wed, 29 Jun 2016 16:30:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/blog/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Bot</title>
+      <link>http://lapa.ninja/category/bot/</link>
+      <pubDate>Sun, 12 Feb 2017 11:31:31 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/bot/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>http://lapa.ninja/category/business/</link>
+      <pubDate>Fri, 21 Apr 2017 16:35:41 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/business/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Cms</title>
+      <link>http://lapa.ninja/category/cms/</link>
+      <pubDate>Fri, 14 Apr 2017 17:24:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/cms/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Coming Soon</title>
+      <link>http://lapa.ninja/category/coming-soon/</link>
+      <pubDate>Mon, 20 Feb 2017 20:35:16 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/coming-soon/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Corporate</title>
+      <link>http://lapa.ninja/category/corporate/</link>
+      <pubDate>Fri, 21 Apr 2017 16:35:41 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/corporate/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Creative</title>
+      <link>http://lapa.ninja/category/creative/</link>
+      <pubDate>Wed, 19 Apr 2017 16:21:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/creative/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Design Tools</title>
+      <link>http://lapa.ninja/category/design-tools/</link>
+      <pubDate>Fri, 21 Apr 2017 17:34:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/design-tools/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Ecommerce</title>
+      <link>http://lapa.ninja/category/ecommerce/</link>
+      <pubDate>Fri, 21 Apr 2017 16:35:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/ecommerce/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://lapa.ninja/category/education/</link>
+      <pubDate>Sat, 15 Apr 2017 17:43:19 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/education/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Entertainment</title>
+      <link>http://lapa.ninja/category/entertainment/</link>
+      <pubDate>Sun, 26 Mar 2017 11:39:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/entertainment/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Event</title>
+      <link>http://lapa.ninja/category/event/</link>
+      <pubDate>Wed, 22 Feb 2017 13:58:48 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/event/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Fashion</title>
+      <link>http://lapa.ninja/category/fashion/</link>
+      <pubDate>Tue, 06 Sep 2016 21:20:25 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/category/fashion/</guid>
       <description>
         
         <p></p>

@@ -2,11 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photography on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/photography/index.xml</link>
+    <link>http://lapa.ninja/category/photography/</link>
     <description>Recent content in Photography on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/photography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Apr 2017 16:24:50 +0700</lastBuildDate>
+    <atom:link href="/category/photography/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Earth</title>
+      <link>http://lapa.ninja/post/google-earth/</link>
+      <pubDate>Wed, 19 Apr 2017 16:24:50 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/google-earth/</guid>
+      <description>
+        
+        <p>Explore the far reaches of the world, right in your browser.</p>
+        <img src="http://lapa.ninja/assets/images/google-earth.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lingo</title>
+      <link>http://lapa.ninja/post/lingo-2/</link>
+      <pubDate>Thu, 06 Apr 2017 18:30:32 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lingo-2/</guid>
+      <description>
+        
+        <p>Lingo is the cloud connected visual asset library that empowers creation and ensures visual consistency for entire teams.</p>
+        <img src="http://lapa.ninja/assets/images/lingo-6-04-2017.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>MinimalStuff Mag</title>
@@ -198,36 +229,6 @@
         
         <p>Organizing screenshots, images or photos in Finder is a major pain. Does it sound familiar? If so, we have a solution for you.</p>
         <img src="http://lapa.ninja/assets/images/inboard.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Adobe Portfolio</title>
-      <link>http://lapa.ninja/post/myportfolio/</link>
-      <pubDate>Fri, 16 Oct 2015 23:34:24 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/myportfolio/</guid>
-      <description>
-        
-        <p>Quickly and simply build a personalized website to showcase your creative work with Adobe Portfolio. Now included free with any Creative Cloud subscription.</p>
-        <img src="http://lapa.ninja/assets/images/myportfolio.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>WonderBox</title>
-      <link>http://lapa.ninja/post/wonderbox/</link>
-      <pubDate>Fri, 16 Oct 2015 23:29:49 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/wonderbox/</guid>
-      <description>
-        
-        <p>Explore, create, and share with family and friends.</p>
-        <img src="http://lapa.ninja/assets/images/wonderbox.png" />
 
 
       </description>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Headway on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/headway/</link>
+    <description>Recent content in Headway on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2017 23:04:11 +0700</lastBuildDate>
+    <atom:link href="/tag/headway/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Headway</title>
+      <link>http://lapa.ninja/post/headwayapp/</link>
+      <pubDate>Sat, 01 Apr 2017 23:04:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/headwayapp/</guid>
+      <description>
+        
+        <p>Changelog for your web-app. In-app widget with your latest changes and a public page to keep your customers well informed.</p>
+        <img src="http://lapa.ninja/assets/images/headway.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

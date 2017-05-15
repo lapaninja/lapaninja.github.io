@@ -2,11 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Illustration on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/illustration/index.xml</link>
+    <link>http://lapa.ninja/category/illustration/</link>
     <description>Recent content in Illustration on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/illustration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2017 16:34:07 +0700</lastBuildDate>
+    <atom:link href="/category/illustration/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Smallchat</title>
+      <link>http://lapa.ninja/post/smallchat/</link>
+      <pubDate>Fri, 21 Apr 2017 16:34:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/smallchat/</guid>
+      <description>
+        
+        <p>A slack integration for web chat</p>
+        <img src="http://lapa.ninja/assets/images/smallchat.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Increment</title>
+      <link>http://lapa.ninja/post/increment/</link>
+      <pubDate>Sat, 15 Apr 2017 17:43:19 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/increment/</guid>
+      <description>
+        
+        <p>Increment is dedicated to covering how teams build and operate software systems at scale, one issue at a time. In this, our inaugural issue, we focus on industry best practices around on-call and incident response.</p>
+        <img src="http://lapa.ninja/assets/images/increment.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Moqups</title>
+      <link>http://lapa.ninja/post/moqups/</link>
+      <pubDate>Thu, 06 Apr 2017 17:32:32 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/moqups/</guid>
+      <description>
+        
+        <p>A streamlined web app that helps you create and collaborate on wireframes, mockups, diagrams and prototypes.</p>
+        <img src="http://lapa.ninja/assets/images/moqups.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Baianat</title>
+      <link>http://lapa.ninja/post/baianat/</link>
+      <pubDate>Sat, 01 Apr 2017 23:08:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/baianat/</guid>
+      <description>
+        
+        <p>One of the most leading compaines in information technology that works in websites design, user experience, programming and business solutions.</p>
+        <img src="http://lapa.ninja/assets/images/baianat.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lattice</title>
+      <link>http://lapa.ninja/post/lattice/</link>
+      <pubDate>Sun, 26 Mar 2017 11:40:34 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lattice/</guid>
+      <description>
+        
+        <p>All-In-One Performance Management. Everything you need to understand employee performance</p>
+        <img src="http://lapa.ninja/assets/images/lattice.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Canny</title>
+      <link>http://lapa.ninja/post/canny/</link>
+      <pubDate>Mon, 20 Mar 2017 22:23:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/canny/</guid>
+      <description>
+        
+        <p>Canny is the easiest way for your team to collect and organize feedback from your users.</p>
+        <img src="http://lapa.ninja/assets/images/canny.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Coach</title>
+      <link>http://lapa.ninja/post/withcoach/</link>
+      <pubDate>Mon, 13 Mar 2017 22:04:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/withcoach/</guid>
+      <description>
+        
+        <p>Coach gives you the tools &amp; support needed to build your business, so you can create the life you want.</p>
+        <img src="http://lapa.ninja/assets/images/coach.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Glyph</title>
+      <link>http://lapa.ninja/post/glyph/</link>
+      <pubDate>Thu, 09 Mar 2017 22:40:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/glyph/</guid>
+      <description>
+        
+        <p>Glyph helps you build simple yet stunning resumes for web and print. No fuss.</p>
+        <img src="http://lapa.ninja/assets/images/glyph.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Clearleft</title>
+      <link>http://lapa.ninja/post/clearleft/</link>
+      <pubDate>Sun, 05 Mar 2017 21:54:15 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/clearleft/</guid>
+      <description>
+        
+        <p>Work closely with the Clearleft team to conceive and create new products and services. </p>
+        <img src="http://lapa.ninja/assets/images/clearleft.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>MailChimp</title>
+      <link>http://lapa.ninja/post/mailchimp-2/</link>
+      <pubDate>Sun, 05 Mar 2017 21:53:34 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/mailchimp-2/</guid>
+      <description>
+        
+        <p>MailChimp is the world’s leading email marketing platform. </p>
+        <img src="http://lapa.ninja/assets/images/mailchimp-5-03-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Open Source Guide</title>
+      <link>http://lapa.ninja/post/open-source-guide/</link>
+      <pubDate>Wed, 01 Mar 2017 00:09:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/open-source-guide/</guid>
+      <description>
+        
+        <p>A community guide for open source creators.</p>
+        <img src="http://lapa.ninja/assets/images/open-source-guide.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Fabric</title>
+      <link>http://lapa.ninja/post/fabric/</link>
+      <pubDate>Sun, 26 Feb 2017 10:55:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/fabric/</guid>
+      <description>
+        
+        <p>Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business.</p>
+        <img src="http://lapa.ninja/assets/images/fabric.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Johan Netzler</title>
@@ -48,186 +229,6 @@
         
         <p>Automated Financial Projections for Startups</p>
         <img src="http://lapa.ninja/assets/images/poindexter.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Firebase</title>
-      <link>http://lapa.ninja/post/firebase/</link>
-      <pubDate>Sun, 12 Feb 2017 11:31:10 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/firebase/</guid>
-      <description>
-        
-        <p>The tools and infrastructure you need to build better apps and grow successful businesses</p>
-        <img src="http://lapa.ninja/assets/images/firebase.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Skurt</title>
-      <link>http://lapa.ninja/post/skurt/</link>
-      <pubDate>Fri, 10 Feb 2017 15:20:03 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/skurt/</guid>
-      <description>
-        
-        <p>Skurt is the fastest and easiest way to rent a car. Say goodbye to long lines and paperwork. We&#39;ll deliver the car right to you.</p>
-        <img src="http://lapa.ninja/assets/images/skurt-10-2-2017.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Nota Dist</title>
-      <link>http://lapa.ninja/post/nota-dist/</link>
-      <pubDate>Thu, 09 Feb 2017 14:47:47 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/nota-dist/</guid>
-      <description>
-        
-        <p></p>
-        <img src="http://lapa.ninja/assets/images/nota-dist.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Dropbox</title>
-      <link>http://lapa.ninja/post/dropbox/</link>
-      <pubDate>Tue, 31 Jan 2017 23:10:44 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/dropbox/</guid>
-      <description>
-        
-        <p>Introducing Dropbox Paper and Smart Sync — a simpler way to work together.</p>
-        <img src="http://lapa.ninja/assets/images/dropbox.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Avocode</title>
-      <link>http://lapa.ninja/post/avocode-2/</link>
-      <pubDate>Tue, 31 Jan 2017 22:07:32 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/avocode-2/</guid>
-      <description>
-        
-        <p>Build web, iOS &amp; Android apps exactly as they were designed</p>
-        <img src="http://lapa.ninja/assets/images/avocode-31-01-17.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Bakken &amp; Bæck</title>
-      <link>http://lapa.ninja/post/bakkenbaeck/</link>
-      <pubDate>Tue, 31 Jan 2017 22:07:16 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/bakkenbaeck/</guid>
-      <description>
-        
-        <p>A digital studio that transforms big ideas into great products and ventures.</p>
-        <img src="http://lapa.ninja/assets/images/bakkenbaeck.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>We Craft Apps</title>
-      <link>http://lapa.ninja/post/wecraftapps/</link>
-      <pubDate>Wed, 04 Jan 2017 14:20:04 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/wecraftapps/</guid>
-      <description>
-        
-        <p>Creative Agency</p>
-        <img src="http://lapa.ninja/assets/images/wecraftapps.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Mixpanel</title>
-      <link>http://lapa.ninja/post/mixpanel-2/</link>
-      <pubDate>Wed, 21 Dec 2016 16:27:08 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/mixpanel-2/</guid>
-      <description>
-        
-        <p>Deeply understand every user&#39;s journey with instant insights for everyone on mobile and web.</p>
-        <img src="http://lapa.ninja/assets/images/mixpanel-2.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>About Mixpanel</title>
-      <link>http://lapa.ninja/post/mixpanel-about/</link>
-      <pubDate>Wed, 21 Dec 2016 16:26:27 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/mixpanel-about/</guid>
-      <description>
-        
-        <p>Our mission is to help the world learn from its data</p>
-        <img src="http://lapa.ninja/assets/images/mixpanel-2-about.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Details</title>
-      <link>http://lapa.ninja/post/details-ch/</link>
-      <pubDate>Mon, 19 Dec 2016 22:19:11 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/details-ch/</guid>
-      <description>
-        
-        <p>Digital communication agency</p>
-        <img src="http://lapa.ninja/assets/images/details-ch.png" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Icon54</title>
-      <link>http://lapa.ninja/post/icon54/</link>
-      <pubDate>Mon, 05 Dec 2016 11:46:21 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/icon54/</guid>
-      <description>
-        
-        <p>Vector line and solid Icons collection pack  for iOS, Android, Websites &amp; Apps</p>
-        <img src="http://lapa.ninja/assets/images/icon54.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ueno</title>
-      <link>http://lapa.ninja/post/ueno-2/</link>
-      <pubDate>Tue, 22 Nov 2016 21:37:46 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ueno-2/</guid>
-      <description>
-        
-        <p>Ueno is a full-service digital agency, busy designing and building beautiful digital products, brands, and experiences.</p>
-        <img src="http://lapa.ninja/assets/images/ueno-22-11-2016.jpg" />
 
 
       </description>

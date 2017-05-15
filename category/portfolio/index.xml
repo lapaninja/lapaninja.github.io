@@ -2,11 +2,147 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/portfolio/index.xml</link>
+    <link>http://lapa.ninja/category/portfolio/</link>
     <description>Recent content in Portfolio on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2017 17:35:10 +0700</lastBuildDate>
+    <atom:link href="/category/portfolio/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Jonathan Alpmyr</title>
+      <link>http://lapa.ninja/post/jnthn/</link>
+      <pubDate>Fri, 21 Apr 2017 17:35:10 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/jnthn/</guid>
+      <description>
+        
+        <p>I love to design beautiful things, write code, iterate and create user-friendly products that make businesses better.</p>
+        <img src="http://lapa.ninja/assets/images/jnthn.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Nikita Herasimenka</title>
+      <link>http://lapa.ninja/post/nickhh/</link>
+      <pubDate>Wed, 19 Apr 2017 16:21:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/nickhh/</guid>
+      <description>
+        
+        <p>I’m a Product designer from Belarus, currently living in San Francisco.</p>
+        <img src="http://lapa.ninja/assets/images/nickhh.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Luke Jones</title>
+      <link>http://lapa.ninja/post/lukejones/</link>
+      <pubDate>Fri, 14 Apr 2017 17:57:49 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lukejones/</guid>
+      <description>
+        
+        <p>I’m Luke Jones, a product designer with a focus on user interfaces &amp; good copy.</p>
+        <img src="http://lapa.ninja/assets/images/luke-jones.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Colin Keany</title>
+      <link>http://lapa.ninja/post/colinkeany/</link>
+      <pubDate>Thu, 06 Apr 2017 17:32:02 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/colinkeany/</guid>
+      <description>
+        
+        <p>Software Designer based in New York City simplifying complex digital products for people like you, me and everyone we know.</p>
+        <img src="http://lapa.ninja/assets/images/colin-keany.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Andrey Grabelnikov</title>
+      <link>http://lapa.ninja/post/grabelnikov/</link>
+      <pubDate>Sun, 02 Apr 2017 00:02:03 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/grabelnikov/</guid>
+      <description>
+        
+        <p>A rigorous digital designer from Ukraine working and living in New York</p>
+        <img src="http://lapa.ninja/assets/images/grabelnikov.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tomáš Sebastián Steinhübel</title>
+      <link>http://lapa.ninja/post/tomassebastian/</link>
+      <pubDate>Mon, 20 Mar 2017 21:23:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tomassebastian/</guid>
+      <description>
+        
+        <p>Digital designer</p>
+        <img src="http://lapa.ninja/assets/images/tomassebastian.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Patrick David</title>
+      <link>http://lapa.ninja/post/bepatrickdavid/</link>
+      <pubDate>Thu, 09 Mar 2017 22:40:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bepatrickdavid/</guid>
+      <description>
+        
+        <p>Front-End Developer and Web Designer based in Italy</p>
+        <img src="http://lapa.ninja/assets/images/patrick-david.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Jemimah Barnett</title>
+      <link>http://lapa.ninja/post/jemimah-barnettr/</link>
+      <pubDate>Tue, 07 Mar 2017 23:55:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/jemimah-barnettr/</guid>
+      <description>
+        
+        <p>London-based Property Advisor &amp; Buyer</p>
+        <img src="http://lapa.ninja/assets/images/jemimah-barnettr.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Thomas Egain</title>
+      <link>http://lapa.ninja/post/thomas-egain/</link>
+      <pubDate>Tue, 07 Mar 2017 22:56:11 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/thomas-egain/</guid>
+      <description>
+        
+        <p>Web designer &amp; frontend developer</p>
+        <img src="http://lapa.ninja/assets/images/thomas-egain.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Johan Netzler</title>
@@ -93,141 +229,6 @@
         
         <p>Hi, I&#39;m Golli</p>
         <img src="http://lapa.ninja/assets/images/golli-hashemian.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Vedad Siljak</title>
-      <link>http://lapa.ninja/post/vedad-siljak/</link>
-      <pubDate>Sat, 12 Nov 2016 09:59:53 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/vedad-siljak/</guid>
-      <description>
-        
-        <p>The Design Portfolio of Vedad Siljak</p>
-        <img src="http://lapa.ninja/assets/images/vedad-siljak.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Raul Perțe</title>
-      <link>http://lapa.ninja/post/perte/</link>
-      <pubDate>Sat, 12 Nov 2016 09:59:45 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/perte/</guid>
-      <description>
-        
-        <p>I work closely with top-notch companies to improve their design experience.</p>
-        <img src="http://lapa.ninja/assets/images/raul-perte.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Karolis Kosas</title>
-      <link>http://lapa.ninja/post/karolis-kosas/</link>
-      <pubDate>Sat, 12 Nov 2016 09:59:37 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/karolis-kosas/</guid>
-      <description>
-        
-        <p>Karolis Kosas specializes in UX research and design. </p>
-        <img src="http://lapa.ninja/assets/images/karolis-kosas.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Collarbone</title>
-      <link>http://lapa.ninja/post/collarbone/</link>
-      <pubDate>Sat, 12 Nov 2016 09:40:19 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/collarbone/</guid>
-      <description>
-        
-        <p>The only people who understands your customers&#39; problems better than your customers, is no-one.</p>
-        <img src="http://lapa.ninja/assets/images/collarbone.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Jean-Marc Denis</title>
-      <link>http://lapa.ninja/post/jean-marc-denis/</link>
-      <pubDate>Thu, 27 Oct 2016 13:41:41 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/jean-marc-denis/</guid>
-      <description>
-        
-        <p>Product design manager at Facebook Messenger. Former Google Daydream, Inbox, Gmail and Sparrow.</p>
-        <img src="http://lapa.ninja/assets/images/jean-marc-denis.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Jonathan Dion</title>
-      <link>http://lapa.ninja/post/jonathan-dion/</link>
-      <pubDate>Fri, 08 Jul 2016 12:02:57 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/jonathan-dion/</guid>
-      <description>
-        
-        <p>Jonathan Dion is a self-taught developer and designer from Montreal.</p>
-        <img src="http://lapa.ninja/assets/images/jonathan-dion.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Jonathan Z. White</title>
-      <link>http://lapa.ninja/post/jonathan-z-white/</link>
-      <pubDate>Wed, 29 Jun 2016 16:30:31 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/jonathan-z-white/</guid>
-      <description>
-        
-        <p>Designer and full-stack developer raised in Hawaii, currently living in Atlanta</p>
-        <img src="http://lapa.ninja/assets/images/jonathan-z-white.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Peter Nowell Design</title>
-      <link>http://lapa.ninja/post/peter-nowell-design/</link>
-      <pubDate>Fri, 17 Jun 2016 09:37:18 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/peter-nowell-design/</guid>
-      <description>
-        
-        <p>Peter Nowell is a designer based in San Francisco. He works with companies big and small to inspire and delight customers. Clients include Apple, Flinto, Sprightly Books, and Juice Shop.</p>
-        <img src="http://lapa.ninja/assets/images/peter-nowell-design.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Ionut Zamfir</title>
-      <link>http://lapa.ninja/post/ionut-zamfir/</link>
-      <pubDate>Fri, 17 Jun 2016 09:36:59 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/ionut-zamfir/</guid>
-      <description>
-        
-        <p>I&#39;m your go-to guy for awesome interfaces.</p>
-        <img src="http://lapa.ninja/assets/images/ionut-zamfir.jpg" />
 
 
       </description>

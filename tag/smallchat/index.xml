@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smallchat on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/smallchat/</link>
+    <description>Recent content in Smallchat on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2017 16:34:07 +0700</lastBuildDate>
+    <atom:link href="/tag/smallchat/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Smallchat</title>
+      <link>http://lapa.ninja/post/smallchat/</link>
+      <pubDate>Fri, 21 Apr 2017 16:34:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/smallchat/</guid>
+      <description>
+        
+        <p>A slack integration for web chat</p>
+        <img src="http://lapa.ninja/assets/images/smallchat.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

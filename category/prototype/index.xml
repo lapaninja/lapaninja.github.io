@@ -2,11 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prototype on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/prototype/index.xml</link>
+    <link>http://lapa.ninja/category/prototype/</link>
     <description>Recent content in Prototype on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/prototype/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Apr 2017 17:32:32 +0700</lastBuildDate>
+    <atom:link href="/category/prototype/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Moqups</title>
+      <link>http://lapa.ninja/post/moqups/</link>
+      <pubDate>Thu, 06 Apr 2017 17:32:32 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/moqups/</guid>
+      <description>
+        
+        <p>A streamlined web app that helps you create and collaborate on wireframes, mockups, diagrams and prototypes.</p>
+        <img src="http://lapa.ninja/assets/images/moqups.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Atomic</title>
+      <link>http://lapa.ninja/post/atomic-4/</link>
+      <pubDate>Sat, 01 Apr 2017 23:05:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/atomic-4/</guid>
+      <description>
+        
+        <p>Atomic has everything you need to create amazing prototypes and it comes with all the happiness of being 100% in the cloud.</p>
+        <img src="http://lapa.ninja/assets/images/atomic-1-04-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Verst</title>
+      <link>http://lapa.ninja/post/verst/</link>
+      <pubDate>Thu, 09 Mar 2017 23:40:45 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/verst/</guid>
+      <description>
+        
+        <p>Graduate your website or blog to Verst, the all-in-one platform to publish content, discover key insights, and optimize for engagement.</p>
+        <img src="http://lapa.ninja/assets/images/verst.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Webflow</title>
+      <link>http://lapa.ninja/post/webflow-3/</link>
+      <pubDate>Thu, 02 Mar 2017 16:34:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow-3/</guid>
+      <description>
+        
+        <p>Responsive web design tool, CMS, and hosting platform</p>
+        <img src="http://lapa.ninja/assets/images/webflow-2-3-2017.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Framer</title>
@@ -168,66 +229,6 @@
         
         <p>The most powerful interactive content creation software for marketers &amp; designers</p>
         <img src="http://lapa.ninja/assets/images/ceros.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Webflow Interactions 2.0</title>
-      <link>http://lapa.ninja/post/webflow-interactions/</link>
-      <pubDate>Wed, 31 Aug 2016 16:35:42 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/webflow-interactions/</guid>
-      <description>
-        
-        <p>Parallax scrolling, mouse tracking, timeline animations, and more. A whole new way to craft interactions and animations — and you still don&#39;t have to write any code.</p>
-        <img src="http://lapa.ninja/assets/images/webflow-Interactions-2-0.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Atomic</title>
-      <link>http://lapa.ninja/post/atomic-3/</link>
-      <pubDate>Thu, 25 Aug 2016 21:36:12 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/atomic-3/</guid>
-      <description>
-        
-        <p>Atomic helps you quickly create realistic prototypes of everything from simple interactions to entire products.</p>
-        <img src="http://lapa.ninja/assets/images/atomic-25-08-2016.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Marvel for iOS</title>
-      <link>http://lapa.ninja/post/marvelapp-ios/</link>
-      <pubDate>Fri, 24 Jun 2016 15:45:46 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/marvelapp-ios/</guid>
-      <description>
-        
-        <p>Sketch and build your app idea with our powerful iPhone and Android apps. Build iPhone prototypes</p>
-        <img src="http://lapa.ninja/assets/images/marvel-for-ios.jpg" />
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>UXPin</title>
-      <link>http://lapa.ninja/post/uxpin/</link>
-      <pubDate>Fri, 10 Jun 2016 10:49:01 +0700</pubDate>
-      
-      <guid>http://lapa.ninja/post/uxpin/</guid>
-      <description>
-        
-        <p>We&#39;ve completely rethought how designers create and collaborate with non-designers.</p>
-        <img src="http://lapa.ninja/assets/images/uxpin.jpg" />
 
 
       </description>

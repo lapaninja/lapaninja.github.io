@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notebook on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/notebook/index.xml</link>
+    <link>http://lapa.ninja/tag/notebook/</link>
     <description>Recent content in Notebook on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/notebook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jul 2016 15:49:11 +0700</lastBuildDate>
+    <atom:link href="/tag/notebook/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Zoho Notebook</title>

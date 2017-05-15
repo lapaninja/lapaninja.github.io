@@ -2,11 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webflow on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/webflow/index.xml</link>
+    <link>http://lapa.ninja/tag/webflow/</link>
     <description>Recent content in Webflow on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/webflow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 16:34:28 +0700</lastBuildDate>
+    <atom:link href="/tag/webflow/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Webflow</title>
+      <link>http://lapa.ninja/post/webflow-3/</link>
+      <pubDate>Thu, 02 Mar 2017 16:34:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow-3/</guid>
+      <description>
+        
+        <p>Responsive web design tool, CMS, and hosting platform</p>
+        <img src="http://lapa.ninja/assets/images/webflow-2-3-2017.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Webflow</title>

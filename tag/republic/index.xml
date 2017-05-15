@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Republic on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/republic/index.xml</link>
+    <link>http://lapa.ninja/tag/republic/</link>
     <description>Recent content in Republic on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/republic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2016 14:38:23 +0700</lastBuildDate>
+    <atom:link href="/tag/republic/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Republic</title>

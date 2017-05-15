@@ -2,232 +2,233 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creative on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/creative/index.xml</link>
+    <link>http://lapa.ninja/category/creative/</link>
     <description>Recent content in Creative on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/creative/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Apr 2017 16:21:14 +0700</lastBuildDate>
+    <atom:link href="/category/creative/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Floyd</title>
-      <link>http://lapa.ninja/post/floydhub/</link>
-      <pubDate>Mon, 20 Feb 2017 20:35:38 +0700</pubDate>
+      <title>Nikita Herasimenka</title>
+      <link>http://lapa.ninja/post/nickhh/</link>
+      <pubDate>Wed, 19 Apr 2017 16:21:14 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/floydhub/</guid>
+      <guid>http://lapa.ninja/post/nickhh/</guid>
       <description>
         
-        <p>Eliminate engineering bottlenecks in Deep Learning</p>
-        <img src="http://lapa.ninja/assets/images/floyd.jpg" />
+        <p>I’m a Product designer from Belarus, currently living in San Francisco.</p>
+        <img src="http://lapa.ninja/assets/images/nickhh.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>DesignBold</title>
-      <link>http://lapa.ninja/post/designbold/</link>
-      <pubDate>Wed, 15 Feb 2017 12:42:39 +0700</pubDate>
+      <title>Studio Lovelock</title>
+      <link>http://lapa.ninja/post/studiolovelock/</link>
+      <pubDate>Sat, 15 Apr 2017 17:44:05 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/designbold/</guid>
+      <guid>http://lapa.ninja/post/studiolovelock/</guid>
       <description>
         
-        <p>Amazing Photo Editor and Designer Studio at your fingertips</p>
-        <img src="http://lapa.ninja/assets/images/design-bold.jpg" />
+        <p>Considered Design for Creative Thinkers</p>
+        <img src="http://lapa.ninja/assets/images/studio-kovelock.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>PixelPink</title>
-      <link>http://lapa.ninja/post/pixelpink/</link>
-      <pubDate>Sun, 12 Feb 2017 11:31:20 +0700</pubDate>
+      <title>Luke Jones</title>
+      <link>http://lapa.ninja/post/lukejones/</link>
+      <pubDate>Fri, 14 Apr 2017 17:57:49 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/pixelpink/</guid>
+      <guid>http://lapa.ninja/post/lukejones/</guid>
       <description>
         
-        <p>Design Studio based in Berlin creating digital Products focusing on simplicity.</p>
-        <img src="http://lapa.ninja/assets/images/pixelpink.jpg" />
+        <p>I’m Luke Jones, a product designer with a focus on user interfaces &amp; good copy.</p>
+        <img src="http://lapa.ninja/assets/images/luke-jones.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Prospero</title>
-      <link>http://lapa.ninja/post/prospero/</link>
-      <pubDate>Fri, 10 Feb 2017 15:25:23 +0700</pubDate>
+      <title>Snappa</title>
+      <link>http://lapa.ninja/post/snappa/</link>
+      <pubDate>Fri, 14 Apr 2017 17:24:45 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/prospero/</guid>
+      <guid>http://lapa.ninja/post/snappa/</guid>
       <description>
         
-        <p>Prospero will make creating proposals fast and painless, so that you can go back to working on what matters most.</p>
-        <img src="http://lapa.ninja/assets/images/prospero.jpg" />
+        <p>Snappa makes it easy to create any type of online graphic. Create &amp; publish images for social media, blogs, ads, and more!</p>
+        <img src="http://lapa.ninja/assets/images/snappa.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Yummygum</title>
-      <link>http://lapa.ninja/post/yummygum/</link>
-      <pubDate>Mon, 06 Feb 2017 16:03:41 +0700</pubDate>
+      <title>Lingo</title>
+      <link>http://lapa.ninja/post/lingo-2/</link>
+      <pubDate>Thu, 06 Apr 2017 18:30:32 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/yummygum/</guid>
+      <guid>http://lapa.ninja/post/lingo-2/</guid>
       <description>
         
-        <p>We’re a design studio from Amsterdam. We help startups and other businesses to refine, design and launch their digital products.</p>
-        <img src="http://lapa.ninja/assets/images/yummygum.jpg" />
+        <p>Lingo is the cloud connected visual asset library that empowers creation and ensures visual consistency for entire teams.</p>
+        <img src="http://lapa.ninja/assets/images/lingo-6-04-2017.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Making Waves</title>
-      <link>http://lapa.ninja/post/makingwaves/</link>
-      <pubDate>Mon, 06 Feb 2017 16:03:23 +0700</pubDate>
+      <title>Mekades &amp; Friends</title>
+      <link>http://lapa.ninja/post/mnf/</link>
+      <pubDate>Sat, 01 Apr 2017 23:28:12 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/makingwaves/</guid>
+      <guid>http://lapa.ninja/post/mnf/</guid>
       <description>
         
-        <p>Moving together</p>
-        <img src="http://lapa.ninja/assets/images/makingwaves.jpg" />
+        <p>Full-Service Design Agency</p>
+        <img src="http://lapa.ninja/assets/images/mnf.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Dropbox Paper</title>
-      <link>http://lapa.ninja/post/dropbox-paper-2/</link>
-      <pubDate>Tue, 31 Jan 2017 23:18:17 +0700</pubDate>
+      <title>Baianat</title>
+      <link>http://lapa.ninja/post/baianat/</link>
+      <pubDate>Sat, 01 Apr 2017 23:08:45 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/dropbox-paper-2/</guid>
+      <guid>http://lapa.ninja/post/baianat/</guid>
       <description>
         
-        <p>Grow bigger, brighter ideas. More than a doc, Dropbox Paper is a flexible workspace that brings people and ideas together.</p>
-        <img src="http://lapa.ninja/assets/images/dropbox-paper-31-01-17.png" />
+        <p>One of the most leading compaines in information technology that works in websites design, user experience, programming and business solutions.</p>
+        <img src="http://lapa.ninja/assets/images/baianat.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>STRV</title>
-      <link>http://lapa.ninja/post/strv/</link>
-      <pubDate>Tue, 17 Jan 2017 20:55:19 +0700</pubDate>
+      <title>Wokine</title>
+      <link>http://lapa.ninja/post/wokine/</link>
+      <pubDate>Sun, 26 Mar 2017 12:40:07 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/strv/</guid>
+      <guid>http://lapa.ninja/post/wokine/</guid>
       <description>
         
-        <p>The Fastest Way To Build Software</p>
-        <img src="http://lapa.ninja/assets/images/strv.jpg" />
+        <p>Global digital agency</p>
+        <img src="http://lapa.ninja/assets/images/wokine.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>We Craft Apps</title>
-      <link>http://lapa.ninja/post/wecraftapps/</link>
-      <pubDate>Wed, 04 Jan 2017 14:20:04 +0700</pubDate>
+      <title>Wanaka</title>
+      <link>http://lapa.ninja/post/wearewanaka/</link>
+      <pubDate>Sun, 26 Mar 2017 12:30:22 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/wecraftapps/</guid>
+      <guid>http://lapa.ninja/post/wearewanaka/</guid>
       <description>
         
-        <p>Creative Agency</p>
-        <img src="http://lapa.ninja/assets/images/wecraftapps.jpg" />
+        <p>Studio de création</p>
+        <img src="http://lapa.ninja/assets/images/wearewanaka.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Mixpanel</title>
-      <link>http://lapa.ninja/post/mixpanel-2/</link>
-      <pubDate>Wed, 21 Dec 2016 16:27:08 +0700</pubDate>
+      <title>Coach</title>
+      <link>http://lapa.ninja/post/withcoach/</link>
+      <pubDate>Mon, 13 Mar 2017 22:04:55 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/mixpanel-2/</guid>
+      <guid>http://lapa.ninja/post/withcoach/</guid>
       <description>
         
-        <p>Deeply understand every user&#39;s journey with instant insights for everyone on mobile and web.</p>
-        <img src="http://lapa.ninja/assets/images/mixpanel-2.jpg" />
+        <p>Coach gives you the tools &amp; support needed to build your business, so you can create the life you want.</p>
+        <img src="http://lapa.ninja/assets/images/coach.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>About Mixpanel</title>
-      <link>http://lapa.ninja/post/mixpanel-about/</link>
-      <pubDate>Wed, 21 Dec 2016 16:26:27 +0700</pubDate>
+      <title>Pixpa</title>
+      <link>http://lapa.ninja/post/pixpa/</link>
+      <pubDate>Mon, 13 Mar 2017 22:04:27 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/mixpanel-about/</guid>
+      <guid>http://lapa.ninja/post/pixpa/</guid>
       <description>
         
-        <p>Our mission is to help the world learn from its data</p>
-        <img src="http://lapa.ninja/assets/images/mixpanel-2-about.jpg" />
+        <p>Portfolio Websites &amp; Client Proofing for Creatives</p>
+        <img src="http://lapa.ninja/assets/images/pixpa.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Emperor</title>
-      <link>http://lapa.ninja/post/emperor/</link>
-      <pubDate>Mon, 19 Dec 2016 22:41:20 +0700</pubDate>
+      <title>Glyph</title>
+      <link>http://lapa.ninja/post/glyph/</link>
+      <pubDate>Thu, 09 Mar 2017 22:40:58 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/emperor/</guid>
+      <guid>http://lapa.ninja/post/glyph/</guid>
       <description>
         
-        <p>An independently owned creative consultancy specialising in creative reporting, digital, engagement and brand communications.</p>
-        <img src="http://lapa.ninja/assets/images/emperor.jpg" />
+        <p>Glyph helps you build simple yet stunning resumes for web and print. No fuss.</p>
+        <img src="http://lapa.ninja/assets/images/glyph.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>stinkdigital</title>
-      <link>http://lapa.ninja/post/stinkdigital/</link>
-      <pubDate>Mon, 19 Dec 2016 22:21:52 +0700</pubDate>
+      <title>Jemimah Barnett</title>
+      <link>http://lapa.ninja/post/jemimah-barnettr/</link>
+      <pubDate>Tue, 07 Mar 2017 23:55:39 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/stinkdigital/</guid>
+      <guid>http://lapa.ninja/post/jemimah-barnettr/</guid>
       <description>
         
-        <p></p>
-        <img src="http://lapa.ninja/assets/images/stinkdigital.jpg" />
+        <p>London-based Property Advisor &amp; Buyer</p>
+        <img src="http://lapa.ninja/assets/images/jemimah-barnettr.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Details</title>
-      <link>http://lapa.ninja/post/details-ch/</link>
-      <pubDate>Mon, 19 Dec 2016 22:19:11 +0700</pubDate>
+      <title>Emerson Stone</title>
+      <link>http://lapa.ninja/post/emerson-stone/</link>
+      <pubDate>Tue, 07 Mar 2017 22:55:57 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/details-ch/</guid>
+      <guid>http://lapa.ninja/post/emerson-stone/</guid>
       <description>
         
-        <p>Digital communication agency</p>
-        <img src="http://lapa.ninja/assets/images/details-ch.png" />
+        <p>We create beautiful brands and lasting digital applications used by millions of people around the world.</p>
+        <img src="http://lapa.ninja/assets/images/emerson-stone.png" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Steffen Studio</title>
-      <link>http://lapa.ninja/post/steffen-studio/</link>
-      <pubDate>Mon, 05 Dec 2016 11:46:58 +0700</pubDate>
+      <title>Clearleft</title>
+      <link>http://lapa.ninja/post/clearleft/</link>
+      <pubDate>Sun, 05 Mar 2017 21:54:15 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/steffen-studio/</guid>
+      <guid>http://lapa.ninja/post/clearleft/</guid>
       <description>
         
-        <p>An award-winning creative director and photographer, Lee Steffen strives to find the beating heart of every creative venture and inspire others to do the same.</p>
-        <img src="http://lapa.ninja/assets/images/steffen-studio.jpg" />
+        <p>Work closely with the Clearleft team to conceive and create new products and services. </p>
+        <img src="http://lapa.ninja/assets/images/clearleft.jpg" />
 
 
       </description>

@@ -2,11 +2,162 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gray on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/color/gray/index.xml</link>
+    <link>http://lapa.ninja/color/gray/</link>
     <description>Recent content in Gray on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/color/gray/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2017 17:34:52 +0700</lastBuildDate>
+    <atom:link href="/color/gray/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Noun Project</title>
+      <link>http://lapa.ninja/post/the-noun-project/</link>
+      <pubDate>Fri, 21 Apr 2017 17:34:52 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/the-noun-project/</guid>
+      <description>
+        
+        <p>Nearly a million curated icons, created by a global community</p>
+        <img src="http://lapa.ninja/assets/images/the-noun-project.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>CSSPeeper</title>
+      <link>http://lapa.ninja/post/csspeeper/</link>
+      <pubDate>Tue, 18 Apr 2017 14:50:07 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/csspeeper/</guid>
+      <description>
+        
+        <p>Inspect styles in a simple, well-organized &amp; beautiful way with our Chrome extension.</p>
+        <img src="http://lapa.ninja/assets/images/csspeeper.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Increment</title>
+      <link>http://lapa.ninja/post/increment/</link>
+      <pubDate>Sat, 15 Apr 2017 17:43:19 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/increment/</guid>
+      <description>
+        
+        <p>Increment is dedicated to covering how teams build and operate software systems at scale, one issue at a time. In this, our inaugural issue, we focus on industry best practices around on-call and incident response.</p>
+        <img src="http://lapa.ninja/assets/images/increment.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Dunked</title>
+      <link>http://lapa.ninja/post/dunked-2/</link>
+      <pubDate>Fri, 14 Apr 2017 17:24:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/dunked-2/</guid>
+      <description>
+        
+        <p>The simple way to build your portfolio &amp; showcase your work in style</p>
+        <img src="http://lapa.ninja/assets/images/dunked-14-04-2017.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Tomáš Sebastián Steinhübel</title>
+      <link>http://lapa.ninja/post/tomassebastian/</link>
+      <pubDate>Mon, 20 Mar 2017 21:23:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/tomassebastian/</guid>
+      <description>
+        
+        <p>Digital designer</p>
+        <img src="http://lapa.ninja/assets/images/tomassebastian.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Simvoly</title>
+      <link>http://lapa.ninja/post/simvoly/</link>
+      <pubDate>Mon, 13 Mar 2017 22:04:19 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/simvoly/</guid>
+      <description>
+        
+        <p>Make stunning websites, online stores, blogs and more</p>
+        <img src="http://lapa.ninja/assets/images/simvoly.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Jemimah Barnett</title>
+      <link>http://lapa.ninja/post/jemimah-barnettr/</link>
+      <pubDate>Tue, 07 Mar 2017 23:55:39 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/jemimah-barnettr/</guid>
+      <description>
+        
+        <p>London-based Property Advisor &amp; Buyer</p>
+        <img src="http://lapa.ninja/assets/images/jemimah-barnettr.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Emerson Stone</title>
+      <link>http://lapa.ninja/post/emerson-stone/</link>
+      <pubDate>Tue, 07 Mar 2017 22:55:57 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/emerson-stone/</guid>
+      <description>
+        
+        <p>We create beautiful brands and lasting digital applications used by millions of people around the world.</p>
+        <img src="http://lapa.ninja/assets/images/emerson-stone.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>MyClean</title>
+      <link>http://lapa.ninja/post/myclean/</link>
+      <pubDate>Sun, 05 Mar 2017 21:53:53 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/myclean/</guid>
+      <description>
+        
+        <p>NYC &amp; Chicago Cleaning Services</p>
+        <img src="http://lapa.ninja/assets/images/myclean.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Open Source Guide</title>
+      <link>http://lapa.ninja/post/open-source-guide/</link>
+      <pubDate>Wed, 01 Mar 2017 00:09:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/open-source-guide/</guid>
+      <description>
+        
+        <p>A community guide for open source creators.</p>
+        <img src="http://lapa.ninja/assets/images/open-source-guide.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Proof</title>
@@ -18,6 +169,66 @@
         
         <p>A system designed to help independent publishers punch way above their weight class.</p>
         <img src="http://lapa.ninja/assets/images/proof.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Emperor</title>
+      <link>http://lapa.ninja/post/emperor/</link>
+      <pubDate>Mon, 19 Dec 2016 22:41:20 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/emperor/</guid>
+      <description>
+        
+        <p>An independently owned creative consultancy specialising in creative reporting, digital, engagement and brand communications.</p>
+        <img src="http://lapa.ninja/assets/images/emperor.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Bear</title>
+      <link>http://lapa.ninja/post/bear/</link>
+      <pubDate>Tue, 08 Nov 2016 21:10:23 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bear/</guid>
+      <description>
+        
+        <p>Bear is a beautiful, flexible writing app for crafting notes and prose.</p>
+        <img src="http://lapa.ninja/assets/images/bear.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Carv</title>
+      <link>http://lapa.ninja/post/carv/</link>
+      <pubDate>Tue, 08 Nov 2016 21:10:17 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/carv/</guid>
+      <description>
+        
+        <p>Carv is the first wearable technology dedicated to skiing that speaks to you as you ski - it&#39;s your digital ski coach.</p>
+        <img src="http://lapa.ninja/assets/images/carv-ai.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Workplace by Facebook</title>
+      <link>http://lapa.ninja/post/workplace-by-facebook/</link>
+      <pubDate>Fri, 04 Nov 2016 09:57:32 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/workplace-by-facebook/</guid>
+      <description>
+        
+        <p>For companies who get things done. Collaborate and get more done.</p>
+        <img src="http://lapa.ninja/assets/images/workplace-by-facebook.jpg" />
 
 
       </description>

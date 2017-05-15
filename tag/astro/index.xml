@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astro on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/astro/</link>
+    <description>Recent content in Astro on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Mar 2017 21:22:58 +0700</lastBuildDate>
+    <atom:link href="/tag/astro/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Astro</title>
+      <link>http://lapa.ninja/post/astro/</link>
+      <pubDate>Mon, 20 Mar 2017 21:22:58 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/astro/</guid>
+      <description>
+        
+        <p>Modern email apps for Mac and iOS, powered by artificial intelligence, built for people and teams.</p>
+        <img src="http://lapa.ninja/assets/images/astro.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

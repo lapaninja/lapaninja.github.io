@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/patrick/</link>
+    <description>Recent content in Patrick on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Mar 2017 22:40:33 +0700</lastBuildDate>
+    <atom:link href="/tag/patrick/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Patrick David</title>
+      <link>http://lapa.ninja/post/bepatrickdavid/</link>
+      <pubDate>Thu, 09 Mar 2017 22:40:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/bepatrickdavid/</guid>
+      <description>
+        
+        <p>Front-End Developer and Web Designer based in Italy</p>
+        <img src="http://lapa.ninja/assets/images/patrick-david.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

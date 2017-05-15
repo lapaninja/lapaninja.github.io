@@ -2,112 +2,233 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blue on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/color/blue/index.xml</link>
+    <link>http://lapa.ninja/color/blue/</link>
     <description>Recent content in Blue on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/color/blue/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2017 17:35:10 +0700</lastBuildDate>
+    <atom:link href="/color/blue/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Create Upstate</title>
-      <link>http://lapa.ninja/post/create-upstate/</link>
-      <pubDate>Wed, 22 Feb 2017 13:58:48 +0700</pubDate>
+      <title>Jonathan Alpmyr</title>
+      <link>http://lapa.ninja/post/jnthn/</link>
+      <pubDate>Fri, 21 Apr 2017 17:35:10 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/create-upstate/</guid>
+      <guid>http://lapa.ninja/post/jnthn/</guid>
       <description>
         
-        <p>Create Upstate is a 3-day conference, celebrating design and creativity in Upstate NY.</p>
-        <img src="http://lapa.ninja/assets/images/create-upstate.jpg" />
+        <p>I love to design beautiful things, write code, iterate and create user-friendly products that make businesses better.</p>
+        <img src="http://lapa.ninja/assets/images/jnthn.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Johan Netzler</title>
-      <link>http://lapa.ninja/post/johannetzler/</link>
-      <pubDate>Mon, 20 Feb 2017 20:35:53 +0700</pubDate>
+      <title>1Password</title>
+      <link>http://lapa.ninja/post/1password/</link>
+      <pubDate>Fri, 21 Apr 2017 16:36:03 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/johannetzler/</guid>
+      <guid>http://lapa.ninja/post/1password/</guid>
       <description>
         
-        <p>I create simple and beautiful interfaces, combining design and engineering to shape meaningful experiences.</p>
-        <img src="http://lapa.ninja/assets/images/johan-netzler.jpg" />
+        <p>1Password remembers them all for you. Save your passwords and log in to sites with a single click. It&#39;s that simple.</p>
+        <img src="http://lapa.ninja/assets/images/1Password.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Floyd</title>
-      <link>http://lapa.ninja/post/floydhub/</link>
-      <pubDate>Mon, 20 Feb 2017 20:35:38 +0700</pubDate>
+      <title>Google Earth</title>
+      <link>http://lapa.ninja/post/google-earth/</link>
+      <pubDate>Wed, 19 Apr 2017 16:24:50 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/floydhub/</guid>
+      <guid>http://lapa.ninja/post/google-earth/</guid>
       <description>
         
-        <p>Eliminate engineering bottlenecks in Deep Learning</p>
-        <img src="http://lapa.ninja/assets/images/floyd.jpg" />
+        <p>Explore the far reaches of the world, right in your browser.</p>
+        <img src="http://lapa.ninja/assets/images/google-earth.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Mergie</title>
-      <link>http://lapa.ninja/post/mergie/</link>
-      <pubDate>Fri, 17 Feb 2017 16:38:47 +0700</pubDate>
+      <title>Newton</title>
+      <link>http://lapa.ninja/post/newtonhq/</link>
+      <pubDate>Tue, 18 Apr 2017 14:59:27 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/mergie/</guid>
+      <guid>http://lapa.ninja/post/newtonhq/</guid>
       <description>
         
-        <p>Mergie is your virtual Salesforce CRM assistant for Slack, Skype, Telegram and Facebook Messenger. Create documents for your leads, contacts from templates, deliver documents via email or send to sign using natural language, wherever you are.</p>
-        <img src="http://lapa.ninja/assets/images/mergie.jpg" />
+        <p>Rock-solid emailing built to delight, with push notifications for all your email accounts, on all your devices - iOS, Android &amp; macOS.</p>
+        <img src="http://lapa.ninja/assets/images/newton.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>DesignBold</title>
-      <link>http://lapa.ninja/post/designbold/</link>
-      <pubDate>Wed, 15 Feb 2017 12:42:39 +0700</pubDate>
+      <title>CSSPeeper</title>
+      <link>http://lapa.ninja/post/csspeeper/</link>
+      <pubDate>Tue, 18 Apr 2017 14:50:07 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/designbold/</guid>
+      <guid>http://lapa.ninja/post/csspeeper/</guid>
       <description>
         
-        <p>Amazing Photo Editor and Designer Studio at your fingertips</p>
-        <img src="http://lapa.ninja/assets/images/design-bold.jpg" />
+        <p>Inspect styles in a simple, well-organized &amp; beautiful way with our Chrome extension.</p>
+        <img src="http://lapa.ninja/assets/images/csspeeper.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Firebase</title>
-      <link>http://lapa.ninja/post/firebase/</link>
-      <pubDate>Sun, 12 Feb 2017 11:31:10 +0700</pubDate>
+      <title>Snappa</title>
+      <link>http://lapa.ninja/post/snappa/</link>
+      <pubDate>Fri, 14 Apr 2017 17:24:45 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/firebase/</guid>
+      <guid>http://lapa.ninja/post/snappa/</guid>
       <description>
         
-        <p>The tools and infrastructure you need to build better apps and grow successful businesses</p>
-        <img src="http://lapa.ninja/assets/images/firebase.jpg" />
+        <p>Snappa makes it easy to create any type of online graphic. Create &amp; publish images for social media, blogs, ads, and more!</p>
+        <img src="http://lapa.ninja/assets/images/snappa.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>App Publisher by App Radar</title>
-      <link>http://lapa.ninja/post/app-publisher/</link>
-      <pubDate>Wed, 08 Feb 2017 15:00:58 +0700</pubDate>
+      <title>Moqups</title>
+      <link>http://lapa.ninja/post/moqups/</link>
+      <pubDate>Thu, 06 Apr 2017 17:32:32 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/app-publisher/</guid>
+      <guid>http://lapa.ninja/post/moqups/</guid>
       <description>
         
-        <p>Manage, Edit and Publish. For iOS and Android.</p>
-        <img src="http://lapa.ninja/assets/images/app-publisher.jpg" />
+        <p>A streamlined web app that helps you create and collaborate on wireframes, mockups, diagrams and prototypes.</p>
+        <img src="http://lapa.ninja/assets/images/moqups.png" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Atomic</title>
+      <link>http://lapa.ninja/post/atomic-4/</link>
+      <pubDate>Sat, 01 Apr 2017 23:05:33 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/atomic-4/</guid>
+      <description>
+        
+        <p>Atomic has everything you need to create amazing prototypes and it comes with all the happiness of being 100% in the cloud.</p>
+        <img src="http://lapa.ninja/assets/images/atomic-1-04-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Canny</title>
+      <link>http://lapa.ninja/post/canny/</link>
+      <pubDate>Mon, 20 Mar 2017 22:23:14 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/canny/</guid>
+      <description>
+        
+        <p>Canny is the easiest way for your team to collect and organize feedback from your users.</p>
+        <img src="http://lapa.ninja/assets/images/canny.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Teampaper Snap</title>
+      <link>http://lapa.ninja/post/teampaper-snap/</link>
+      <pubDate>Mon, 20 Mar 2017 21:22:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/teampaper-snap/</guid>
+      <description>
+        
+        <p>App to take screenshots and comment them for macOS</p>
+        <img src="http://lapa.ninja/assets/images/teampaper-snap.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Coach</title>
+      <link>http://lapa.ninja/post/withcoach/</link>
+      <pubDate>Mon, 13 Mar 2017 22:04:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/withcoach/</guid>
+      <description>
+        
+        <p>Coach gives you the tools &amp; support needed to build your business, so you can create the life you want.</p>
+        <img src="http://lapa.ninja/assets/images/coach.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Vossier</title>
+      <link>http://lapa.ninja/post/vossier/</link>
+      <pubDate>Thu, 02 Mar 2017 16:35:21 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/vossier/</guid>
+      <description>
+        
+        <p>Free fortnightly design briefs, source files and feedback (on your work) delivered straight to your inbox.</p>
+        <img src="http://lapa.ninja/assets/images/vossier.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>thoughtbot</title>
+      <link>http://lapa.ninja/post/thoughtbot/</link>
+      <pubDate>Thu, 02 Mar 2017 16:34:42 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/thoughtbot/</guid>
+      <description>
+        
+        <p></p>
+        <img src="http://lapa.ninja/assets/images/thoughtbot.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Webflow</title>
+      <link>http://lapa.ninja/post/webflow-3/</link>
+      <pubDate>Thu, 02 Mar 2017 16:34:28 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/webflow-3/</guid>
+      <description>
+        
+        <p>Responsive web design tool, CMS, and hosting platform</p>
+        <img src="http://lapa.ninja/assets/images/webflow-2-3-2017.jpg" />
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Fabric</title>
+      <link>http://lapa.ninja/post/fabric/</link>
+      <pubDate>Sun, 26 Feb 2017 10:55:59 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/fabric/</guid>
+      <description>
+        
+        <p>Fabric is a platform that helps your mobile team build better apps, understand your users, and grow your business.</p>
+        <img src="http://lapa.ninja/assets/images/fabric.jpg" />
 
 
       </description>

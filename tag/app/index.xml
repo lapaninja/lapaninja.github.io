@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>App on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/app/index.xml</link>
+    <link>http://lapa.ninja/tag/app/</link>
     <description>Recent content in App on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2015 11:39:38 +0700</lastBuildDate>
+    <atom:link href="/tag/app/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Kibo</title>

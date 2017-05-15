@@ -2,11 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lookback on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/tag/lookback/index.xml</link>
+    <link>http://lapa.ninja/tag/lookback/</link>
     <description>Recent content in Lookback on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tag/lookback/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Apr 2017 17:31:29 +0700</lastBuildDate>
+    <atom:link href="/tag/lookback/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lookback</title>
+      <link>http://lapa.ninja/post/lookback-3/</link>
+      <pubDate>Thu, 06 Apr 2017 17:31:29 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/lookback-3/</guid>
+      <description>
+        
+        <p>User experience recording made simple. See the screen, face, voice and touches of your users. Record in-house or remotely and without equipment.</p>
+        <img src="http://lapa.ninja/assets/images/lookback-6-04-2017.jpg" />
+
+
+      </description>
+    </item>
     
     <item>
       <title>Lookback</title>

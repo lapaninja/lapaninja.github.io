@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Voltra on The Best Landing Page Inspiration | Lapa.Ninja</title>
+    <link>http://lapa.ninja/tag/voltra/</link>
+    <description>Recent content in Voltra on The Best Landing Page Inspiration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Mar 2017 11:39:55 +0700</lastBuildDate>
+    <atom:link href="/tag/voltra/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Voltra</title>
+      <link>http://lapa.ninja/post/voltra/</link>
+      <pubDate>Sun, 26 Mar 2017 11:39:55 +0700</pubDate>
+      
+      <guid>http://lapa.ninja/post/voltra/</guid>
+      <description>
+        
+        <p>Voltra is a digital music player and shop for people who want to own their music.</p>
+        <img src="http://lapa.ninja/assets/images/voltra.jpg" />
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

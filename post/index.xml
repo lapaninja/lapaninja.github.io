@@ -2,233 +2,233 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/post/index.xml</link>
+    <link>http://lapa.ninja/post/</link>
     <description>Recent content in Posts on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Feb 2017 14:58:33 +0700</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2017 17:35:10 +0700</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Sigstr</title>
-      <link>http://lapa.ninja/post/sigstr-2/</link>
-      <pubDate>Wed, 22 Feb 2017 14:58:33 +0700</pubDate>
+      <title>Jonathan Alpmyr</title>
+      <link>http://lapa.ninja/post/jnthn/</link>
+      <pubDate>Fri, 21 Apr 2017 17:35:10 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/sigstr-2/</guid>
+      <guid>http://lapa.ninja/post/jnthn/</guid>
       <description>
         
-        <p>We are email signature marketing</p>
-        <img src="http://lapa.ninja/assets/images/sigstr-22-02-2017.jpg" />
+        <p>I love to design beautiful things, write code, iterate and create user-friendly products that make businesses better.</p>
+        <img src="http://lapa.ninja/assets/images/jnthn.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Create Upstate</title>
-      <link>http://lapa.ninja/post/create-upstate/</link>
-      <pubDate>Wed, 22 Feb 2017 13:58:48 +0700</pubDate>
+      <title>Noun Project</title>
+      <link>http://lapa.ninja/post/the-noun-project/</link>
+      <pubDate>Fri, 21 Apr 2017 17:34:52 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/create-upstate/</guid>
+      <guid>http://lapa.ninja/post/the-noun-project/</guid>
       <description>
         
-        <p>Create Upstate is a 3-day conference, celebrating design and creativity in Upstate NY.</p>
-        <img src="http://lapa.ninja/assets/images/create-upstate.jpg" />
+        <p>Nearly a million curated icons, created by a global community</p>
+        <img src="http://lapa.ninja/assets/images/the-noun-project.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Johan Netzler</title>
-      <link>http://lapa.ninja/post/johannetzler/</link>
-      <pubDate>Mon, 20 Feb 2017 20:35:53 +0700</pubDate>
+      <title>1Password</title>
+      <link>http://lapa.ninja/post/1password/</link>
+      <pubDate>Fri, 21 Apr 2017 16:36:03 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/johannetzler/</guid>
+      <guid>http://lapa.ninja/post/1password/</guid>
       <description>
         
-        <p>I create simple and beautiful interfaces, combining design and engineering to shape meaningful experiences.</p>
-        <img src="http://lapa.ninja/assets/images/johan-netzler.jpg" />
+        <p>1Password remembers them all for you. Save your passwords and log in to sites with a single click. It&#39;s that simple.</p>
+        <img src="http://lapa.ninja/assets/images/1Password.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Floyd</title>
-      <link>http://lapa.ninja/post/floydhub/</link>
-      <pubDate>Mon, 20 Feb 2017 20:35:38 +0700</pubDate>
+      <title>Strange House</title>
+      <link>http://lapa.ninja/post/strnghouse/</link>
+      <pubDate>Fri, 21 Apr 2017 16:35:41 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/floydhub/</guid>
+      <guid>http://lapa.ninja/post/strnghouse/</guid>
       <description>
         
-        <p>Eliminate engineering bottlenecks in Deep Learning</p>
-        <img src="http://lapa.ninja/assets/images/floyd.jpg" />
+        <p>We build next-generation web products using best practice technologies &amp; freameworks.</p>
+        <img src="http://lapa.ninja/assets/images/strange-house.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Proof</title>
-      <link>http://lapa.ninja/post/proof/</link>
-      <pubDate>Mon, 20 Feb 2017 20:35:16 +0700</pubDate>
+      <title>Mollie</title>
+      <link>http://lapa.ninja/post/mollie/</link>
+      <pubDate>Fri, 21 Apr 2017 16:35:23 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/proof/</guid>
+      <guid>http://lapa.ninja/post/mollie/</guid>
       <description>
         
-        <p>A system designed to help independent publishers punch way above their weight class.</p>
-        <img src="http://lapa.ninja/assets/images/proof.jpg" />
+        <p>Clever payment products for great companies of all sizes.</p>
+        <img src="http://lapa.ninja/assets/images/mollie.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Mergie</title>
-      <link>http://lapa.ninja/post/mergie/</link>
-      <pubDate>Fri, 17 Feb 2017 16:38:47 +0700</pubDate>
+      <title>Smallchat</title>
+      <link>http://lapa.ninja/post/smallchat/</link>
+      <pubDate>Fri, 21 Apr 2017 16:34:07 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/mergie/</guid>
+      <guid>http://lapa.ninja/post/smallchat/</guid>
       <description>
         
-        <p>Mergie is your virtual Salesforce CRM assistant for Slack, Skype, Telegram and Facebook Messenger. Create documents for your leads, contacts from templates, deliver documents via email or send to sign using natural language, wherever you are.</p>
-        <img src="http://lapa.ninja/assets/images/mergie.jpg" />
+        <p>A slack integration for web chat</p>
+        <img src="http://lapa.ninja/assets/images/smallchat.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Poindexter</title>
-      <link>http://lapa.ninja/post/poindexter/</link>
-      <pubDate>Fri, 17 Feb 2017 16:38:32 +0700</pubDate>
+      <title>Google Earth</title>
+      <link>http://lapa.ninja/post/google-earth/</link>
+      <pubDate>Wed, 19 Apr 2017 16:24:50 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/poindexter/</guid>
+      <guid>http://lapa.ninja/post/google-earth/</guid>
       <description>
         
-        <p>Automated Financial Projections for Startups</p>
-        <img src="http://lapa.ninja/assets/images/poindexter.jpg" />
+        <p>Explore the far reaches of the world, right in your browser.</p>
+        <img src="http://lapa.ninja/assets/images/google-earth.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Scale</title>
-      <link>http://lapa.ninja/post/scaleapi/</link>
-      <pubDate>Fri, 17 Feb 2017 16:38:11 +0700</pubDate>
+      <title>Nikita Herasimenka</title>
+      <link>http://lapa.ninja/post/nickhh/</link>
+      <pubDate>Wed, 19 Apr 2017 16:21:14 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/scaleapi/</guid>
+      <guid>http://lapa.ninja/post/nickhh/</guid>
       <description>
         
-        <p>API For Human Intelligence</p>
-        <img src="http://lapa.ninja/assets/images/scale-17-02-2017.jpg" />
+        <p>I’m a Product designer from Belarus, currently living in San Francisco.</p>
+        <img src="http://lapa.ninja/assets/images/nickhh.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Forge</title>
-      <link>http://lapa.ninja/post/tryforge/</link>
-      <pubDate>Thu, 16 Feb 2017 20:31:32 +0700</pubDate>
+      <title>Rezi</title>
+      <link>http://lapa.ninja/post/rentrezi/</link>
+      <pubDate>Wed, 19 Apr 2017 16:15:29 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/tryforge/</guid>
+      <guid>http://lapa.ninja/post/rentrezi/</guid>
       <description>
         
-        <p>Forge is the fastest and easiest way for your team to learn.</p>
-        <img src="http://lapa.ninja/assets/images/forge.jpg" />
+        <p>With REZI as your tenant, lease your property and collect all of your rent — today</p>
+        <img src="http://lapa.ninja/assets/images/rentrezi.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Plutio </title>
-      <link>http://lapa.ninja/post/plutio/</link>
-      <pubDate>Thu, 16 Feb 2017 20:25:32 +0700</pubDate>
+      <title>Newton</title>
+      <link>http://lapa.ninja/post/newtonhq/</link>
+      <pubDate>Tue, 18 Apr 2017 14:59:27 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/plutio/</guid>
+      <guid>http://lapa.ninja/post/newtonhq/</guid>
       <description>
         
-        <p>Everything you need to run your business and get work done, solely or with a team.</p>
-        <img src="http://lapa.ninja/assets/images/plutio.jpg" />
+        <p>Rock-solid emailing built to delight, with push notifications for all your email accounts, on all your devices - iOS, Android &amp; macOS.</p>
+        <img src="http://lapa.ninja/assets/images/newton.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>DesignBold</title>
-      <link>http://lapa.ninja/post/designbold/</link>
-      <pubDate>Wed, 15 Feb 2017 12:42:39 +0700</pubDate>
+      <title>CSSPeeper</title>
+      <link>http://lapa.ninja/post/csspeeper/</link>
+      <pubDate>Tue, 18 Apr 2017 14:50:07 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/designbold/</guid>
+      <guid>http://lapa.ninja/post/csspeeper/</guid>
       <description>
         
-        <p>Amazing Photo Editor and Designer Studio at your fingertips</p>
-        <img src="http://lapa.ninja/assets/images/design-bold.jpg" />
+        <p>Inspect styles in a simple, well-organized &amp; beautiful way with our Chrome extension.</p>
+        <img src="http://lapa.ninja/assets/images/csspeeper.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>ZEIT</title>
-      <link>http://lapa.ninja/post/zeit/</link>
-      <pubDate>Wed, 15 Feb 2017 12:32:48 +0700</pubDate>
+      <title>Muxu.Muxu</title>
+      <link>http://lapa.ninja/post/muxumuxu/</link>
+      <pubDate>Tue, 18 Apr 2017 14:49:44 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/zeit/</guid>
+      <guid>http://lapa.ninja/post/muxumuxu/</guid>
       <description>
         
-        <p>Cloud deployment made Simple, Global and Realtime</p>
-        <img src="http://lapa.ninja/assets/images/zeit.jpg" />
+        <p>We help startups and established companies to invent, build, and launch their next product or venture.</p>
+        <img src="http://lapa.ninja/assets/images/muxumuxu.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>CSV.ai</title>
-      <link>http://lapa.ninja/post/csv-ai/</link>
-      <pubDate>Sun, 12 Feb 2017 11:31:31 +0700</pubDate>
+      <title>Studio Lovelock</title>
+      <link>http://lapa.ninja/post/studiolovelock/</link>
+      <pubDate>Sat, 15 Apr 2017 17:44:05 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/csv-ai/</guid>
+      <guid>http://lapa.ninja/post/studiolovelock/</guid>
       <description>
         
-        <p>Feed your CSV to the Data Bot for Google Sheets.</p>
-        <img src="http://lapa.ninja/assets/images/csv-ai.jpg" />
+        <p>Considered Design for Creative Thinkers</p>
+        <img src="http://lapa.ninja/assets/images/studio-kovelock.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>PixelPink</title>
-      <link>http://lapa.ninja/post/pixelpink/</link>
-      <pubDate>Sun, 12 Feb 2017 11:31:20 +0700</pubDate>
+      <title>Bench</title>
+      <link>http://lapa.ninja/post/bench/</link>
+      <pubDate>Sat, 15 Apr 2017 17:43:44 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/pixelpink/</guid>
+      <guid>http://lapa.ninja/post/bench/</guid>
       <description>
         
-        <p>Design Studio based in Berlin creating digital Products focusing on simplicity.</p>
-        <img src="http://lapa.ninja/assets/images/pixelpink.jpg" />
+        <p>Bench is an online bookkeeping service. We pair you with a team of professional bookkeepers who do your bookkeeping, so you don&#39;t have to.</p>
+        <img src="http://lapa.ninja/assets/images/bench.jpg" />
 
 
       </description>
     </item>
     
     <item>
-      <title>Firebase</title>
-      <link>http://lapa.ninja/post/firebase/</link>
-      <pubDate>Sun, 12 Feb 2017 11:31:10 +0700</pubDate>
+      <title>Increment</title>
+      <link>http://lapa.ninja/post/increment/</link>
+      <pubDate>Sat, 15 Apr 2017 17:43:19 +0700</pubDate>
       
-      <guid>http://lapa.ninja/post/firebase/</guid>
+      <guid>http://lapa.ninja/post/increment/</guid>
       <description>
         
-        <p>The tools and infrastructure you need to build better apps and grow successful businesses</p>
-        <img src="http://lapa.ninja/assets/images/firebase.jpg" />
+        <p>Increment is dedicated to covering how teams build and operate software systems at scale, one issue at a time. In this, our inaugural issue, we focus on industry best practices around on-call and incident response.</p>
+        <img src="http://lapa.ninja/assets/images/increment.jpg" />
 
 
       </description>

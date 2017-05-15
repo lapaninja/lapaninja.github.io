@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bot on The Best Landing Page Inspiration | Lapa.Ninja</title>
-    <link>http://lapa.ninja/category/bot/index.xml</link>
+    <link>http://lapa.ninja/category/bot/</link>
     <description>Recent content in Bot on The Best Landing Page Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/category/bot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Feb 2017 11:31:31 +0700</lastBuildDate>
+    <atom:link href="/category/bot/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CSV.ai</title>
